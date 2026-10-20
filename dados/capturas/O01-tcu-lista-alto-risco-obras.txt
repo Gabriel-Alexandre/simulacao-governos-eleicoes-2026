@@ -1,0 +1,87 @@
+# fonte: https://sites.tcu.gov.br/listadealtorisco/gestao_das_obras_paralisadas.html
+# capturado em: 2026-10-20
+
+Lista de Alto Risco da Administração Pública
+Menu
+18 - Gestão das obras paralisadas
+Por que o tema é considerado de alto risco
+O acompanhamento permanente do Tribunal, disponível no Painel de Acompanhamento de Obras Paralisadas do TCU, indica que, entre 2022 e 2024, houve
+aumento da quantidade de obras paralisadas, totalizando 11.944 empreendimentos
+. Esse cenário é preocupante, pois essas obras, que representam 52% do total de obras federais,
+já consumiram R$ 9,0 bilhões e ainda necessitam de R$ 29,4 bilhões adicionais para serem concluídas.
+Gráfico 18.1 – Quantidade de obras em execução e paralisadas no país.
+Fonte: Painel de Acompanhamento de Obras Paralisadas do TCU.
+A alta quantidade de obras paralisadas e inacabadas e o volume de recursos investidos refletem as ineficiências sistêmicas na gestão dos empreendimentos e as falhas de coordenação e governança.
+Essa situação crônica compromete a prestação dos serviços e a entrega de diversas políticas públicas para a sociedade.
+As áreas mais afetadas – saúde, educação e infraestrutura e mobilidade urbana – contam, respectivamente, com 77,5%, 67,1% e 38% de suas obras paralisadas
+, conforme dados de abril de 2024. A situação afeta a população como um todo e o desempenho da economia, além de gerar ineficiência na alocação dos recursos públicos, comprometidos com empreendimentos que deixam de gerar os benefícios finais para os quais foram concebidos.
+Gráfico 18.2 – Obras paralisadas por setor.
+Fonte: Painel de Acompanhamento de Obras Paralisadas do TCU.
+O que o TCU encontrou
+O TCU identificou riscos significativos que contribuem para a paralisação das obras públicas federais. Essa análise revelou que as obras paralisadas representam um problema crônico com múltiplas causas e consequências, afetando diversos setores e comprometendo a eficiência e eficácia das políticas públicas.
+A auditoria mais recente, realizada em 2023, apontou diversas causas da paralisação ou abandono de obras com recursos federais.
+A frágil coordenação na gestão das obras pelo Centro de Governo e a baixa capacidade técnica e operacional dos entes infranacionais que executam as obras são causas fundamentais da persistência do problema das obras paralisadas
+. Outras causas importantes incluem deficiências de projetos, insuficiência de recursos, sistemas de informação ineficientes e não adoção de boas práticas.
+Os efeitos das paralisações são vastos, incluindo
+desperdício de recursos públicos, insegurança jurídica quanto a decisões acerca da destinação das obras e ineficácia da política pública vinculada à obra
+. Esses efeitos demonstram o impacto negativo do abandono das obras, não apenas no desenvolvimento de infraestrutura, mas também na efetividade das políticas públicas e na qualidade de vida da população.
+A complexidade do tema revela a necessidade de abordagem coordenada e estratégica para superar os desafios identificados, visando não apenas à retomada e conclusão efetiva das obras paralisadas, mas também a evitar que a obra seja novamente paralisada.
+Os riscos identificados, apresentados a seguir, refletem falhas sistêmicas na coordenação, planejamento e execução das obras, afetando diretamente a capacidade do governo de entregar infraestrutura pública essencial.
+Em 2024, o número de obras paralisadas superou o de obras em execução, afetando seriamente áreas essenciais como saúde, educação e mobilidade urbana.
+O que precisa ser feito
+O Centro de Governo, representado pela Casa Civil da Presidência da República, pelo Ministério da Gestão e da Inovação em serviços públicos (MGI) e pelo Ministério do Planejamento e Orçamento (MPO), bem como os órgãos setoriais responsáveis pela gestão das obras, devem se articular para mitigar os riscos associados à gestão de obras paralisadas.
+É necessário que o Centro de Governo coordene um levantamento detalhado de todas as obras paralisadas sob responsabilidade dos órgãos federais, corrigindo as inconsistências nos bancos de dados disponíveis e elaborando um plano central
+. Esse plano deve definir estratégias, diretrizes e políticas para a retomada das obras, especificando os ministérios responsáveis, condições de uso dos recursos, critérios de priorização, metas, indicadores e responsabilidades. Além disso,
+é importante melhorar o diálogo entre os poderes Executivo e Legislativo no processo de alocação orçamentária
+para garantir recursos necessários à finalização de obras já iniciadas.
+Decisões recentes
+Acórdãos
+1.328/2020
+,
+871/2020
+,
+1.328/2020
+,
+2.134/2023
+e
+517/2024
+, todos do Plenário do TCU.
+Benefícios gerados pela atuação do TCU
+Ao longo dos anos, a atuação do Tribunal na gestão de obras paralisadas tem evoluído paralelamente ao avanço da maturidade sobre o tema. Inicialmente o foco do controle centrava-se nas causas diretas de paralisação, tais como insuficiência orçamentária, falhas de projeto e baixa capacidade de gestão dos executores.
+Atualmente, a ênfase está em melhorar a governança da carteira de obras.
+Essa mudança busca fortalecer a coordenação dos órgãos setoriais, sob a orientação dos órgãos centrais, para que realizem um planejamento eficaz e a gestão adequada dos investimentos. Esse esforço irá contribuir para a retomada e conclusão de obras paralisadas, beneficiando as políticas públicas associadas, melhorando a qualidade de vida da população e, em última instância, favorecendo um ambiente institucional mais robusto e a atração de novos investimentos públicos e privados no setor de infraestrutura.
+Menu
+Apresentação da LAR 2024
+1 - Concessão e pagamento de benefícios previdenciários
+2 - Tempestividade e focalização dos benefícios assistenciais
+3 - Sistema Único de Saúde: acesso e sustentabilidade
+4 - Educação conectada
+5 - Assistência estudantil nas instituições federais de ensino
+6 - Controle do desmatamento ilegal na Amazônia
+7 - Governança territorial e fundiária
+8 - Desenvolvimento do Setor de Mineração
+9 - Efetividade das Políticas de Ciência, Tecnologia e inovação
+10 - Desenvolvimento Regional
+11 - Sustentabilidade do suprimento de energia elétrica
+12 - Sustentabilidade tarifária de energia elétrica
+13 - Sustentabilidade do setor de petróleo e gás natural
+14 - Integridade e Investimentos da Petrobras
+15 - Promoção da inclusão digital
+16 - Sustentabilidade Econômico-Financeira dos Correios
+17 - Segurança hídrica
+18 - Gestão das obras paralisadas
+19 - Integração de modais de transportes
+20 - Efetividade das concessões de rodovias e ferrovias
+21 - Gestão de obras de pavimentação urbana pela Codevasf
+22 - Sustentabilidade da dívida pública
+23 - Transparência e efetividade das renúncias tributárias
+24 - Eficiência da cobrança e do contencioso tributários
+25 - Credibilidade das informações contábeis da arrecadação tributária federal
+26 - Governança e gestão de dados governamentais
+27 - Segurança da Informação e segurança cibernética
+28 - Governança das contratações públicas
+29 - Gestão do patrimônio imobiliário da União
+Acesse a publicação da Lista de alto risco da Administração Pública Federal de 2024
+Acesse a Lista de alto risco da Administração Pública Federal de 2022
+Top
+Missão: "Aprimorar a administração Pública em benefício da sociedade por meio do controle externo."

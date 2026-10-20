@@ -1,0 +1,2582 @@
+# fonte: https://static.poder360.com.br/2024/12/relatorio-obras-paralisadas-brasil-tcu-4dez2024.pdf
+# capturado em: 2026-10-20
+
+
+=== página 1 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+GRUPO tagGrupo – CLASSE V – tagColegiado
+TC 021.731/2019-5 [Apenso: TC 000.123/2023-4]
+Natureza: Acompanhamento.
+Órgão: Ministério da Economia (extinto); Ministério da Gestão e da
+Inovação em Serviços Públicos.
+Representação legal: não há.
+SUMÁRIO: DIAGNÓSTICO DAS OBRAS
+PARALISADAS. TERCEIRO CICLO DE
+ACOMPANHAMENTO. ATUALIZAÇÃO
+DO CENÁRIO DE OBRAS PARALISADAS
+FINANCIADAS COM RECURSOS DA
+UNIÃO (ANO 2024). RECOMENDAÇÃO.
+ORIENTAÇÕES À UNIDADE
+INSTRUTORA. ARQUIVAMENTO.
+RELATÓRIO
+Transcrevo a seguir, com ajustes de forma, a instrução formulada pelos auditores federais
+de controle externo da AudUrbana, cuja proposta de encaminhamento foi endossada pelos dirigentes
+da unidade (peças 534-536).
+INTRODUÇÃO
+Trata-se de processo constituído com o objetivo de acompanhar e avaliar, periodicamente, a
+evolução do atual cenário de paralisação de obras públicas em atenção à determinação contida no
+item 9.3. do Acórdão 1.079/2019-TCU-Plenário, de relatoria do Ministro Vital do Rêgo, o qual
+deliberou sobre Auditoria Operacional que elaborou amplo diagnóstico sobre as obras paralisadas
+no país financiadas com recursos da União (TC 011.196/2018-1).
+2. No mencionado Acórdão, a Corte de Contas proferiu a seguinte determinação a esta Unidade
+Técnica:
+9.3. determinar à SeinfraUrbana, com fundamento nos arts. 241 e 242 do Regimento Interno
+do TCU, que autue processo de acompanhamento com vistas a avaliar, periodicamente, a
+evolução do atual cenário de paralisação de obras públicas, promovendo a atualização dos
+dados e buscando utilizar, sempre que possível, técnicas de amostragem, cuja seleção seja
+representativa, ao menos, dos cinco bancos de dados utilizados neste trabalho;
+3. A presente instrução cuidará do terceiro ciclo de Acompanhamento. O primeiro ciclo teve seus
+resultados julgados por meio do Acórdão 1.228/2021 e o segundo ciclo julgado pelo
+Acórdão 2.555/2022, ambos do Plenário desta Corte e de relatoria do Ministro Vital do Rêgo.
+HISTÓRICO
+4. O Tribunal de Contas da União (TCU) tem desempenhado um papel crucial no
+acompanhamento e na fiscalização de obras paralisadas financiadas com recursos da União,
+visando a redução do desperdício de recursos públicos e a retomada de empreendimentos essenciais
+para o desenvolvimento do país.
+5. Em 2007, o Acórdão 1.188/2007-TCU-Plenário (rel. Ministro Valmir Campelo) foi resultado
+de levantamento que identificou 400 obras inacabadas e determinou que fosse criado o cadastro
+geral de obras financiadas com recursos federais. A decisão foi monitorada nos anos seguintes nos
+Acórdãos do Plenário desta Corte 617/2010 e 148/2014, ambos de relatoria do Ministro Valmir
+Campelo.
+1
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 2 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+6. Em 2017, o Acórdão 2.451/2017-TCU-Plenário (rel. Ministro Vital do Rêgo) foi resultado de
+auditoria operacional que identificou que o Sistema de Obras do Governo não poderia ser
+caracterizado como um cadastro geral de obras federais e determinou à então Secretaria-Executiva
+do Ministério do Planejamento, Desenvolvimento e Gestão a apresentação de cronograma para
+implantação do sistema.
+7. Já em 2019, o Acórdão 1.079/2019-TCU-Plenário resultou de auditoria operacional que
+identificou as causas raízes das paralisações das obras e fez recomendações ao Ministério da
+Economia, a partir de levantamento em mais de 38 mil contratos referentes a obras públicas em
+cinco bancos de dados do governo federal.
+8. O diagnóstico buscou aperfeiçoar os procedimentos relacionados à gestão das obras e reduzir
+o desperdício de recursos públicos. Abaixo, são dispostas as fontes de dados levantados em 2018,
+que incluem diversos tipos de empreendimentos, como escolas, creches, postos de saúde, edifícios
+administrativos, estradas, instalações esportivas, entre outros.
+Tabela 1 - Quantidade de contrato de obras e valores dos investimentos nas obras organizados por
+banco de dados em 2018.
+Banco de dados Quantidade Investimento % Qtd %investimento
+Caixa 14.224 R$ 15.087.800.486,65 37,03% 2,07%
+PAC 10.666 R$ 663.349.865.888,62 27,77% 91,11%
+Simec 2.0 9.055 R$ 10.412.537.470,92 23,57% 1,43%
+Simec Sesu 645 R$ 4.729.617.284,14 1,68% 0,65%
+Simec Setec 367 R$ 1.153.566.318,89 0,96% 0,16%
+Dnit 1.168 R$ 28.512.435.425,57 3,04% 3,92%
+Funasa 2.287 R$ 4.847.271.600,67 5,95% 0,67%
+Total 38.412 R$ 725.456.451.626,74 100,00% 100,00%
+Fonte: TC 011.196/2018-1, peça 139, p. 15
+9. Constatou-se que, pelo menos, 14.403 contratos de obras estavam com a situação “paralisado”
+registrada nos bancos de dados, e resultavam, em termos financeiros, no montante de R$ 144
+bilhões. Entretanto, ressalta-se que apenas parte desses recursos havia sido efetivamente investido
+nos empreendimentos à época da análise.
+10. As principais causas constatadas que conduziam à ocorrência de obras paralisadas e
+inacabadas foram: (i) deficiência técnica; (ii) deficiências no fluxo orçamentário/financeiro; e
+(iii) abandono das obras pelas empresas contratadas. Em análise aprofundada dessas causas,
+verificou-se que o mau planejamento dos empreendimentos é o principal fator de paralisação tanto
+para obras de baixo como de alto valor, por exemplo: projeto básico deficiente, falta de
+contrapartida e falta de capacidade técnica para execução do empreendimento.
+11. Diante disso, esta Corte de Contas proferiu recomendações ao Ministério da Economia a fim
+de buscar melhorias no controle e gerenciamento das obras públicas federais. Além disso,
+determinou a esta Unidade Técnica que autuasse dois processos: (i) monitoramento para verificar o
+cumprimento das determinações exaradas no Acórdão 1.079/2019-TCU-Plenário; e (ii)
+acompanhamento com vistas a avaliar, periodicamente, a evolução do atual cenário de paralisação
+de obras públicas, incluindo a atualização dos dados. A presente instrução tem a finalidade de
+compor esse segundo processo ao avaliar o cenário atual de obras paralisadas.
+Acompanhamento (TC 021.731/2019-5)
+12. Na primeira rodada deste acompanhamento, o diagnóstico das obras paralisadas foi
+atualizado e verificou-se que o gerenciamento das informações referente às obras constantes do
+banco de dados do Programa de Aceleração do Crescimento (PAC) e do banco de dados da Caixa
+Econômica Federal (Caixa) comprometiam a transparência e aumentavam o risco de prejuízos
+associados aos empreendimentos, na medida em que dificultava o acompanhamento adequado da
+carteira de obras.
+2
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 3 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+13. Nesse sentido, as obras relativas ao PAC sofreram uma redução de 10.666 contratos, com
+investimento previsto de R$ 663 bilhões, para 3.824 contratos, com investimento previsto de
+R$ 25 bilhões. Essa redução foi impulsionada pela extinção, pelo Decreto 9.722, de 7 de março de
+2019, do sistema responsável por monitorar as ações do PAC (SisPAC), resultando em
+descentralização da gestão e da governança dos empreendimentos do PAC para as respectivas
+pastas setoriais.
+14. No que tange ao banco de dados da Caixa, houve uma redução de 2.268 registros de
+contratos de obras devido a mudanças na forma de gerenciamento e divulgação dos dados das
+obras.
+15. Em suma, em ambos os casos, a redução dos contratos com situação “paralisado” não
+significava melhoria da carteira desses passivos. Ao contrário, trata-se de indisponibilização de
+dados e perda de informações relacionadas a obras paralisadas e inacabadas.
+16. Ainda, além da dificuldade imposta pela Caixa, constatou-se que a consolidação dos dados
+relativos ao banco de dados do Ministério da Educação impossibilitava a comparação com os dados
+de 2018. Por sua vez, o Departamento Nacional de Infraestrutura de Transportes (Dnit) e a
+Fundação Nacional de Saúde (Funasa) mantiveram as suas formas de gestão e controle das obras,
+possibilitando a comparação: O Dnit reduziu em 4% a quantidade de obras paralisadas entre 2018 e
+2020. Na Funasa, a redução foi de 8%.
+17. Por fim, foi verificado que, à época, o Ministério da Economia contemplava dois sistemas de
+gerenciamento de obras: o Cadastro Integrado de Projetos de Investimento (CIPI) e o Painel de
+obras.
+18. O CIPI foi criado pelo Governo Federal a partir do Decreto 10.496, de 28 de setembro de
+2020, o qual registra os projetos de investimento em infraestrutura quando da emissão de novos
+empenhos de despesa. Por sua definição, o sistema impossibilita o registro de obras paralisadas não
+retomadas, o que pode comprometer o adequado gerenciamento do passivo.
+19. Destaca-se que a implementação do CIPI tem processo específico (TC 021.758/2015-8, de
+relatoria do Ministro Benjamin Zymler), mencionado no Acórdão 2.451/2017-TCU-Plenário,
+apensado ao monitoramento no âmbito do TC 036.106/2019-4, conforme o item 9.5 do Acórdão
+1.328/2020-TCU-Plenário, ambos de relatoria do Excelentíssimo Ministro Vital do Rêgo.
+20. No que tange ao segundo sistema, o Painel de Obras disponibiliza dados da execução física e
+financeira de obras executadas na Plataforma +Brasil, atualmente Transferegov.br, e aquelas
+provenientes do PAC.
+21. Como resultado da primeira rodada, considerando a redução dos cadastros de obras e a
+ausência das obras paralisadas no CIPI, foi prolatado o Acórdão 1.228/2021-TCU-Plenário, que
+determinou que fossem encaminhadas ao Ministério da Economia, para consolidação de dados,
+informações atualizadas dos contratos de obras públicas de entidades e órgãos com informações
+pendentes, indicando informações do art. 2º, inciso VII, do Decreto 10.012, de 5 de setembro de
+2019.
+22. Além do repasse dessas informações, foi determinado ao Comitê Interministerial de
+Governança que emitisse orientação aos órgãos federais para que realizassem estudos com o
+objetivo de tratar do risco de que obras paralisadas não fossem informadas ao Ministério da
+Economia.
+23. Sobre essa determinação, o Comitê, por intermédio da Advocacia Geral da União –
+Departamento de Assuntos Extrajudiciais da Consultoria Geral da União, interpôs pedido de
+reexame contra a determinação que foi dirigida ao referido comitê pelo subitem 9.1.3 do Acórdão
+1.228/2021-TCU-Plenário. O referido pedido de reexame foi conhecido e, no mérito, negado,
+conforme Acórdão 1.508/2022-TCU-Plenário.
+24. Por fim, deu ciência ao Ministério da Economia que as alterações verificadas no
+gerenciamento de informações do SisPAC e a não inclusão de todas as obras no CIPI
+comprometiam a transparência e dificultavam o acompanhamento pela sociedade.
+3
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 4 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+25. A segunda rodada deste acompanhamento foi apreciada pelo Acórdão 2.555/2022-TCU-
+Plenário (rel. Ministro Vital do Rêgo). O trabalho destacou que alguns órgãos do Governo Federal
+ainda encontravam dificuldades em enviar ao Ministério da Economia os dados referentes à sua
+carteira de obras. Com isso, destacou falhas que demonstram fragilidade nos critérios de
+fidedignidade e integralidade dos dados na Plataforma +Brasil.
+26. A respeito de ações para evitar obras sem conclusão, foi ressaltado que diversos órgãos
+avaliados não têm procedimentos adequados para reduzir o risco de que novas obras sejam
+contratadas sem que sejam assegurados recursos para conclusão daquelas já iniciadas.
+27. Essa segunda oportunidade atualizou os dados de obras no âmbito do TCU, em que foram
+avaliados mais de 22 mil dados de contratos relacionados a obras, sendo que cerca de 8,6 mil se
+encontravam paralisados, o que corresponde a 38,5% das obras que deveriam estar em andamento.
+Os valores totais previstos destes contratos paralisados somam mais de R$ 27 bilhões.
+28. Como resultado do Acórdão 871/2022-TCU-Plenário, fruto do segundo ciclo de
+monitoramento, foi orientado à Unidade Técnica para que dedicasse em capítulo específico sobre o
+tema Educação, tal qual estabelecido no voto condutor do acórdão: havia uma preocupação sobre
+as “recentes notícias mostraram que mesmo com 3,5 mil obras inacabadas na área de educação, o
+MEC autorizou a construção de 2 mil novas escolas, creches e quadras, sem previsão orçamentária
+para tanto”.
+29. Verificou-se que havia 3.993 obras paralisadas na carteira da área da educação, retirados dos
+bancos de dados Sesu, Setec, Simec (módulo de monitoramento) e Simec (módulo obras 2.0). Os
+principais motivos de paralisação foram genéricos e impossibilitavam constatar a causa raiz de
+paralisação e consequente tomada de decisão assertiva. Dentre as causas, havia: contrato rescindido
+(35%); abandono da empresa (21%); irregularidades na gestão anterior (6%); falta de pagamento à
+empresa executora (4%); e outros (16%).
+30. Quanto ao cumprimento do art. 45 da Lei de Responsabilidade Fiscal (LRF), a Setec afirmou
+que priorizou a conclusão de obras em andamento e a retomada de obras paralisadas. Já a Sesu,
+durante a elaboração do Projeto de Lei Orçamentária Anual, não aprovava novas solicitações de
+ações orçamentárias para obras nas universidades se houvesse projetos em andamento ou despesas
+com conservação do patrimônio público não contempladas.
+31. Ademais, no que tange a gestão da carteira do FNDE, observou-se um aumento de 11,78%
+no número de obras paralisadas de educação básica de 2020 para 2022, totalizando 3.625 obras
+paralisadas ou inacabadas. A análise macro da execução orçamentária não permitiu obter
+conclusões precisas sobre a alocação de recursos, sugerindo a necessidade de aprofundar a análise
+dos mecanismos de seleção, repasse e controle das obras. Entretanto, foi notada a ausência de
+verificação da boa e regular aplicação dos recursos anteriormente recebidos, resultando em
+dificuldades na gestão da carteira de obras financiadas pelo FNDE, com apenas 2,8% das obras
+iniciadas entre 2019 e 2022, sendo concluídas.
+32. Desse ciclo, foi ratificada a necessidade de encaminhar ao Ministério da Economia
+informações atualizadas dos contratos de obras públicas para consolidação, bem como foi
+recomendada a avaliação de conveniência e oportunidade para inclusão do Painel de Obras como
+um módulo no CIPI de modo a concentrar informações em único sistema.
+33. Além dessas orientações, foi exarada ciência sobre as impropriedades no Painel de Obras
+que prejudicam a integralidade e fidedignidade dos dados das obras, bem como sobre a falha em
+não atualizar periódica e semestralmente o Painel, o que contraria o art. 4º, § 2º da Portaria 17.951,
+de 28 de julho de 2020, da Secretaria Especial de Desburocratização, Gestão e Governo Digital, do
+então Ministério da Economia.
+34. Por fim, foi indicado à Unidade Técnica para que incluísse procedimentos para análise
+aprofundada na metodologia usada pela Funasa e pelo Ministério da Saúde a respeito de obras
+paralisadas, inacabadas ou em execução e para verificação de métodos e critérios objetivos
+utilizados para cumprimento do art. 45 da LRF.
+4
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 5 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+35. Adicionalmente, este acompanhamento almeja atualizar as informações constantes no Painel
+de Obras Paralisadas deste Tribunal, alimentado com as bases de dados dos órgãos e entidades
+federais. O objetivo principal é consolidar bancos de dados sobre obras da Administração Pública
+Federal, tais como da Caixa Econômica Federal, do Dnit, da Funasa, do Simec, do Sesu e do Setec.
+36. Assim, o Painel reúne informações e dá transparência a esses dados, de modo a apresentar
+um cenário mais próximo possível das condições, quantidade e materialidade dos empreendimentos
+(disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso em 4/6/2023).
+Monitoramento (TC 036.106/2019-4)
+37. Além disso, esta Corte de Contas autuou processo (TC 036.106/2019-4) para monitorar o
+cumprimento das recomendações constantes do Acórdão 1.079/2019-TCU-Plenário. O
+monitoramento já passou por três ciclos que resultaram nos Acórdãos do Plenário 1.328/2020,
+871/2022, 517/2024, conforme tabela abaixo, que resume as avaliações verificadas:
+Tabela 2 – Monitoramento das determinações do Acórdão 1.079/2019-TCU-Plenário
+Subitem Acórdão Situação em 2022 Situação em 2023
+9.1.1 1.079/2019 Implementada Implementada
+9.1.2 1.079/2019 Implementada Implementada
+9.1.3 1.079/2019 Implementada Implementada
+9.1.4 1.079/2019 Em implementação Em implementação
+9.1.5 1.079/2019 Não implementada Não implementada
+9.1.6 1.079/2019 9.1.6.1 e 9.1.6.2:
+Implementadas
+Em implementação
+9.1.6.3 e 9.1.6.4: Em
+implementação
+9.1.7 1.079/2019 Não implementada Não implementada
+9.1.8 1.079/2019 Não implementada Implementada
+9.1.9 1.079/2019 A ser monitorada no A ser monitorada no
+TC 021.731/2019-5 TC 021.731/2019-5
+9.5 871/2022 Não se aplica Em implementação
+9.7 2.555/2022 Não se aplica Implementada
+Fonte: item 9.1 do Acórdão 517/202024-TCU-Plenário
+38. Constatou-se que como parte do esforço para implementar as recomendações dos acórdãos, o
+Ministério da Economia adotou várias medidas. Entre elas, a promoção de maior interação entre
+ministérios, o fortalecimento do sistema de transferências voluntárias do Governo Federal, e a
+criação de um Cadastro de Investimentos em Infraestrutura (CIPI).
+39. A primeira rodada do monitoramento, Acórdão 1.328/2020-TCU-Plenário, constatou que
+à época não havia cadastro unificado que reunisse as obras realizadas com recursos federais,
+embora houvesse o registro de que o Ministério da Economia estava trabalhando na criação de
+solução tecnológica nesse sentido. Apontou-se ainda que as recomendações do Acórdão
+1.079/2019-TCU-Plenário estavam em diferentes estágios de implementação.
+40. A segunda rodada do monitoramento foi apreciada pelo Acórdão 871/2022-TCU-Plenário.
+Na oportunidade foram apontados riscos sobre o funcionamento do CIPI, solução tecnológica
+adotada pelo Ministério da Economia como registro centralizado de informações de projetos de
+investimento em infraestrutura. À época, os riscos estavam relacionados: (i) a implantação e efetiva
+5
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 6 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+utilização dos módulos do CIPI; (ii) a unificação dos cadastros de obras de forma que o CIPI
+pudesse dar transparência sobre todos os empreendimentos, inclusive os que estavam paralisados; e
+(iii) adoção de providências para que os empreendimentos contratados e executados fora do Siafi
+estivessem contemplados no CIPI, haja vista que a ausência dessas condições dificultaria o
+acompanhamento adequado da evolução física e financeira das obras públicas custeadas com
+recursos da União. Como informado anteriormente, esse acórdão orientou a unidade técnica para
+que avaliasse o tema em específico na área de Educação, como o foi no processo do Acórdão
+2.555/2022-TCU-Plenário.
+41. A terceira rodada do monitoramento, apreciada pelo Acórdão 517/2024-TCU-Plenário,
+apontou a necessidade de melhorias no registro e acompanhamento sistemático dos cronogramas de
+execução dos empreendimentos e na comunicação entre os Poderes Executivo e Legislativo para
+observância dos parâmetros da LRF. Além disso, enfatizou a importância de fortalecimento das
+iniciativas de compartilhamento de informações e boas práticas que pudessem ser replicadas para
+superar limitações crônicas na execução de obras públicas.
+42. O TCU também recomendou ao Ministério da Gestão e da Inovação em Serviços Públicos
+(MGI), atual órgão competente para tratar do tema, que: (i) alertasse os órgãos e entidades do Poder
+Executivo Federal sobre suas competências e responsabilidades perante o CIPI; (ii) avaliasse a
+possibilidade de integrar o Transferegov.br ao módulo de execução física da Plataforma
+Obrasgov.br, antigo CIPI; e (iii) considerasse a adoção da Plataforma Obrasgov.br para o registro
+das informações de projetos de investimento em infraestrutura executados fora do Siafi.
+Gestão da carteira de obras paralisadas (TC 009.197/2022-2)
+43. Importa destacar que o Acórdão 2.134/2023-TCU-Plenário (rel. Ministro Vital do Rêgo)
+tratou de auditoria operacional (TC 009.197/2022-2) com objetivo de examinar as ações adotadas
+no âmbito do governo federal para a retomada de obras paralisadas, bem como identificar critérios
+para orientar a avaliação da viabilidade de retomada dessas obras ou destinação das que não serão
+retomadas. Como resultado, foi determinado que realizasse um levantamento sistematizado para
+obtenção de informações atualizadas sobre obras paralisadas custeadas com recursos federais;
+elaborasse um plano central de gestão de obras paralisadas a partir desse levantamento; e
+coordenasse a elaboração de planos táticos junto aos órgãos setoriais que possuíam obras
+paralisadas sob sua gestão.
+Terceiro ciclo de acompanhamento (TC 021.731/2019-5)
+44. Diante desse contexto, com o fim de acompanhar a evolução do cenário de paralisação de
+obras públicas financiadas com recursos federais, este terceiro ciclo de acompanhamento tem o
+objetivo de verificar o cumprimento das determinações contidas no item 9.1.9 e 9.3 do Acórdão
+1.079/2019, e nos itens 9.5, 9.6 e 9.10 do Acórdão 2.555/2022, todos do Plenário do TCU.
+45. O exame técnico a seguir será dividido em cinco partes: (i) atualização dos dados de obras
+no TCU; (ii) atualização das informações de contratos de obras públicas no âmbito do Ministério
+de Minas e Energia (MME) e Ministério da Integração e Desenvolvimento Regional (MIDR) e
+respectivas pastas setoriais; (iii) plataforma única de gestão e centralização de informações de
+obras públicas; (iv) análise setorial na área da saúde, especificamente na metodologia usada pela
+Funasa e pelo Ministério da Saúde; (v) conservação de patrimônio e atendimento de projetos em
+andamento e compartilhamento de informações.
+EXAME TÉCNICO
+Atualização dos dados de obras no TCU
+46. Desde 2018, o Tribunal de Contas da União mantém o Painel de Obras Paralisadas,
+plataforma de acompanhamento da carteira de obras públicas paralisadas, cuja fonte de recurso é
+Orçamento Geral da União (OGU).
+47. O painel tem como objetivo principal consolidar os dados dos contratos de obras públicas
+extraídos das bases de dados dos órgãos setoriais, incluindo os empreendimentos vinculados às
+áreas da saúde, educação, mobilidade, infraestrutura, habitação entre outros. Desse modo, a
+6
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 7 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+ferramenta constitui instrumento importante para a transparência e o controle social na gestão de
+obras públicas paralisadas no Brasil.
+48. A respeito das funcionalidades, o painel oferece projeções para fornecer uma visão
+abrangente e detalhada das obras públicas no Brasil, possibilitando, de forma centralizada,
+visualizar um panorama geral do quantitativo de obras, os valores investidos, e a distribuição
+dessas obras por região e órgãos responsáveis. Além disso, é possível acessar detalhes específicos
+de cada obra, como objeto, local, situação atual, total de recursos investidos, percentual executado,
+entre outras informações.
+49. Essa ferramenta de análise tem grande potencial para auxiliar a tomada de decisão dos
+gestores públicos nas diversas esferas de atuação, pois elimina a necessidade de consultar diversas
+fontes fragmentadas, proporcionando uma visão unificada e abrangente da carteira de obras
+públicas do país.
+50. Por outro lado, o Painel de Obras do TCU reflete o esforço meticuloso de consolidação e
+harmonização das informações, extraídas das bases de dados dos órgãos setoriais, com o objetivo
+de compreender com precisão razoável o problema de obras paralisadas, sua evolução, a
+identificação de tendências, o controle, monitoramento e mitigação de riscos, bem como a
+verificação e propagação de casos de sucesso.
+51. Nesta esteira, estabeleceu-se, nos últimos anos, uma nova dinâmica na plataforma, a qual é
+marcada pela atualização anual (esforço paralelo à presente ação de fiscalização) e aprimoramento
+das formas de análise, garantindo que os dados disponibilizados sejam cada vez mais fidedignos,
+precisos e relevantes para a sociedade civil e os órgãos de controle.
+52. No que tange às atualizações para o ciclo de 2024, a plataforma passou a exibir, na aba de
+acompanhamento da carteira, gráficos informativos sobre a variação da carteira desde a última
+atualização do painel, contendo o quantitativo de obras concluídas, novas obras, obras que
+continuaram paralisadas, as que paralisaram no último período, ou mesmo aquelas com maior
+volume de recursos investidos.
+53. Ainda sobre as atualizações, o painel se vincula à ferramenta EPP – Observatório de
+Controle, também deste Tribunal, cujo objetivo é integrar informações orçamentárias do executivo
+federal para transferências, contratos, licitações, de modo a enriquecer a análise no contexto de
+obras públicas paralisadas.
+54. Os painéis apresentados demonstram a situação das obras públicas federais no Brasil, com
+foco nas obras em andamento, paralisadas e concluídas. Os últimos dados registrados foram
+coletados em abril de 2024 e representam um panorama persistente e preocupante, com um alto
+percentual de obras paralisadas e um volume significativo de recursos públicos investidos em
+empreendimentos inacabados.
+I.1 Visão geral
+55. O panorama atual das obras no Brasil é marcado por um cenário complexo e multifacetado,
+considerando os avanços discretos em algumas áreas e desafios expressivos e persistentes em
+outras.
+56. Dados do painel, atualizados até abril de 2024, revelam que a parcela de ajustes com
+recursos federais paralisados apresentou um agravo preocupante nos dois últimos anos em relação
+àquelas que estão em execução.
+57. O cenário é preocupante quando se nota que o total de obras vigentes nas bases monitoradas
+não teve alteração significativa. Em 2022, o total de obras paralisadas era de 8.674, representando
+38,5% do total de obras vigentes (22.559). Em 2023, o número de obras paralisadas apresentou
+uma leve queda em números absolutos (8.603), no entanto, representando uma maior parcela da
+carteira, 41,0% do total de 21.005 obras.
+58. Em 2024, a situação se deteriora novamente, com o número de obras paralisadas subindo
+para 11.941, o que representa 52,0% do total de obras vigentes (22.958). Essa piora no cenário
+7
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 8 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+pode indicar problemas de gestão na condução dos contratos de obras públicas, mas também pode
+indicar maior clareza das informações quanto ao real cenário de obras paralisadas no país,
+considerando a atuação contínua do controle externo para que seja dada atenção a problemática de
+obras paralisadas, bem como pode ser reflexo da publicação do Pacto de Retomada de Obras nas
+áreas de Educação Básica e Profissionalizante e de Saúde, instituído pela Lei 14.719, de 1° de
+novembro de 2023, que demandou atuação das pastas de educação e saúde em sistemas.
+Figura 1 – Panorama geral de obras paralisadas em 2024
+Fonte: Painel de Obras Paralisadas do TCU (disponível em:
+https://paineis.tcu.gov.br/ObrasParalisadas, acesso em 22/8/2024)
+59. Dos números, verifica-se que mais da metade dos projetos financiados pelo governo federal
+estão estagnados, sendo grande parte sem previsão de retomada. Conforme informado,
+considerando a atuação das pastas de saúde e educação para retomada das obras, estima-se que
+esses empreendimentos sem previsão de retomada representam 52% do total de paralisadas,
+adotando a soma de obras não elegíveis ao pacto de retomada, seja por não se enquadrarem na
+temática ou não atenderem os critérios definidos em portaria regulamentadora, e àquelas que não
+manifestaram interesse em retomar.
+60. Em que pese o aumento no número de obras paralisadas, observa-se uma diminuição no
+valor total previsto para essas obras. Em 2023, o valor total previsto para obras paralisadas era de
+R$ 32,23 bilhões, enquanto em 2024 esse valor caiu para R$ 29,36 bilhões. Essa redução
+representa um ponto positivo, pois indica que, apesar do aumento no número de obras paralisadas,
+o valor total dos projetos inacabados diminuiu.
+Figura 2 – Diagnóstico de obras paralisadas custeadas com recursos federais de 2022 a 2024.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+61. A respeito da distribuição no país, o Maranhão é o estado com mais obras paralisadas com
+quantidade de 1.232, 62% do total, e 1 bilhão de recursos federais previstos para serem investidos.
+Em segundo lugar, 972 obras paralisadas estão contidas no Estado da Bahia, que representam um
+valor total de recursos federais previstos de R$ 3,3 bilhões e 57% do total de obras. O terceiro
+estado com mais obras paralisadas é o Pará com 938 obras (76,9% do total de obras) e previsto o
+investimento de R$ 1,4 bilhão. Em 2023, os três estados também foram apontados como aqueles
+com mais obras paralisadas.
+8
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 9 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Figura 3 – Distribuição das obras não concluídas por estados.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+I.2 Critérios de classificação e validação de obras paralisadas
+62. O processo de análise dos contratos de obras públicas como paralisada ou como em
+execução vai além da consolidação. Um dos problemas revelados nos últimos trabalhos é que cada
+entidade apresenta uma classificação diferente para os empreendimentos, o que pode gerar
+inconsistências e dificultar a análise conjunta dos dados.
+63. Como exemplo, o Acórdão 2.134/2023-TCU-Plenário, que tratou da gestão da carteira de
+obras paralisadas, expôs sobre a fragmentação de ações adotadas na condução da carteira de
+empreendimentos, cenário evidenciado, entre outros elementos, pelo uso de múltiplos conceitos
+sobre paralisações e cancelamentos nas normas e plataformas das pastas setoriais. Assim, foi
+determinado à Casa Civil:
+9.1.4. disponibilize, no prazo de 180 dias, as informações de todas as obras identificadas no
+levantamento mencionado no subitem 9.1.1 na plataforma de obras oficial com a devida
+uniformização dos critérios de classificação de obras de acordo com o item 9.1.3. do
+Acórdão 1.079/2019-Plenário, complementando a classificação da situação dos
+empreendimentos com a categoria “obra inviável”, de modo a apresentar de maneira
+atualizada, transversal e completa a carteira de obras paralisadas que contam com recursos
+federais;
+64. Desde a fiscalização que originou este acompanhamento, foi verificada a dificuldade
+vinculada a classificação da situação das obras. Para superar esse desafio, esta unidade técnica se
+utiliza de um processo de agregação das classificações advindas das bases setoriais que não estão
+aderentes à recomendação 9.1.3 do Acórdão 1.079/2019 TCU-Plenário:
+9.1.3. uniformizar os critérios de classificação de obra paralisada com vistas a garantir maior
+transparência e confiabilidade das informações, bem como permitir acompanhamento
+estatístico comparabilidade de desempenho entre setores distintos de atuação, podendo ser
+utilizados os seguintes parâmetros para definição de uma obra como paralisada:
+9.1.3.1. declaração pelo órgão como paralisada;
+9.1.3.2. declaração da empresa executora de que não dará continuidade à obra;
+9.1.3.3. ausência de apresentação de boletim de medição por período superior a 90 dias;
+9.1.3.4. média de evolução física dos últimos 90 dias inferior a 10% do inicialmente previsto
+para o período;
+65. Em alguns casos, foi necessário realizar a própria reclassificação da situação, dada a
+flagrante distorção da classificação adotada no sistema setorial. Essa abordagem busca simplificar e
+9
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 10 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+tornar uniformes os dados, garantindo que a linguagem utilizada no Painel seja intuitiva,
+consistente e compreensível para todos os públicos.
+66. Quanto a consolidação das informações, fez-se necessária a validação e a verificação dos
+dados das obras. Esse processo resulta tanto na remoção de obras que, em verdade, representam
+contratos com objetos diversos de uma obra pública ou empreendimentos em duplicidade, como
+nas adições de obras existentes que não estavam computadas na ferramenta por falhas nos cadastros
+setoriais.
+67. Ressalta-se que a curadoria das informações das obras é um processo paulatino, realizado de
+forma contínua e criteriosa pelo Serviço de Dados de Infraestrutura da AudUrbana
+(SDI/AudUrbana). Essa cautela garante que ano a ano mais contratos sejam validados no painel, e
+que o conjunto de obras registrado seja o mais compreensivo e atual possível.
+68. Dessa forma, a plataforma permite, a partir do monitoramento das movimentações dos
+contratos do último período, a verificação do resultado das ações ou omissões da gestão
+governamental na execução das obras públicas de forma mais fidedigna.
+69. É nesse contexto que a atualização do Painel de Obras do TCU, com a inclusão da visão
+‘Acompanhamento da Carteira’, possibilitou a avaliação dos empreendimentos que continuam
+paralisadas em 2024 em comparação com os registros de 2023.
+70. Para este enquadramento, constatou-se que as obras com a temática relacionada a educação
+básica e infraestrutura e mobilidade são as que mantiveram o maior número de obras como
+paralisada. Por outro lado, considerando apenas os contratos existentes no painel em 2023, 128
+empreendimentos na temática de saúde se mantiveram paralisados. Um quantitativo relativamente
+baixo para o setor.
+Figura 4 – Obras que continuam paralisadas por setor de 2023 para 2024.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+71. No entanto, ao se debruçar sobre o cenário atual de obras que paralisaram em 2024,
+observou-se um aumento abrupto do número de empreendimentos paralisados sob o domínio do
+Ministério da Saúde, conforme ilustrado nas figuras 7 e 9, e fato corroborado em procedimento
+realizado no presente trabalho sobre a avaliação da metodologia adotada pelo Ministério da Saúde e
+pela Funasa para classificação de obras, conforme disposto na Seção IV desse relatório (§§181-
+248).
+72. O aludido aumento decorre da reclassificação promovida a partir do cruzamento de dados do
+Sistema de Monitoramento de Obras (Sismob) com o painel gerencial da Portaria GM/MS 3.084,
+de 12 de janeiro de 2024, ferramenta desenvolvida para apoiar gestores no âmbito do Pacto
+Nacional pela Retomada de Obras e de Serviços de Engenharia da Saúde, publicado pelo FNS.
+73. Frisa-se que o procedimento foi motivado pelo apontamento realizado no Acórdão
+2.134/2023-TCU-Plenário, no qual identificou-se uma quantidade significativa de construções
+paralisadas associadas ao programa Requalifica UBS que não eram apresentadas nos painéis da
+pasta.
+10
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 11 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+74. Em detalhes, verificou-se, à época, que o Sismob reportava apenas 33 obras paralisadas. No
+entanto, ao analisar os dados do painel de obras, cujos recursos são transferências fundo a fundo,
+foram encontrados 2.858 empreendimentos do Programa Requalifica UBS registrados como
+cancelados, mas que haviam recebido a primeira parcela do financiamento, incluindo 1.043 obras
+que receberam a segunda parcela (80% do total do recurso pactuado).
+75. Ocorre que a definição de obra cancelada, de acordo com a Portaria SEGES/ME 25.405, de
+23 de dezembro de 2020, abrange casos de decisão judicial ou desinteresse na continuidade da
+obra. Ressalta-se que a assunção da referida portaria como parâmetro se mostra pertinente,
+considerando que os órgãos e entidades do Poder Executivo devem adequar seus sistemas para
+atender os requisitos do CIPI, conforme art. 10, de modo a fomentar a rastreabilidade proposta pela
+ferramenta.
+76. Dessa forma, foi constatado que muitas dessas obras não se encaixavam nessas categorias,
+sugerindo que deveriam ser classificadas como paralisadas, o que elevaria o total em pelo menos
+2.891 empreendimentos nesta condição.
+77. Outro fator importante no contexto geral de validação das obras registradas no painel é a
+subnotificação de conclusão. Foi constatado, durante auditoria operacional, que grande parte das
+obras, independentemente do segmento, poderiam ser retomadas e concluídas apenas a partir de
+levantamentos, diagnósticos da situação do empreendimento, a readequação dos projetos às
+necessidades atuais da região, produção de notas técnicas e redução de metas (TC 009.197/2022-2,
+peça 274, p. 34).
+78. Nesse sentido, considera-se que poderiam existir múltiplas obras em funcionamento sem que
+a iniciativa de retomada e conclusão tenha sido informada pelos gestores locais, não refletindo,
+dessa forma, nas bases de dados oficiais.
+79. Esse movimento revela o problema de falhas na atualização de dados dos painéis, destacado
+na questão presente, e que compromete sobremaneira a análise das informações e a tomada de
+decisão para a condução das políticas públicas associadas.
+80. É importante reconhecer, ainda, que algumas ações, a exemplo da Plataforma Mãos à Obra e
+o pacto para retomada de obras da educação e saúde, resultaram na verificação, em linhas gerais, da
+situação atual das obras paralisadas e o interesse do gestor local em concluir o empreendimento,
+revelando uma quantidade significativa de obras classificadas como paralisadas e/ou canceladas
+quando, em verdade, estavam já concluídas e em operação.
+81. Diante do exposto, foi realizada a conciliação dos dados informados pela saúde, com a
+reclassificação apropriada dos empreendimentos para registro no Painel de Obras do TCU,
+conforme informado nos parágrafos 73 a 79. Esse procedimento explica o aludido aumento
+significativo de obras paralisadas no setor, totalizando 4.262 empreendimentos adicionados como
+paralisados no painel.
+82. Por ocasião da publicação do Painel InvestSUS para o pacto de retomada de obras da saúde,
+a classificação da maior parte desses empreendimentos foi ratificada pelo SDI/AudUrbana pela
+elegibilidade registrada na plataforma da pasta, de modo que: (i) as repactuações com manifestação
+de interesse foram consideradas como obras paralisadas; (ii) reativações com manifestação de
+interesse consideradas como obras concluídas; (iii) obras em execução em 2023 e em cancelamento
+em 2024, sem indicativo de repactuação ou reativação também foram consideradas como
+paralisadas. Ao final do processo, o cenário foi um salto de 318 empreendimentos paralisados na
+saúde em 2023 para 4.580 neste ano.
+I.3 Cenário atual de obras paralisadas
+83. Inicialmente, mostra-se relevante a verificação do cenário atual das obras paralisadas no país
+por segmento. Pode-se depreender do gráfico a seguir, que a maior parte dos empreendimentos
+paralisados se concentram nos segmentos de saúde e educação, representando somadas (8.674)
+72,6% do total de 11.941 obras paralisadas no país. Indicando que o pacto, mesmo que restrito às
+áreas supramencionadas, será responsável por retomar a maior parcela dos projetos paralisados.
+11
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 12 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Figura 5 – Obras paralisadas por setor em 2024.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+84. De forma geral, a análise dos dados sobre a carteira de obras paralisadas apresenta um
+panorama de avanços e desafios no contexto atual. No segmento de Educação Básica, ao comparar
+com o ciclo de 2023 com 3.580 paralisações, observa-se um aumento de 514 obras paralisadas, o
+que pode indicar obstáculos de gestão relevantes a serem superados nessa área.
+85. No entanto, sabe-se que o número foi impulsionado pelas iniciativas de busca ativa e
+reavaliação do estado atual dos empreendimentos em razão das ações relacionadas ao pacto de
+retomada de obras.
+Figura 6 – Obras repactuadas - FNDE.
+Fonte: Painel de Acompanhamento da Retomada de Obras FNDE (disponível em:
+https://app.powerbi.com/view?r=eyJrIjoiNDQ3YWI5ZWItNTNiZi00Y2ZjLTkyNTAtMDBhZGE1
+OGU4NTQ0IiwidCI6ImNmODQ1NGQzLWUwMTItNGE5ZC05NWIzLTcwYmRiNmY0NTlkN
+SJ9, acesso em 24/7/2024)
+86. Sobre essa iniciativa, o programa, iniciado pela Medida Provisória 1.174, de 12 de maio de
+2023, gerou, até 24/7/2024, apenas 100 termos de repactuações em pouco mais de um ano. Este é
+um parâmetro importante a ser acompanhado no próximo ciclo de fiscalização, pois espera-se que o
+12
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 13 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+quantitativo de obras paralisadas sofra diminuição significativa à medida que o pacto avance para a
+contratação e retomada das obras.
+87. Importante destacar que o aumento identificado acima contrasta com a situação em outros
+segmentos, onde se registra uma diminuição no número de obras paralisadas, refletindo progressos
+na retomada de projetos.
+88. Especificamente, os segmentos de Educação Superior, Esporte, Saneamento, Turismo e
+Infraestrutura e Mobilidade Urbana mostraram melhorias, com destaque para este último, com
+redução de 611 obras paralisadas, cerca de 33%, quando comparado com 2023.
+89. Por outro lado, ao verificar as obras que paralisaram no último período avaliativo, os setores
+de educação e saúde são igualmente os responsáveis pela maior parte das obras que tiveram
+problemas de execução, o que indica uma dificuldade persistente de gestão e execução dos
+contratos dessas duas pastas setoriais.
+Figura 7 – Obras que paralisaram no último período avaliativo
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+90. Sobre a ótica do saneamento da carteira, uma das principais inovações do Painel de Obras
+Paralisadas do TCU diz respeito ao quadro comparativo sobre a movimentação realizada na carteira
+no último ano. Com ele, é possível acompanhar a evolução da carteira, verificando, por exemplo,
+quantas obras foram concluídas e quantos projetos entraram em execução no período.
+Figura 8 – Evolução da carteira de obras de 2023 para 2024
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+91. Sob a ótica da atualização dos registros constantes da plataforma, ou seja, a evolução do
+cenário de paralisações, fez-se necessário classificar algumas movimentações de contratos no
+painel, registradas, nesta análise, como obras:
+13
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 14 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+(i) ajustadas na base – são contratos que se referiam a aquisição de equipamentos ou
+elaboração de projetos ou contratos de fiscalização que integravam o painel, e que não se
+referiam a obras, por isso, foram removidos os 874 registros;
+(ii) adicionadas – referem-se àquelas relacionadas ao pacto de retomada de saúde,
+conforme explicado nos parágrafos 75-82 deste relatório, resultando num incremento de
+3.569 empreendimentos.
+(iii) novas obras – novas contratações, que resultam em 4.731 contratos e demandam
+atenção a fim de evitar paralisações na gestão contratual; e
+(iv) concluídas – empreendimentos concluídos no período, número superior às
+paralisações e aos novos projetos, individualmente (5.473).
+92. Ainda, verificaram-se 49 casos que não encontrados nas bases de dados de origem e, assim,
+retirados do painel. De um período para o outro, 2.180 obras paralisaram entre os anos e 1.169
+projetos retomados, fruto das iniciativas da saúde e educação para retomada.
+Figura 9 – Situação da carteira de obras de 2024, considerando a evolução do cenário de 2023.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+93. Outra análise realizada nesse ciclo, a fim de possibilitar uma visão compartimentada por
+plataforma, é a verificação da evolução por base de dados. Para o recorte de 2024, a base de dados
+de obras do Dnocs, de acordo com dados do Ministério da Integração e do Desenvolvimento
+regional (MIDR) foi integrada nas consolidações, além das bases vinculadas à educação básica,
+superior e profissional (Simec, Setec, Sesu), à saúde (Sismob e Funasa), à infraestrutura de
+transporte (Dnit) e demais áreas (Caixa Gerencial).
+94. Em geral, as bases Sismob e Simec foram as que expressaram maior aumento de obras
+paralisadas, que tratam das temáticas relacionadas à saúde e à educação, respectivamente. No caso
+do Sismob, a indicação de obras que paralisaram é significativa, considerando as premissas
+adotadas sobre as obras canceladas, consideradas como paralisadas nesse ciclo, conforme explicado
+nos parágrafos 75-82 deste relatório.
+95. Em uma análise preliminar, constatou-se uma significativa parcela de obras concluídas da
+carteira cuja gestão é da Caixa (49%), e ainda um bom quantitativo de obras em execução (24,3%).
+Entende-se que os controles realizados pela instituição bancária, na condição de mandatária da
+União em contratos de repasse, podem ser a causa do bom desempenho observado na condução dos
+contratos. No entanto, para uma conclusão precisa, faz-se necessário a realização de procedimentos
+adicionais sob a ótica da base de dados BD_Gerencial.
+96. Essa suposição pode ser inferida a partir, por exemplo, da atuação em todo território nacional
+da iniciativa de assistência técnica ativa a estados e municípios, além de monitoramento dessa
+carteira (https://www.caixa.gov.br/Downloads/desenvolvimento-urbano-obras-paralisadas-
+14
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 15 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+proposicoes-construtivas/cartilha-obras-paralisadas-proposicoes-construtivas.pdf, acesso em
+22/7/2024).
+97. Ao comparar com os ciclos anteriores, observa-se uma redução significativa da parcela de
+obras paralisadas em relação ao total de contratos vigentes sob a atuação da mandatária. Em 2022,
+essa parcela era de 46,5%, enquanto em 2023 compreendia 52,5% das obras. Já em 2024, houve
+uma diminuição expressiva, resultando em 38,9% de obras paralisadas na carteira sob a gestão da
+Caixa, totalizando 2.743 contratos.
+Figura 10 – Evolução carteira com participação da Caixa como mandatária
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+98. Assim, observa-se que as ações adotadas pela Caixa se mostram efetivas no enfrentamento
+do problema de obras paralisadas, em que pese ainda insuficientes, considerando o histórico de
+paralisações.
+Figura 11 – Variação da carteira de obras por base de dados.
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+99. Além das paralisações, faz-se necessário verificar sob a ótica de conclusões em todos os
+setores. Como uma inovação do painel, é possível comparar o cenário entre os ciclos e acompanhar
+as finalizações e conclusões dos empreendimentos por segmento.
+Figura 12 – Variação da carteira de obras por setor entre 2023 e 2024 em Acompanhamento da
+Carteira
+15
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 16 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+100. Verifica-se que a temática de infraestrutura e mobilidade urbana foi a que teve mais obras
+concluídas. Considerando que a maioria das obras é da base de dados da Caixa, uma das razões
+para esse desempenho pode ser o fluxo de novas obras, conforme elucidado nos parágrafos 95-98
+deste relatório.
+101. Nesse setor, o fluxo de empreendimentos novos e concluídos é significativo e balanceado,
+considerando que se conclui mais obras do que são iniciadas. Em uma análise sob o aspecto
+relacionado a conservação de patrimônio e atendimento de projetos em andamento, regulamentado
+pelo art. 45 da Lei de Responsabilidade Fiscal (LRF), verifica-se um cenário positivo, no sentido de
+que são priorizados os projetos em andamento até a inteira conclusão quando comparado a novas
+intervenções, tal qual também observado na área da educação básica, mesmo que de forma menos
+expressiva.
+102. Em segundo lugar, sobre a temática genérica “outros”, a classificação é resultado da
+dificuldade de enquadramento com base no cadastro originário, devido à grande oscilação
+registrada entre os setores.
+103. Não obstante ter sido constatado que o segmento aborda obras de edificações e de reformas,
+pontes, aterros sanitários, adequação e construção de estradas estaduais e vicinais, a inviabilidade
+de verificação automática da correlação entre o instrumento e o rol definido pelo SDI/AudUrbana
+levou à atribuição da classe como genérica, não impedindo que, em cada empreendimento, seja
+possível visualizar a classificação na origem dos dados.
+104. Quanto ao fluxo, em que pese a diferença positiva entre novas intervenções e as concluídas,
+faz-se necessário priorizar aqueles em andamento até a inteira conclusão, principalmente para
+alocação de recursos.
+105. Sobre as temáticas de saúde e educação, as conclusões são em menor escala, e representam,
+um pouco mais que 10% do total de obras em cada área. O baixo percentual de conclusões pode ser
+relacionado aos custos operacionais decorrentes, por exemplo, com equipamentos, pessoal,
+mobiliário, assim, para que se torne efetiva, além de recursos para finalizar as obras, faz-se
+necessário prever e arcar com as demandas operacionais. Por outro lado, no caso das obras de
+infraestrutura e mobilidade, no caso de pavimentação, a efetividade da intervenção é vista assim
+quando concluída.
+106. Um comparativo também realizado neste acompanhamento foi em relação ao percentual de
+execução física somente das obras paralisadas por base de dados revelados na figura abaixo
+(exceção feita às obras do Dnit e MIDR, que não continham registro de execução física):
+Figura 13 – Comparativo execução física por base de dados das obras paralisadas.
+16
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 17 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Fonte: elaboração pelo SDI/AudUrbana a partir das bases BD_Gerencial (Caixa), Funasa, Sesu,
+Setec, Dnit, MIDR, Simec, Sismob e Simec-Outros
+107. As obras do Sismob possuem entre 60% e 80% de execução física, em média, e com o
+terceiro quartil entre os 80% e 100%. Desses percentuais, mostra-se que as obras relacionadas a
+saúde possuem maior tendência à conclusão, evidenciando a necessidade do instrumento de
+reativação para alteração em sistema, já que as obras foram concluídas com recursos do ente
+federativo, conforme explicado na Seção IV. Esse comportamento destoa das demais bases, já que
+o terceiro quartil das demais estão menores que 70% e com média entre 20% e 40%.
+108. Ainda, sobre a temática relacionada a infraestrutura e mobilidade, sob responsabilidade, em
+maioria, do Ministério da Cidades, a análise dos dados dessas revela um padrão preponderante. A
+quantidade de instrumentos paralisados com valor de investimento até R$ 300.000,00 são 177
+(14,24% dos instrumentos) e possuem valor total de R$ 46.279.639,23. Em seguida, os
+instrumentos com valor entre R$ 300.000,00 e R$ 600.000,00 resumem a 393 (31,62% dos
+instrumentos) com valor total de R$ 176.105.280,59. Diante disso, verifica-se que quase metade
+das obras paralisadas que constam da carteira de infraestrutura e mobilidade urbana apresentam
+valor de investimento de até R$ 600.000,00 e está relacionada à pavimentação.
+109. Percebe-se, ainda, no comparativo entre setores de obras que continuaram paralisadas, que,
+em média: (i) o setor de infraestrutura urbana e mobilidade possui 44,4 meses (mais de três anos)
+de duração; (ii) o setor de educação básica possui 107,1 meses (mais de oito anos) de duração; (iii)
+o setor de saúde possui 59,5 meses (quase quatro anos) de duração; e (iv) o setor de saneamento
+possui 133,6 meses (mais de onze anos) de duração. Na ótica das obras que se mantiveram
+paralisadas, pode-se sugerir que, para o setor de infraestrutura urbana, por exemplo, a retomada
+dessas obras pode ser facilitada, tendo em vista a possibilidade de termos ainda vigentes, assim
+como o menor risco de involução significativa da obra e menor diferença de custos para conclusão.
+Figura 14 – Duração média das obras que continuaram paralisadas por setor.
+17
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 18 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Fonte: Painel de Obras do TCU (disponível em: https://paineis.tcu.gov.br/ObrasParalisadas, acesso
+em 22/8/2024)
+110. Outro ponto importante a destacar é que uma pequena parte das obras paralisadas no setor de
+infraestrutura e mobilidade urbana são responsáveis pela parcela majoritária do investimento do
+segmento. Constatou-se que das 1.243 obras paralisadas do setor de infraestrutura urbana e
+mobilidade, ao menos 200 empreendimentos representam cerca de 80% do valor total investido.
+111. A primeira intervenção representa 29,34% do total investido com R$ 1.224.814.155,93 cujo
+instrumento é 676829 com objeto “Corredor de ônibus Salvador Bahia Vias Estruturais Sistema de
+Corredores na Cidade de Salvador”, localizada em Salvador/BA, e causa de paralisação na base de
+origem por “Discricionariedade do Gestor do Programa (Ministério)”.
+112. A segunda refere-se ao “Aumento da capacidade e velocidade do BRT na extensão do Eixo
+Norte Sul Eixo Leste Oeste e terminais” (instrumento 679291) localizado em Curitiba/PR e valor
+total de R$ 189.590.000,00 (4,54%) e classificado com causa de paralisação por
+“Discricionariedade do Gestor do Programa (Ministério)”.
+113. Por fim, a terceira refere-se a “II Perimetral Via Metropolitana Norte IV Perimetral Binário
+Cajueiro Seco Corredor de Ônibus Recife/PE II Perimetral” (instrumento 680540), localizado em
+Recife/PE, com valor de R$ 174.203.031,54 (4,17%) e classificado com causa de paralisação com
+“Dificuldade técnica do tomador”.
+114. Cotejando as informações levantadas, verifica-se que, a despeito das especificidades das
+obras desse segmento, parte considerável da complexidade de gestão dessa carteira advém da alta
+rotatividade e alto volume de empreendimentos, os quais, em que pese terem menor custo
+particular, permitindo execução e conclusão em prazo mais curto, carregam a dificuldade de gestão
+administrativa inerente a toda transferência voluntária.
+115. Em todo caso, depreende-se da análise dos dados da carteira que o setor demonstra
+desempenho positivo, promovendo o saneamento da carteira.
+115.1. Por fim, com o objetivo de centralizar as informações e facilitar a gestão processual, será
+proposto o encerramento do presente TC 021.731/2019-5, que trata do acompanhamento do
+Acórdão 1.079/2019-TCU-Plenário, tendo em vista que anualmente essa Corte já faz o
+acompanhamento das obras e publica a evolução em painel de obras próprio.
+Atualização das informações de contratos de obras públicas
+116. O segundo ciclo de acompanhamento, Acórdão 2.555/2022-TCU-Plenário, determinou que
+fossem encaminhadas informações atualizadas de contratos de obras públicas, indicando aquelas
+constantes do art. 2º, inciso VII, do Decreto 10.012/2019, de alguns órgãos e entidades, ao
+18
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 19 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Ministério da Economia, atualmente representado pelo Ministério da Gestão e Inovação (MGI),
+para publicação no Painel de Obras do Governo Federal e posterior consolidação.
+9.5. determinar, com fulcro no art. 43, inciso I, da Lei 8.443/1992, c/c o art. 250, inciso II, do
+Regimento Interno do Tribunal de Contas da União aos órgãos e entidades listados a seguir e
+a todos os demais cujas informações estejam pendentes que, no prazo de 30 (trinta) dias,
+encaminhem ao Ministério da Economia para publicação no Painel de Obras do Governo
+Federal, no formato definido por essa pasta, informações atualizadas de seus respectivos
+contratos de obras públicas, indicando aquelas constantes do art. 2º, inciso VII, do Decreto
+10.012/2019:
+1. Ministério de Minas e Energia;
+2. Departamento Nacional de Obras Contra Secas;
+3. Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba;
+4. Superintendência do Desenvolvimento do Centro-Oeste;
+117. Após notificado, o Ministério da Gestão e da Inovação em Serviços Públicos (MGI)
+apresentou a Nota Informativa 325/2023/MGI (31278658) (peça 480, p. 3-8), respondendo sobre a
+atualização do Painel de Obras do Governo Federal. As respostas encaminhadas pelos órgãos
+setoriais estão elencadas nas peças a seguir:
+Tabela 3 – Solicitação de informações atualizadas de seus respectivos contratos de obras públicas.
+RESPOSTA
+OFÍCIO PEÇA DESTINATÁRIO
+(PEÇAS)
+Companhia de Desenvolvimento dos
+63291/2022-TCU/Seproc 420 Vales do São Francisco e do Parnaíba 443 a 447
+(Codevasf)
+Departamento Nacional de Obras 448 a 459
+63290/2022-TCU/Seproc 418
+Contra Secas (Dnocs) 482 a 486
+Superintendência do Desenvolvimento
+63292/2022-TCU/Seproc 419 460 a 479
+do Centro-Oeste (Sudeco)
+63289/2022-TCU/Seproc 426 Ministério de Minas e Energia (MME) -
+Fonte: elaboração própria
+118. Do exposto, serão avaliadas as comunicações enviadas pelos órgãos setoriais com o fim de
+atender o item 9.5 do Acórdão 2.555/2022-TCU-Plenário.
+119. A Codevasf alegou que foi criada função automatizada para envio de informações à pasta
+vinculada, entretanto, havia duplicidade de instrumentos no registro no Painel de Obras
+considerando a existência de mais de uma localidade/meta. A resolução encontrada foi a criação de
+duas classificações, uma contendo a localidade dos projetos e outra contendo os demais dados de
+instrumentos e projetos, unificadas pela chave Código Projeto – SGPA (peça 443).
+120. Acerca dos contratos de competência do Dnocs, o Ofício 71/2023/GAB-SE-MIDR (peça
+486, p. 6) reforça que as obras registradas na Plataforma Transferegov.br têm informações
+carregadas automaticamente no painel, entretanto, as obras do PAC precisam de serviço de TI que
+conecta os sistemas para troca de informações. Nesse procedimento, o Dnocs aponta que, em que
+pese ter efetuado as atualizações, o órgão responsável pelo cadastro, à época o Ministério do
+19
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 20 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Desenvolvimento Regional (MDR), era classificado como órgão executor da obra e, caso o
+Departamento inserisse novamente seus contratos, haveria duplicidades no sistema (peça 451, p. 4).
+121. A fim de solucionar a questão, a pasta responsável acrescentou a sigla do órgão responsável
+no título do empreendimento, por exemplo “DNOCS: Título do empreendimento”, o que
+possibilitaria identificar o responsável pela obra cadastrada (peça 486, p. 1).
+122. A terceira entidade vinculada ao Ministério da Integração e do Desenvolvimento Regional
+(MIDR), Sudeco, respondeu sobre os três investimentos em infraestrutura a seu cargo que faziam
+parte do antigo PAC, como demonstrado abaixo. Ademais informou sobre a indisponibilidade de
+estrutura de Tecnologia da Informação para envio direto ao Painel de Obras, o sistema Serviço de
+Obras – SISRO, bem como, não possuía servidores com o referido acesso (peça 477, p. 2).
+Figura 15 – Investimentos a cargo da Sudeco
+Fonte: Nota Técnica 92/2023/CEPPE/CGAPPE/DPA/SUDEC (peça 477, p. 1)
+123. Em consulta ao Painel de Obras, em junho de 2024, verificou-se que o MIDR possui 10.878
+obras sob sua responsabilidade, sendo que:
+20
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 21 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Tabela 4 – Dados dos contratos cujo responsável é o MIDR retirados do Painel de Obras
+Órgão Setorial Obras Investimento total %
+MIDR 6.546 R$ 16.519.199.769,79 73,67%
+Codevasf 2.504 R$ 3.160.585.391,66 14,10%
+Sudeco 912 R$ 1.504.255.668,21 6,71%
+Superintendência do Desenvolvimento da
+541 R$ 890.646.010,93 3,97%
+Amazônia (Sudam)
+Dnocs 160 R$ 190.386.014,47 0,85%
+Superintendência do Desenvolvimento do
+190 R$ 134.021.668,66 0,60%
+Nordeste (Sudene)
+Agência Nacional de Águas (ANA) 25 R$ 22.954.846,38 0,10%
+10.878 R$ 22.422.049.370,10
+Fonte: elaboração própria a partir de dados do Painel de Obras retirados de junho de 2024.
+124. Sobre esses registros, há alguns apontamentos: (i) são registros retirados da Plataforma
+Transferegov.br, apenas; (ii) a data de atualização refere-se à atualização do Transferegov.br; (iii)
+não há registros de obras com situação “paralisada” vinculadas a cada setorial, o que pode dificultar
+a tomada de decisão.
+Figura 16 – Obras sob responsabilidade do MIDR no Painel de Obras
+Fonte: Painel de Obras retirados em junho de 2024
+125. Da análise, tem-se que as informações relativas às obras são aquelas obtidas de forma
+automática pelo Transferegov.br. Ou seja, as obras cadastradas são aquelas cuja origem de recursos
+são as transferências, com fonte do Orçamento Fiscal e da Seguridade Social da União, a órgão ou
+entidade da administração pública estadual, distrital, municipal, direta ou indireta, consórcios
+públicos e entidades privadas sem fins lucrativos. No entanto, àquelas que demandam esforços para
+conclusão, paralisadas, não estão disponíveis nessa view, em verdade, estão cadastradas em view no
+qual o órgão superior é o Ministério de Desenvolvimento Regional (MDR), atual MIDR.
+126. Nessa consulta, constatou-se que havia 5.749 obras sob sua competência que representavam
+R$ 297,07 bilhões, sendo que 19,36% de obras estão com situação como “paralisada” com dados
+atualizados até 1/8/2023.
+Figura 17 – Obras cadastradas pelo MDR Painel de Obras
+21
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 22 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Fonte: Painel de Obras retirados em junho de 2024
+127. Desses 1.113 registros de obras com situação “paralisada” do MDR, 33,24% não possuíam
+registros relacionados às causas de paralisação e totalizavam em R$ 18.695.575.564,55. As
+principais causas cadastradas são ilustradas abaixo e são relacionadas a: (i) problemas técnicos de
+execução; (ii) dificuldades técnicas da organização executora; e (iii) outras causas que enquadram
+ausência de recursos orçamentário e financeiro, não obtenção de licenças, autorizações ou outros
+instrumentos equivalentes, desistência ou abandono pela empresa sem justificativa, entre outras.
+Figura 18 – Causas de paralisação de obras vinculadas ao MDR.
+Fonte: elaborado pela equipe a partir de dados do Painel de Obras retirados em junho de 2024.
+128. Consta-se que, no âmbito da temática de desenvolvimento regional, o desafio para retomada
+de obras se relaciona à capacidade institucional dos entes subnacionais, seja na elaboração dos
+projetos ou na execução de obras, seja na gestão e fiscalização de contratos. Assim, tal qual
+determinado no item 9.1.4 do Acórdão 1.079/2021-TCU-Plenário, faz-se necessário ações
+coordenadas pelo ente nacional a fim de desenvolver a capacidade institucional dos tomadores de
+recursos.
+42. Por esta razão, além de acompanhar as propostas da unidade atinentes ao tema, propugno
+por recomendar ao Ministério da Economia que reforce as iniciativas de desenvolvimento
+da capacidade institucional dos entes tomadores de recursos, por meio das ferramentas
+que entender mais adequadas, em respeito à discricionariedade de suas ações. Cito, a título
+22
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 23 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+exemplificativo, a capacitação de gestores a distância, o desenvolvimento de manuais de
+licitação e contratação e o uso de projetos padrões. (grifos nossos)
+129. Verifica-se que os registros vinculados a temática de desenvolvimento regional, sob
+responsabilidade do MIDR, antigo MDR, podem indicar um déficit qualitativo, considerando: (i) a
+incompletude dos dados, por exemplo, com ausência de causas de paralisação; (ii) a ausência de
+comunicação entre os empreendimentos cujo filtro órgão superior é MIDR e MDR, considerando
+que deveriam representar as mesmas informações, contendo paralisações, execuções, prestações de
+contas; (iii) as desatualizações das bases, em que pese constar no Painel de Obras que a base do
+MDR foi atualizada em 1/8/2023, em análise específica dos empreendimentos, verificou-se que há
+registros de 22/8/2022 (nos casos de obras cuja causa raiz são problemas técnicos de execução) e
+de 11/8/2021 (nos casos de obras sem registros de causa de paralisação).
+130. Acerca da consideração de ausência de comunicação entre os empreendimentos cujo MIDR
+é responsável, há um painel que explicita a Carteira de Investimentos informando as fontes de
+recursos, situação do objeto, órgão setorial responsável e demais informações relevantes, conforme
+ilustrado na figura a seguir.
+Figura 19 – Carteira de Investimento MIDR
+Fonte: https://paineis.mdr.gov.br/1.%20Carteira%20de%20Investimentos%20-
+%20MIDR/eyJrIjoiMmJmYTczNWItYzNkMi00MDk1LTk0MDQtMzUwMzY4ZjEyZGI0IiwidCI
+6Ijk2MTFlY2UxLTM0MTQtNGMzNS1hM2YwLTdkMTAwNDI5MGNkNiJ9, acesso em
+3/7/2024
+131. Em que pese existir transparência nos painéis citados, não se mostra acessível, tendo em
+vista que as bases de cada empreendimento se encontram pulverizadas. Entende-se que todas
+deveriam estar na Carteira de Projetos e Investimento do MIDR já que esse painel possui o viés
+informativo, como também deveriam estar no Painel de Obras Federal já que o papel é consolidar
+todas as obras com recursos da União de modo a auxiliar na tomada de decisão e na alocação de
+recursos, enquanto o Cadastro Integrado de Projetos de Investimento – Obrasgov.br (antigo CIPI)
+não está em pleno funcionamento.
+132. Por fim, a respeito do Ministério de Minas e Energia (MME), não foi obtido retorno durante
+o período de comunicações para que enviasse informações dos contratos. Em consulta ao Painel de
+Obras do Governo Federal, em junho de 2024, constatou a existência de 14 cadastros sob
+competência do órgão superior que totalizavam em R$ 266,6 milhões. Entretanto, não havia
+informações sobre a data de atualização dos dados; os cadastros se referiam a objetos estranhos à
+23
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 24 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+execução de obras, como concessão de bolsas; e que havia um convênio que representava 95% do
+investimento total tutelado pela pasta. Ademais, a situação atual dos cadastros se resumia a
+concluída (11), cancelada (1) ou em prestação de contas (2), com nenhum registro de paralisada.
+133. De acordo com o órgão (peça 528, p. 1), o Relatório das Ações do PAC Junho de 2019
+apresentava 187 empreendimentos cujo responsável é o MME. Entretanto, após análises da
+entidade, foi constatado empreendimentos em duplicidade e com situação concluída, resultando em
+51 empreendimentos da carteira original. Ainda, foi apontado a existência de 45 intervenções que
+se enquadravam como “privados”, cabendo ao órgão o monitoramento do suprimento energético da
+demanda. Finalmente, tendo restado seis intervenções, foi detectado que cinco haviam sido
+descontinuadas, subsistindo um empreendimento a ser monitorado pelo referido Ministério:
+Itapiranga, cujo objeto é a elaboração de EVTE-EIA-RIMA-Aproveitamentos Hidrelétricos, com
+status em novembro de 2021 como “em andamento”.
+134. Sobre esse empreendimento, o MME requisitou maiores informações à Agência Nacional de
+Energia Elétrica (ANEEL) e foi informado que o objeto se trata de estudos prévios para análise de
+viabilidade, possuindo também natureza privada do desenvolvedor (peça 529, p. 2). O Ministério
+ainda expõe:
+Devido à natureza das atribuições da Pasta, o Ministério de Minas e Energia não executa ou
+financia empreendimentos com recursos públicos. O MME detém a atribuição de definir
+diretrizes e indicar as perspectivas de expansão futura dos setores de Mineração, Energia
+Elétrica, Petróleo, Gás Natural e Biocombustíveis, de infraestrutura necessária para atender a
+demanda nacional. Todas as obras necessárias a implantação de empreendimentos que
+atenderão as demandas direcionadas aos setores sob supervisão deste MME são de natureza
+privada, não havendo, portanto, nenhuma obra sob supervisão direta deste Ministério ou que
+dependam de recursos públicos para sua consecução.
+135. Em consulta ao Relatório de Ações do PAC (peça 530), algumas verificações foram
+realizadas. Inicialmente, excluindo os empreendimentos em duplicidade, os com estágio como
+“concluído” ou “cancelado”, e os enquadrados como privados, restaram 18 empreendimentos que
+consistiam em elaboração de EVTE-EIA-RIMA, pesquisa exploratória, levantamentos/estudos,
+inventário e uma intervenção enquadrada no programa Luz Para Todos no Piauí (peça 531). Sobre
+a intervenção do Luz Para Todos, o jurisdicionado a considerou como concluída, no entanto, no
+Relatório de Ações do PAC, a situação não foi informada.
+136. Ainda, nesse relatório, verificou-se a existência de três projetos com situação como
+“paralisada” que totalizavam R$ 1,24 bilhão: (i) Interligação Manaus - Boa Vista-Transmissão de
+Energia Elétrica-Empreendimento de Transmissão de Energia Elétrica; (ii) Fazenda Vera Cruz-
+Geração de Energia Elétrica-Usina Eólica; e (iii) Povo Novo-Geração de Energia Elétrica-Usina
+Eólica. No entanto, por se tratar de empreendimento de transmissão de energia, de usina eólica e de
+geração de energia, assumindo as premissas informadas na Nota Informativa 17/2021/AEGP/SE
+(peça 528), esses projetos também são enquadrados como privados.
+137. Em face do exposto, a partir dos dados trazidos pelo jurisdicionado, considerando que os
+empreendimentos para atender a demanda nacional e supervisionados pelo MME não são custeados
+com recursos públicos, mas com natureza privada, entende-se que a atualização no Painel de Obras
+não se mostra pertinente, uma vez que o painel busca dar transparência às obras custeadas com
+recursos da União.
+138. Diante do exposto, considera-se que, a partir das comunicações, os setoriais Dnocs,
+Codevasf e Sudeco ensejaram esforços para atualizar os dados no Painel, atendendo o item 9.5 do
+Acórdão 2.555/2022-TCU-Plenário. Entretanto, faz-se necessário que o ministério a que estão
+vinculados faça a consolidação e disponibilize as informações, considerando que essas entidades
+não possuem acesso direto ao Painel.
+139. Em complemento, quanto ao Ministério de Minas e Energia (MME), considerando que os
+contratos de obras a ele vinculados são de natureza privada, a atualização no painel destoa do
+objetivo principal da ferramenta, que busca dar transparência as obras custeadas com recursos da
+24
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 25 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+União. Embora a proposição de cumprimento da determinação contida no item 9.5 do Acórdão
+2.555/2022-TCU-Plenário, cabe o alerta ao jurisdicionado de consultar as informações atualmente
+disponíveis na plataforma a fim de que se verifique a fidedignidade dos contratos.
+Plataforma única de gestão e centralização de informações de obras públicas
+140. Ainda, o item 9.7 do Acórdão 2.555/2022-TCU-Plenário recomendou a inserção de módulos
+adicionais à Plataforma de modo a proporcionar a transparência de todos os recursos federais para
+obras:
+9.7. recomendar ao Ministério da Economia, com fulcro no art. 250, inciso III, do Regimento
+Interno do Tribunal de Contas da União que avalie a conveniência e oportunidade de incluir
+o Painel de Obras como um módulo do CIPI e garantir que todos os recursos federais para
+obras sejam concentrados em um só sistema, com fidedignidade e integralidade dos dados:
+141. Em resposta a esse item, a Nota Informativa SEI 325/2023/MGI (peça 489) informou estar
+em elaboração a Portaria que constará cronograma de inserção de dados no Obrasgov.br, inclusive
+dos instrumentos contidos no Decreto 10.012/2019, que trata dos investimentos do Programa de
+Aceleração do Crescimento (PAC) e atualmente disponíveis no Painel de Obras, bem como as
+demais obras do orçamento fiscal e da seguridade social (peça 489, p. 5).
+142. Sobre os temas relacionados a atualização do Obrasgov.br, o TC 036.106/2019-4, referente
+ao monitoramento das determinações contidas no Acórdão 1.079/2019-TCU-Plenário, acompanha
+as resoluções implementadas pelo Ministério, sendo também recomendado no item 9.4 do Acórdão
+517/2024-TCU-Plenário, principalmente sobre o tema de inclusão do Painel de Obras como um
+módulo no Obrasgov.br.
+143. Registra-se que as informações vinculadas aos contratos de obras públicas dos órgãos e
+entidades, por exemplo daqueles listados no item 9.5 do Acórdão 2.555/2022-TCU-Plenário, estão
+pulverizadas em painéis e/ou bases de cada setorial, dificultando o acesso completo e unificado das
+obras custeadas com recursos públicos federais. Em complemento, quando comparado ao Painel de
+Obras, as informações não são correspondentes, prejudicando a confiabilidade e veracidade das
+informações.
+144. Como constatado na análise dos setoriais vinculados ao MIDR e do MME, a atualização da
+ferramenta cujo objetivo é dar transparência às informações e aos dados correlatos aos
+empreendimentos executados com recursos da União se mostra negligenciada. Em que pese a
+plataforma ser gerida e mantida pelo MGI, cabe aos órgãos setoriais inserirem os registros e
+atualizá-los, e diante de dificuldades sobre cadastro ou portabilidade de sistemas, cabe interlocução
+com MGI.
+145. Percebe-se o esforço do Ministério em implementar o Obrasgov.br, conforme determinações
+proferidas por esta Corte, ainda mais quando o antigo Painel de Obras +Brasil vem se mostrando
+desatualizada, principalmente, naquelas obras cuja fonte não é do Transferegov.br.
+146. Não obstante, exigir da pasta a manutenção de dois sistemas paralelos com objetivos
+similares não se mostra razoável, tampouco a ausência de plataforma que possibilite a transparência
+dos dados de contratos de obras públicas custeadas com recursos federais com fidedignidade e
+completude.
+147. Noutro giro, sabe-se que esta Corte de Contas há tempos promove agenda com o objetivo de
+reduzir os impactos do surgimento e manutenção de obras paralisadas no país. Essa agenda se
+embasa nas recomendações emitidas no Acórdão 1.079/2019-TCU-Plenário. Entre os principais
+objetivos (ou aspectos) das recomendações, destacam-se:
+9.1.1.3 A integração futura das bases de informação para favorecer a constituição do
+Cadastro Geral de Obras Públicas, com o objetivo de centralizar e facilitar o acesso às
+informações sobre obras públicas.
+25
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 26 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+9.1.1.4 A ampliação da transparência, permitindo a comparação entre diversos setores, para
+que a sociedade possa acompanhar e comparar o desempenho e a eficiência dos
+investimentos em diferentes áreas.
+9.1.3 A uniformização dos critérios de classificação de obras paralisadas, visando
+garantir maior transparência e confiabilidade das informações, além de permitir o
+acompanhamento estatístico e a comparabilidade de desempenho entre setores distintos.
+148. Mais adiante, o Relator, Ministro Vital do Rêgo, em seu voto no âmbito do Acórdão
+1.228/2021-TCU-Plenário, verificando a inconsistência existente na consolidação e publicação de
+dados pelo ME das informações recebidas das pastas setoriais, assentou o seguinte:
+25. A utilização de banco de dados pulverizados na administração pública, da forma
+como é feita ainda hoje, tem se mostrado ineficiente para a gestão dos recursos públicos.
+Isto porque a ausência de um Cadastro Geral de Obras Públicas prejudica a visão global da
+carteira de projetos do governo federal e dificulta a priorização de investimentos.
+26. A própria descentralização da gestão das obras do PAC, por exemplo, ocasionou a
+redução dos dados disponibilizados e uma perda considerável das informações das obras
+paralisadas. Como consequência, parte dos dados necessários para este levantamento não
+pode ser obtida e estudada, justamente porque não há a devida centralização e
+consolidação das informações das obras públicas.
+27. Embora seja plausível que cada órgão faça o levantamento das informações dos seus
+respectivos projetos, é importante que haja um responsável pela padronização e
+consolidação dos dados. E, de acordo com os normativos vigentes, esse órgão é
+atualmente o Ministério da Economia.
+28. Por tais razões, acompanho a proposta da SeinfraUrbana de dar ciência ao Ministério da
+Economia de que as alterações verificadas no gerenciamento das informações referentes às
+obras constantes do banco de dados do PAC comprometem a transparência e aumentam o
+risco de prejuízos associados aos empreendimentos, na medida em que dificultam o
+acompanhamento adequado, pelo próprio Ministério, pelos órgãos de controle e pela
+sociedade, da evolução física e financeira dessas obras públicas, em ofensa ao art. 7º, inciso
+III, da Lei 10.180/2001 e aos artigos 5º, 6º, inciso I, e 8º da Lei 12.527/2011.
+29. Acrescento ao encaminhamento sugerido pela unidade técnica, com fundamento no art.
+43, inciso I, da Lei 8.443/1992, c/c o art. 250, inciso II, do RITCU, a proposta de
+determinar aos órgãos e entidades listados anteriormente e a qualquer outro cujas
+informações também estejam pendentes que encaminhem ao Ministério da Economia,
+no formato definido por esse último, no prazo de trinta dias, informações atualizadas de
+seus respectivos contratos de obras públicas, indicando, no mínimo, aquelas constantes do
+art. 2º, inciso VII, do Decreto 10.012/2019 e se há intenção de dar continuidade a cada
+contrato.
+149. Assim, tem-se duas dimensões importantes na problemática abordada pelos acórdãos
+supracitados. A falta de convergência metodológica e de padronização de conceitos relacionados a
+classificação das obras, e a dificuldade de centralização das informações, tanto no envio quanto no
+recebimento e consolidação dos dados.
+150. Em resposta às recomendações referentes a primeira problemática, o Acórdão 1.328/2020-
+TCU-Plenário registrou como implementadas as recomendações 9.1.1, reconhecendo os esforços
+do Ministério da Economia com vistas ao compartilhamento de informações, convergência de
+processos de trabalho e padronização de conceitos e de conteúdos relacionados à condução da
+carteira de obras, promovendo conferências e reuniões sistemáticas com diversos ministérios.
+151. No tocante a uniformização das classificações e metodologias no gerenciamento de obras
+públicas, esta Corte de Contas, ao proferir o Acórdão 871/2022-TCU-Plenário, também reconheceu
+o trabalho do Ministério da Economia para a criação do cadastro único de obras, considerando
+cumprida a recomendação 9.1.3.
+26
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 27 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+152. Nesse contexto, destacam-se os normativos a seguir, quais sejam: as Portarias SEGES/ME
+25.405/2020, SEDGG/ME 12.766/2021 e MGI-SEGES 4.322, de 15 de agosto de 2023, que
+estabelecem diretrizes de utilização do sistema Obrasgov.br e a uniformização das classificações de
+obras públicas, bem como, mais recentemente, a Lei 14.719/2023, que trata do pacto de retomada
+de obras.
+Figura 20 – Definições situação de obras por normativo.
+Fonte: elaboração própria, com base na Portarias SEGES/ME 25.405/2020, MGI-SEGES
+4.322/2023 e Lei 14.719/2023.
+153. Em tempo, esclarece a inclusão da Portaria Conjunta MF/MPO/MGI/CGU/SRI-PR 111, de
+26 de agosto de 2024, no rol de normativos que definem situação de obra, pois, em resposta a
+decisão proferida no âmbito da Ação Direta de Inconstitucionalidade (ADI) 7.697, verificou-se a
+necessidade de orientar os procedimentos necessários para execução de emendas impositivas no
+repasse de recursos a obras efetivamente já iniciadas e em andamento ou para ações voltadas para
+atendimento de calamidade pública.
+154. Em relação a Portaria SEGES/ME 25.405/2020 (instituição do Obrasgov), e sua atualização
+com a Portaria MGI-SEGES 4.322/2023, ressalta-se que, apesar da norma se referir a
+27
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 28 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+regulamentação do Obrasgov.br, ela não se limitou a isso, tendo em vista que os arts. 8° e 10
+incitam que os sistemas próprios dos entes executores devem garantir a comunicação de forma
+automatizada e se adequar ao Obrasgov.br.
+155. Noutro giro, a Portaria MGI/SEGES 4.322/2023, estabeleceu um cronograma para que os
+setoriais inserissem os projetos de investimento em infraestrutura iniciados antes de 31/1/2021. A
+data limite para inserção foi fundamentada no prazo definido pelo Decreto 10.496/2020 para
+implementação do Obrasgov, conforme abaixo:
+Tabela 5 – Cronograma de cadastro de obras cuja execução tenha iniciado antes de 31/1/2021.
+Situação da obra
+Demais
+Em Execução Paralisada
+Situações
+Ano de início da execução
+Data limite para registro no Obrasgov
+do projeto de investimento
+2019 a jan/2021 1/3/2024 1/12/2024 1/8/2025
+2015 a 2018 1/6/2024 1/3/2025
+Anteriores a 2014 1/7/2024 1/5/2025
+Fonte: Anexo Portaria MGI/SEGES 4.322/2023.
+156. Em conversa com MGI durante os trabalhos, foi alertado o descumprimento do cronograma
+por algumas pastas no que se refere às obras em execução, conforme consta no Anexo da Portaria
+MGI/SEGES 4.322/2023. No que se refere às obras paralisadas, a previsão da pasta para que todas
+essas obras estejam disponíveis no cadastro único é em maio de 2025. Isto posto, estima-se que a
+efetiva implementação do Obrasgov.br é prevista para 2025, desde que com a colaboração dos
+setoriais.
+157. Acrescenta-se também aos conceitos o termo ‘obras inviáveis’, trazido nos Acórdãos
+2.134/2023 e 1.348/2024, ambos do Plenário do TCU, que objetivam relacionar obras com fortes
+indícios de que não se vislumbra solução possível dentro do objeto contratado e dos ajustes
+firmados.
+158. A definição busca tratar os casos que demandam uma readequação da funcionalidade do
+empreendimento com base nas necessidades e condições do município de operar o serviço público.
+Entretanto, a classificação requer atenção, pois deve ser embasada em inspeções in loco, audiências
+com população interessada, e ainda considerar a possibilidade de atualizações de projeto, não
+apenas na decisão do gestor local ou setorial.
+159. Ademais, anota-se que essas providências são parte de uma iniciativa mais ampla, liderada
+pelo Ministério da Gestão e Inovação em Serviços Públicos (MGI), visando a convergência
+metodológica e a unificação dos processos de trabalho relacionados à gestão de obras públicas,
+resultando, por exemplo, no programa Rede de Parcerias, instituída pela Portaria SEGES/MGI
+4.890, de 28 de agosto de 2023. Ainda, esse esforço foi corroborado na instituição da portaria
+conjunta destinada a orientar a aplicação dos recursos de emendas impositivas, tendo em vista a
+existência de harmonia entre definições.
+160. Quanto a segunda dimensão, o Acórdão 2.555/2022-TCU-Plenário registrou como total ou
+parcialmente implementada, para a maior parte dos ministérios, o envio das informações ao
+Ministério da Economia solicitadas pelo item 9.1.1 do Acórdão 1.228/2021-TCU-Plenário para
+disponibilização em sítio eletrônico com base na atualização e massa de dados verificadas no
+Painel de Obras Transferegov.br.
+161. Com este desenho, era de se esperar que fosse possível verificar retrato razoavelmente fiel e
+atual da carteira de obras paralisadas no país com base, em grande parte, no atendimento desses
+itens. No entanto, não foi o que se constatou.
+28
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 29 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+162. Isso porque, apesar da clareza das diretrizes e da importância estratégica dessa unificação
+para a gestão da carteira, observa-se uma resistência por parte dos órgãos setoriais para a integração
+das bases de dados de obras. Essa resistência manifesta-se na adoção de posturas contrárias aos
+objetivos de convergência metodológica estabelecidos pela Portaria SEGES/ME 25.405/2020.
+163. Ao analisar as informações registradas nas bases setoriais, constata-se que cada executor de
+obras adota a classificação pertinente a sua gestão, conforme evidenciado na auditoria que tratou da
+gestão de obras paralisadas que resultou na determinação 9.1.4 do Acórdão 2.134/2023-TCU-
+Plenário. Por exemplo, no caso das obras da saúde, adota-se a classificação ‘cancelada’, mesmo
+quando não seja resultado de decisão judicial ou obra sem funcionalidade (TC 009.197/2022-2,
+peça 274, p. 29-30).
+164. Soma-se a isso, a constatação de que os trabalhos de atualizações do Obrasgov.br não estão
+consistentes. Fato evidenciado no TC 036.106/2019-4, destinado ao monitoramento do Acórdão
+1.079/2019-TCU-Plenário, especialmente quanto a implementação da plataforma, quando, em seu
+último ciclo, foi proferido o Acórdão 517/2024-TCU-Plenário com recomendação ao MGI que
+alertasse os órgãos e entidades responsáveis pela gestão de projetos de investimentos em
+infraestrutura, conforme abaixo:
+9.4.2. alerte os órgãos e entidades do Poder Executivo federal integrantes dos Orçamentos
+Fiscal e da Seguridade Social responsáveis pela gestão de projetos de investimentos em
+infraestrutura acerca das competências e responsabilidades dispostas nos arts. 8º a 10 da
+Portaria Seges/ME 25.405, de 23 de dezembro de 2020, informando-lhes que de nada adianta
+os esforços do Ministério da Gestão e da Inovação em Serviços Públicos (MGI) em
+implantar o cadastro unificado e normatizar o assunto se não houver a devida alimentação da
+Plataforma Obrasgov.br, bem como a integração de dados com os sistemas próprios de cada
+ente.
+165. Salienta-se, ainda, que legalmente não há óbice em cada setorial manter seu sistema de
+acompanhamento e controle de contratos de obras públicas, já que esses painéis, além de facilitar a
+gestão contratual, buscam também garantir maior transparência e confiabilidade das informações.
+166. Contudo, a grande questão é a ausência de comunicação e padronização desses painéis
+pulverizados (Ministério da Saúde, FNDE, MIDR e etc) com o Obrasgov.br, plataforma criada com
+o justo objetivo de permitir o acompanhamento estatístico e comparabilidade de desempenho entre
+setores distintos de atuação. E ainda, não se mostra razoável o esforço paralelo dos setoriais em
+desenvolver sistemas próprios de gestão e acompanhamento de obras públicas que poderiam ser
+somados a iniciativa central do MGI.
+167. Ainda que se opte por manter sistemas pulverizados, é certo que o uso de classificações
+alheias às definidas na norma por parte dos órgãos setoriais não apenas desafia a diretriz de
+uniformização, mas também compromete a integridade e a comparabilidade dos dados sobre obras
+públicas no país, enfraquece os esforços de padronização e leva a uma fragmentação indesejada das
+informações sobre obras públicas.
+168. O resultado da falta de uniformidade e integração entre os sistemas de informação
+considerando as medidas dissonantes adotadas é, por exemplo, a possibilidade real de uma obra ser
+considerada cancelada em um portal, e paralisada em outro.
+169. Tudo isso se encerra em um cenário de crescente desinformação sobre a carteira de obras
+paralisadas, fundado na impossibilidade de verificar a situação das obras no Painel de Obras
+(+Brasil), que deixou de receber atualizações completas de todos os setoriais antes que o
+Obrasgov.br tivesse os registros necessários para isso, com o agravo da constatação de que os
+órgãos setoriais publicaram painéis próprios de transparência, com classificações e metodologias
+próprias, divergindo da uniformização proposta pelo Acórdão 1.079/2019-TCU-Plenário e dos
+padrões estabelecidos pelas portarias do Ministério da Economia.
+170. Dessa forma, além da atuação do órgão central para impulsionar o cadastro único de projeto,
+faz-se necessária a atuação dos executores de intervenções para que cooperem com o cadastro, já
+que eles são quem acompanham as obras e deveriam ter conhecimento sobre a situação de cada
+29
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 30 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+investimento. E ainda, mostra-se oportuno que os órgãos setoriais possam compartilhar os esforços
+para a confecção de um sistema único de gestão e acompanhamento de obras organizado pelo
+órgão central.
+171. Por fim, oportuno relatar as decisões tomadas pelo Supremo Tribunal Federal (STF) quanto
+as emendas constitucionais 86/2015, 100/2019, 105/2019 e 126/2022 que introduziram a
+obrigatoriedade de execução das emendas parlamentares individuais e de bancada, destinando uma
+porcentagem da receita corrente líquida da União para essas emendas, permitindo transferências
+diretas de recursos para estados e municípios sem vinculação específica e aumentando a margem de
+receita vinculada a essas emendas.
+172. Constatou-se atuação do STF em relação as emendas parlamentares, especialmente, quanto a
+rastreabilidade e transparência. Conforme informado no parágrafo 153, a ADI 7.697/DF impôs, em
+sede de cautelar, entre outros requisitos, o cumprimento de regras de transparência e rastreabilidade
+que permitam o controle social do gasto público, com a identificação de origem exata da emenda
+parlamentar e destino das verbas, da fase inicial de votação até a execução do orçamento. Em
+atendimento a essa decisão, a Portaria Conjunta MF/MPO/MGI/CGU/SRI-PR 111/2024
+estabeleceu no art. 8° a necessidade de utilização do Obrasgov.br ou Transferegov.br para
+comprovação do início ou andamento das execuções, como meio para possibilitar essa
+característica.
+173. Uma segunda decisão, agora no âmbito da ADPF 854/DF, destacou as transferências fundo a
+fundo, como as utilizadas no âmbito da saúde:
+Migração para o Transferegov: O Tribunal de Contas da União (TCU) propôs que o
+Executivo promova a migração para o sistema Transferegov, assegurando ao TCU e à
+Controladoria-Geral da União (CGU) acesso em tempo real a todos os dados referentes às
+emendas e transferências.
+Plano de Ação: O Ministério da Gestão e da Inovação em Serviços Públicos (MGI) deve
+apresentar um Plano de Ação em 30 dias, a ser executado em até 180 dias, garantindo plena
+transparência e rastreabilidade das transferências.
+174. Conforme justificado pelo Ministro Relator, essas decisões visam melhorar a transparência e
+a rastreabilidade na aplicação dos recursos públicos, garantindo que as informações estejam
+disponíveis de forma clara e acessível para fiscalização e controle. Justificativa fortemente alinhada
+com as determinações desta corte de contas, especialmente no que tange a gestão da carteira de
+obras.
+175. Ressalta-se, ainda, que o item 9.4.1 do Acórdão 517/2024-TCU-Plenário sugeriu como ponto
+de melhoria para o Obrasgov.br a inserção do Transferegov.br para completude das informações:
+9.4.1. priorize a integração do Transferegov.br ao módulo de execução física da Plataforma
+Obrasgov.br, haja vista a relevância das informações existentes no Transferegov.br para a
+completude e a fidedignidade dos dados da Plataforma Obrasgov.br;
+176. Isto posto, constata-se o potencial do Transferegov.br como ferramenta meio para fomentar a
+transparência e rastreabilidade, tanto de obras custeadas com recursos de emendas parlamentares
+quanto de transferências fundo a fundo, de modo a centralizar a gestão dos empreendimentos.
+177. Sobre esse ponto, especificamente sobre o Ministério da Saúde, principal órgão que executa
+as transferências fundo a fundo, em reunião realizada com MGI durante os trabalhos, foi informado
+sobre o andamento da inserção de informações de suas obras no Obrasgov.br, que se encontra em
+progresso. Foi informado que o grande desafio era relacionado a implementação da metodologia de
+custeio, por se tratar de obras custeadas com transferências fundo a fundo, e que o meio idealizado
+seria também pelo Tranferegov.br. Após a carga desses fundos na plataforma, as obras já se
+adequariam ao Obrasgov.br e estariam harmônicas àquelas disponíveis no Sismob.
+178. Considerando o cenário atual, torna-se evidente a necessidade de intensificar os esforços de
+padronização e integração das informações sobre obras públicas no Brasil. A adesão às diretrizes
+estabelecidas pela Portaria SEGES/ME 25.405/2020 e pelo Acórdão 1.079-TCU-Plenário é
+30
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 31 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+fundamental para garantir a eficácia na gestão dos recursos públicos e promover a transparência no
+setor de obras públicas.
+179. É imperativo que os órgãos setoriais reconheçam a importância de concentrar os esforços na
+plataforma Transferegov e, por consectário, no Obrasgov, e adotem uma postura colaborativa,
+visando o bem comum e a melhoria contínua na gestão de obras públicas no país.
+180. Por todo o exposto, e em atenção às recentes decisões desta corte de contas e do Supremo
+Tribunal Federal (STF) sobre a necessidade de maior transparência e rastreabilidade na aplicação
+dos recursos públicos, sugere-se encaminhar recomendação para que os órgãos setoriais com a
+maior representatividade na carteira de obras avaliem a possibilidade de utilizar as plataformas
+Transferegov.br e Obrasgov.br não apenas para publicizar as obras objeto de emendas
+parlamentares impositivas, mas para realizar a gestão de todas as transferências destinadas à
+execução de obras centralizando o acompanhamento desses contratos.
+Análise saúde: Ministério da Saúde e Funasa
+181. O item 9.10 do Acórdão 2.555/2022-TCU-Plenário orientou a Unidade Técnica para que
+realizasse procedimentos para exame na área de saúde:
+9.10. orientar a unidade técnica a incluir no próximo ciclo de acompanhamento:
+9.10.1. procedimentos para aprofundar as análises na metodologia usada pela Funasa e pelo
+Ministério da Saúde para o preenchimento do campo situação da execução da obra ao
+classificar que uma obra/contrato de seus bancos estaria paralisada, inacabada ou em
+execução;
+182. Do exposto, essa análise técnica se debruçará na avaliação dos dados de obras paralisadas na
+área de saúde que incluem o Ministério da Saúde e a Fundação Nacional de Saúde (Funasa).
+183. Inicialmente, a avaliação no tema é pertinente, considerando a publicação da
+Lei 14.719/2023, responsável por instituir o Pacto Nacional pela Retomada de Obras e de Serviços
+de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde. Como estabeleceu as
+regras gerais, tal qual definido no art. 16 da Lei, cabe ao Ministério da Saúde regulamentar o
+processo de retomada, realizado pela Portaria GM/MS 3.084/2024.
+184. O escopo das obras inseridas no Pacto é definido com base nos contratos passíveis de
+repactuação ou reativação, segundo o §2° do art. 2° da portaria regulamentadora, ou seja, aqueles
+cujo objeto ajustado é do tipo construção, reforma ou ampliação e tenha sido financiado com
+recursos federais por meio de transferências fundo a fundo no âmbito do Sistema Único de Saúde
+(SUS).
+185. Um segundo ponto abordado pela portaria foi a definição dos conceitos de paralisadas e
+inacabadas, assim obra ou serviço de engenharia (art. 2°): (i) paralisado aquele com prazo de
+execução vigente, com emissão de ordem de serviço, sem evolução da execução física registrada no
+Sismob; (ii) inacabado aquele sem conclusão e prazo de execução vencido; (iii) em funcionamento
+sem registro no Sismob aquele com prazo de execução vencido, concluído com recursos próprios
+(de Estado ou de Município) ou não, e em funcionamento de acordo com o objeto pactuado, mas
+sem registro de conclusão e de funcionamento no Sismob.
+186. Acerca dos instrumentos utilizados para retomada, a reativação objetiva regularizar a
+situação das obras ou serviços de engenharia em funcionamento sem registro no Sismob, em outras
+palavras, trata-se de alteração administrativa em sistema. Já as repactuações buscam celebrar termo
+formal entre ente federativo e o Ministério da Saúde, a fim de retomar a execução física daqueles
+paralisados ou inacabados. Por fim, as reprogramações englobam as alterações de projeto básico ou
+termo de referência original da obra ou serviço de engenharia, ou seja, aquelas obras inacabadas
+que demandam alterações de projetos e que comprovem a viabilidade.
+187. O procedimento é iniciado com a Manifestação de Interesse do ente federativo, tanto para os
+casos de reativações, orientada nos arts. 7° ao 9°, e de repactuações, normatizadas nos
+arts. 10 ao 14. Acrescenta-se que, em caso de ausência de manifestação, haverá implicações que
+31
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 32 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+incluem o impedimento de prorrogação do prazo vigente, no caso de paralisações; cancelamento da
+habilitação da obra ou serviço de engenharia inacabado e aplicação dos procedimentos
+administrativos decorrentes; e instauração de Tomada de Contas Especial (TCE), se cabível (art.
+6°).
+188. O art. 20 regulamenta sobre o aporte de recursos, de parcela única, necessário aos entes
+federativos para que finalizem as obras: as repactuações serão formalizadas com base no Índice
+Nacional de Custo da Construção (INCC) acumulado no período de 2007 a 2022, variando de
+206,51% a 8,97% (Anexo da Portaria GM/MS 3.084/2024). Além de recursos do orçamento da
+União, ainda poderão ser utilizados recursos de orçamento do ente federativo ou de emendas
+impositivas individuais ou de iniciativa de bancada estadual ou distrital de parlamentares
+apresentadas ao projeto de orçamento da União.
+189. Por fim, aqueles entes que concluíram as obras com recursos próprios poderão requerer ao
+Ministério o ressarcimento da verba pactuada originalmente e pendente de pagamento, entretanto, o
+procedimento depende de regulamentação da pasta.
+190. Com a finalidade de auxiliar os gestores no âmbito do Pacto e dar transparência às
+informações sobre os contratos de obra na área de saúde, o Fundo Nacional de Saúde (FNS)
+elaborou painel para acompanhamento das repactuações e reativações. A ferramenta possibilita
+identificar as obras paralisadas ou inacabadas nos municípios de modo a colaborar nas etapas de
+Manifestação de Interesse e de conferência de dados, permitindo, ainda, a atualização no sistema
+InvestSUS.
+Figura 21 – Painel de Retomada de Obras - Portaria GM/MS 3.084/2024
+Fonte:
+https://infoms.saude.gov.br/extensions/CGIN_Painel_Obras_Resultado/CGIN_Painel_Obras_Resul
+tado.html, acesso em 5/7/2024
+191. A seguir, foi realizada análise das pastas que integram a temática saúde: Ministério da Saúde
+e Funasa.
+IV.1 Ministério da Saúde
+192. A classificação de 5.573 obras elegíveis à retomada foi questionada ao Ministério da Saúde
+por meio do Ofício 18.698/2024-TCU/Seproc (peças 496 e 497) nos aspectos de critérios para
+eleição desses investimentos, considerando as previsões orçamentárias.
+193. Em resposta, por Despacho COHC/CGFAP/SAPS/MS (peça 519), foi informado que a fonte
+de informação utilizada para o enquadramento das obras elegíveis ao Pacto e, assim, os dados dos
+32
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 33 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+empreendimentos foram retirados do Sismob, esclarecendo que, para a reativação ou retomada de
+obras, os critérios avaliados foram: obras com algum percentual de execução; propostas que
+tenham recebido algum recurso federal; e obras canceladas ou em cancelamento que não
+devolveram os recursos repassados pelo Ministério da Saúde.
+194. Informou que a inclusão de empreendimentos não paralisados entre os elegíveis ao pacto é
+justificada pelo interesse público na regularização das obras e serviços de engenharia custeados
+pelo Ministério da Saúde, que estão paralisados e inacabados, nos termos da Portaria GM/MS
+3.084/2024, como já exposto no §187 dessa instrução.
+195. Ainda, explicou que a classificação de obras como “inacabada”, a qual não era encontrada no
+Sismob ou painéis do FNS até o ano passado, passou a ser utilizada a partir da Lei 14.719/2023,
+que instituiu o Pacto Nacional pela Retomada de Obras e de Serviços de Engenharia Destinados à
+Educação Básica e Profissionalizante e à Saúde.
+196. Por fim, aduziu que as propostas canceladas e em processo de cancelamento, que receberam
+recursos na modalidade fundo a fundo, independentemente do nível de execução, foram
+adicionadas ao painel para permitir que os entes federados atualizem o andamento das obras nos
+municípios.
+197. Estas respostas fornecem um panorama detalhado das ações e justificativas do Ministério da
+Saúde em relação ao Pacto de Retomada de Obras da Saúde e ao monitoramento e classificação das
+obras por meio do Sismob.
+198. Com relação às obras inacabadas, registra-se que este conceito é novo na pasta, e não é
+especificado na Portaria de Consolidação GM/MS 06, de 28 de setembro de 2017 (Consolidação
+das normas sobre o financiamento e a transferência dos recursos federais para as ações e os
+serviços de saúde do Sistema Único de Saúde), a qual, no Título IX "Do financiamento fundo a
+fundo para execução de obras", traz os marcos gerenciais para classificação e monitoramento da
+situação das obras quando determina seus prazos no artigo 1.110 (peça 533, p. 8):
+Art. 1110. Os estados, Distrito Federal e municípios com proposta habilitada disporão dos
+seguintes prazos máximos para conclusão das etapas: (Origem: PRT MS/GM 381/2017, Art.
+7º) I - Etapa de Ação preparatória - fase iniciada com a habilitação da proposta em portaria
+específica e finalizada com o parecer favorável para transferência dos recursos da União,
+devendo ser superada dentro do prazo máximo de 270 (duzentos e setenta) dias, prorrogáveis
+por mais 270 (duzentos e setenta) dias; (Origem: PRT MS/GM 381/2017, Art. 7º, I)
+II - Etapa de Início de execução da obra - fase iniciada com a transferência dos recursos
+financeiros da União e finalizada com a informação de execução de 30% da obra, devendo
+ser superada dentro do prazo máximo de 90 (noventa) dias, prorrogáveis por mais 90
+(noventa) dias; (Origem: PRT MS/GM 381/2017, Art. 7º, II)
+III - Etapa de Execução e Conclusão da obra - fase iniciada com a informação de execução
+de 30% (trinta por cento) da obra e finalizada com a informação de execução de 100% da
+obra, devendo ser superada dentro do prazo máximo de 270 (duzentos e setenta) dias,
+prorrogáveis por mais 270 (duzentos e setenta) dias; e (Origem: PRT MS/GM 381/2017, Art.
+7º, III)
+IV - Etapa de Entrada em Funcionamento - aplicável para os objetos ampliação e construção,
+fase iniciada com a informação sobre execução de 100% da obra e finalizada com a
+informação sobre a data de início do funcionamento e número do registro no Cadastro
+Nacional de Estabelecimentos de Saúde (CNES), devendo ser superada dentro do prazo
+máximo de 90 (noventa) dias, prorrogáveis por mais 90 (noventa) dias. (Origem: PRT
+MS/GM 381/2017, Art. 7º, IV)
+§ 1º As etapas dispostas no "caput" servem de marcos gerenciais para classificação e
+monitoramento da situação e dos prazos, por parte do Ministério da Saúde; (Origem: PRT
+MS/GM 381/2017, Art. 7º, § 1º).
+33
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 34 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+199. Nesse contexto, os painéis da casa que refletem as situações registradas no Sismob não
+apresentam a referida classificação, criando uma visão diferente da carteira de obras em relação ao
+apresentado nos painéis referentes do pacto de retomada de obras da Saúde.
+200. Oportuno pontuar a obrigatoriedade de atualização do Sismob a cada 60 dias, abrangendo
+todas as fases do andamento da obra, desde o planejamento, a qual está fundamentada legalmente
+nos artigos 9º, 10 e 11 da Portaria GM/MS 381/2017.
+201. Esta exigência legal visa garantir um acompanhamento efetivo e periódico do progresso das
+obras, sendo aplicável tanto para propostas que foram habilitadas antes quanto para aquelas
+habilitadas após o ano de 2017.
+202. A não observância desta determinação, que inclui a atualização regular do status da obra no
+sistema, pode resultar no cancelamento do projeto, o bloqueio do sistema para inserção de
+informações da obra e na consequente necessidade de devolução dos recursos financeiros alocados,
+reputando a este gatilho a quantidade massiva de obras canceladas na área de saúde.
+203. Abaixo, há um comparativo com as situações das obras classificadas como paralisada e em
+cancelamento em painel que contém informações dos dados de execução, monitoramento e
+avaliação sobre as obras celebradas na modalidade fundo a fundo retiradas do Sistema de
+Monitoramento de Obras Fundo a Fundo (Sismob).
+Figura 22 – Painel obras celebradas na modalidade Fundo a Fundo pelo Ministério da Saúde.
+Fonte: Painel Obras Fundo a Fundo do FNS (disponível em:
+https://infoms.saude.gov.br/extensions/CGIN_Painel_SISMOB/CGIN_Painel_SISMOB.html#GUI
+A01, acesso em 15/7/2024).
+Figura 23 – Painel obras celebradas na modalidade Fundo a Fundo pelo Ministério da Saúde.
+34
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 35 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Fonte: Painel Obras Fundo a Fundo do FNS (disponível em:
+https://infoms.saude.gov.br/extensions/CGIN_Painel_SISMOB/CGIN_Painel_SISMOB.html#GUI
+A01, acesso em 15/7/2024)
+204. O Sismob do Ministério da Saúde apresenta um dado preocupante: 1.768 obras estão
+classificadas como "em cancelamento", somando um investimento total de R$ 540 milhões. No
+entanto, conforme demonstrado nos parágrafos 75-82, considera-se todas essas obras como
+paralisadas. Um aspecto relevante é o percentual de desembolso médio de 77,07% desse valor,
+indicando que uma parcela significativa dos recursos já foi liberada em relação ao total previsto
+sem que o empreendimento esteja em operação.
+205. Noutro giro, resta clara a falha ao estruturar conceitos intuitivos e transparentes para
+apresentar a situação da carteira de obras à sociedade. Um grande exemplo é a classificação de obra
+cancelada. Isso porque o cancelamento na verdade se refere a portaria de habilitação, e não a obra
+em si.
+206. No entanto, os painéis da pasta apresentam a informação de forma truncada, dando a
+entender que a obra em si foi cancelada. Entende-se que a conotação dada ao termo cancelada no
+contexto narrado pode ser de que ele não é mais necessário ou possível. Quando, a bem da verdade,
+segundo art. 1.114, inciso II, da Portaria de consolidação 6/2017, as portarias de financiamento por
+transferência fundo a fundo é que foram desabilitadas por razões diversas como, por exemplo, a
+perda de prazo para comprovação.
+207. Nesse contexto, a utilização da nomenclatura "cancelada" para obras que estão, na realidade,
+inacabadas, pode levar a uma interpretação equivocada sobre o status e a necessidade dessas obras,
+especialmente no contexto do Ministério da Saúde (MS), onde a demanda por assistência em saúde
+é uma questão crítica.
+208. Para abordar essa questão de forma eficaz, é fundamental propor um encaminhamento que
+não apenas ajuste a terminologia utilizada, mas também promova uma comunicação mais clara e
+eficiente sobre o andamento e a importância dessas obras.
+209. O MS deve revisar a nomenclatura utilizada para descrever a situação das obras, substituindo
+o termo "cancelada" por uma terminologia que reflita mais precisamente o estado atual e a intenção
+futura para a obra. A classificação "obra inacabada" estabelecida pela Lei 14.719/2023 mostra-se
+mais sugestivo ao contexto específico de projeto nessa situação, sendo necessária a avaliação no
+caso concreto.
+210. Registra-se também, que após o cancelamento da portaria no Sismob, não é mais possível a
+atualização da situação da obra por parte do gestor local. Isso compromete o acesso do cidadão aos
+dados atualizados das obras.
+211. De certo que se deve estabelecer um mecanismo de comunicação que ofereça informações
+atualizadas e transparentes sobre o andamento das obras, incluindo os motivos para qualquer
+interrupção ou atraso. É necessário assim, que os gestores locais, responsáveis pela execução dos
+projetos, tenham a possibilidade, a qualquer tempo, de atualizar as informações da obra que são
+disponibilizadas para a sociedade. Assim, é premente o ajuste na plataforma para que se permita
+esse acesso, mesmo que o ajuste tenha sido cancelado.
+212. O Ministério da Saúde deve garantir que o Sismob seja atualizado regularmente com
+informações precisas, confiáveis e atualizadas sobre o andamento das obras, refletindo a realidade e
+permitindo o acompanhamento transparente da situação por parte da sociedade.
+213. É nesse contexto que se concretiza o conflito na apresentação das informações quanto a
+situação das obras vinculadas ao Ministério da Saúde. Na prática, em 2023, foram registradas 318
+obras nessa condição, número que saltou para 4.580 em 2024. Essa variação expressiva deve-se,
+em grande parte, à reclassificação de obras anteriormente categorizadas como canceladas no
+Sismob para obras efetivamente paralisadas.
+214. Tal reclassificação foi fundamentada pelo Acórdão 2.134/2023-TCU-Plenário, que
+evidenciou que a performance da carteira de obras da pasta estaria sendo camuflada pela forma de
+35
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 36 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+classificação utilizada na apresentação da evolução dos projetos nos painéis da pasta, conforme
+detalhado nos §§75-82.
+215. Ainda sobre o sistema informatizado de acompanhamento de obras gerido pelo Ministério da
+Saúde, acrescenta-se que o monitoramento julgado no Acórdão 517/2024-TCU-Plenário
+determinou a integração do Sismob ao Obrasgov.br:
+9.3. determinar ao Ministério da Saúde, com fundamento no art. 43, inciso I, da
+Lei 8.443/1992, c/c o art. 250, inciso II, do Regimento Interno do TCU, que, com o apoio do
+Ministério da Gestão e da Inovação em Serviços Públicos, no prazo de 90 (noventa) dias,
+integre efetivamente o (Sismob) à Plataforma Obrasgov.br para o devido cadastramento das
+obras federais executadas com recursos de transferências fundo a fundo.
+216. A exigência foi fruto da inexistência de registro de obras custeadas com transferências fundo
+a fundo no cadastro unificado, tampouco obrigação para tal. Em que pese existir no sistema do
+Ministério, de modo a fomentar a transparência das ações, conforme descrito nos parágrafos
+anteriores desse relatório, não há comunicação entre as informações requeridas ao Sismob e ao
+Obrasgov.br, dificultando a consolidação de informações.
+217. Outro ponto é relacionado a finalidade dos registros no Sismob, observa-se que as
+informações do Sistema buscam atender mais a gestão contratual do que a transparência, tendo em
+vista, por exemplo, as situações de obras, como ‘em ação preparatório, ‘em cancelamento’, ‘em
+início de execução’.
+218. Diante do exposto, considerando que o contexto apresentado se enquadra na problemática
+abordada no tópico III, entende-se que a recomendação de centralizar a gestão e publicação das
+obras nas plataformas Transferegov e Obrasgov se encaixa como pertinente à situação encontrada
+no Ministério da Saúde.
+IV.2 Fundação Nacional de Saúde (Funasa)
+219. Quanto à Fundação Nacional de Saúde (Funasa), foram realizadas diligências no sentido de
+compreender a situação atual da carteira de obras da autarquia, avaliar os critérios de classificação
+de obras paralisadas sob sua responsabilidade e, ainda, verificar como o contexto de extinção da
+entidade afetou as ações de planejamento e acompanhamento da execução dos empreendimentos.
+220. O Despacho 92/2024-DENSP, emitido pela Funasa, trouxe um panorama detalhado sobre a
+gestão da carteira de obras da autarquia entre os anos de 2019 e 2024. O documento foi elaborado
+em resposta ao Ofício 21.442/2024-TCU/Seproc (peça 522), com o intuito de fornecer um relato
+sobre a evolução das obras sob responsabilidade da Funasa, conforme determinado pelo
+Acórdão 1.079/2019-TCU-Plenário.
+221. O detalhamento sobre o status das obras é: não executadas, em execução, paralisadas,
+concluídas, entre outros, e, entre 2019 e 2022, foram pactuados um total de 794 instrumentos
+relacionados a obras, com 723 vigentes e 71 não vigentes, sem repactuações em 2023 e 2024 (peça
+521, p. 3).
+222. Esses instrumentos foram retirados do Transferegov.br, ou seja, são parte de transferências
+de recursos oriundos do Orçamento Fiscal e da Seguridade Social da União à Fundação, e
+segregados nas seguintes ações: água, drenagem, esgoto, melhorias habitacionais para o controle da
+doença de chagas (MHCDC), melhorias sanitárias domiciliares (MSD) e resíduos (peça 521, p. 3).
+223. Sobre os instrumentos de execução direta pela Fundação, considerando a inexistência de
+dados sistematizados, não foram incluídos no levantamento (peça 521, p. 7)
+224. A Ordem de Serviço 1/2015 estabelece critérios de avaliação utilizados e demais ações sob a
+responsabilidade da Funasa, introduzindo definições específicas sobre o estágio de execução física
+de obras e outras ações que são objeto de acompanhamento pela instituição. Assim, quanto ao
+status da obra e demais ações, eles são classificados da seguinte maneira (peça 522):
+a) Não Executada: inclui obras ou ações que não foram iniciadas, abrangendo situações
+como instrumentos vigentes a serem encerrados por solicitação, instrumentos com vigência
+36
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 37 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+expirada, instrumentos cancelados, e instrumentos em fase de prestação de contas,
+subdividida em obras com licitação concluída ou não.
+b) Em Execução: inclui obras ou ações em andamento com instrumentos vigentes.
+c) Paralisada: obras ou ações temporariamente interrompidas, sem informação por falta de
+relatórios de andamento, paralisadas por declaração do gestor, ou sem evolução no
+percentual de execução.
+d) Em Execução - Reiniciada: refere-se a obras ou ações que foram reiniciadas após um
+período de paralisação.
+e) Concluída: inclui obras concluídas dentro da vigência do instrumento de transferência,
+com percentual de execução física igual ou inferior a 100%, em conformidade com o objeto
+do instrumento de repasse, subdivididas em avenças com ou sem pendências de
+documentação, com ou sem etapa útil e, por último, sem início da operação.
+f) Encerrada Sem Etapa Útil: obras encerradas ou inconclusas que não atingem etapa útil.
+225. Por etapa útil, entende-se ser a fase da obra que pode ser colocada em funcionamento
+imediatamente após a conclusão dos serviços.
+226. Outra situação adotada pela pasta é o caso de instrumentos de repasse que já tenham parecer
+técnico emitido nos processos, mas não possam ser atualizados no sistema pela indisponibilidade
+do técnico responsável. A alternativa adotada é a utilização do Relatório Informativo com os status
+de obras ou demais definidos nesta Ordem de Serviço.
+227. Ainda, foi questionada sobre os riscos afetos a gestão da carteira de obras, e foi destacado
+em resposta sobre os impactos da pandemia de Covid-19 e da Medida Provisória 1.156, de 1° de
+janeiro de 2023, que propôs a extinção da autarquia, afetando severamente a capacidade
+operacional e a continuidade dos projetos. Essas condições adversas restringiram
+significativamente a possibilidade de acompanhamento pleno dos instrumentos de repasse,
+resultando em prejuízos à instituição, principalmente no que tange ao controle e gestão da carteira
+de obras (peça 521, p. 8).
+228. Para enfrentar esses desafios, a Funasa instituiu dois grupos de trabalho: um para realizar um
+diagnóstico da carteira de instrumentos de repasse e outro para propor a execução do orçamento
+para 2024 (peça 521, p. 8). Essas iniciativas foram adotadas com o intuito de identificar
+incompatibilidades, subnotificações, e insuficiências nas regras e conceitos que determinam a
+tipificação das diversas situações de obra, além de propor estratégias para a execução das dotações
+orçamentárias das áreas de saneamento básico e de saúde ambiental para o exercício de 2024.
+229. Inicialmente, a Fundação apresentou relatório preliminar sobre o diagnóstico da situação dos
+instrumentos de repasse (peça 527). Os instrumentos foram retirados da planilha Base Instrumentos
+de Repasse Saneamento Básico (peça 523), constantes no SIGA, sistema utilizado pela Fundação
+para realizar o acompanhamento das obras, e que o grupo considerou determinado grau de quebra
+de fidedignidade dos dados extraídos dos sistemas de informação, e em razão do cenário
+institucional. Essa quebra foi estimada em 300 instrumentos de repasse. No entanto, medida
+suficiente para corroborar à segurança dos trabalhos devido à pouca representatividade,
+considerando o universo de instrumentos de repasse examinados (peça 527, p. 2).
+230. O desafio identificado foi a gestão dos instrumentos de repasse que se encontram em
+diferentes estágios de execução, incluindo aqueles com obras em execução, obras paralisadas e
+obras ainda não iniciadas. Constatou-se que 15.865 instrumentos de repasse celebrados pela Funasa
+desde 2002, excluídos os cancelados sem qualquer desembolso financeiro, sendo que: 8.558
+haviam sido concluídos, 1.397 com objeto em execução, 3.973 com execução física ainda não
+iniciada e 192 com obras paralisadas (peça 527, p. 2).
+231. A respeito da exclusão dos objetos cancelados sem execução, foi informado que a métrica
+Taxa de Insucesso seria responsável pelo tratamento dos cancelamentos. A taxa corresponde ao
+universo de instrumentos de repasse cancelados sem qualquer processamento financeiro sobre o
+37
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 38 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+total de instrumentos, mensurada em 26,2%. O valor representa perda de recursos, uma vez que a
+maioria dos instrumentos são cancelados em exercício posterior ao da celebração, impedindo o
+reaproveitamento dos respectivos saldos orçamentários para lastrear novos empreendimentos (peça
+527, p. 5).
+232. A respeito desses dados, verifica-se que as paralisações representam 1,21% do total, pouco
+significativo. Entretanto, o número diverge daquele disposto no Painel de Obras do TCU (246),
+com dados retirados dos registros da instituição. Outra constatação é que, mesmo com baixo
+número de paralisações, os objetos com execução física não iniciada representam 25,04% sem o
+registro das causas ensejadoras desse entrave. Considerando a flagrante dificuldade na produção de
+informações que servem à gestão dos empreendimentos, vislumbra-se que alguma parte desse
+quantitativo possa ser resultado da ausência de acompanhamento adequado por parte dos entes
+locais. Ainda segundo o relatório, o grande desafio para a instituição são os instrumentos que se
+encontram em execução (1.397), os com obras paralisadas (192) e os com obras ainda não iniciadas
+(3.973), totalizando 5.562, tendo em vista que representam compromisso para a política pública de
+saneamento e demanda iniciativas para conclusão (peça 527, p. 3).
+233. O relatório ainda dispõe sobre o diagnóstico preliminar com as situações das obras por
+estados e quais medidas poderiam ser tomadas, segundo o grupo (peça 527, p. 3-9). Destaca-se a
+existência de 2.989 instrumentos de repasse celebrados há mais de cinco anos, sem início de obras
+e com perda de vigência.
+234. Para esses casos, o grupo sugere que seja confirmada a perda de vigência e que proceda o
+cancelamento dos instrumentos. Verifica-se que é de suma importância a confirmação sobre a real
+situação dos instrumentos, considerando que, em caso de transferência de recursos, faz-se
+necessário procedimentos adicionais para tomada de contas e devolução de recursos, por exemplo.
+235. Foi apontada também a existência de instrumentos de repasse com obras paralisadas,
+vigentes e sem relatório de acompanhamento há mais de dois anos. Essas situações de ausência de
+registros, acompanhada da quebra de fidedignidade já exposta, evidencia a necessidade premente
+da Funasa retomar o controle sobre os contratos de prestação de serviços relacionados à área de
+tecnologia da informação.
+236. Foi informado ainda que, do total de instrumentos desde 2002, 1.010 foram encerrados sem
+que os objetos tivessem alcançado etapa útil e outros 735 considerados como não executados (peça
+527, p. 2). Segundo a instituição, instrumentos encerrados sem etapa útil são aqueles em que a
+maioria estão com obras concluídas, mas sem funcionamento, considerando a redução de metas da
+política pública por conta de problemas em outras frentes. Para esses casos, em sua maioria, houve
+prestação de contas com devolução de recursos.
+237. A situação se mostra preocupante, pois são casos com obras dadas como concluídas, as
+quais, em sua maioria, pela ausência de funcionalidade, não resulta em contribuição para a
+prestação do serviço público planejado, impedindo a consecução dos objetivos das políticas de
+saúde, representando em muitos casos uma edificação inutilizada.
+238. Entende-se que parte desses empreendimentos caracterizariam, por serem obras inconclusas
+e sem instrumento vigente, a classificação inacabada, conforme define o art. 2° inciso II da Lei
+14.719/2023, a saber: aqueles que tenham instrumento vencido e não estejam concluídos.
+239. Diante do relatado, o grupo submeteu os encaminhamentos: (i) recomposição da força de
+trabalho; (ii) melhoria das funcionalidades nos sistemas de informação (SIGA), como o lançamento
+automatizado da informação quando o instrumento for cancelado e a atualização automática de
+vigências, de notas de empenho e de ordens bancárias; (iii) regra para existência de um relatório de
+acompanhamento por ano para cada instrumento de repasse em execução; (iv) avaliação da
+proposta de cancelamento automatizado de instrumentos com saldo de empenho zerado, não
+vigentes e sem pagamentos; (v) avaliação de complementação de empenho para os instrumentos
+com empenho parcial e que estejam em vigência com percentual de execução física acima de 50%;
+(vi) definição de estratégias para a aplicação das dotações orçamentárias das ações transversais
+38
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 39 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+estruturantes, como 20AG (Apoio à Gestão); 20T6 (Saúde Ambiental); e 20Q8 (Fortalecimento
+Institucional) (peça 527, p. 9).
+240. O segundo grupo de trabalho, implementado pela Portaria Funasa 230, de 25 de março de
+2024, objetiva propor estratégias para a execução das dotações orçamentárias de 2024 nas áreas de
+saneamento básico e saúde ambiental.
+241. O grupo apresentou relatório preliminar (peça 524), o qual, além de apresentar diagnóstico
+dos instrumentos de repasse e identificar os desafios na gestão dos recursos da autarquia, propõe
+abordagens e medidas de enfrentamento. De maneira detalhada, são apresentadas as dotações
+orçamentárias finalísticas, incluindo valores iniciais, custeio, investimento e disponibilidade após
+cancelamentos (peça 524, p. 1).
+242. Além disso, também foi necessário definir estratégias para alocação de recursos em cada
+ação orçamentária, com os correspondentes critérios de elegibilidade e de priorização, com a
+apresentação dos saldos remanescentes após complementação dos empenhos de cada instrumento e
+a prospecção de estratégias para a execução desses saldos (peça 524, p. 3-4). Estabelece, ainda, um
+cronograma de trabalho para a execução das dotações orçamentárias conforme as estratégias
+propostas (peça 524, p. 4).
+243. Nesta senda, observa-se que os problemas identificados no relatório são multifacetados e
+abrangem desde a falta de acompanhamento e registro de dados até incompatibilidades e
+subnotificações nos sistemas de informação, o que revela a alta complexidade e dimensão do
+problema enfrentado atualmente pela autarquia.
+244. Entretanto, constata-se que a Funasa tem se empenhado em ações para impulsionar seus
+contratos de obras, considerando que as causas para o cenário apresentado se concentram na
+ausência de recursos orçamentários e em dificuldades operacionais. Diante desse cenário de
+escolha para aplicação de recursos, a definição de critérios de priorização e eleição para
+desenvolver os contratos de obras se mostrou pertinente, e com base em necessidades na área de
+saúde. Como exposto no voto do Acórdão 2.134/2023-TCU-Plenário, a respeito do plano central
+para direcionar uma política pública para retomada de obras paralisadas:
+Nesta etapa, o centro de governo poderá definir quais pastas serão contempladas com o
+programa, as condições para o emprego dos recursos federais, as orientações a respeito
+da priorização das obras, as metas e indicadores de acompanhamento, a nomeação dos
+responsáveis, bem como os procedimentos a serem adotados no caso de inviabilidade de
+retomada.
+245. Do exposto, desde que a orientação do grupo de trabalho seja obedecida, a atuação da
+Fundação em definir as ações orçamentárias a serem priorizadas com critérios de elegibilidade e
+priorização é valoroso para concluir os instrumentos paralisados, tal qual orientado no citado
+Acórdão.
+246. Outro ponto é sobre a existência de sistema próprio para acompanhamento de obras, que
+dificulta a avaliação consolidada com a área de saúde. O atual comprometimento da capacidade
+operacional da autarquia que pode prejudicar a manutenção e evolução da plataforma SIGA e a
+possibilidade de uso de ferramenta centralizada recomendam, com base na racionalidade
+administrativa, a promoção da articulação intersetorial com o MGI a fim de que os
+empreendimentos da Funasa sejam registrados e operados a partir do Transferegov.br.
+247. Assim como descrito em relação ao Ministério da Saúde, verifica-se que o contexto
+apresentado se enquadra na problemática abordada no tópico III, e assim, a recomendação de
+centralizar a gestão e publicação das obras nas plataformas Transferegov.br e Obrasgov.br se
+encaixa como pertinente também a situação encontrada na Funasa.
+Conservação de patrimônio, atendimento de projetos em andamento e compartilhamento de
+informações.
+248. O item 9.6 do Acórdão 2.555/2022-TCU-Plenário tratou do envio de relatório com
+informações relativas ao cumprimento do art. 45 da LRF:
+39
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 40 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+9.6. determinar ao Ministério da Economia que, no prazo de 90 (noventa) dias, encaminhe
+informações sobre o cumprimento do disposto no art. 45, parágrafo único, da Lei
+Complementar 101/200, em especial acerca da ampla divulgação do relatório de que trata
+aquele dispositivo;
+249. Inicialmente, o art. 45 da referida Lei objetiva orientar a aplicação de recursos em
+investimentos com execução superior a um exercício financeiro:
+Art. 45. Observado o disposto no § 5° do art. 5°, a lei orçamentária e as de créditos
+adicionais só incluirão novos projetos após adequadamente atendidos os em andamento
+e contempladas as despesas de conservação do patrimônio público, nos termos em que
+dispuser a lei de diretrizes orçamentárias.
+Parágrafo único. O Poder Executivo de cada ente encaminhará ao Legislativo, até a data do
+envio do projeto de lei de diretrizes orçamentárias, relatório com as informações necessárias
+ao cumprimento do disposto neste artigo, ao qual será dada ampla divulgação. (grifos
+nossos)
+250. Em resposta a esse item, a Nota Informativa SEI 325/2023/MGI (peça 489) expõe que cabe a
+cada órgão do Poder Executivo prever os recursos necessários aos seus investimentos em
+andamento e as prioridades quando da elaboração da Lei de Diretrizes Orçamentárias (LDO).
+Ainda, acerca do relatório dos investimentos, o Departamento de Transferências e Parcerias da
+União (DTPAR) informou que o objetivo do CIPI (atual Obrasgov.br) é disponibilizar relatórios
+com dados de obras e empreendimentos federais de infraestrutura, incluindo os atos, documentos e
+informações, de modo a fomentar a transparência e controle social na gestão desses instrumentos.
+Conclui ainda que, com essas informações disponíveis, o Poder Executivo de cada ente pode
+realizar consultas e extrair relatórios com as informações necessárias à situação dos instrumentos
+sob sua gestão, de modo a cumprir o art. 45 da LRF (peça 489, p. 3-4).
+251. Entretanto, o registro, o tratamento e a atualização dessas informações no sistema são de
+responsabilidade das pastas executoras dos contratos, cabendo ao DTPAR o papel orientativo de
+centralizar e dar transparência aos dados enviados. Além dessa orientação, a ferramenta Rede de
+Parcerias, anteriormente chamada de Rede +Brasil, busca oportunizar ações voltadas à melhoria de
+processos e gestão de transferências e parcerias da União operacionalizadas pelo Transferegov.br e
+de projetos de investimentos registrados no Obrasgov.br (peça 489, p. 3-4).
+252. A partir da análise das informações fornecidas e com base nos itens 9.4 e 9.6 do Acórdão
+517/2024-TCU-Plenário, para aperfeiçoamento do CIPI como um cadastro unificado de obras e de
+investimentos do governo federal, faz-se necessário informações sobre execução física; integração
+com demais plataformas, como Comprasnet e Transferegov.br; e fidedignidade e completude dos
+dados (por exemplo: cadastro de obras paralisadas, procedimentos licitatórios e caderno de
+projetos). Ainda que a ferramenta fomente a ampla divulgação, há a necessidade de atualizações da
+plataforma, além do efetivo registro, tratamento e atualização dessas informações, para que atenda
+a obrigação contida no art. 45 da LRF.
+253. Em continuidade a temática relacionada a LRF, o item 9.10 do Acórdão 2.555/2022-TCU-
+Plenário, também estabeleceu:
+9.10. orientar a unidade técnica a incluir no próximo ciclo de acompanhamento:
+[...]
+9.10.2. verificação de quais os métodos e critérios objetivos utilizados para verificação do
+cumprimento do artigo 45 da LRF por parte ao menos de cada ente listado no subitem 9.1.1
+do Acórdão 1.228/2021-TCU-Plenário;
+254. O processo que deu origem ao Acórdão 1.079/2019-TCU-Plenário estabelece que uma das
+causas raízes de paralisações é a ausência de recursos orçamentários e financeiros para suportar os
+contratos de obras. Assim, a orientação busca verificar como os ministérios destinam os recursos
+no exercício financeiro para as obras em andamento, de modo a atender o cronograma aprovado, e
+comparar com os novos empreendimentos. O voto no Acórdão 2.555/2022-TCU-Plenário explicita:
+40
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 41 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+98. Não basta garantir genericamente que mandarei recurso para a obra, é preciso contemplar
+esse projeto com o valor necessário para que ele seja executado de acordo com o seu
+cronograma, ou seja, contemplar devidamente um objeto com o recurso necessário para a sua
+conclusão.
+99. Assim, nada melhor que o cronograma atualizado da obra para informar quanto aquela
+obra precisa naquele ano para ser entregue dentro do prazo. Ora, se ela precisa de x e só
+autorizam 0,5x já se abre uma brecha para que ela sofra interrupções no fluxo de execução e
+atrasos. Em paralelo, iniciam-se obras sem nenhum elemento que indique urgência ou
+relevância em detrimento de aportar recursos para objetos já iniciados e por vezes em fase de
+finalização.
+255. A necessidade se mostra ainda mais pertinente diante de programas sociais que permitem o
+custeio com emendas parlamentares individuais e de bancada, tal qual o caso do Pacto de
+Retomada da Saúde, regulamentado pela Portaria GM/MS 3.084/2024, e Minha Casa, Minha Vida-
+Cidades, regulamentado pela Portaria MCID 1.295, de 5 de outubro de 2023.
+256. Diante do impasse da ciência econômica de necessidades ilimitadas e recursos finitos, a
+destinação de emendas parlamentares a problemas sociais é uma forma de viabilizar recursos
+orçamentários para conclusão dos empreendimentos em andamento. No entanto, ainda há o
+problema de ausência de critérios objetivos na aplicação, a partir da necessidade de urgência e
+relevância no âmbito local.
+257. Uma tentativa para viabilizar investimentos em projetos em andamento, a ADI 7.697 exigiu,
+em cautelar, que os recursos provenientes de emendas parlamentares impositivas sejam destinados
+exclusivamente a projetos já iniciados ou a situações emergenciais reconhecidas como calamidade
+pública. Em resposta, a Portaria Conjunta MF/MPO/MGI/CGU/SRI-PR 111/2024 foi desenhada
+com o fim de orientar a execução desses recursos.
+258. Ainda neste contexto, o Acórdão 517/2024-TCU-Plenário, último monitoramento realizado
+acerca do tema obras paralisadas, determinou que o item 9.1.9 do Acórdão 1.079/2019-TCU-
+Plenário fosse monitorado por este processo de acompanhamento.
+259. A recomendação destinada ao Ministério da Economia, atualmente Ministério da Gestão e
+Inovação (MGI), expôs que, em caso de ausência de capacidade financeira, faz-se necessário a
+priorização de investimentos em andamento até a conclusão, evitando iniciar novos
+empreendimentos, de modo a atender aos preceitos do arts. 16 e 45 da Lei de Responsabilidade
+Fiscal (LRF):
+9.1. recomendar ao Ministério da Economia, com fulcro no art. 43, inciso I, da
+Lei 8.443/1992, combinado com o art. 250, inciso III, do Regimento Interno do Tribunal de
+Contas da União, que, em conjunto com os demais ministérios que gerenciam recursos
+destinados a obras públicas, adote providências com vistas a:
+9.1.9. fortalecer iniciativas de compartilhamento de informações, de forma tempestiva e
+qualificada, entre legislativo e executivo, aprimorando os mecanismos de avaliação dos dois
+poderes quanto aos compromissos já assumidos para observância dos parâmetros indicados
+na Lei de Responsabilidade Fiscal, em especial os arts. 16 e 45;
+260. Oportuno registrar a autuação do TC 008.228/2023-0 promovida para que a Unidade de
+Auditoria Especializada em Infraestrutura Urbana e Hídrica, em conjunto com a Unidade de
+Auditoria Especializada em Orçamento, Tributação e Gestão Fiscal, deste Tribunal, monitorem a
+elaboração e a implementação de plano de ação para o efetivo cumprimento do princípio
+orçamentário da anualidade na gestão dos recursos alocados na Lei Orçamentária Anual aos órgãos
+setoriais, em cumprimento ao item 9.3 do Acórdão 710/2023-TCU-Plenário, de relatoria do
+Ministro Jorge Oliveira.
+261. O referido comando direcionado aos Ministérios da Integração e do Desenvolvimento
+Regional (MIDR), da Fazenda (MF), do Planejamento e Orçamento (MPO) e da Gestão e da
+Inovação em Serviços (MGI), considera inclusive eventual necessidade de revisão das normas
+41
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 42 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+infralegais que regem transferências de recursos da União para melhor harmonização com o
+arcabouço normativo que disciplina a execução das despesas públicas.
+262. Neste momento, entende-se que o objetivo central das decisões se associa ao custeio dos
+investimentos, tanto do ponto de vista do compartilhamento de informações entre os poderes para
+avaliar os compromissos já assumidos, adotando como parâmetro os critérios de geração de
+despesa da LRF (art. 16) e a prioridade dos projetos em andamento sobre os novos investimentos
+(art. 45). Quanto do ponto de vista da avaliação da gestão orçamentária e financeira ao monitorar a
+elaboração de plano de ação para efetivo cumprimento do princípio da anualidade.
+263. Registra-se que o TC 008.228/2023-0, conduzido em colaboração com a unidade técnica
+AudFiscal, também busca avaliar a gestão orçamentária e financeira do Ministério da Integração e
+do Desenvolvimento Regional e de outros ministérios e verificar o efetivo cumprimento ao
+princípio orçamentário da anualidade na gestão dos recursos alocados na Lei Orçamentária Anual
+(LOA).
+264. Assim, considerando a forte correlação dos objetos, e a pertinência temática das
+determinações 9.6 e 9.10.2, ambas do Acórdão 2.555/2022-TCU-Plenário e do item 9.1.9 do
+Acórdão 1.079/2019-TCU-Plenário, será proposto que as ações relacionadas ao efetivo
+cumprimento do art. 45 da LRF, com a elaboração e a ampla divulgação de relatório que contenha
+informações sobre a conservação de patrimônio, atendimento de projetos em andamento em
+prioridade aos novos projetos e o compartilhamento de informações entre os poderes para apoiar a
+alocação dos recursos, sejam avaliadas e monitoradas no referido processo.
+PROCESSOS SOBRE OBRAS PARALISADAS
+265. Como mencionado no histórico dessa instrução, essa temática de obras paralisadas vem
+sendo acompanhada por esse Tribunal há vários anos. Cabe relacionar os últimos processos
+referentes ao tema:
+a) TC 011.196/2018-1 – Fiscalização de obras paralisadas no país financiadas com
+recursos da União. Decisão: Acórdão 1.079/2019-TCU-Plenário;
+b) TC 021.731/2019-5 – Acompanhamento de obras paralisadas, autorizado no
+Acórdão 1.079/2019 – Obras Paralisadas. Decisões: Acórdãos do Plenário do TCU
+1.228/2021 e 2.555/2022;
+c) TC 036.106/2019-4 – Monitoramento do Acórdão 1.079/2019 – Obras Paralisadas.
+Decisões: Acórdãos do Plenário do TCU 1.328/2020, 871/2022 e 517/2024;
+d) TC 037.127/2023-3 – Monitoramento do Acórdão 2.134/2023 – Gestão da carteira de
+obras paralisadas (processo originário TC 009.197/2022-2).
+266. Como forma de centralizar as informações e facilitar a gestão processual, propõe-se:
+266.1. Arquivar o presente TC 021.731/2019-5 – ACOM do Acórdão 1.079/2019-TCU-Plenário
+e apensá-lo ao TC 011.196/2018-1 – Fiscalização de obras paralisadas no país financiadas com
+recursos da União, tendo em vista que anualmente essa Corte já faz o acompanhamento das obras e
+publica a evolução em painel de obras próprio;
+266.2. Acompanhar os encaminhamentos que seriam tratados no presente processo no
+TC 037.127/2023-3 (monitoramento do Acórdão 2.134/2023-TCU-Plenário);
+266.3. Apensar o TC 036.106/2019-4 – MON do Acórdão 1.079/2019 – Obras Paralisadas ao
+TC 037.127/2023-3 – MON do Acórdão 2.134/2023 – Gestão da carteira de obras paralisadas, para
+que as informações sejam centralizadas e monitoradas em um mesmo processo.
+CONCLUSÃO
+267. A presente instrução trata do terceiro ciclo de acompanhamento e avaliação da evolução
+do cenário de paralisação de obras públicas em atenção à determinação contida no item 9.3. do
+Acórdão 1.079/2019-TCU-Plenário.
+42
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 43 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+268. Além desse acompanhamento, o presente trabalho tratou de outros quatro temas relacionados
+à gestão e monitoramento de obras públicas, quais sejam, verificou a aderência à determinação do
+item 9.5 do Acórdão 2.555/2022-TCU-Plenário, relacionada à atualização das informações de
+contratos de obras públicas, a fidedignidade e integralidade do Painel de Obras da Plataforma
+Transferegov.br; fez uma avaliação quanto aos critérios de classificação de obras e situação atual
+do segmento da saúde; tratou do monitoramento de determinações atinentes ao atendimento do art.
+45 da LRF, que trata da conservação de patrimônio e do atendimento de projetos em andamento,
+enfatizando a importância da preservação dos bens públicos e da continuidade das iniciativas de
+desenvolvimento.
+269. O primeiro aspecto avaliado trata da situação atual da carteira de obras executadas com
+recursos do OGU. Com a compilação dos dados realizada constatou-se que, em que pese a redução
+no valor total de investimento previsto para as obras que se encontram paralisadas, passando de R$
+32,23 bilhões em 2023 para R$ 29,36 bilhões em 2024, a parcela de ajustes paralisados apresentou
+um agravo preocupante nos dois últimos anos, subindo de 38,5% da carteira (2022), para 41%
+(2023), e para 52%, em 2024. Em outras palavras, a cada dez obras incluídas nos bancos de dados
+verificados, pelo menos quatro estavam paralisadas nos ciclos de 2022 e 2023. Para o atual cenário,
+em 2024, a cada dez obras inseridas nas bases, mais da metade estão paralisadas, evidenciando uma
+tendência preocupante.
+270. De acordo com dados do Painel de Acompanhamento de Obras Paralisadas do TCU,
+atualizados até abril de 2024, foram identificadas 11.941 paralisações para esse ciclo, o que
+representa 52,0% do total de obras vigentes (22.958). Entre as temáticas, a maior parte das obras
+paralisadas se concentra nos segmentos de saúde e educação, representando somadas (8.674)
+72,6% do total.
+271. Vislumbra-se que o aumento pode ser fruto dos esforços de levantamento e atualização de
+informações quanto ao cenário de paralisações, especialmente devido às ações adotadas em atenção
+ao Pacto de Retomada de Obras na área de Educação Básica e Profissionalizante e à Saúde,
+instituído pela Lei 14.719/2023.
+272. Nessa esteira, a equipe promoveu procedimentos de conciliação, agregação e uniformização
+dos dados, resultando em remoções de duplicidades e contratos que não eram de obras, bem como
+adições de obras existentes, não computadas em outros ciclos, tudo com base na Portaria
+SEGES/ME 25.405/2020, atualizada pela Portaria GI-SEGES 4.322/2023, que regulamenta o
+Cadastro Integrado de Projetos de Investimento (CIPI).
+273. Essa medida implicou em um aumento significativo de obras paralisadas na área de saúde,
+quando comparado com as 318 paralisações de 2023, totalizando 4.262 empreendimentos
+adicionados no painel em 2024. Já a educação básica, não afetada significativamente pela medida,
+registrou um aumento de 514 obras.
+274. Um avanço importante deste ciclo foi a inclusão da visão “Acompanhamento da Carteira” no
+painel de obras do TCU, o qual possibilitou a avaliação dos empreendimentos que continuam
+paralisados em 2024 em comparação com os registros de 2023. Desses registros, as novas obras,
+fruto de novas contratações, resultam em 4.731 contratos que demandam atenção a fim de evitar
+paralisações na gestão contratual; 2.180 obras paralisaram nesse período anual; 1.169 projetos
+foram retomados; e 5.473 empreendimentos foram concluídos no período.
+275. Na análise das conclusões de obras públicas, a infraestrutura e mobilidade urbana
+destacaram-se com o maior número de obras concluídas, totalizando 2.093, majoritariamente
+provenientes da base de dados da Caixa. Isso pode ser consequência dos controles adotados pela
+Caixa enquanto agente repassador de recursos, resultando em 49% das obras da carteira concluídas
+e 24,3% em execução. Por outro lado, as áreas de saúde e educação apresentaram um percentual de
+conclusões significativamente menor, pouco mais de 10% para cada setor.
+276. A segunda parte examinada nessa instrução referiu-se ao cumprimento da determinação
+contida no item 9.5 do Acórdão 2.555/2022-TCU-Plenário, que tratou da atualização das
+43
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 44 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+informações de contratos de obras públicas das entidades vinculadas ao desenvolvimento regional e
+o Ministério de Minas e Energia.
+277. Verificou-se que Codevasf, Dnocs e Sudeco envidaram esforços para atualizar os dados no
+Painel de Obras, atendendo o item 9.5 do Acórdão 2.555/2022-TCU-Plenário. Entretanto, faz-se
+necessário que o ministério a que estão vinculados faça a consolidação e disponibilização das
+informações, considerando que essas entidades não possuem acesso direto ao Painel.
+278. Além disso, verificou-se que os registros vinculados à temática de desenvolvimento regional,
+sob responsabilidade do MIDR, antigo MDR, podem indicar um déficit qualitativo, considerando:
+(i) a incompletude dos dados, por exemplo, com ausência de causas de paralisação; (ii) a ausência
+de comunicação entre os empreendimentos cujo filtro órgão superior é MIDR e MDR,
+considerando que deveriam representar as mesmas informações, contendo paralisações, execuções,
+prestações de contas; (iii) as desatualizações das bases, em que pese constar no Painel de Obras que
+a base do MDR foi atualizada em 1/8/2023, em análise específica dos empreendimentos, verificou-
+se que há registros de 22/8/2022 (nos casos de obras cuja causa raiz são problemas técnicos de
+execução) e de 11/8/2021 (nos casos de obras sem registros de causa de paralisação).
+279. Foi informado que os empreendimentos supervisionados pelo Ministério de Minas e Energia
+(MME), destinados a atender a demanda nacional, são financiados com recursos de natureza
+privada, não utilizando verbas públicas. Desse modo, a determinação do item 9.5 do Acórdão
+2.555/2022-TCU-Plenário pode ser vista como cumprida, com a ressalva de que o ente
+jurisdicionado consulte as informações disponíveis na plataforma para assegurar a precisão dos
+dados publicados.
+280. O terceiro ponto abordado neste acompanhamento dedicou-se a avaliar a centralização de
+informações de obras e gestão. Verificou-se que, em que pese as ações para desenvolver a
+plataforma Obrasgov.br (antigo CIPI) e oportunizar um cadastro único de projetos, de obras e de
+investimentos, a ausência de dados completos de toda a carteira no novo sistema ainda impede a
+análise compreensiva do estado atual da carteira.
+281. Observa-se duas dimensões importantes na problemática relacionada a fidedignidade e
+integralidade do Painel de Obras da Plataforma Transferegov.br: (i) a falta de convergência
+metodológica e de padronização de conceitos relacionados a classificação das obras; (ii) a
+dificuldade de centralização das informações, tanto no envio quanto no recebimento e consolidação
+dos dados.
+282. Essa incompatibilidade evidencia o cenário de fragmentação dos dados e diversidade de
+metodologias na gestão da carteira de obra, fundado na impossibilidade de verificar a situação das
+obras no Painel de Obras Transferegov, que deixou de receber atualizações de todos os setoriais
+antes que o Obrasgov.br tivesse os registros necessários para isso, com o agravo da constatação de
+que os órgãos setoriais publicaram painéis próprios de transparência, com classificações e
+metodologias próprias, divergindo da uniformização proposta pelo Acórdão 1.079/2019-TCU-
+Plenário e dos padrões estabelecidos pelas portarias do Ministério da Gestão e Inovação em
+Serviços Públicos (MGI), antigo Ministério da Economia.
+283. Além da atuação do órgão central para impulsionar o cadastro único de projeto, faz-se
+necessária a atuação dos executores de intervenções para que cooperem com o cadastro, de modo a
+reconhecer a importância desses esforços e adotem uma postura colaborativa, visando o bem
+comum e a melhoria contínua na gestão de obras públicas no país.
+284. Importante anotar a publicação da Portaria Conjunta MF/MPO/MGI/CGU/SRI-PR 111/2024,
+confeccionada em resposta a decisão no âmbito da ADI 7.697/DF, que torna obrigatório a
+utilização do registro na plataforma Transferegov.br ou Obrasgov.br para os empreendimentos,
+bem como orientou os procedimentos necessários para execução de emendas impositivas no
+repasse de recursos a obras efetivamente já iniciadas e em andamento ou para ações voltadas para
+atendimento de calamidade pública.
+285. Diante da necessidade de maior transparência e rastreabilidade na aplicação dos recursos
+públicos, sugere-se encaminhar recomendação para que os órgãos setoriais avaliem a oportunidade
+44
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 45 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+de utilizar a plataforma Transferegov.br não apenas para publicizar as obras objeto de emendas
+parlamentares impositivas, mas para realizar a gestão de todas as transferências destinadas à
+execução de obras centralizando o acompanhamento desses contratos e tornando possível a
+unificação das informações no painel Obrasgov.br.
+286. Sobre a avaliação no tema de saúde, a análise foi pertinente, considerando a publicação da
+Lei 14.719/2023, responsável por instituir o Pacto Nacional pela Retomada de Obras e de Serviços
+de Engenharia Destinados à Educação Básica e Profissionalizante e à Saúde.
+287. Identificou-se conflito de classificações e o expressivo aumento no número de obras
+paralisadas quando da promoção do Pacto. A discrepância surgiu quando o Painel de Obras
+Paralisadas do TCU reportou 318 obras paralisadas em 2023. Posteriormente, o Painel InvestSUS
+revelou um número substancialmente maior, com 5.573 obras paralisadas elegíveis para retomada,
+com base em dados do Sismob.
+288. Esse aumento significativo levantou questionamentos ao Ministério da Saúde, especialmente
+com 1.768 obras marcadas como "em cancelamento" envolvendo um investimento total de R$ 540
+milhões e um desembolso médio de 77,07%. Tudo isso evidencia a dificuldade da gestão em
+manter dados atualizados das obras e que sejam aderentes aos conceitos definidos pelas Portarias
+SEGES/ME 25.405/2020, SEDGG/ME 12.766/2021 e MGI-SEGES 4.322/2023.
+289. Quanto à Fundação Nacional de Saúde (Funasa), verificou-se que a pandemia de Covid-19 e
+a Medida Provisória 1.156/2023 foram os principais empecilhos na gestão da carteira de obras
+paralisadas nos últimos anos. Essas condições restringiram significativamente a possibilidade de
+acompanhamento pleno dos instrumentos de repasse, resultando em prejuízos ao controle e gestão
+da carteira de obras.
+290. Em números, as paralisações registradas representam 1,21% do total (192), pouco
+significativo, entretanto o número diverge daquele disposto no Painel de Obras do TCU (246), com
+dados retirados das bases institucionais da autarquia. Ainda que o número de paralisações seja
+baixo, destacam-se as obras cujo objeto não possui execução física iniciada e sem o registro de
+causas (25,04% da carteira histórica) e os instrumentos encerrados sem que os objetos tivessem
+alcançado etapa útil (6,37% da carteira histórica).
+291. Para este último caso, anota-se a situação como preocupante, pois são supostos casos de
+obras dadas como concluídas, mas que em sua maioria, pela ausência de funcionalidade, não
+resultam em contribuição para a prestação do serviço público planejado.
+292. Não obstante, a Funasa demonstrou empenho para impulsionar seus contratos de obras,
+considerando que as causas para o cenário apresentado se concentram na ausência de recursos
+orçamentários e em dificuldades operacionais. Diante disso, a definição de critérios de priorização
+e eleição para desenvolver os contratos de obras se mostrou pertinente e com base em necessidades
+na área de saúde.
+293. Outro ponto importante diz respeito a existência de sistema próprio para acompanhamento
+de obras, que dificulta a avaliação consolidada com a área de saúde, bem como a utilização de
+classificação das situações de obras não aderente ao normativo de referência. A permissão de uso
+da ferramenta Transferegov.br para gestão é pertinente e já foi reconhecida pela autarquia.
+294. Desse modo, será proposto recomendar que as obras sob competência da Funasa sejam
+incluídas na plataforma Transferegov.br, sendo que para esse ajuste seja respeitado os critérios e
+requisitos do Obrasgov.br, de modo a atender ao art. 10° da Portaria SEGES/ME 25.405/2020.
+295. O último componente desta instrução tratou da conservação de patrimônio, atendimento de
+projetos em andamento e compartilhamento de informações que buscou orientar a análise do
+cumprimento do art. 45 da LRF, conforme determinado nos itens 9.1.9 do Acórdão 1.079/2019-
+TCU-Plenário, e 9.6 e 9.10.2 do Acórdão 2.555/2022-TCU-Plenário.
+296. Considerando a atenção requerida na avaliação de destinação de recursos a obras, o
+TC 008.228/2023-0 foi autuado com o objetivo de verificar o efetivo cumprimento ao princípio
+orçamentário da anualidade na gestão dos recursos alocados na Lei Orçamentária Anual (LOA).
+45
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 46 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Assim, dada a pertinência temática com essas determinações, será proposto que as ações
+relacionadas ao efetivo cumprimento do art. 45 da LRF, sejam avaliadas e monitoradas no referido
+processo.
+297. Por fim, na intenção de centralizar as informações e facilitar a gestão processual a respeito
+da temática de obras paralisadas será proposto: i) o arquivamento deste TC 021.731/2019-5 –
+ACOM do Acórdão 1.079/2019 e apensá-lo ao TC 011.196/2018-1, fiscalização que deu origem ao
+acompanhamento, tendo em vista que anualmente essa Corte já faz o acompanhamento das obras e
+publica a evolução em painel de obras próprio; ii) que os encaminhamentos que seriam tratados no
+presente processo sejam acompanhados no TC 037.127/2023-3; e iii) o apensamento do
+TC 036.106/2019-4 – MON do Acórdão 1.079/2019-TCU-Plenário ao TC 037.127/2023-3 – MON
+do Acórdão 2.134/2023-TCU-Plenário para que as informações sejam monitoradas em um mesmo
+processo.
+PROPOSTA DE ENCAMINHAMENTO
+298. Por todo o exposto, submetem-se os autos à consideração superior, propondo:
+298.1. considerar cumprida a determinação contida no item 9.5 do Acórdão 2.555/2022-TCU-
+Plenário pelos órgãos e entidades: Ministério de Minas e Energia; Departamento Nacional de Obras
+Contra Secas; Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba; e
+Superintendência do Desenvolvimento do Centro-Oeste;
+298.2. autorizar que a avaliação acerca do cumprimento do arts. 16 e 45 da Lei de
+Responsabilidade Fiscal (LRF), contidos nos itens 9.1.9 do Acórdão 1.079/2019-TCU-Plenário, e
+9.6 e 9.10.2 do Acórdão 2.555/2022-TCU-Plenário, seja realizada no processo TC 008.228/2023-0,
+que trata do monitoramento da elaboração de plano de ação para o efetivo cumprimento do
+princípio orçamentário da anualidade na gestão dos recursos alocados na Lei Orçamentária Anual
+no âmbito do MDR e demais ministérios;
+298.3. recomendar aos Ministérios das Cidades, Educação, Saúde, Integração e
+Desenvolvimento Social, e a Fundação Nacional de Saúde (Funasa), com fundamento no art. 43,
+inciso I, da Lei 8.443/1992, c/c o art. 250, inciso III, do Regimento Interno do Tribunal de Contas
+da União, que avaliem a oportunidade de adotar as plataformas Transferegov.br e Obrasgov.br para
+realização da gestão de seus contratos de obras;
+298.4. autorizar, com o objetivo de centralizar as informações e facilitar a gestão processual:
+(i) o apensamento do TC 036.106/2019-4 ao TC 037.127/2023-3; (ii) o acompanhamento dos
+encaminhamentos que seriam tratados no presente processo seja realizado no TC 037.127/2023-3;
+(iii) o apensamento deste TC 021.731/2019-5 ao TC 011.196/2018-1;
+298.5. arquivar os presentes autos, nos termos do art. 169, inciso V, do Regimento Interno/TCU.
+É o relatório.
+46
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77203662.
+
+=== página 47 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+VOTO
+Em exame, acompanhamento constituído com o objetivo de avaliar, periodicamente, o
+cenário de paralisação de obras públicas financiadas com recursos federais, em atendimento ao
+subitem 9.3. do Acórdão 1.079/2019-TCU-Plenário.
+2. Esta fiscalização integra os esforços do Tribunal de Contas da União para ampliar a
+publicidade e a transparência sobre a situação dessas obras. Historicamente, a expressiva quantidade
+de projetos interrompidos não apenas representa um desperdício significativo de recursos públicos,
+mas também compromete diretamente a eficácia das políticas públicas e a capacidade de atendimento
+às necessidades essenciais da população.
+3. Ao dar visibilidade à situação dessas obras, o TCU fomenta o controle social, estimula o
+engajamento dos gestores na busca de soluções, e assegura que o cidadão, legítimo proprietário desses
+recursos, tenha ciência de como eles estão sendo aplicados. Ao mesmo tempo, o Tribunal atua para
+corrigir as falhas e desvios, reduzir os prejuízos e criar condições para que os benefícios prometidos
+pelas estruturas sejam efetivamente entregues à sociedade.
+4. Neste terceiro ciclo de acompanhamento, são apresentadas informações sobre o número de
+obras paralisadas, no cenário de abril/2024, além de um amplo diagnóstico acerca da evolução desses
+números ao longo dos anos. Ademais, são monitoradas algumas determinações e recomendações que
+foram emitidas nos ciclos anteriores, cujo teor detalharei mais adiante neste voto.
+5. Para uma melhor contextualização, antes de iniciar, trago um breve resumo das
+constatações desta Corte de Contas durante as duas primeiras rodadas de acompanhamento.
+6. No Acórdão 1.228/2021-Plenário, o TCU verificou falhas relevantes no gerenciamento de
+dados por parte dos órgãos setoriais, comprometendo a confiabilidade das informações sobre as
+construções financiadas com recursos federais. A análise revelou a ausência de dados atualizados em
+mais de dez mil contratos, o que dificultava uma avaliação precisa do panorama à época. Apesar dessa
+limitação, o Tribunal identificou mais de 7 mil obras paralisadas, representando 29% dos contratos
+analisados, com forte concentração no setor da educação. Diante desse contexto, determinou a doze
+órgãos da administração pública federal que enviassem dados atualizados ao então Ministério da
+Economia, para sua consolidação e publicação.
+7. No mesmo julgamento, foi destacada a criação do Cadastro Integrado de Projetos de
+Investimentos (Cipi), uma medida do Poder Executivo que representou um passo fundamental para
+melhorar a gestão das obras públicas no país. O Cipi tem como objetivo centralizar os dados sobre os
+empreendimentos financiados com recursos federais, fortalecendo o controle, o acompanhamento e a
+transparência. Durante a análise, também foram apontadas oportunidades de correção e aprimoramento
+no sistema, as quais resultaram em encaminhamentos específicos naquela deliberação.
+8. No Acórdão 2.555/2022-Plenário, o Tribunal constatou que alguns órgãos setoriais ainda
+continuavam enfrentando dificuldades para fornecer informações atualizadas a respeito das obras de
+sua carteira. Além disso, alguns dados importantes ainda não eram disponibilizados, como o grau de
+execução física e financeira, as causas que levaram à interrupção dos serviços, entre outros. A despeito
+dessas deficiências, o levantamento identificou 8,6 mil projetos paralisados, representando 38% dos
+contratos analisados.
+9. Na mesma deliberação, o cenário do setor de educação recebeu uma análise mais
+detalhada. Embora esse setor concentre historicamente o maior volume de obras interrompidas
+precocemente, o Ministério da Educação havia autorizado a construção de uma quantidade
+considerável de novas escolas e creches. Como resultado, percebi a necessidade de um exame mais
+aprofundado sobre os indícios de descumprimento do art. 45 da Lei de Responsabilidade Fiscal (LRF).
+1
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 48 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Esse dispositivo condiciona a inclusão de novos projetos na lei orçamentária somente quando os
+projetos em andamento estiverem adequadamente atendidos.
+10. Logo, nesses primeiros ciclos de acompanhamento, ficou claro que os órgãos setoriais
+precisavam aprimorar a base de informações sobre as obras públicas. Sem dados completos e
+atualizados, a administração pública não é capaz de gerenciar adequadamente seus compromissos, o
+que, ao longo dos anos, certamente contribuiu para o aumento progressivo do número de paralisações.
+11. Não é demais reforçar que essas informações permitem subsidiar o planejamento, o
+monitoramento e a tomada de decisões, possibilitando a identificação de gargalos, a definição de
+prioridades e a alocação mais eficiente de recursos. E assim, inconsistências nas bases de dados
+comprometem a capacidade de gestão, dificultando tanto a conclusão tempestiva das obras em
+andamento quanto a análise das causas das interrupções, o que acaba por agravar a ineficiência do
+investimento público.
+12. Com essa breve introdução, passo a examinar este terceiro ciclo de acompanhamento. Para
+uma apresentação mais clara, dividirei os resultados em dois capítulos específicos: atualização do
+cenário de obras paralisadas; e monitoramento de determinações e recomendações anteriores.
+II – Atualização do cenário de obras paralisadas
+13. Desde 2018, o TCU disponibiliza o Painel de Obras Paralisadas, uma plataforma dedicada
+ao acompanhamento dos empreendimentos públicos financiados com recursos do Orçamento Geral da
+União. O painel pode ser acessado por meio do endereço
+http://paineis.tcu.gov.br/ObrasParalisadas.
+14. A plataforma é fruto de um trabalho minucioso realizado pela Unidade de Auditoria
+Especializada em Infraestrutura Urbana e Hídrica (AudUrbana), que consolida anualmente
+informações provenientes de diversas bases de dados de órgãos setoriais.
+15. Essa plataforma oferece uma visão abrangente e detalhada tanto do quadro atual quanto do
+histórico das obras paralisadas. Os dados atualizados em abril/2024 já estão disponíveis para consulta e
+são organizados por estado da federação e setor de política pública, facilitando a identificação das
+áreas mais críticas e que demandam maior atenção.
+16. Antes de prosseguir, destaco que os números encontrados neste ciclo são resultado de uma
+depuração mais rigorosa de algumas bases de dados oficiais, especialmente aquelas relacionadas ao
+setor de saúde. Isso porque nos levantamentos anteriores, o Ministério da Saúde informou uma
+quantidade ínfima de obras estagnadas, o que aparentemente não refletia a realidade do setor. Neste
+ciclo, o órgão fez uma revisão mais detalhada dos dados, revelando um número significativamente
+maior, que anteriormente não haviam sido identificadas devido a falhas na geração das informações.
+17. Feita essa observação inicial, passo a detalhar os principais resultados.
+18. Em 2024, o TCU identificou o alarmante número de 11.941 obras paralisadas no país,
+correspondendo a 52% das contratações vigentes. Essa quantidade revela um cenário emblemático,
+em que, a cada dois empreendimentos contratados com recursos federais, um encontra-se
+paralisado.
+19. Esses quase doze mil empreendimentos já consumiram cerca de R$ 9 bilhões em recursos
+federais. E considerando o valor total estimado de R$ 29 bilhões, seriam necessários pelo menos mais
+R$ 20 bilhões do orçamento público para sua conclusão. A dimensão desse problema está detalhada na
+Figura 1, que ilustra os valores envolvidos e reforça a gravidade do quadro atual.
+2
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 49 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Figura 1 - Panorama geral de obras paralisadas, em 2024.
+Fonte: http://paineis.tcu.gov.br/ObrasParalisadas
+20. No âmbito setorial, as áreas de educação e saúde concentram o maior número de obras
+interrompidas e sem perspectiva de conclusão, somando 8.674 empreendimentos nessas condições,
+representando 72,6% do total.
+21. Vale reforçar que esses números representam milhares de unidades básicas de saúde,
+unidades de pronto atendimento, estruturas de atenção especializada, escolas, creches, quadras
+esportivas e outras infraestruturas que não foram concluídas conforme o planejado. A ausência dessas
+instalações impacta diretamente a população, prejudicando o acesso a serviços essenciais e
+comprometendo a qualidade de vida em diversas comunidades. A Figura 2 ilustra o cenário
+encontrado.
+Figura 2 - Obras paralisadas por setor, em 2024.
+Fonte: http://paineis.tcu.gov.br/ObrasParalisadas
+22. Adiante, analisando o panorama de obras paralisadas em cada estado da federação, a
+liderança desse indesejável ranking é do Maranhão, com um total de 1.232 empreendimentos nessas
+condições, o que corresponde a 62% das contratações com recursos federais naquele estado. Em
+seguida, a Bahia ocupa a segunda posição, com 972, representando 57% do total de contratos no
+estado. Na terceira posição está o Pará, com 938, equivalendo a 77% dos contratos lá firmados.
+23. Além de liderarem esse ranking desde 2022, Maranhão, Bahia e Pará enfrentam a
+preocupante realidade de terem mais obras interrompidas do que em execução.
+24. Em contrapartida, esses estados estão entre os cinco que possuem a maior demanda por
+vagas em creches, sendo 205 mil no Pará, 204 mil na Bahia e 137 mil no Maranhão, segundo dados
+3
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 50 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+coletados pelo Instituto Brasileiro de Geografia e Estatística (IBGE) e consolidados pelo Instituto
+Todos pela Educação1.
+25. Como visto, a paralisia das obras nesses estados compromete gravemente a implementação
+e a efetividade das políticas públicas, afetando diretamente a população local. A Figura 3 ilustra os
+estados com os maiores números de construções paralisadas, entre aquelas financiadas com recursos da
+União.
+Figura 3 - Distribuição das obras paralisadas nos estados, em 2024.
+Fonte: http://paineis.tcu.gov.br/ObrasParalisadas
+26. A despeito desse quadro alarmante, o presente levantamento trouxe à tona também
+indicadores positivos que merecem destaque. Entre eles, foram identificadas 1.169 obras que estavam
+estagnadas em 2023 e foram reiniciadas em 2024, além de 5.463 que foram concluídas desde o último
+levantamento.
+27. Outro avanço relevante foi identificado na gestão da Caixa Econômica Federal, que atua
+como mandatária da União em diversos instrumentos de repasse. Em 2022, a instituição apresentava
+4.106 paralisações, representando 46,5% de sua carteira. Em 2024, esse número caiu para 2.743 obras,
+ou 38,9% da carteira. Esses resultados demonstram a efetividade das ações recentes da Caixa no
+enfrentamento do problema, embora ainda insuficientes diante da magnitude do problema herdado em
+anos anteriores.
+28. Apesar desses progressos, não se pode negar que o cenário geral se agravou em relação
+aos ciclos anteriores. Essa piora decorre não apenas da maior precisão nas informações coletadas, mas
+também do estágio ainda inicial do Pacto Nacional pela Retomada de Obras da Educação e da Saúde,
+instituído pela Lei 14.719/2023.
+29. Além do mais, o quadro foi agravado pelo surgimento de novas paralisações. O presente
+levantamento apurou 2.180 obras que estavam em plena execução em 2023, mas foram
+interrompidas em 2024. Destas, 947 estão relacionadas à área da saúde e 553 à educação. Esses
+números indicam que, apesar dos esforços de retomada, a interrupção prematura dos projetos continua
+sendo uma realidade persistente na administração pública.
+30. Detalhados os principais resultados, merecem destaque ainda algumas inovações do Painel
+de Obras Paralisadas em sua versão atual. Uma delas permite identificar a variação da carteira por cada
+setor de política pública, permitindo acompanhar o número de empreendimentos concluídos versus o
+número de novos empreendimentos contratados, como mostra a Figura 4.
+1 https://todospelaeducacao.org.br/noticias/acesso-a-creche-entenda-como-a-dificuldade-de-acesso-prejudica-milhoes-
+criancas-pelo-brasil/
+4
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 51 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Figura 4 - Variação da carteira de obras por setor entre 2023 e 2024.
+Fonte: http://paineis.tcu.gov.br/ObrasParalisadas
+31. Por meio dessa nova ferramenta, é possível notar uma expressiva quantidade de obras
+concluídas desde o último ciclo no setor de infraestrutura e mobilidade urbana, além de uma
+priorização dos projetos em andamento em detrimento de novas intervenções.
+32. Além disso, o painel agora conta com um novo gráfico que exibe a execução física dos
+projetos no momento em que foram paralisados. Os percentuais revelam que, em média, os
+empreendimentos na área da saúde foram interrompidos com uma execução entre 60% e 80%. Isso
+indica uma perspectiva positiva para a retomada desses projetos, especialmente quando comparados a
+outras áreas, que apresentam níveis de execução mais baixos.
+33. Outra funcionalidade recente do painel é a visualização da duração das obras paralisadas
+em cada setor. Os dados indicam que os empreendimentos de habitação possuem uma duração média
+de 161 meses, a maior entre todos os setores, o que sinaliza um cenário particularmente grave para
+essa área, refletindo as dificuldades em sua retomada e conclusão.
+34. Por outro lado, no setor de infraestrutura e mobilidade, a duração média das obras
+paralisadas é de 44,4 meses, o que sugere menores desafios para a retomada, considerando que os
+contratos são recentes e, portanto, podem ter soluções mais ágeis. Essa informação é especialmente
+relevante, dado o significativo aporte financeiro destinado a esse setor. Dos 1.243 projetos
+interrompidos na área de infraestrutura urbana e mobilidade, cerca de 200 representam
+aproximadamente 80% do valor total investido.
+35. Essas novas funcionalidades certamente proporcionam uma visão mais abrangente dos
+desafios a serem enfrentados pelos órgãos setoriais, especialmente pela necessidade de gerenciar as
+obras em plena execução e, ao mesmo tempo, envidar esforços orçamentários e administrativos para
+retomar aquelas paralisadas ao longo dos últimos anos.
+36. De todo modo, diante de todos os resultados apresentados neste terceiro ciclo de
+acompanhamento, o Tribunal de Contas da União cumpre seu papel no sentido de dar transparência e
+publicidade à sociedade sobre o cenário das obras paralisadas no país, além de fornecer mais
+ferramentas aos órgãos responsáveis para que planejem suas ações de maneira fundamentada em
+informações atualizadas.
+III – Monitoramento de determinações e recomendações anteriores
+Item 9.5 do Acórdão 2.555/2022-TCU-Plenário
+37. Na segunda rodada de acompanhamento, o Tribunal verificou que determinados órgãos e
+entidades deixaram de encaminhar informações atualizadas dos projetos sob sua gestão ao então
+5
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 52 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Ministério da Economia, que era o responsável por centralizar esses dados no âmbito governamental.
+Atualmente essa atribuição está a cargo do Ministério da Gestão e Inovação em Serviços Públicos
+(MGI), e pode ser acessado em https://obras.paineis.gov.br/.
+38. Com isso, o TCU determinou ao Ministério de Minas e Energia (MME), ao Departamento
+Nacional de Obras Contra as Secas (Dnocs), à Companhia de Desenvolvimento dos Vales do São
+Francisco e do Parnaíba (Codevasf) e à Superintendência do Desenvolvimento do Centro-Oeste
+(Sudeco) a regularização do envio das informações.
+39. Em sua análise, a AudUrbana considerou que a determinação foi cumprida pelos órgãos
+referidos. Porém, destacou ainda algumas inconsistências e possíveis aprimoramentos na apresentação
+dos dados no painel de obras disponibilizado pelo MGI. De todo modo, tendo em vista os fundamentos
+apresentados, manifesto minha concordância com as conclusões da unidade.
+Item 9.7 do Acórdão 2.555/2022-TCU-Plenário
+40. No mesmo acórdão, o Tribunal identificou oportunidades de melhoria no Cadastro
+Integrado de Projetos de Investimentos (Cipi). Isso porque o sistema incluía apenas empreendimentos
+que receberam empenhos a partir de janeiro de 2021, o que representa uma limitação relevante, pois
+impede o acompanhamento completo das obras, especialmente daquelas interrompidas antes dessa
+data. Para esses casos, o painel gerenciado pelo MGI permanece sendo a base de dados centralizadora.
+41. Diante dessas limitações que afetam a transparência, o Tribunal recomendou ao então
+Ministério da Economia que integrasse o painel de obras como um módulo do Cipi. Essa medida
+permitiria que o acompanhamento fosse concentrado em um só sistema, assegurando maior
+fidedignidade e abrangência nas informações.
+42. Em resposta, o MGI informou estar empenhado em incluir os dados de todas as obras no
+Cipi, com o objetivo de transformá-lo em uma plataforma única de acompanhamento nacional. O
+cronograma para a conclusão desse trabalho está previsto para maio de 2025, mas alerta também que
+seu cumprimento depende do comprometimento das pastas setoriais no fornecimento correto e
+tempestivo das informações.
+43. Porém, considerando que tais ações estão sendo monitoradas no TC 036.106/2019-4, é
+oportuno que o monitoramento desta recomendação seja realizado naquele processo, conforme
+sugerido pela AudUrbana, razão pela qual deixo de trazer por ora maiores considerações sobre o tema.
+Item 9.10 do Acórdão 2.555/2022-TCU-Plenário
+44. Ainda no segundo ciclo de acompanhamento, este Tribunal constatou possíveis
+inconsistências na classificação de empreendimentos a cargo do Ministério da Saúde (MS). Isso
+porque seu sistema de monitoramento registrava que, de um universo de 1.996 obras contratadas por
+intermédio das transferências fundo a fundo, apenas 30 eram registradas como paralisadas.
+45. Esse número claramente não condizia com a realidade observada, e seu descompasso tinha
+relação com o uso de diferentes nomenclaturas por aquela pasta setorial para classificar os diferentes
+estágios de execução. Frequentemente, a categoria “cancelada” era empregada para obras que, na
+verdade, deveriam ser indicadas como “paralisada”.
+46. Com isso, o Tribunal orientou a AudUrbana a incluir neste ciclo de acompanhamento, a
+análise da metodologia usada pelo Ministério da Saúde e pela Fundação Nacional de Saúde (Funasa)
+para classificar a situação das obras sob sua responsabilidade.
+47. Desde então, houve avanços significativos nos normativos relacionados à classificação do
+estágio de execução. Esse tema é atualmente disciplinado pela Lei 14.719/2023 e regulamentado pela
+Portaria GM/MS 3.084/2024, que estabelece definições claras para categorizar cada obra sob gestão do
+6
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 53 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Ministério da Saúde. Essas atualizações refletem os esforços recentes da pasta para promover a
+retomada e a conclusão dos projetos estagnados, garantindo maior precisão e transparência nos dados.
+48. Embora os conceitos estejam claramente definidos na gestão do programa de retomada, o
+sistema de gerenciamento de obras fundo a fundo da pasta (Sismob) ainda utiliza conceitos
+desatualizados. Essa discrepância é evidente ao comparar os dados: enquanto o programa de retomada
+identificou 5.573 projetos paralisados, o Sismob registra apenas oito nessas condições.
+49. A análise dessas inconsistências está detalhada no relatório que precede este voto. Como
+conclusão, avalio ser imprescindível que tanto o MS quanto a Funasa busquem maior uniformidade
+nos sistemas utilizados, com o objetivo de garantir transparência das informações junto à sociedade, e
+facilitar o gerenciamento eficiente da retomada e conclusão das obras classificadas como paralisadas
+ou inacabadas.
+50. Como proposta de encaminhamento, a AudUrbana sugere recomendar ao Ministério da
+Saúde a centralização da gestão e da publicação das obras sob sua responsabilidade nas plataformas
+“Transferegov.br” (sistema de gestão das transferências da União a outros entes federados) e
+“Obrasgov.br” (sistema que operacionaliza o Cadastro Integrado de Projetos de Investimento – Cipi).
+Considero tal medida essencial para promover maior eficiência e transparência às informações.
+Embora cada pasta setorial possa manter seu próprio sistema, é fato que essas plataformas apresentam
+particularidades que dificultam a transparência para a sociedade e a gestão administrativa.
+51. Ademais, a recomendação está alinhada com as portarias vigentes no âmbito do Executivo,
+que determinam a integração dos sistemas ao Cipi. Dessa forma, manifesto minha concordância com a
+proposta apresentada, extensível também aos principais órgãos federais responsáveis pela condução
+das obras públicas.
+Item 9.6 do Acórdão 2.555/2022-TCU-Plenário
+52. Este tópico aborda os indícios de descumprimento do art. 45 da Lei de Responsabilidade
+Fiscal (LRF). O dispositivo estabelece que “a lei orçamentária e as de créditos adicionais só incluirão
+novos projetos após adequadamente atendidos os em andamento e contempladas as despesas de
+conservação do patrimônio público, nos termos em que dispuser a lei de diretrizes orçamentárias”.
+53. Esse tema possui relação direta com a problemática das obras paralisadas pois uma das
+principais causas de interrupções é a insuficiência de recursos orçamentários e financeiros para
+concluir os serviços contratados. O objetivo do dispositivo da LRF é justamente evitar que novos
+contratos sejam iniciados sem que os compromissos já assumidos estejam adequadamente atendidos.
+54. Porém, existem indícios que esse dispositivo legal não esteja sendo atendido pela
+administração pública. Paradoxalmente, mesmo enfrentando escassez de recursos, os órgãos setoriais
+continuam a firmar compromissos para novos projetos, o que agrava ainda mais as dificuldades para
+cumprir as obrigações previamente assumidas.
+55. Com resultado desse quadro, o Tribunal determinou ao então Ministério da Economia o
+envio de informações sobre o cumprimento do art. 45 da LRF, especialmente no que diz respeito à
+ampla divulgação do relatório exigido nesse dispositivo legal. Também orientou a AudUrbana a
+verificar os métodos e critérios utilizados para assegurar a observância desse regramento por parte dos
+órgãos setoriais (itens 9.6 e 9.10.2 do Acórdão 2.555/2022-TCU-Plenário).
+56. Em resposta, o Ministério da Gestão e Inovação em Serviços Públicos argumentou que
+cabe a cada órgão do Poder Executivo a definição das prioridades orçamentárias. E que disponibiliza
+por intermédio do Cipi o acesso livre de dados relativos às obras de infraestrutura, por meio dos quais
+seria possível a extração de relatórios.
+57. A equipe da AudUrbana examinou a resposta, e alertou que o tema já foi objeto de outras
+deliberações do TCU, a exemplo do item 9.1.9 do Acórdão 1.079/2019-TCU-Plenário, que
+7
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 54 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+recomendou aos órgãos o fortalecimento da comunicação com o legislativo durante a condução do
+processo orçamentário, com o intuito de priorizar os compromissos já assumidos, conforme os
+parâmetros da LRF, bem como o Acórdão 710/2023-TCU-Plenário, sob a relatoria do Ministro Jorge
+Oliveira, que determinou a elaboração de um plano de ação para efetivo cumprimento do princípio
+orçamentário da anualidade.
+58. Em razão disso, propôs que o monitoramento de todos os itens acima mencionados seja
+concentrado nos autos do TC 008.228/2023-0, que foi autuado para avaliar o cumprimento do
+Acórdão 710/2023-TCU-Plenário.
+59. Contudo, compreendo que o tema requer um desfecho distinto. O mencionado acórdão
+constatou, de forma específica, o descumprimento do princípio da anualidade orçamentária pelo
+Ministério da Integração e do Desenvolvimento Regional (MIDR), mas não identificou problemas
+relacionados ao descumprimento do art. 45 da LRF por parte desse órgão, naquele exercício
+financeiro.
+60. Entendo que a avaliação do cumprimento dos itens 9.6 e 9.10.2 do Acórdão 2.555/2022-
+TCU-Plenário em conjunto com o item 9.1.9 do Acórdão 1.079/2019-TCU-Plenário poderia ser
+realizado em processo específico. A razão é que esses encaminhamentos possuem um caráter mais
+abrangente, envolvendo não apenas o MIDR, mas também os principais órgãos da administração
+pública que possuem obras interrompidas em sua carteira.
+61. Afinal, até o momento, não há informações consolidadas sobre os valores alocados para a
+execução dos projetos em andamento e os reservados para os novos. Apesar da complexidade desse
+levantamento, não tenho dúvidas sobre sua relevância, considerando sua importância para a gestão
+orçamentária e financeira e para o atual cenário de obras paralisadas no país.
+IV – Conclusões
+62. O panorama apresentado neste trabalho evidencia a gravidade do cenário das obras
+públicas no Brasil, com números que requerem atenção urgente. Atualmente, são quase 12 mil
+empreendimentos que se utilizaram de recursos federais, mas que não tiveram sua conclusão conforme
+o planejado. O quadro é de uma paralisação a cada duas contratações realizadas.
+63. Entre as áreas mais afetadas, destacam-se saúde e educação, que concentram 72,6% das
+obras nessas condições. Esses números representam unidades de saúde, escolas, creches, quadras
+esportivas e outras infraestruturas cruciais que permanecem indisponíveis à população. A ausência
+dessas instalações prejudica o acesso a direitos fundamentais e agrava as desigualdades regionais,
+especialmente em estados como Maranhão, Bahia e Pará, que possuem mais projetos estagnados do
+que em execução, reforçando a necessidade de intervenções urgentes.
+64. Nesse cenário, o papel do TCU revela-se indispensável. Por meio de iniciativas como o
+Painel de Obras Paralisadas, o Tribunal promove a transparência e o controle social, fomentando uma
+maior eficiência no uso dos recursos públicos. Essa plataforma consolida informações detalhadas,
+permitindo identificar gargalos, monitorar avanços e subsidiar a formulação das políticas públicas.
+65. Logicamente que o quadro alarmante ora apresentado não será fácil de ser revertido. A
+retomada dessas obras exigirá um esforço orçamentário e administrativo que requer coordenação e
+uma atuação organizada dos diversos entes federativos, haja vista que a maioria desses
+empreendimentos são contratados por estados e municípios por intermédio de transferências
+voluntárias. De todo modo, a instituição do pacto de retomada dos projetos da educação e saúde, pela
+Lei 14.179/2023, é o primeiro e grande passo para se reverter o quadro.
+66. Outra medida oportuna foi a recente publicação da Lei Complementar 210/2024, que
+dispôs sobre a proposição e execução de emendas parlamentares no orçamento anual. Seu art. 7º
+estabelece que as emendas individuais impositivas deverão ter destinação preferencial para obras de
+8
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 55 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+autoria do parlamentar e que estão paralisadas. E o art. 2º autoriza a apresentação de até três emendas
+por cada bancada estadual para dar continuidade às obras já iniciadas, até a sua conclusão.
+67. Considerando a estimativa de que são necessários pelos menos R$ 20 bilhões para a
+retomada, certamente os recursos reservados às emendas parlamentares serão fundamentais para
+reverter o quadro atual. Apenas para o setor de educação, são necessários cerca de R$ 3,8 bilhões,
+segundo o Fundo Nacional de Desenvolvimento da Educação.
+68. Sobre o tema, relembro o julgamento do Acórdão 2.103/2024-TCU-Plenário (Relator
+Ministro Jhonatan de Jesus), em que o Tribunal realizou acompanhamento do Pacto Nacional pela
+Retomada de Obras e de Serviços de Engenharia Destinados à Educação Básica e Profissionalizante.
+Nessa fiscalização, um dos problemas identificados foi justamente a insuficiência da programação
+orçamentário-financeira para retomar e concluir a execução dos empreendimentos.
+69. Com isso, é fundamental que haja efetiva articulação entre o Executivo e o Legislativo, de
+modo que as emendas parlamentares possam potencializar a alocação de recursos orçamentários nas
+obras com condições de serem retomadas e, mais rapidamente, possam se prestar à finalidade para a
+qual elas foram planejadas.
+70. Dentro dessa perspectiva, creio que o TCU pode desempenhar um papel estratégico como
+mediador desse diálogo, fomentando o direcionamento dos recursos para a retomada de obras
+paralisadas com condições de conclusão. Com isso, seria possível acelerar a entrega de infraestruturas
+essenciais, como escolas e unidades de saúde, ampliando o acesso de milhares de crianças à educação
+e proporcionando a inúmeras famílias melhores condições de acesso aos serviços de atenção à saúde,
+tanto primária quanto especializada.
+71. Portanto, em acréscimo, proponho o envio do presente acórdão às casas do Congresso
+Nacional, e em especial às comissões cuja atribuição guarda pertinência com a temática deste trabalho.
+72. Ademais, considero que o presente acompanhamento cumpriu seu objetivo. Se anos atrás
+não havia sequer informações na administração pública federal sobre quantas e quais obras públicas
+estavam interrompidas, atualmente, essas informações estão sendo periodicamente atualizadas pelos
+órgãos setoriais, viabilizando a construção e o desenvolvimento de um cadastro único.
+O monitoramento sobre a conclusão desse sistema continuará a ser realizado em processo constituído
+para esse fim.
+73. A melhoria da qualidade das informações também viabilizou o desenvolvimento do Painel
+de Obras Paralisadas nesta Corte. Proponho que, a partir de agora, ele seja atualizado com
+periodicidade mínima anual, permitindo ao TCU monitorar os resultados de forma contínua e adotar as
+medidas cabíveis de maneira mais tempestiva. E assim, os presentes autos podem ser arquivados,
+contribuindo para uma maior racionalidade processual, considerando que existem diversos outros
+processos autuados que tratam da mesma temática.
+74. Por fim, registro meus sinceros cumprimentos à equipe da Unidade de Auditoria
+Especializada em Infraestrutura Urbana e Hídrica pelo excelente trabalho realizado neste
+acompanhamento. A dedicação, o rigor técnico e o compromisso demonstrados na análise
+contribuíram de maneira significativa para o cumprimento do papel institucional deste Tribunal, de
+zelar pelo interesse público, fortalecer a transparência e promover avanços concretos nas políticas de
+infraestrutura do país, por meio do controle externo.
+Ante o exposto, voto para que seja adotada a minuta de acórdão que trago à consideração
+deste Colegiado.
+TCU, Sala das Sessões, em tagDataSessao.
+9
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 56 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+Ministro VITAL DO RÊGO
+Relator
+10
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77204138.
+
+=== página 57 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+ACÓRDÃO Nº 2600/2024 – TCU – Plenário
+1. Processo TC 021.731/2019-5.
+1.1. Apenso: 000.123/2023-4.
+2. Grupo I – Classe de Assunto: VII – Acompanhamento.
+3. Interessados/Responsáveis: não há.
+4. Órgãos: Ministério da Economia (extinto); Ministério da Gestão e da Inovação em Serviços
+Públicos.
+5. Relator: Ministro Vital do Rêgo.
+6. Representante do Ministério Público: não atuou.
+7. Unidade Técnica: Unidade de Auditoria Especializada em Infraestrutura Urbana e Hídrica
+(AudUrbana).
+8. Representação legal: não há.
+9. Acórdão:
+VISTOS, relatados e discutidos estes autos em que se aprecia o terceiro acompanhamento
+para a avaliar o cenário das obras paralisadas no país (ano 2024), financiadas com recursos da União,
+em atendimento ao subitem 9.3. do Acórdão 1.079/2019-TCU-Plenário;
+ACORDAM os Ministros do Tribunal de Contas da União, reunidos em Sessão do
+Plenário, em:
+9.1. considerar cumprida a determinação contida no item 9.5 do Acórdão 2.555/2022-
+TCU-Plenário pelos órgãos e entidades: Ministério de Minas e Energia; Departamento Nacional de
+Obras Contra as Secas; Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba; e
+Superintendência do Desenvolvimento do Centro-Oeste;
+9.2. recomendar aos Ministérios das Cidades, da Educação, da Saúde e da Integração e do
+Desenvolvimento Regional e à Fundação Nacional de Saúde, com fundamento no art. 43, inciso I, da
+Lei 8.443/1992, c/c o art. 250, inciso III, do Regimento Interno do Tribunal de Contas da União, que
+avaliem a oportunidade de adotar as plataformas Transferegov.br e Obrasgov.br para realização da
+gestão de seus contratos de obras;
+9.3. orientar a AudUrbana a:
+9.3.1. avaliar o cumprimento dos itens 9.1.9 do Acórdão 1.079/2019-TCU-Plenário, 9.6
+e 9.10.2 do Acórdão 2.555/2022-TCU-Plenário, em processo específico de monitoramento, para que
+seja possível verificar o efetivo atendimento ao art. 45 da Lei de Responsabilidade Fiscal (LRF) por
+parte dos principais órgãos gestores de obras públicas;
+9.3.2. atualizar o Painel de Obras Paralisadas com periodicidade mínima anual, informando
+os resultados encontrados ao Tribunal, de forma a permitir o acompanhamento contínuo do cenário,
+bem como a adoção das medidas cabíveis;
+9.4. autorizar o apensamento do TC 036.106/2019-4 ao TC 037.127/2023-3, com vistas a
+centralizar as informações e facilitar a gestão processual;
+9.5. encaminhar a presente deliberação à Casa Civil, ao Ministério da Gestão e da Inovação
+em Serviços Públicos, à Comissão Mista de Planos, Orçamentos Públicos e Fiscalização do Congresso
+Nacional, às Comissões de Saúde, de Educação, de Desenvolvimento Urbano e de Obras Públicas
+Paralisadas e Inacabadas no País da Câmara dos Deputados, às Comissões de Serviços de
+Infraestrutura, e de Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor do
+Senado Federal, ao Comitê Interministerial de Governança e à Associação dos Membros dos Tribunais
+de Contas do Brasil (Atricon);
+9.6. arquivar os presentes autos.
+10. Ata n° 48/2024 – Plenário.
+11. Data da Sessão: 4/12/2024 – Ordinária.
+1
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77225395.
+
+=== página 58 ===
+TRIBUNAL DE CONTAS DA UNIÃO TC 021.731/2019-5
+12. Código eletrônico para localização na página do TCU na Internet: AC-2600-48/24-P.
+13. Especificação do quórum:
+13.1. Ministros presentes: Bruno Dantas (Presidente), Walton Alencar Rodrigues, Augusto Nardes,
+Aroldo Cedraz, Vital do Rêgo (Relator), Jorge Oliveira, Antonio Anastasia e Jhonatan de Jesus.
+13.2. Ministro-Substituto convocado: Augusto Sherman Cavalcanti.
+13.3. Ministro-Substituto presente: Marcos Bemquerer Costa.
+(Assinado Eletronicamente) (Assinado Eletronicamente)
+BRUNO DANTAS VITAL DO RÊGO
+Presidente Relator
+Fui presente:
+(Assinado Eletronicamente)
+CRISTINA MACHADO DA COSTA E SILVA
+Procuradora-Geral
+2
+Para verificar as assinaturas, acesse www.tcu.gov.br/autenticidade, informando o código 77225395.
