@@ -1,0 +1,49 @@
+id,lado,tema,subtema,pagina_plano,proposta,trecho_do_plano
+L-S-a,lula,seguranca,a,27,"Manter a asfixia financeira do crime organizado, com a Lei Antifacção sancionada em 2026",Manteremos a estratégia de asfixia financeira do crime organizado
+L-S-b,lula,seguranca,b,28,Cumprir as metas do Plano Pena Justa e criar o Pacto Nacional de Execução Penal,Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal
+L-S-c,lula,seguranca,c,28,Manter a política de controle de armas e munições (revogação dos decretos de acesso a armas),manteremos uma política de controle de armas e munições
+L-S-d,lula,seguranca,d,30,Criar o Ministério da Segurança Pública depois de aprovada a PEC da Segurança (repetida no debate),"Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública"
+F-S-a,flavio,seguranca,a,13,"Declarar PCC, CV e milícias organizações narcoterroristas (repetida no debate)","PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas"
+F-S-b,flavio,seguranca,b,13,"Reduzir a maioridade penal de 18 para 16 anos, e punir maiores de 14 por crimes graves (repetida no debate)",O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos
+F-S-c,flavio,seguranca,c,13,"Criar o Sistema Nacional de Fronteira com Exército, Marinha e Aeronáutica (repetida no debate)","Vamos criar o Sistema Nacional de Fronteira, uma tropa de elite do Exército, da Marinha e"
+F-S-d,flavio,seguranca,d,13,"Consórcios e convênios com estados e municípios para investir em inteligência, territórios e polícia",Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência
+L-H-a,lula,saude,a,34,Manter o apoio à expansão e qualificação das equipes de Saúde da Família,Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde
+L-H-b,lula,saude,b,37,"Impulsionar o Agora Tem Especialistas (filas de consultas, exames e cirurgias; repetida no debate)",As ações do Agora Tem Especialistas serão ainda mais impulsionadas
+L-H-c,lula,saude,c,35,Consolidar o prontuário único do cidadão pela Rede Nacional de Dados em Saúde,Vamos acelerar os esforços na consolidação do prontuário único do cidadão
+L-H-d,lula,saude,d,36,Manter o Farmácia Popular 100% gratuito e incluir exames,"O programa será mantido, 100% gratuito"
+F-H-a,flavio,saude,a,37,Ampliar a Estratégia Saúde da Família,Vamos ampliar a Estratégia Saúde da Família
+F-H-b,flavio,saude,b,37,"Corrigir a tabela SUS para hospitais, santas casas e clínicas",Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS
+F-H-c,flavio,saude,c,26,Implantar o prontuário eletrônico único ligado ao CPF (repetida no debate),"Vamos implantar o prontuário eletrônico único, vinculado ao CPF"
+F-H-d,flavio,saude,d,37,Manter a imunização e incentivar a produção nacional de vacinas,manter a imunização e o incentivo à produção nacional de vacinas
+L-E-a,lula,economia,a,49,Manter o novo arcabouço fiscal,manteremos o novo arcabouço fiscal
+L-E-b,lula,economia,b,48,Consolidar a reforma tributária do consumo em implementação,consolidar os avanços promovidos pela reforma tributária
+L-E-c,lula,economia,c,49,"Manter os fundos garantidores, o controle de gastos com apostas e aprimorar regras de crédito",aprimorando as regras de oferta e responsabilidade na concessão de crédito
+L-E-d,lula,economia,d,74,"Fortalecer o Sistema Público de Emprego, Trabalho e Renda e a qualificação profissional","Começamos a reconstruir o Sistema Público de Emprego, Trabalho, Renda, objetivo que será fortalecido"
+F-E-a,flavio,economia,a,71,"Reformular as regras fiscais com foco na dívida, superávits e controle de gastos dos três Poderes",Apresentaremos uma reformulação nas atuais regras fiscais
+F-E-b,flavio,economia,b,30,Rever e redimensionar a reforma tributária para reduzir o IVA,Vamos promover a revisão e o redimensionamento da reforma tributária em curso
+F-E-c,flavio,economia,c,31,"Simplificar a conta de luz e reduzir CDE, encargos e impostos sobre energia e combustíveis","Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados"
+F-E-d,flavio,economia,d,43,Reduzir gradualmente o custo do trabalho e criar contrato de primeiro emprego de 18 a 24 anos,"Vamos reduzir gradualmente o custo do trabalho, sem retirar direitos"
+L-Ed-a,lula,educacao,a,31,Seguir o Compromisso Nacional Criança Alfabetizada até 80% alfabetizados na idade certa,Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80%
+L-Ed-b,lula,educacao,b,32,Continuar e fortalecer o Pé-de-Meia,Vamos dar continuidade e fortalecer o Pé-de-Meia
+L-Ed-c,lula,educacao,c,31,Ampliar o apoio a creches e pré-escolas pelo Novo PAC,"Na segunda edição do Novo PAC, ampliaremos ainda mais o fomento a estados e municípios"
+L-Ed-d,lula,educacao,d,33,Pé-de-Meia Licenciatura e Bolsa Mais Professores (repetida no debate),por meio do Pé-de-Meia Licenciatura
+F-Ed-a,flavio,educacao,a,35,Priorizar o método fônico na alfabetização,Vamos priorizar o método fônico
+F-Ed-b,flavio,educacao,b,36,"Ampliar a educação técnica no ensino médio, com o setor produtivo",Vamos ampliar a oferta de educação técnica para os alunos do ensino médio
+F-Ed-c,flavio,educacao,c,21,Ampliar creches em período integral e dar voucher-creche onde faltar vaga,Vamos ampliar a oferta de creches para as crianças desde a primeira infância
+F-Ed-d,flavio,educacao,d,35,Qualificação contínua de professores baseada em evidências,Os professores terão qualificação contínua baseada em evidências científicas
+L-Cr-a,lula,corrupcao,a,18,Aprofundar o Plano de Integridade e Combate à Corrupção 2025-2027,O Plano de Integridade e Combate à Corrupção 2025–2027 representa um avanço institucional que será aprofundado
+L-Cr-b,lula,corrupcao,b,18,Portal da Transparência com dados abertos e inteligência artificial,O Portal da Transparência receberá investimentos para evoluir para uma plataforma inteligente
+L-Cr-c,lula,corrupcao,c,27,Medidas rígidas para barrar candidaturas de pessoas ligadas ao crime organizado,medidas rígidas para barrar candidaturas de indivíduos ligados ao crime organizado
+F-Cr-b,flavio,corrupcao,b,69,"Mais transparência, controle e rastreabilidade das emendas parlamentares","daremos mais transparência, controle e rastreabilidade às emendas parlamentares"
+F-Cr-c,flavio,corrupcao,c,65,"Reforma do STF: fim do foro criminal originário, limite a decisões individuais, quarentena",Fim das competências criminais originárias do STF
+F-Cr-d,flavio,corrupcao,d,70,Estatais com comando técnico: fortalecer a Lei das Estatais e recrutar com regras de mercado,o comando das estatais e dos cargos de direção será preenchido por recrutamento com regras de mercado
+L-P-a,lula,pobreza,a,18,"Manter, aperfeiçoar e ampliar a proteção social e a transferência de renda (Bolsa Família)","devemos manter, aperfeiçoar e ampliar as políticas de proteção social para quem mais necessita"
+L-P-b,lula,pobreza,b,74,Continuar a valorização do salário mínimo (repetida no debate),dará continuidade à política de valorização do salário mínimo
+L-P-c,lula,pobreza,c,26,Cozinhas solidárias e restaurantes populares,"Fomentaremos a construção de infraestruturas que ampliam os cuidados indiretos e comunitários, como as lavanderias públicas, as cozinhas solidárias e os restaurantes populares"
+L-P-d,lula,pobreza,d,45,"Manter e ampliar o Minha Casa, Minha Vida",O MCMV será mantido e ampliado no próximo mandato
+F-P-a,flavio,pobreza,a,42,"Manter os programas sociais existentes, com gestão e combate a fraudes (Bolsa Família repetido no debate)","vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes"
+F-P-b,flavio,pobreza,b,43,"Prioridade e trilha de emprego e qualificação para beneficiários, com volta sem fila ao benefício",o beneficiário de programa social terá prioridade em todas as ações do Estado voltadas ao trabalho
+F-P-c,flavio,pobreza,c,31,"Comida mais barata: corredores logísticos, seguro rural e armazenagem de safras",Vamos criar os Corredores Logísticos Inteligentes
+F-P-d,flavio,pobreza,d,47,"Retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias","Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências"
+L-Cr-d-sem,lula,corrupcao,d,,SEM PROPOSTA NO PLANO,"O plano não traz ação sobre governança de estatais ou fraude em benefícios; a defesa de estatais fortes (debate) é posição de política econômica, não medida de integridade."
+F-Cr-a-sem,flavio,corrupcao,a,,SEM PROPOSTA NO PLANO,"O plano não traz ação sobre órgãos de controle, investigação ou integridade; a adesão à OCDE aparece no capítulo de política externa."
