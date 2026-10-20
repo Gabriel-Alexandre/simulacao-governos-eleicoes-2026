@@ -1,0 +1,5 @@
+dados/brutos/*.html
+dados/brutos/*.pdf
+__pycache__/
+*.pyc
+.venv/
