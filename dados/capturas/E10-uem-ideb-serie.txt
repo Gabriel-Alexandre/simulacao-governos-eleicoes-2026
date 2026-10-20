@@ -1,0 +1,666 @@
+# fonte: https://periodicos.uem.br/ojs/index.php/notandum/article/download/60230/751375152656
+# capturado em: 2026-10-20
+
+
+=== página 1 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+RESULTADOS DO IDEB-2019: SUGESTÃO DE AVANÇO NO ENSINO
+MÉDIO BRASILEIRO
+IDEB-2019 RESULTS: SUGGESTION FOR ADVANCEMENT IN
+BRAZILIAN HIGH SCHOOL
+RESULTADOS IDEB-2019: SUGERENCIA DE AVANCE EN LA
+ESCUELA SECUNDARIA BRASILEÑA
+Pedro Demo
+Doutor em Sociologia pela Universität Des Saarlandes/Alemanha. Professor titular aposentado da Universidade
+de Brasília (UnB). E-mail: lepp@rc.unesp.br
+Renan Antônio da Silva
+Doutor em Educação Escolar pela Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP). Docente
+Permanente no Programa de Pós-Graduação em Políticas Públicas da Universidade Estadual do Ceará (UECE).
+E-mail: r.silva@unesp.br
+DOI: http://dx.doi.org/10.4025/notandum.vi57.60230
+Recebido em 21/07/2021
+Aceito em 09/08/2021
+111
+
+=== página 2 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Resumo
+Elaboramos uma análise preliminar do Ideb 2019, aproveitando seu lançamento nessa terceira semana de setembro
+de 2020 (INEP/MEC, 2020. Ideb, 2020). Vou focar o comportamento de MS, até onde possível e
+comparativamente. Algumas indicações já foram anotadas, como um avanço no EM de 2017 para 2019, talvez por
+conta da Reforma do EM, que, mesmo mantendo o mesmo instrucionismo, mexeu com o sistema. Alguns estados
+se destacaram, tendo agora o Ceará um grande rival, Goiás, e preconizando a importância da movimentação
+municipal e local. Note-se, porém, que o avanço recente chama a atenção porque o EM mostrava, na série histórica,
+leseira já marcada; em si, o avanço foi pequeno e está muito longe da solicitação da BNCC de “recriação da
+escola”.
+Palavras-chave: Ideb; Educação; Brasil.
+Abstract
+We prepared a preliminary analysis of Ideb 2019, taking advantage of its launch in the third week of September
+2020 (INEP/MEC, 2020. Ideb, 2020). I will focus on MS behavior as far as possible and comparatively. Some
+indications have already been noted, such as an advance in EM from 2017 to 2019, perhaps due to the EM Reform,
+which, even while maintaining the same instructionalism, messed with the system. Some states stood out, with
+Ceará now having a great rival, Goiás, and advocating the importance of municipal and local movement. It should
+be noted, however, that the recent advance is noteworthy because the EM showed, in the historical series, an
+already marked injury; in itself, the progress has been small and is a far cry from the BNCC's request for “school
+re-creation”.
+Keywords: Ideb; Education; Brazil.
+Resumen
+Elaboramos un análisis preliminar de Ideb 2019, aprovechando su lanzamiento en la tercera semana de septiembre
+de 2020 (INEP / MEC, 2020. Ideb, 2020). Me centraré en el comportamiento de la EM en la medida de lo posible
+y comparativamente. Ya se han notado algunos indicios, como un avance en ME de 2017 a 2019, quizás debido a
+la Reforma de EM, que, aun manteniendo el mismo instruccionalismo, se metió con el sistema. Algunos estados
+se destacaron, con Ceará ahora teniendo un gran rival, Goiás, y defendiendo la importancia del movimiento
+municipal y local. Cabe señalar, sin embargo, que el avance reciente es notable porque el ME mostró, en la serie
+histórica, una lesión ya marcada; en sí mismo, el progreso ha sido pequeño y está muy lejos de la solicitud del
+BNCC de “recreación escolar”.
+Palabras clave: Ideb; Educación; Brasil.
+Introdução
+No lançamento do Ideb-2019 em setembro de 2020 houve algum alvoroço em torno
+do avanço no Ensino Médio (EM), em grande parte ocasionado pelo ceticismo dominante
+nesta etapa da Educação Básica (EB), considerada desafio maior atual. Desta reticência
+proveio a Reforma do EM do governo Temer (2017), refletindo-se também na BNCC que,
+ao introduzir o EM, fala, de maneira muito insólita, de “recriação da escola” (2018:462),
+indicando que a atual já não serve mais. Em termos do “aprendizado adequado”1, dados de
+2017 do Ideb mostram que apenas 9.1% aprenderam matemática no EM (foram 11.6% em
+1995); 29.1% aprenderam língua portuguesa em 2017 (eram 45.4% em 1995 – um recuo
+dramático). Esta situação sugere que a prática atual instrucionista escolar é extremamente
+contraproducente: há ensino na escola, não aprendizagem (Demo, 2020). Ainda, o
+1 Não está disponível, para 2019, o “aprendizado adequado”, ainda.
+112
+
+=== página 3 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+instrucionismo reinante é mantido pelos governos, independentemente da ideologia no
+poder, de certa forma, confirmando este instrucionismo como patrimônio global, puxado em
+especial pelo PISA (Zhao, 2014; 2018. Demo, 2020).
+A Tabela 1 mostra que a meta de 2019 só foi atingida nos Anos Iniciais (AI) e pelo
+setor público. O setor privado nunca atingiu a meta, indicando relativa estagnação: não
+avançou nos AI e no AF (Anos Finais); moveu-se 0,2 p. no EM. Mas, no EM como um todo,
+todas as modalidades administrativas (públicas e privada) tiveram um pequeno ganho, em
+especial no setor público: foi de 0,4 p. para o Brasil, para o Estadual e para a Pública; foi de
+0,2 p. para a Privada.
+Tabela 1 - IDEB 2005 – 2019 - Brasil
+Anos Iniciais do EF
+2005 2007 2009 2011 2013 2015 2017 2019 Meta
+2019
+Brasil 3,8 4,2 4,6 5,0 5,2 5,5 5,8 5,9 5,7
+Estadual 3,9 4,3 4,9 5,1 5,4 5,8 6,0 6,1 5,9
+Municipal 3,4 4,0 4,4 4,7 4,9 5,3 5,6 5,7 5,4
+Privada 5,9 6,0 5,4 6,5 6,7 6,8 7,1 7,1 7,4
+Pública 3,6 4,0 4,4 4,7 4,9 5,3 5,5 5,7 5,5
+Anos Finais do EF
+2005 2007 2009 2011 2013 2015 2017 2019 Meta
+2019
+Brasil 3,5 3,8 4,0 4,1 4,2 4,5 4,7 4,9 5,2
+Estadual 3,3 3,6 3,8 3,9 4,0 4,2 4,5 4,7 5,1
+Municipal 3,1 3,4 3,6 3,8 3,8 4,1 4,3 4,5 4,9
+Privada 5,8 5,8 5,9 6,0 5,9 6,1 6,4 6,4 7,1
+Pública 3,2 3,5 3,7 3,9 4,0 4,2 4,4 4,6 5,0
+Ensino Médio
+2005 2007 2009 2011 2013 2015 2017 2019 Meta
+2019
+Brasil 3,4 3,5 3,6 3,7 3,7 3,7 3,8 4,2 5,0
+Estadual 3,0 3,2 3,4 3,4 3,4 3,5 3,5 3,9 4,6
+Privada 5,6 5,6 5,6 5,7 5,4 5,3 5,8 6,0 6,8
+Pública 3,1 3,2 3,4 3,4 3,4 3,5 3,5 3,9 4,7
+Fonte: Inep. Cifras sombreadas indicam atingimento da meta respectiva. Na Meta 2019,
+sombreamento indica atingimento.
+Dada a distância enorme para com a meta em todos os casos, este ganho é pífio, para
+dizer o mínimo, e se deve, por hipótese, ao fato de que o sistema foi mexido pela Reforma,
+movendo-se um pouco. Na prática, não ocorreu mudança significativa, porquanto o sistema
+de ensino persiste no instrucionismo, sobretudo nada tem a ver com a expectativa da BNCC
+de “recriação da escola”.
+113
+
+=== página 4 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Ensino Médio precisa ser reinventado
+Sendo o EM a etapa mais carente de mudança – é a maior dívida em termos de
+política educacional vigente – o avanço constatado no Ideb-2019 ainda é insignificante, na
+prática. A Tabela 2 mostra os resultados no país (Brasil, regiões e estados), sugerindo que,
+tendo havido um solavanco favorável de 2017 para 2019, estamos longe de uma situação
+minimamente confortável. Somente um estado, Goiás, atingiu a meta (exata: 4,8), sendo esta
+cifra também a maior da Tabela (Espírito Santo também teve 4,8, mas ficou abaixo da meta
+para 2019; Paraná chegou a 4,7, mas está abaixo da meta para 2019). São Paulo só chegou a
+4,6.
+Tabela 2 - Ideb – Ensino Médio – Total – 2005-2019.
+2005 2007 2009 2011 2013 2013 2017 2019 Meta
+2019
+Brasil 3,4 3,5 3,6 3,7 3,7 3,7 3,8 4,2 5,0
+Norte 2,9 2,9 3,3 3,2 3,1 3,3 3,3 3,6 4,5
+Rondônia 3,2 3,2 3,7 3,7 3,6 3,6 4,0 4,3 4,8
+Acre 3,2 3,5 3,5 3,4 3,4 3,6 3,8 3,9 4,8
+Amazonas 2,4 2,9 3,3 3,5 3,2 3,7 3,5 3,6 4,0
+Roraima 3,5 3,5 3,4 3,6 3,4 3,6 3,5 3,9 5,1
+Pará 2,8 2,7 3,1 2,8 2,9 3,1 3,1 3,4 4,4
+Amapá 2,9 2,8 3,1 3,1 3,0 3,3 3,2 3,4 4,5
+Tocantins 3,1 3,2 3,4 3,6 3,3 3,4 3,8 4,0 4,7
+Nordeste 3,0 3,1 3,3 3,3 3,3 3,4 3,5 3,9 4,6
+Maranhão 2,7 3,0 3,2 3,1 3,0 3,3 3,5 3,8 4,3
+Piauí 2,9 2,9 3,0 3,2 3,3 3,4 3,6 4,0 4,5
+Ceará 3,3 3,4 3,6 3,7 3,6 3,7 4,1 4,4 4,9
+R. Gr. Norte 2,9 2,9 3,1 3,1 3,1 3,2 3,2 3,5 4,5
+Paraíba 3,0 3,2 3,4 3,3 3,3 3,4 3,5 4,0 4,6
+Pernambuco 3,0 3,0 3,3 3,4 3,8 4,0 4,1 4,5 4,6
+Alagoas 3,0 2,9 3,1 2,9 3,0 3,1 3,5 3,9 4,6
+Sergipe 3,3 2,9 3,2 3,2 3,2 3,2 3,7 3,7 4,9
+Bahia 2,9 3,0 3,3 3,2 3,0 3,1 3,0 3,5 4,5
+Sudeste 3,6 3,7 3,8 3,9 3,9 3,9 4,0 4,4 5,2
+Min. Gerais 3,8 3,8 3,9 3,9 3,8 3,7 3,9 4,2 5,3
+Esp. Santo 3,8 3,6 3,8 3,6 3,8 4,0 4,4 4,8 5,3
+Rio de Jan. 3,3 3,2 3,3 3,7 4,0 4,0 3,9 4,1 4,9
+S. Paulo 3,6 3,9 3,9 4,1 4,1 4,2 4,2 4,6 5,2
+Sul 3,7 3,9 4,1 4,0 3,9 3,8 3,9 4,4 5,3
+Paraná 3,6 4,0 4,2 4,0 3,8 3,9 4,0 4,7 5,2
+Sta. Catar. 3,8 4,0 4,1 4,3 4,0 3,8 4,1 4,2 5,3
+R. Gr. Sul 3,7 3,7 3,9 3,7 3,9 3,6 3,7 4,2 6,3
+C.-Oeste 3,3 3,4 3,5 3,6 3,6 3,7 4,0 4,4 4,9
+Mt. Gr. Sul 3,3 3,8 3,8 3,8 3,6 3,7 3,8 4,2 4,8
+Mt. Grosso 3,1 3,2 3,2 3,3 3,0 3,2 3,5 3,6 4,7
+Goiás 3,2 3,1 3,4 3,8 4,0 3,9 4,3 4,8 4,8
+Dist. Feder. 3,6 4,0 3,8 3,8 4,0 4,0 4,1 4,5 5,2
+Fonte: Inep. Só Goiás atingiu a meta para 2019 (em negrito).
+114
+
+=== página 5 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Na transição de 2017 para 2019, só Sergipe ficou “estável” (estagnado) (3,7). O
+maior ganho ocorreu no Paraná, com 0,7 p. Com ganho de 0,5 p. apareceram: Paraíba, Bahia,
+Rio Grande do Sul e Goiás. Goiás teve a melhor cifra para 2019 (4,8), mas não fez o maior
+avanço, o que, porém, não retira seu mérito contundente. Houve 4 estados que avançaram
+apenas 0,1 p.: Acre, Amazonas, Santa Catarina, Mato Grosso. Ceará, muito exitoso nos AI,
+um pouco menos nos AF, não brilha no EM: o avanço foi de 0,3 p. apenas. Por não obedecer,
+aparentemente, a uma lógica sistêmica, esta transição parece depender sobretudo de políticas
+estaduais, e estas, quase sempre, são menos efetivas que as locais (municipais).
+Na região Norte, somente Tocantins e Rondônia tinham cifra de 4 ou mais (4,0; 4,2,
+respectivamente). Pará e Amapá tiveram a menor cifra da Tabela para 2019: 3,4. Na região
+Nordeste, Pernambuco teve a melhor cifra, com 4,5; seguem Ceará, com 4,4, Piauí e Paraíba,
+com 4,0; os outros estados estavam abaixo de 4, havendo dois com 3,5: Rio Grande do Norte
+e Bahia. Na região Sudeste, melhor situação é do Espírito Santo, com 4,8 e a pior do Rio de
+Janeiro, com 4,1. Na região Sul, destaca-se muito Paraná, com 4,7, enquanto Santa Catarina
+e Rio Grande do Sul apresentaram 4,2. Na região Centro-Oeste, está o maior destaque da
+Tabela, Goiás, com 4,8 e atingimento da meta para 2019. Mato Grosso ainda estava abaixo
+de 4 (3,6) e Distrito Federal decepcionou muito, com 4,5.
+O cenário, então, primeiro, é marcado por muita heterogeneidade de desempenho,
+até porque o melhor desempenho é de um estado que não era muito esperado: Goiás, já à
+frente do DF em sua região. Santa Catarina, com avanço de apenas 0,1 p. ficou bem atrás do
+Paraná em sua região. Segundo, como apenas Goiás atingiu a meta (rasa) de 2019, todos
+estão devendo acentuadamente, como Rio Grande do Sul que tem uma distância de 2,1 p.
+para a meta de 2019 (atrasou-se muito).
+Há que levar em conta que o EM pode ser muito negativamente impactado pelos
+problemas acumulados nas etapas anteriores (AI, AF), em especial. Esta é queixa comum
+nos professores do EM, em especial em matemática, na qual o desempenho costuma ser
+kafkiano, mostrando resistência contumaz para ser recuperado. Grande parte do problema
+provém da “progressão automática” (ao invés da “continuada”), facilmente instalada na
+alfabetização em até 3 anos, quando alfabetizadores perdem o ritmo e não concluem a tarefa
+em tempo, ocasionando uma lacuna que dificilmente será preenchida mais tarde. É uma
+questão não resolvida, apesar dos programas oferecidos pelo MEC (Pnaic, em especial): após
+3 anos, sequer metade dos alunos está alfabetizada (Anuário... 2019), o que sugere uma
+escola ainda muito despreparada para encarar este desafio. Esta precariedade pode ser
+115
+
+=== página 6 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+aquilatada aproximativamente na pouca ou nenhuma utilidade do acréscimo de 1 ano ao EF:
+como os AF têm tendência de queda/estagnação, o que houve foi o aumento de 1 ano de
+aula, não de aprendizagem. Por certo, não se sugere aqui que se reprove o estudante que não
+se alfabetiza, porque seria uma prática já superada e comprometeria a escola mais ainda.
+Sugere-se que precisamos ter alfabetizadores capazes de dar conta da tarefa, o que pressupõe
+formação adequada, valorização socioeconômica condizente e condições de trabalho
+propícias. Tendo-os, não cabe, por outra, ficar determinando como deveriam proceder na
+alfabetização, qual método seria obrigatório, qual didática é impositiva etc.
+Observando o Ideb para a Rede Estadual do EM (Tabela 3), podemos avançar na
+análise um pouco mais. O primeiro incômodo é que as cifras caem, sugerindo algo muito
+preocupante: a política estadual do EM parece ter impacto negativo. Goiás continua sendo o
+único estado que atingiu a meta em 2019, mas seu Ideb é de 4,7 (não 4,8), mesmo sendo o
+maior da Tabela para 2019. Como, porém, a distância para outros estados se tornou ainda
+maior, vale presumir que Goiás parece ter política estadual do EM particularmente mais
+adequada. De fato, o melhor desempenho, depois do goiano, fica com Espírito Santo (4,6)
+(mas abaixo da meta para 2019); Paraná e Pernambuco (4,4); São Paulo (4,3); Ceará (4,2);
+Mato Grosso do Sul, com 4,1 – são estados onde se pode presumir haver algum cuidado com
+a política estadual do EM. Havia ainda três estados com Ideb de 4,0 (Rondônia, Rio Grande
+do Sul, Minas Gerais). Todos os outros ficaram abaixo de 4,0, inclusive Rio de Janeiro (3,5).
+Pará, Amapá, Rio Grande do Norte e Bahia tiveram 3,2, a menor cifra da Tabela. Santa
+Catarina teve apenas 3,8.
+Esta situação da política estadual do EM, respeitada sua heterogeneidade, sugere que
+continuamos com problemas ingentes nesta etapa, em especial no nível estadual das políticas
+educacionais. Embora os dados sejam muito genéricos para suportar indicações mais
+concretas analíticas, a transição de 2017 para 2019 ilustra algumas dimensões interessantes.
+O maior ganho, de 0,7 p., ficou com o Paraná (mesmo não atingindo a meta de 2019),
+seguindo Rio Grande do Sul e Distrito Federal, com 0,6 p., também sem atingir a meta; isto
+sugere que são estados tentando tirar o atraso (enquanto Santa Catariana, com apenas Ideb
+de 3,8, parece adormecida). Outros quatro estados tiveram ganho de 0,5 p.: Mato Grosso do
+Sul, São Paulo, Espírito Santo, Paraíba – estados que podem estar se movimentando para
+superar o atraso no EM. Goiás ficou com ganho de apenas 0,4 p. (mas atingiu a meta de
+2019, o único estado), igual ao ganho médio nacional, junto com Pará (finalmente se
+mexendo, parece), Piauí, Ceará, Pernambuco, Minas Gerais.
+116
+
+=== página 7 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Tabela 3 - Ideb – Ensino Médio – Rede Estadual – 2005-2019.
+2005 2007 2009 2011 2013 2013 2017 2019 Meta
+2019
+Brasil 3,0 3,2 3,4 3,4 3,4 3,5 3,5 3,9 4,6
+Norte 2,7 2,7 3,1 3,1 2,9 3,2 3,2 3,4 4,3
+Rondônia 3,0 3,1 3,7 3,3 3,4 3,3 3,8 4,0 4,5
+Acre 3,0 3,3 3,5 3,3 3,3 3,5 3,6 3,7 4,6
+Amazonas 2,3 2,8 3,2 3,4 3,0 3,5 3,3 3,5 3,8
+Roraima 3,2 3,1 3,5 3,5 3,2 3,4 3,3 3,5 4,8
+Pará 2,6 2,3 3,0 2,8 2,7 3,0 2,8 3,2 4,2
+Amapá 2,7 2,7 2,8 3,0 2,9 3,1 3,0 3,2 4,3
+Tocantins 2,9 3,1 3,3 3,5 3,2 3,3 3,7 3,9 4,5
+Nordeste 2,7 2,8 3,1 3,0 3,0 3,2 3,2 3,6 4,3
+Maranhão 2,4 2,8 3,0 3,0 2,8 3,1 3,4 3,7 4,0
+Piauí 2,3 2,5 2,7 2,9 3,0 3,2 3,3 3,7 3,8
+Ceará 3,0 3,1 3,4 3,4 3,3 3,4 3,8 4,2 4,5
+R. Gr. Norte 2,6 2,6 2,8 2,8 2,7 2,8 2,9 3,2 4,2
+Paraíba 2,6 2,9 3,0 2,9 3,0 3,1 3,1 3,6 4,2
+Pernambuco 2,7 2,7 3,0 3,1 3,6 3,9 4,0 4,4 4,3
+Alagoas 2,8 2,6 2,8 2,6 2,6 2,8 3,3 3,6 4,4
+Sergipe 2,8 2,6 2,9 2,9 2,8 2,6 3,1 3,3 4,4
+Bahia 2,7 2,8 3,1 3,0 2,8 2,9 2,7 3,2 4,3
+Sudeste 3,2 3,4 3,5 3,6 3,6 3,7 3,6 4,1 4,8
+Min. Gerais 3,4 3,5 3,6 3,7 3,6 3,5 3,6 4,0 5,0
+Esp. Santo 3,1 3,2 3,4 3,3 3,4 3,7 4,1 4,6 4,7
+Rio de Jan. 2,8 2,8 2,8 3,2 3,6 3,6 3,3 3,5 4,4
+S. Paulo 3,3 3,4 3,6 3,9 3,7 3,9 3,8 4,3 4,9
+Sul 3,4 3,6 3,8 3,7 3,6 3,5 3,6 4,1 5,0
+Paraná 3,3 3,7 3,9 3,7 3,4 3,6 3,7 4,4 4,9
+Sta. Catar. 3,5 3,8 3,7 4,0 3,6 3,4 3,6 3,8 5,1
+R. Gr. Sul 3,4 3,4 3,6 3,4 3,7 3,3 3,4 4,0 5,0
+C.-Oeste 2,9 3,0 3,2 3,3 3,3 3,4 3,7 4,1 4,4
+Mt. Gr. Sul 2,8 3,4 3,5 3,5 3,4 3,5 3,6 4,1 4,5
+Mt. Grosso 2,6 3,0 2,9 3,1 2,7 3,0 3,2 3,4 4,2
+Goiás 2,9 2,8 3,1 3,6 3,8 3,8 4,3 4,7 4,4
+Dist. Feder. 3,0 3,2 3,2 3,1 3,3 3,5 3,4 4,0 4,6
+Fonte: Inep.
+Acre, porém, avançou apenas 0,1 p. (a menor cifra da Tabela), embora tenha-se
+mostrado bem mais capaz quanto ao AI. Outros avançaram apenas 0,2 p.: Rondônia,
+Roraima, Amazonas, Amapá, Tocantins, na região Norte; Sergipe, na região Nordeste; Rio
+de Janeiro, na região Sudeste (talvez o caso mais negativo); Santa Catarina, na região Sul
+(caso também muito negativo); Mato Grosso, na região Centro-Oeste. Os dados insinuam,
+pelo menos nas entrelinhas, que alguns estados estão despertando para superar o atraso,
+nomeadamente Paraná, mas também Bahia e Paraíba, bem como Rio Grande do Sul e
+Distrito Federal. Ceará, com avanço de 0,4 p., pode sugerir que a política estadual do EM é
+bem menos efetiva que a movimentação municipal e local no estado. No Centro-Oeste,
+deixando de lado o Distrito Federal (por ser anômalo), cabe ressaltar o desempenho de Mato
+Grosso do Sul (avanço de 0,5 p.), indicando política estadual do EM muito empenhada. Em
+117
+
+=== página 8 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+parte, muitos estados se moveram mais por conta da Reforma do EM, aproveitando a
+ocasião. No entanto, políticas estaduais do EM ainda não correspondem, de modo geral,
+ficando facilmente atrás das políticas municipais em suas áreas respectivas de atuação.
+Um olhar das escolas do Ensino Médio
+Enquanto a política educacional estadual pode querer conduzir o que não
+experimenta diretamente, a escola é o palco concreto onde tudo acontece, servindo de
+parâmetro primeiro e último do acerto em termos de resultado. É o olhar do chão da escola
+que conta, muito embora a política possa ser componente fundamental de avanços
+importantes na aprendizagem dos estudantes, que é o vale ao final. Na Tabela 4 podemos ter
+um vislumbre indireto das condições da proficiência escolar, nas faixas do Ideb para escolas.
+Para o Brasil, havia 9,7% de escolas com Ideb de até 3,1; 40,6%, de 3,2 a 4,1; 40,3% de 4,2
+a 5,1; e 9,3% de 5,2 ou mais. Assim, mais de 80% das escolas estão nas duas faixas do meio,
+ficando quase 10% (cada) nas duas extremas. De todos os modos, apenas 9,3% das escolas
+tiveram Ideb de 5,2 ou mais, uma cifra extremamente miserável, comprovando que o
+resultado para o EM continua muito insuficiente.
+118
+
+=== página 9 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Tabela 4 - Ideb Ensino Médio – Rede Estadual – Escolas e Ideb 2019
+Reg./Esta- Escolas Faixas de Ideb
+dos com Ideb Até 3,1 % De 3,2 a % De 4,2 a % 5,2 ou %
+2019 4,1 5,1 mais
+Brasil 11.855 1.155 9,7 4.819 40,6 4.781 40,3 1.100 9,3
+Norte 738 229 31,0 343 46,5 147 19,9 19 2,6
+Rondônia 103 6 5,8 39 37,9 53 51,5 5 4,9
+Acre 38 4 10,5 21 55,3 13 34,2 0 0,0
+Amazonas 140 51 36,4 56 40,0 27 19,3 6 4,3
+Roraima 29 11 37,9 16 55,2 1 3,4 1 3,4
+Pará 262 131 50,0 113 43,1 17 6,5 1 0,4
+Amapá 31 14 45,2 14 45,2 3 9,7 0 0,0
+Tocantins 135 12 8,9 84 62,2 33 24,4 6 4,4
+Nordeste 3.617 607 16,8 1.796 49,7 940 26,0 274 7,6
+Maranhão 635 179 28,0 349 55,0 97 15,3 11 1,7
+Piauí 358 87 24,3 191 53,4 66 18,4 14 3,9
+Ceará 632 8 1,3 287 45,4 213 33,7 124 19,6
+Rio Gr. Norte 83 25 30,1 46 55,4 10 10,0 2 2,4
+Paraíba 293 52 17,7 146 49,8 87 29,7 8 2,7
+Pernambuco 701 5 0,7 247 35,2 340 48,5 109 15,5
+Alagoas 200 30 15,0 125 62,5 45 22,5 0 0,0
+Sergipe 112 33 29,5 65 58,0 14 12,5 0 0,0
+Bahia 603 189 31,3 340 56,4 68 11,3 6 1,0
+Sudeste 5.292 246 4,6 2.008 37,9 2.468 46,6 570 10,8
+Minas Gerais 1.732 119 6,9 875 50,5 672 38,8 66 3,8
+Espírito Santo 224 2 0,9 46 20,5 123 54,9 53 23,7
+Rio de Janeiro 602 85 14,1 307 51,0 183 30,4 27 4,5
+S. Paulo 2.734 40 1,5 780 28,5 1.490 54,5 424 15,5
+Sul 1.498 40 2,7 481 32,1 837 55,9 140 9,3
+Paraná 897 10 1,1 279 31,1 529 59,0 79 8,8
+Santa Catarina 210 8 3,8 80 38,1 107 51,0 15 7,1
+Rio Gr. Sul 391 22 5,6 122 31,2 201 51,4 46 11,8
+Centro-Oeste 710 33 4,6 191 26,9 389 54,8 97 13,7
+Mato Gr. Sul 85 5 5,9 27 31,8 44 51,8 9 10,6
+Mato Grosso 110 28 25,5 58 52,7 22 20,0 2 1,8
+Goiás 472 0 0,0 81 17,2 306 64,8 85 18,0
+Distrito Federal 43 0 0,0 25 58,1 17 39,5 1 2,3
+Fonte: Inep.
+Na região Norte, o perfil da média nacional muda muito: 31% das escolas tinham
+Ideb de até 3,1, uma cifra alarmante em todos os sentidos; 46,5% tinham Ideb de 3,2 a 4,1;
+19,9%, de 4,2 a 5,1; e apenas 2,6%, de 5,2 ou mais. Ou seja, o desempenho muito insuficiente
+é dominante, o que torna escolas da última faixa quase excepcionais. Chama a atenção que
+Acre, em geral bem posicionado nos AI, não tinha nenhuma escola na faixa mais alta, o que
+ocorria também no Amapá; no Pará, apenas 0,4%. Rondônia teve a melhor cifra, de 4,9%,
+seguindo-se Tocantins, com 4,4%, e Amazonas com 4,3%. No todo, então, a região mostra
+desafios ingentes pela frente, mesmo no estado mais destacado socioculturalmente, Pará: só
+teve 1 escola na faixa mais alta.
+119
+
+=== página 10 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Na região Nordeste, a situação é menos dramática, mas a situação geral é bem
+deprimida. Havia 16,8% de escolas com Ideb de até 3,1; 49,7%, de 3,2 a 4,1; 26%, de 4,2 a
+5,1; e somente 7,6% com 5,2 ou mais. Ceará sobressaía, com 19,6% na maior faixa,
+seguindo-se Pernambuco, com 15,5%. Alagoas e Sergipe não tinham nenhuma escola na
+faixa mais elevada. Bahia tinha 1%, Maranhão, 1,7%, Rio Grande do Norte, 2,4%, Paraíba,
+2,7%... É o caso reconhecer que escolas de bom rendimento são ainda excepcionais, menos
+em Ceará e Pernambuco, cujas cifras são, porém, apenas razoáveis.
+Na região Sudeste, diminui bastante a percentagem de escolas com Ideb de até 3,1:
+4,6%; quase metade (46,6%) está na faixa de 4,2 a 51; outras 37,9% na de 3,2 a 4,1; e apenas
+10,8% na faixa mais alta, de 5,2 ou mais. É um desempenho péssimo, francamente. Espírito
+Santo se destacava, com 23,7% de escolas na faixa mais elevada, vindo depois São Paulo,
+com meros 15,5%, uma cifra calamitosa para o estado mais desenvolvido do país. Rio de
+Janeiro, confirmando, sua leseira em política educacional, tinha apenas 4,5% de escolas na
+faixa mais elevada.
+Na região Sul, o perfil é um pouco melhor: 2,7% das escolas tinham Ideb de até 3,1;
+32,1%, de 3,2 a 4,1; 55,9%, de 4,2 a 5,1; e 9,3%, de 5,2 ou mais. Destaca-se, desta vez, o
+Rio Grande do Sul, com 11,8% de escolas na melhor faixa, com 8,8% no Paraná, e 7,1% em
+Santa Catarina. Objetivamente falando, apesar de ser uma região bastante equilibrada e
+promissora, escola com o maior destaque tende a ser excepcional nos três estados. Na região
+Centro-Oeste, temos o melhor perfil nacional, ainda que não muito expressivamente. Havia
+4,6% de escolas com Ideb de até 3,1; 26,9%, de 3,2 a 4,1; 54,8%, de 4,2 a 5,1; e 13,7%, com
+5,2 ou mais. Aparece aí atuação muito destacada de Goiás, com 18% de escolas na faixa
+mais elevada, superado apenas por Espírito Santo (23,7%) e por Ceará (19,6%). Mato Grosso
+do Sul também tem destaque, com 10,6%, enquanto Mato Grosso ficou com mero 1,8%, e o
+Distrito Federal com 2,3%. Assim, presume-se que Goiás e Mato Grosso do Sul se
+empenham particularmente na política educacional do EM.
+Em qualquer circunstância, todavia, os dados sugerem desafios astronômicos no EM,
+tanto porque escola de alta qualidade de EM é rara, quase ou até mesmo excepcional, quanto
+porque não há destaque pronunciado no país: o desempenho do EM é péssimo, como regra
+geral. Embora exemplos como do Espírito Santo, Ceará e Goiás indiquem que podemos
+avançar, porquanto o avanço depende em boa medida da política educacional local, a
+situação em geral é muito deficiente, como se verifica em alguns estados, por exemplo: na
+região Norte, em Pará, 50% das escolas tinham Ideb de até 3,1, a cifra mais alarmante do
+120
+
+=== página 11 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+país; em Amapá, 45,2%; em Roraima, 37,9%; em Amazonas, 36,4%; na região Nordeste, na
+Bahia, 31,3%; em Rio Grande do Norte, 30,1%; em Sergipe, 29,5%; na região Sudeste, em
+Rio de Janeiro, 14,1%; na região Centro-Oeste, em Mato Grosso, 25,5%. Nesta região, as
+disparidades são gritantes: enquanto Mato Grosso tinha ¼ de suas escola com Ideb de até
+3,1, Mato Grosso do Sul tinha 5,9%, e Goiás e Distrito Federal nenhuma.
+Situação confortável não havia em nenhuma região ou estado. A situação de São
+Paulo, com 15,5% de escolas na faixa mais elevada do Ideb, é indicativa de atraso clamoroso
+na política educacional estadual. Minas Gerais, com 3,8% e Rio de Janeiro, com 4,5% de
+escolas com Ideb mais elevado, são também indicativos de atraso inacreditável, em dois
+estados que deveriam estar em situação bem mais avançada. Espírito Santo, com 23,7%, a
+melhor cifra do país, não estava em situação confortável, embora seja notável que o estado
+menos socioeconomicamente destacado da sua região detenha esta dianteira, também
+nacional. Serve para assegurar que é possível avançar, sendo a infraestrutura econômica fator
+de muito peso, mas não necessariamente fatal.
+Ensino Médio privado
+Como vimos no início desta análise, a escola privada não atingiu a meta em nenhum
+caso (AI, AF, EM) e indica estagnação. Observamos agora o desempenho privado no EM,
+segundo o Ideb (Tabela 5) para averiguarmos esta tendência estagnante, logo no setor
+“privilegiado” da política educacional brasileira. A escola privada atua também nos AI e nos
+AF, mas aqui analisamos apenas o EM. O Ideb médio nacional (Brasil), para 2019, foi de
+6,0, estando a 0,8 p. da meta para 2019. A região Sudeste mantém esta média (6,0), enquanto
+a região Centro-Oeste tem 6,1, e a região Sul, 6,3. Dois estados chegaram a 6,4 (Minas Gerais
+e Paraná); Espírito Santo, a 6,3; Santa Catarina e Distrito Federal, a 6,2. A região mais
+destacada é a Sul, onde Rio Grande do Sul teve 6,1, Santa Catariana 6,2, e Paraná 6,4 – a
+distância para com a meta para 2019 (7,0) ainda era expressiva.
+Na região Norte, a média foi de 5,8, havendo apenas Acre, com 6,1, e Roraima e
+Tocantins, com 6,0. Em Amapá, o Ideb foi de apenas 5,3 (a 1 p. da meta de 2019). No
+Nordeste, a média foi a mesma, de 5,8, havendo apenas um estado com 6,0, Piauí; Alagoas
+teve somente 5,2, a menor cifra da coluna na Tabela. Ceará, com 5,7, não tinha destaque no
+setor privado. No Sudeste, a média é a mesma nacional, 6,0, com Rio de Janeiro muito
+atrasado (5,7), e os outros estados acima dos 6,0. No Sul, como já aduzido, temos a situação
+121
+
+=== página 12 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+mais avançada, embora as cifras ainda sejam muito exíguas, objetivamente falando. E no
+Centro-Oeste, Goiás, com 6,0, tinha o Ideb mais baixo regional.
+Para perceber o tom de estagnação da escola privada, é o caso comparar o Ideb de
+2017 com o de 2019. No todo (Brasil), o avanço foi de 0,2 p. (na versão do EM estadual, o
+avanço foi de 0,4 p. – Tabela 3). Na região Norte, a média de avanço foi de 0,3 p., com
+grande variação regional. Acre emplacou 0,7 p., Roraima 0,6 p. e Pará 0,4 p. Mas, com
+exceção do Pará, que tem mais de 260 escolas privadas do EM, Acre e Roraima não chegam
+a 40 ou 30, respectivamente. Amapá caiu -0,1 p., Amazonas subiu 0,1 p., junto com
+Rondônia. No Nordeste, a média de avanço foi de 0,3 p., com destaque para Paraíba que
+saltou 0,7 p. Ceará não se mexeu, Piauí subiu 0,1 p., e Alagoas e Sergipe, 0,2 p. No Sudeste,
+que concentra quase 5.300 escolas privadas, a média de avanço foi de 0,1 p, ocorrendo 0,2
+p. apenas em Espírito Santo e São Paulo. Esta região é a responsável maior para o tom de
+estagnação. No Sul, a média de avanço foi 0,4 p., com destaque para o Paraná (0,5 p.),
+enquanto Santa Catarina e Rio Grande do Sul tiveram 0,2 p. No Centro-Oeste, a média
+regional foi de 0,4 p. igualmente, tendo dois estados avanço de 0,2 p. (Mato Grosso do Sul
+e Distrito Federal) e outros dois com 0,5 p. (Mato Grosso e Goiás).
+A escola privada do EM contém um tom estagnante, tanto na média total (avançou
+apenas 0,2 p.), quanto no Sudeste, onde estão 45% das escolas privadas do país, com avanço
+médio de 0,1 p. Embora o cenário desvele alguma heterogeneidade de resultados, pode
+chamar a atenção que no Ceará, onde o setor público atinge destaques muito marcantes na
+versão municipal ou local, não tem destaque na versão privada: na passagem de 2017 para
+2019 não houve mudança. O Distrito Federal, conhecido por escolas privadas de êxito
+(também por conta da demanda mais sofisticada de congressistas, da elite de funcionários
+públicos, sobretudo do judiciário, e principalmente da alta renda per capita) teve avanço de
+0,2 p. Em parte esta leseira pode ser atribuída ao sucesso da Escola Privada, pouco
+preocupada com seu futuro, aparentemente garantido.
+122
+
+=== página 13 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Tabela 5 - Ideb – Ensino Médio – Rede Privada – 2005-2019.
+2005 2007 2009 2011 2013 2013 2017 2019 Meta
+2019
+Brasil 5,6 5,6 5,6 5,7 5,4 5,3 5,8 6,0 6,8
+Norte 5,0 5,1 5,4 5,2 5,0 4,7 5,5 5,8 6,4
+Rondônia 5,0 5,0 - 5,3 5,1 5,2 5,5 5,6 6,4
+Acre 5,6 5,1 - 5,0 5,3 5,3 5,4 6,1 6,9
+Amazonas 5,2 4,8 - 5,0 5,0 5,2 5,4 5,5 6,5
+Roraima 4,7 5,2 - 5,2 5,3 5,6 5,4 6,0 6,2
+Pará 5,0 5,2 - 5,3 4,9 4,0 5,5 5,9 6,4
+Amapá 4,9 5,1 - 5,0 4,8 5,0 5,4 5,3 6,3
+Tocantins 5,4 5,4 - 5,6 5,4 5,3 5,8 6,0 6,7
+Nordeste 5,2 5,1 5,2 5,4 5,2 5,1 5,5 5,8 6,5
+Maranhão 4,6 4,7 4,8 4,8 4,8 4,7 5,2 5,5 6,1
+Piauí 5,4 5,1 5,7 5,6 5,5 5,1 5,9 6,0 6,8
+Ceará 5,5 5,2 5,5 5,9 5,3 5,5 5,7 5,7 6,8
+R. Gr. Norte 5,1 5,3 4,4 5,1 4,8 4,9 5,2 5,6 6,5
+Paraíba 5,0 5,1 5,4 5,3 5,1 4,9 5,2 5,9 6,4
+Pernambuco 5,3 5,3 5,5 5,5 5,2 4,9 5,6 5,9 6,6
+Alagoas 4,4 4,7 4,6 4,9 4,7 4,7 5,0 5,2 5,9
+Sergipe 5,5 5,0 5,0 4,8 4,8 4,9 5,5 5,7 6,8
+Bahia 5,3 5,5 5,3 5,6 5,5 5,2 5,6 5,9 6,7
+Sudeste 5,7 5,7 5,6 5,8 5,4 5,5 5,9 6,0 6,9
+Min. Gerais 6,2 5,7 6,1 6,1 5,8 5,6 6,3 6,4 7,3
+Esp. Santo 5,7 5,9 5,7 5,7 5,7 5,7 6,1 6,3 6,9
+Rio de Jan. 5,1 5,4 5,7 5,5 4,8 5,0 5,6 5,7 6,5
+S. Paulo 5,8 5,8 5,3 5,9 5,6 5,6 5,9 6,1 7,0
+Sul 5,9 5,8 5,9 6,0 5,7 5,6 5,9 6,3 7,1
+Paraná 5,8 6,1 6,1 6,1 5,7 5,5 5,9 6,4 7,0
+Sta. Catar. 5,7 5,5 6,1 6,0 5,9 5,8 6,0 6,2 7,0
+R. Gr. Sul 5,7 5,7 5,7 5,9 5,7 5,7 5,9 6,1 7,0
+C.-Oeste 5,7 5,5 5,8 5,6 5,6 5,4 5,7 6,1 7,0
+Mt. Gr. Sul 5,8 5,6 5,8 5,5 5,6 5,7 5,9 6,1 7,0
+Mt. Grosso 5,3 5,3 5,8 5,7 5,3 5,3 5,6 6,1 6,6
+Goiás 5,7 5,7 5,8 5,5 5,5 5,2 5,5 6,0 7,0
+Dist. Feder. 5,9 5,5 5,6 5,6 5,7 5,6 6,0 6,2 7,1
+Fonte: Inep.
+Podemos, para ilustrar mais de perto as diferenças, comparar o desempenho da escola
+privada do EM com o da escola estadual do EM (Tabela 6). Grosso modo, a diferença está
+em torno dos 2 pp., o que é significativo (são dois pontos inteiros), uma das razões para os
+pais preferirem a escola privada. Tomando a referência regional, o Sudeste tinha diferença
+abaixo de 2, enquanto as outras acima, até 2,2; mas, como o Sudeste detém perto de metade
+das escolas privadas, a diferença pode ser mantida como em torno de 2 pp. A menor diferença
+aparecem em Goiás, de apenas 1,3 p., indicando que a distância entre oferta pública e privada
+tem diminuído, num estado que vem despontando como promissor na educação básica
+pública.
+Cabe, então, perguntar como se consegue esta diferença? Levando em conta que o
+professor é o mesmo, a aula é a mesma, a didática instrucionista a mesma, as provas as
+123
+
+=== página 14 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+mesmas, o currículo o mesmo, e assim por diante, a vantagem não é “pedagógica”, mas
+alcançada por outros procedimentos, em particular pela organização mais disciplinada,
+controle da docência, pressão dos pais, gestão privada etc., que são fatores relevantes de
+desempenho, embora não pedagógicos. As escolas privadas são menos suscetíveis a greves
+e interrupções, dificilmente os alunos ficam muito tempo sem um professor em determinado
+conteúdo, o desempenho estudantil é monitorado mais de perto, também para dar satisfação
+aos pais. Tudo isso acaba favorecendo à fama da escola privada de ser a melhor escola
+disponível. Num sentido, é correto, porque funciona facilmente melhor, de modo geral,
+embora não linearmente. Noutro, contudo, não precisa ser, porque a vantagem privada não
+provém da pedagogia, do compromisso formativo como tal, de procedimentos voltados para
+a aprendizagem. A questão chave é que o instrucionismo é o mesmo (Demo, 2020): ambas
+as escolas capricham na transmissão de conteúdo, via instrução direta de preferência,
+subentendendo-se que, havendo esta transmissão disciplinada, cumulativa, está garantida a
+aprendizagem. A vantagem da escola privada não é desprezível, de modo algum: garante
+muito mais o acesso às melhores universidades gratuitas, preparando para vestibulares
+tipicamente instrucionistas.
+Tabela 6 - Ideb de 2019 da Escola Estadual e da Escola privada e Diferença
+Escola Escola Diferença Escola Escola Diferença
+Estadual Privada Estadual Privada
+Brasil 3,9 6,0 2,1 Sudeste 4,1 6,0 1,9
+Norte Min.
+3,4 5,8 2,4 4,0 6,4 2,4
+Gerais
+Rondônia 4,0 5,6 1,6 Esp. Santo 4,6 6,3 1,7
+Acre 3,7 6,1 2,4 Rio de Jan. 3,5 5,7 2,2
+Amazonas 3,5 5,5 2,0 S. Paulo 4,3 6,1 1,8
+Roraima 3,5 6,0 2,5 Sul 4,1 6,3 2,2
+Pará 3,2 5,9 2,7 Paraná 4,4 6,4 2,0
+Amapá 3,2 5,3 2,1 Sta. Catar. 3,8 6,2 2,4
+Tocantins 3,9 6,0 2,1 R. Gr. Sul 4,0 6,1 2,1
+Nordeste 3,6 5,8 2,2 C.-Oeste 4,1 6,1 2,0
+Maranhão 3,7 5,5 1,8 Mt. Gr. Sul 4,1 6,1 2,0
+Piauí 3,7 6,0 2,3 Mt. Grosso 3,4 6,1 2,7
+Ceará 4,2 5,7 1,5 Goiás 4,7 6,0 1,3
+Dist.
+R. Gr. Norte 3,2 5,6 2,4 4,0 6,2 2,2
+Feder.
+Paraíba 3,6 5,9 2,3
+Pernambuco 4,4 5,9 1,5
+Alagoas 3,6 5,2 1,6
+Sergipe 3,3 5,7 2,4
+Bahia 3,2 5,9 2,7
+Fonte: Inep.
+124
+
+=== página 15 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+Como alegado, a escola privada abusa de seu status superior, bravateando o
+conteudismo sem maior pudor. Não se sente em risco, porque a escola pública continua
+estigmatizada como escola pobre para o pobre. Tomando em conta avanços monumentais
+em alguns municípios, a exemplo de Sobral e outros, não é inimaginável que a diferença
+entre oferta pública e privada possa cair, porque já descobrimos que aprender não é enigma;
+não é monopólio privado; não é coisa de região rica. Aprende-se bem no interior do Ceará,
+do Espírito Santo, de Goiás.
+Com o progresso do debate sobre o instrucionismo (Demo, 2020), em especial com
+a crítica cada vez mais acerba contra os procedimentos deformadores do sistema chinês de
+ensino (Zhao, 2014; 2018), por ser opressivo, doentio, manipulador, coercitivo, mesmo
+apadrinhado pelo PISA (Schleicher, 2019), possivelmente vamos pedir muito mais da escola,
+incluindo qualidade de vida dos estudantes (Dintersmith, 2018). O instrucionismo mantém
+uma pegada domesticadora e docilizadora própria de sistemas autocráticos (Foucault, 1977)
+e que facilmente aparecem em propostas agarradas à “disciplina” comportamental. Embora
+esta seja também virtude, fazendo parte da formação integral, pode se desvirtuada, como
+seria o caso do sistema de ensino chinês e similares.
+Resultados do Enem reiteram um recado interessante. Na redação, o fracasso é a
+regra, desmesuradamente: de 4 milhões de candidatos, uns 50 (“cinquentinha”) redigem
+bem, uma cifra que sequer entra na estatística. Por que não se sabe redigir? Porque o sistema
+não tem como compromisso a aprendizagem, mas apenas do domínio e reprodução de
+conteúdo. Como o EM privado ainda é a via áurea de acesso a universidades gratuitas de
+melhor nível, a mazela não é confrontada. Presume-se, ainda, que avanços no Ideb, como
+aqueles de municípios do topo, reiteram o instrucionismo vigente, à sombra da lógica
+reprodutiva do Ideb que é, nisso, filhote do PISA. Pode ser, porque a pressão instrucionista
+é avassaladora, mas como são propostas em geral públicas municipais, é possível que se
+possa descobrir que aprender não é reproduzir conteúdo.
+Considerações finais
+O fato de o Ideb do EM indicar um pequeno avanço (de 0,4 p.) provocou algum
+frisson, também porque o avanço apareceu onde menos se esperava. Tradicionalmente, a
+parte que mais bem avança na EB é nos AI e a que menos avança é no EM. No entanto,
+talvez por algum impacto da Reforma do EM de 2017, houve alguma mexida favorável.
+Observando os dados mais de perto, porém, os resultados continuam ainda perplexamente
+125
+
+=== página 16 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+muito insuficientes, muito embora despontem casos promissores, com destaque para Goiás,
+Espírito Santo e Ceará. Do ângulo das escolas de EM, o cenário ainda é muito precário, em
+todas as regiões, restando a impressão forte de que escola de EM de qualidade elevada é uma
+raridade, mesmo no Sudeste e no Sul. Assim, não cremos que os dados indiquem alguma
+virada, mesmo que a BNCC assim preconize, com o termo forte “recriação da escola”
+(2018: 462), porque o avanço está mais para um soluço ou solavanco, do que para uma
+proposta consistentemente reconstruída. Afinal, o professor que conclui a pedagogia ou
+licenciatura ainda é tipicamente um profissional do ensino, muito distanciado do direito do
+estudante de aprender. Na escola, ao invés de organizar “atividades de aprendizagem”
+(Demo, 2018), organiza sessões de repasse de conteúdo, que não implicam ler, estudar,
+pesquisar, elaborar etc.
+Temos de levar em conta que o EM acaba tendo de resolver um acúmulo sistemático
+de mazelas anteriores do AI e dos AF. Por exemplo, o aprendizado de matemática fica muito
+prejudicado, se o estudante chega sem fundamentos anteriores imprescindíveis. Vale isso
+também para a língua portuguesa: se o estudante não tem fundamentos de gramática e
+elaboração de texto, é uma lide dura recuperar isso no EM. Ao final, porém, o resultado do
+EM ainda é muito precário: é a etapa da EB mais carente de qualidade pedagógica e
+acadêmica.
+Referências
+ANUÁRIO BRASILEIRO DA EDUCAÇÃO BÁSICA. Todos pela Educação. Moderna:
+São Paulo, 2019. Disponível em:
+https://www.todospelaeducacao.org.br/_uploads/_posts/302.pdf. Acesso em: 09 set. 2020.
+BASE NACIONAL COMUM CURRICULAR (BNCC). Educação é a Base. MEC: Brasília,
+2018. Disponível em:
+http://basenacionalcomum.mec.gov.br/images/BNCC_EI_EF_110518_versaofinal_site.pdf.
+Acesso em: 09 set. 2020.
+DEMO, P. Atividades de Aprendizagem – Sair da mania do ensino para comprometer-se
+com a aprendizagem do estudante. SED/Gov. MS, Campo Grande, 2018. Diponível em:
+https://drive.google.com/file/d/1FKskDCxNB422PVhrjrDjD48S4cjsb77-/view. Acesso em:
+09 set. 2020.
+DEMO, P. Educação à Deriva – À direita e à esquerda: instrucionismo como patrimônio
+nacional, 2020. Disponível em: https://drive.google.com/file/d/10nMlgL8N9GKFgwtnbL-
+bIn7GQf0HdyA4/view. Acesso em: 09 set. 2020.
+DINTERSMITH, T. What school could be: Insights and inspiration from teachers across
+America. Princeton U. Press: Princeton, 2018.
+126
+
+=== página 17 ===
+Notandum, ano XXIV, n. 57, set./dez. 2021
+CEMOrOC-Feusp / GTSEAM
+FOUCAULT, M. Vigiar e punir - História da violência nas prisões. Vozes: Petrópolis,
+1977.
+SCHLEICHER, A. PISA 2018 – Insights and Interpretations. OECD. OECD Publishing:
+Paris, 2019. Disponível em:
+https://www.oecd.org/pisa/PISA%202018%20Insights%20and%20Interpretations%20FINAL
+%20PDF.pdf. Acesso em: 09 set. 2020.
+ZHAO, Y. Who is afraid of the big bad dragon: Why China has the best (and the worst)
+education system in the world. Jossey-Bass: San Francisco, 2014.
+ZHAO, Y. What works may hurt – Side effects in education. Teachers College: Press,
+2018.
+127

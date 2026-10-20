@@ -43,6 +43,7 @@ FONTES: dict[str, str] = {
     "wb-pobreza-3dolares": WB.format(ind="SI.POV.DDAY"),
     "wb-subalimentacao": WB.format(ind="SN.ITK.DEFC.ZS"),
     "wb-pib-crescimento": WB.format(ind="NY.GDP.MKTP.KD.ZG"),
+    "wb-wgi-controle-corrupcao": "https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/GOV_WGI_CC.SC?source=3&format=json&date=1996:2026&per_page=500",
     # Banco Central (SGS)
     "bcb-divida-bruta": BCB.format(n=13762, ini="01/01/2006", fim="31/12/2026"),
     "bcb-ipca-mensal": BCB.format(n=433, ini="01/01/2002", fim="31/12/2026"),
@@ -51,6 +52,7 @@ FONTES: dict[str, str] = {
     # IBGE (SIDRA)
     "ibge-desocupacao": SIDRA.format(caminho="t/6381/n1/all/v/4099/p/all"),
     "ibge-rendimento-real": SIDRA.format(caminho="t/6390/n1/all/v/5933/p/all"),
+    "ibge-gini": SIDRA.format(caminho="t/7435/n1/all/v/10681/p/all"),
     "ibge-pib-anual": SIDRA.format(caminho="t/6784/n1/all/v/9810/p/all"),
     # Mercado (Yahoo Finance, fechamento diário)
     "mkt-ibovespa": YAHOO.format(sim="%5EBVSP", p1=P1, p2=P2),

@@ -1,0 +1,156 @@
+# fonte: https://ideas.repec.org/p/ipe/ipetds/2357.html
+# capturado em: 2026-10-20
+
+Impacto da Desoneração da Folha de Pagamento sobre o Emprego: novas evidências
+Advanced search
+Economic literature:
+papers
+,
+articles
+,
+software
+,
+chapters
+,
+books
+.
+Authors
+Institutions
+Rankings
+Help/FAQ
+MyIDEAS
+More options at page bottom
+Economic literature
+Authors
+Institutions
+Rankings
+Help/FAQ
+MyIDEAS
+(now improved)
+Advanced search
+Browse Econ Literature
+Working papers
+Journals
+Software components
+Books
+Book chapters
+JEL classification
+More features
+Subscribe to new research
+RePEc Biblio
+Author registration
+Economics Virtual Seminar Calendar
+ConfWatcher
+NEW!
+Printed from https://ideas.repec.org/p/ipe/ipetds/2357.html
+My bibliography
+Save this paper
+Impacto da Desoneração da Folha de Pagamento sobre o Emprego: novas evidências
+Author & abstract
+Download
+Related works & more
+Corrections
+Author
+Listed:
+Felipe Garcia
+Adolfo Sachsida
+Alexandre Xavier Ywata de Carvalho
+Registered:
+Felipe Garcia Ribeiro
+Alexandre Xavier Ywata de Carvalho
+Abstract
+Realiza-se uma avaliação quantitativa de impacto da política setorial de desoneração da folha de pagamentos, implementada a partir de 2012, sobre o volume de emprego de empresas aptas a participarem da mudança e atuantes em setores da economia beneficiados pela alteração. A desoneração é caracterizada pela substituição dos 20% de contribuição patronal ao regime de previdência incidentes sobre a folha de pagamentos por uma contribuição entre 1% e 2%, incidente sobre o faturamento das empresas. Com dados da Relação Anual de Informações Sociais (Rais) para o período 2009-2015, compara-se, entre setores contemplados e não contemplados pela desoneração, a evolução da diferença no volume de emprego entre empresas afetadas pela desoneração e empresas não afetadas. Trata-se da estratégia de estimação de triplas diferenças. No geral, os resultados obtidos apontam para a ausência de efeitos da política sobre o volume de empregos. We use data from the period 2009-15 to estimate the impact of the public policy aiming to decrease the taxes paid by companies over their payroll. The objective of this program, so called Less Taxes on the Payroll (“Desoneração da Folha de Pagamento”), was to burst the employment in the firms benefited by the tax cut. Overall our econometric results show no employment effect of this program.
+Suggested Citation
+Felipe Garcia & Adolfo Sachsida & Alexandre Xavier Ywata de Carvalho, 2018.
+"
+Impacto da Desoneração da Folha de Pagamento sobre o Emprego: novas evidências
+,"
+Discussion Papers
+2357, Instituto de Pesquisa Econômica Aplicada - IPEA.
+Handle:
+RePEc:ipe:ipetds:2357
+as
+HTML
+HTML with abstract
+plain text
+plain text with abstract
+BibTeX
+RIS (EndNote, RefMan, ProCite)
+ReDIF
+JSON
+Download full text from publisher
+File URL:
+http://www.ipea.gov.br/portal/images/stories/PDFs/TDs/180117_td_2357.pdf
+Download Restriction:
+no
+--->
+<---
+More about this item
+Statistics
+Access and download statistics
+Corrections
+All material on this site has been provided by the respective publishers and authors. You can help correct errors and omissions. When requesting a correction, please mention this item's handle:
+RePEc:ipe:ipetds:2357
+. See
+general information
+about how to correct material in RePEc.
+If you have authored this item and are not yet registered with RePEc, we encourage you to do it
+here
+. This allows to link your profile to this item. It also allows you to accept potential citations to this item that we are uncertain about.
+We have no bibliographic references for this item. You can help adding them by using
+this form
+.
+If you know of missing items citing this one, you can help us creating those links by adding the relevant references in the same way as above, for each refering item. If you are a registered author of this item, you may also want to check the "citations" tab in your
+RePEc Author Service
+profile, as there may be some citations waiting for confirmation.
+For technical questions regarding this item, or to correct its authors, title, abstract, bibliographic or download information, contact: Fabio Schiavinatto (email available below). General contact details of provider:
+https://edirc.repec.org/data/ipeaabr.html
+.
+Please note that corrections may take a couple of weeks to filter through
+the various RePEc services.
+More services and features
+MyIDEAS
+Follow serials, authors, keywords & more
+Author registration
+Public profiles for Economics researchers
+Rankings
+Various research rankings in Economics
+RePEc Genealogy
+Who was a student of whom, using RePEc
+RePEc Biblio
+Curated articles & papers on economics topics
+MPRA
+Upload your paper to be listed on RePEc and IDEAS
+New papers by email
+Subscribe to new additions to RePEc
+EconAcademics
+Blog aggregator for economics research
+Plagiarism
+Cases of plagiarism in Economics
+About RePEc
+RePEc home
+Initiative for open bibliographies in Economics
+Blog
+News about RePEc
+Help/FAQ
+Questions about IDEAS and RePEc
+RePEc team
+RePEc volunteers
+Participating archives
+Publishers indexing in RePEc
+Privacy statement
+Help us
+Corrections
+Found an error or omission?
+Volunteers
+Opportunities to help RePEc
+Get papers listed
+Have your research listed on RePEc
+Open a RePEc archive
+Have your institution's/publisher's output listed on RePEc
+Get RePEc data
+Use data assembled by RePEc
+IDEAS
+is a
+RePEc
+service. RePEc uses bibliographic data supplied by the respective publishers.

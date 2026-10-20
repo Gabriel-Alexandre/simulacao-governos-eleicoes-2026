@@ -1,0 +1,2013 @@
+# fonte: https://scielo.br/j/ptp/a/3zzgqs75tSY5JJNfMpn7krm/?lang=pt
+# capturado em: 2026-10-20
+
+Brasil - Effects of Phonics on the Reading and Writing of Children with Difficulties in Understanding the Alphabetic Principle Effects of Phonics on the Reading and Writing of Children with Difficulties in Understanding the Alphabetic Principle
+menu
+Menu
+Brasil
+Lista alfabética de periódicos
+Lista temática de periódicos
+Busca
+Métricas
+(abre em nova aba)
+Sobre o SciELO Brasil
+Contatos
+Reportar erro
+SciELO.org - Rede SciELO
+(abre em nova aba)
+Coleções nacionais e temáticas
+(abre em nova aba)
+Lista alfabética de periódicos
+(abre em nova aba)
+Lista de periódicos por assunto
+(abre em nova aba)
+Busca
+(abre em nova aba)
+Métricas
+(abre em nova aba)
+Acesso OAI e RSS
+(abre em nova aba)
+Sobre a Rede SciELO
+(abre em nova aba)
+Contatos
+(abre em nova aba)
+Blog SciELO em Perspectiva
+(abre em nova aba)
+Brasil
+language
+pt_BR
+Português
+English
+Español
+Psicologia: Teoria e Pesquisa
+Mostrar opções
+launch
+Submissão de manuscritos
+info
+Sobre o periódico
+help_outline
+Política editorial
+people
+Corpo Editorial
+help_outline
+Instruções aos autores
+email
+Contato
+show_chart
+Métricas
+home
+Sumário
+navigate_before
+Anterior
+Atual
+Seguinte
+navigate_next
+Resumo
+Resumo
+(Inglês)
+Resumo
+(Português)
+Texto
+(PT)
+Texto
+(Inglês)
+Texto
+(Português)
+PDF
+Download PDF (Inglês)
+Download PDF (Português)
+article
+Conteúdo:
+Texto (PT)
+Resumo
+(Inglês)
+Resumo
+(Português)
+Texto
+(Inglês)
+Texto
+(Português)
+Download PDF (Inglês)
+(abre em nova aba)
+Download PDF (Português)
+(abre em nova aba)
+share
+Whatsapp
+BlueSky
+Mastodon
+Facebook
+Mais
+home
+Sumário
+share
+Whatsapp
+BlueSky
+Mastodon
+Facebook
+Mais
+Resumo
+Resumo
+(Inglês)
+Resumo
+(Português)
+Texto
+(PT)
+Texto
+(Inglês)
+Texto
+(Português)
+PDF
+Download PDF (Inglês)
+(abre em nova aba)
+Download PDF (Português)
+(abre em nova aba)
+Psicologia Clínica e Cultura
+•
+Psic.: Teor. e Pesq. 42
+•
+2026
+•
+https://doi.org/10.1590/0102.3772e42404.pt
+link
+copiar
+Efeitos da Fônica sobre a Leitura e Escrita de Crianças com Dificuldades na Compreensão do Princípio Alfabético
+Solange de Fátima Andreassa Di Agustini
+,
+Maria Regina Maluf
+SCIMAGO INSTITUTIONS RANKINGS
+Resumo
+Este estudo investigou os efeitos da instrução fônica sobre a linguagem escrita de 48 crianças (
+M
+idade
+= 7,45a) do 1º ao 3º ano, com dificuldades na compreensão do princípio alfabético, com base em medidas de leitura, escrita, letras e consciência fonológica. Com delineamento quase-experimental e grupo de comparação, os dados foram analisados com
+Generalized Estimating Equation
+e
+Mann-Whitney
+. Resultados mostraram efeitos significativos para o grupo que participou das 22 sessões de fônica, favoreceu a compreensão do princípio alfabético, desenvolvimento da consciência fonológica, e habilidades de leitura e escrita. Achados do presente estudo apoiam as evidências de que a fônica promove efeitos significativos no desempenho em leitura e escrita de alunos com dificuldades na compreensão do princípio alfabético e na consciência fonológica.
+Palavras-chave:
+instrução fônica; alfabetização; princípio alfabético; leitura; escrita; consciência fonológica
+Abstract
+This study investigated the effects of phonics instruction on the written language skills of 48 children (
+M
+age
+= 7.45 y) from 1st to 3rd grade who struggled with understanding the alphabetic principle. The assessment was based on measures of reading, writing, letter knowledge, and phonological awareness. Using a quasi-experimental design paired with a control group, the data were analyzed using
+Generalized Estimating Equations
+and the
+Mann-Whitney
+test. Results showed significant effects for the group that participated in the 22 phonics sessions, improving understanding of the alphabetic principle, development of phonological awareness, and reading and writing skills. The findings of this study support evidence that phonics significantly enhances reading and writing performance in students struggling to understand the alphabetic principle and phonological awareness.
+Keywords:
+phonics instruction; literacy; alphabetic principle; reading; writing; phonological awareness
+Foi objetivo desta pesquisa verificar os efeitos da instrução fônica sobre o desempenho em leitura e escrita de crianças do 1º ao 3º ano do ensino fundamental, com dificuldades na compreensão do princípio alfabético. O termo fônica refere-se ao conhecimento das relações que conectam os grafemas do sistema alfabético de escrita aos fonemas da língua falada, de modo a permitir a representação gráfica da linguagem oral (Chall, 2009). A instrução fônica é uma abordagem de instrução explícita, cuja ênfase está no ensino das correspondências grafofonêmicas, que favorecem a compreensão do princípio alfabético, i.e., compreender que os sons da fala, os fonemas, são representados por grafemas (
+Chambrè, Ehri & Ness, 2020
+; Snowling & Hulme, 2013).
+Com base nas pesquisas que se intensificaram nos anos 2000, é fortemente recomendado que a fônica faça parte de um programa abrangente de instrução da linguagem escrita, no qual as crianças possam utilizar os conhecimentos fônicos na leitura e na escrita (
+National Reading Panel, 2000
+). O principal objetivo da fônica é possibilitar que as crianças reconheçam palavras rapidamente e com precisão a partir das relações entre as letras e os sons, o que facilitará a leitura fluente e compreensiva, assim como a escrita correta (
+Castles, Rastle & Nation, 2018
+;
+Ehri, 2022
+;
+Savage, 2015
+). A fônica demanda o desenvolvimento de habilidades de consciência fonológica para perceber e manipular os sons da linguagem falada, tais como a rima, a aliteração, as sílabas e os fonemas (
+Ehri, 2020
+). A consciência fonêmica é parte deste construto, considerada uma unidade sonora abstrata e, portanto, mais complexa, pois refere-se à capacidade de perceber e manipular as menores unidades dos sons da fala, os fonemas que compõem as palavras (
+Castles, Rastle & Nation, 2018
+).
+A importância da instrução fônica para a aprendizagem da linguagem escrita consolidou-se com o uso de instrumentos de pesquisa baseados na obtenção de neuroimagens que abriram caminhos para novos conhecimentos sobre a plasticidade e a reciclagem neuronal do cérebro humano em situações de aprendizagem da linguagem escrita (
+Dehaene, 2012
+;
+2022
+). As evidências provenientes de pesquisas em diferentes idiomas argumentam a favor da alfabetização no enfoque da fônica, uma vez que favorece o avanço das crianças na leitura e na escrita (
+Castles, Rastle & Nation, 2018
+;
+Dehaene, 2022
+). Para os que estão aprendendo a ler, o conhecimento e uso de uma quantidade relativamente pequena de relações grafofonêmicas que integram o sistema de escrita alfabética proporcionam a capacidade de decodificar muitas palavras (
+Castles, Rastle & Nation, 2018
+). A decodificação envolve o desenvolvimento de habilidades indispensáveis, como perceber, identificar sons individuais e suas correspondências grafofonêmicas, segmentá-los e sintetizá-los, de forma a sustentar esses sons na memória para pronunciar palavras escritas. É amplamente reconhecido que as habilidades de consciência fonêmica estão fortemente correlacionadas à capacidade de decodificação e codificação (
+Ehri, Nunes, Stahl & Willows, 2001
+;
+Gonzalez-Frey & Ehri, 2020
+;
+National Reading Panel, 2000
+), indispensáveis para aprender a ler em sistemas alfabéticos de escrita.
+Intervenções baseadas na fônica podem cumprir um papel importante na redução e prevenção de dificuldades na alfabetização (
+Levlin & Mentzer, 2020
+) e beneficiam uma ampla gama de perfis de alunos (
+Ehri, Nunes, Stahl & Willows, 2001
+;
+Michalick-Triginelli & Cardoso-Martins, 2015
+), incluindo aqueles com baixo desenvolvimento de habilidades preditoras que se instalam nos anos pré-escolares, tais como conhecimento letra-som, desenvolvimento do vocabulário, consciência fonológica e consciência fonêmica (
+Ehri, 2020
+;
+Ehri, Nunes & Willows, 2001
+;
+National Reading Panel, 2000
+). Ademais, as intervenções podem prevenir as consequências negativas de dificuldades iniciais e persistentes da aprendizagem da linguagem escrita (
+Gonzalez-Frey & Ehri, 2020
+;
+Kilpatrick & O’Brien, 2019
+;
+Levlin & Mentzer, 2020
+;
+McArthur et al., 2018
+).
+A metanálise
+National Reading Panel (2000)
+desempenhou um papel fundamental na promoção da instrução fônica como parte integrante dos programas de alfabetização nas escolas americanas. Este estudo, produzido por um painel de especialistas em alfabetização, revisou uma ampla gama de pesquisas sobre métodos de ensino da leitura e da escrita, e uma das conclusões mais marcantes do relatório foi a importância dessa abordagem de instrução para o desenvolvimento da alfabetização em crianças. Recorrentemente, a fônica figura na literatura da área relacionada aos termos explícito e sistemático (
+Savage, 2015
+). Isso significa que é preciso estabelecer uma sequência de ensino intencional e direto, por parte do professor, que progride de grafemas e fonemas mais simples para padrões mais complexos. Essa progressão permite que os alunos construam uma base sólida de habilidades fônicas que podem ser aplicadas na leitura e na escrita (
+Ghoneim & Abdelsalam Elghotmy, 2015
+; Savage, 2015).
+McArthur et al. (2018
+) investigaram os efeitos do treino de instrução fônica no desempenho de habilidades de leitura e escrita de leitores com baixo desempenho, a partir de 14 estudos com 923 participantes, crianças e adolescentes de famílias de baixo e médio nível socioeconômico, falantes de língua inglesa. Concluíram que a fônica se mostrou efetiva para melhorar as habilidades dos leitores com dificuldades (
+McArthur et al., 2018
+). Outra metanálise, realizada por
+Nilvius, Carlsson, Fälth e Nordström (2021
+), evidenciou que intervenções com pequenos grupos obtiveram melhor resultado quando comparadas às com alunos que frequentaram sala de aula regular. Outras recomendações sobre intervenções eficazes referem-se à taxa de ensino de fonemas, considerada mais rápida a inserção de duas a quatro correspondências por semana, com ciclos de revisão (
+Vadasy & Sanders, 2021
+). Outras características são o número e o tempo de sessões, diferentes perfis de tutores, construtos inseridos nos programas de fônica, tipos de materiais usados, tamanho do grupo de intervenção, modelos de resposta à intervenção e associações da fônica com o uso de imagens fonoarticulatórias (
+Castles, Rastle & Nation, 2018
+;
+Ehri, 2020
+;
+Kilpatrick & O’Brien, 2019
+;
+Ghoneim & Abdelsalam Elghotmy, 2015
+;
+Moats, 2019
+;
+Vadasy & Sanders, 2021
+).
+Há evidências sobre a eficácia da fônica na alfabetização inicial e para remediação dos déficits de leitura e escrita (
+Ehri, Nunes, Stahl & Willows, 2001
+;
+Kilpatrick & O’Brien, 2019
+;
+National Reading Panel, 2000
+). Entretanto, há necessidade de ampliação das investigações para o português brasileiro (
+Sargiani, 2022
+), por meio de intervenções realizadas em ambiente escolar, no intuito de contribuir com a aplicação das estratégias de instrução fônica em sala de aula, tanto para remediação de baixo desempenho nas habilidades de leitura quanto para intervenção preventiva precoce.
+A presente pesquisa teve como objetivo principal investigar os efeitos da instrução fônica sobre o desempenho em leitura e escrita de crianças com dificuldades na compreensão do princípio alfabético, que frequentavam turmas do 1º ao 3º ano do ensino fundamental. Buscou-se responder a questões relativas aos efeitos da intervenção de instrução fônica e à sua contribuição para a prevenção e remediação das dificuldades de aprendizagem da leitura e da escrita de crianças com dificuldades de compreensão do princípio alfabético. A hipótese era de que a instrução fônica favorecesse a compreensão do princípio alfabético, o desenvolvimento da consciência fonológica, da fonêmica, da leitura e escrita das crianças, ainda que os efeitos da intervenção contribuíssem para prevenir e remediar as dificuldades de aprendizagem da linguagem escrita dos alunos que receberam as intervenções. Foram estabelecidos os seguintes objetivos específicos: a) Comparar o desempenho em leitura e escrita do grupo de alunos que participou das intervenções com o grupo que frequentou as aulas regulares; b) Mensurar os tamanhos de efeito da intervenção de instrução fônica que refletiram a magnitude das diferenças de desempenho entre os grupos de intervenção e comparação.
+Método
+Participantes
+Para a seleção dos participantes, foi realizado um pré-teste no início do ano letivo de 2022, quando foram avaliados 75 alunos de três turmas:1º ano (
+n
+= 23), 2º ano (
+n
+= 27) e 3º ano (
+n
+= 25). Considerou-se como critério de inclusão dos sujeitos na amostra desempenhos abaixo da média amostral em leitura e escrita de palavras e pseudopalavras. Após selecionados, foram distribuídos aleatoriamente nos grupos de intervenção (doravante, GI) e de comparação (doravante, GC). A partir da distribuição nos grupos, as análises comparativas dos dados coletados se basearam nas comparações dos grupos GI (
+n
+= 24) e GC (
+n
+= 24).
+Participaram deste estudo 48 crianças (54,2% meninos) com idades entre 6 e 9 anos (idade em anos:
+M =
+7,45;
+DP =
+1,01; idade em meses:
+M =
+89,38;
+DP =
+12,13), todos falantes do português brasileiro. Não foram encontradas diferenças significativas na proporção de indivíduos nas diferentes categorias de sexo para os grupos GI e GC (
+c
+2
+(1,
+N
+= 48) = 0,336;
+p
+= 0,562) e na média de idade entre alunos do GI e GC (
+U
+= 265,
+p
+= 0,652). A pesquisa foi realizada em uma escola pública do município de São Paulo, com Indicador de Nível Socioeconômico (INSE) considerado médio e médio-baixo (
+Brasil, 2019
+).
+Instrumentos
+Tarefa de Conhecimento de Letras - TCL (
+Puliezi, 2010
+). A TCL avaliou o conhecimento de letras das crianças. Foi aplicada coletivamente, a partir de um ditado das letras realizado em ordem aleatória, para evitar a escrita de forma mecânica pela recitação do alfabeto. Como critério de correção, considerou-se 1 ponto para acerto e zero para erro. Escore máximo: 26 pontos.
+Prova de Escrita sob Ditado de palavras e pseudopalavras versão reduzida - PEDvr (
+Seabra & Capovilla, 2013
+). Avaliou a precisão na escrita isolada de palavras e pseudopalavras, por meio de um ditado coletivo. O instrumento é constituído por 36 estímulos, sendo 24 palavras e 12 pseudopalavras. Os critérios de correção foram baseados em acertos, conforme
+Nobile, Barrera e Rebustini (2021
+), que consideram as fases de desenvolvimento da leitura e da escrita (
+Ehri, 2014
+), a saber: a escrita pré-alfabética (0); alfabética parcial (1 ponto); alfabética completa (2 pontos); alfabética consolidada (3 pontos). Escore máximo: 108 pontos.
+Tarefa de Escrita de Frases - TEF (
+Guimarães, 2011
+). Avaliou a precisão de escrita de frases das crianças, observando aspectos tais como a segmentação lexical, espaçamento entre palavras na escrita e a identificação escrita de vocábulos diferentes que apresentam a mesma sequência sonora. O instrumento é composto de 10 frases, com um total de 74 palavras. Os erros se caracterizam na escrita das frases pela segmentação não convencional das palavras, seja por ausência de separação ou junção indevida. Os critérios de correção foram de 1 ponto para acerto. Escore máximo: 74 pontos.
+Tarefa de Leitura de Palavras e Pseudopalavras - TLPP (adaptada de
+Sargiani, 2013
+). Esta tarefa mensurou a precisão de leitura de palavras e pseudopalavras isoladas. É composta por 36 estímulos, sendo 30 palavras e 6 pseudopalavras. Foi realizado treino com seis palavras e duas pseudopalavras e, em seguida, a tarefa foi iniciada e não foram oferecidas mais instruções. Após 10 erros consecutivos ou pela recusa do aluno em não realizar a tarefa, a aplicação era interrompida. Os critérios de correção foram baseados em acertos, conforme
+Nobile, Barrera e Rebustini (2021
+), que consideram as fases de desenvolvimento da leitura e da escrita (
+Ehri, 2014
+), a saber: a escrita pré-alfabética (zero); alfabética parcial (1 ponto); alfabética completa (2 pontos); alfabética consolidada (3 pontos). Escore máximo: 108 pontos.
+Tarefa de Leitura de Frases TLF (adaptada de
+Vilhena, Sucena, Castro & Pinheiro, 2016
+). Esta tarefa avaliou a habilidade de leitura de frases das crianças. Os alunos foram orientados a ler em voz alta 5 frases, retiradas do instrumento TELCS, com um total de 49 palavras. A aplicação foi individual. Os critérios de correção consideraram 0 para erro e 1 para acerto para cada palavra que compõe as frases. Após 10 erros consecutivos na leitura de palavras ou por recusa do aluno em continuar, a aplicação era interrompida. Escore máximo: 49 pontos.
+Tarefa de Leitura de Texto - TLT (
+Rego, 2012
+). O instrumento avaliou a habilidade de precisão de leitura de texto em voz alta das crianças, com base no texto “O passeio do menino”, composto por 38 palavras. Com aplicação individual, após 10 erros consecutivos ou por recusa do aluno em continuar, a tarefa era interrompida. Escore máximo: 38 pontos.
+Prova de Consciência Fonológica por Produção Oral - PCFO (
+Seabra & Capovilla, 2012
+). O instrumento mensurou por produção oral as habilidades de consciência fonológica das crianças. É um teste psicométrico e normatizado para crianças com idades entre 3 e 14 anos, estudantes de escolas públicas, com fidedignidade e consistência interna por meio de
+Alfa de Cronbach de
+0,91. Composto de 10 subtestes, 6 deles verificam os níveis de consciência fonológica (PCFO_C.F.) com base nas habilidades de perceber rimas, aliteração e manipular unidades silábicas; e quatro avaliam as habilidades de identificar e manipular os fonemas (PCFO_C. Fonêmica). A aplicação e os critérios de correção foram baseados no instrumento PCFO, sendo zero para erro e 1 ponto para acerto, com escore máximo de 40 pontos.
+Aspectos Éticos. O projeto de pesquisa foi aprovado pelo Comitê de Ética em Pesquisa da Pontifícia Universidade Católica de São Paulo (PUC-SP) sob o número de Certificado de Apresentação de Apreciação Ética - CAAE 56648022.5.0000.5482 e o parecer nº 5.323.396. A diretora da escola participante da pesquisa, assim como os pais e responsáveis pelos alunos, assinaram o Termo de Consentimento Livre e Esclarecido. O Termo de Assentimento Livre e Esclarecido - TALE foi solicitado verbalmente aos alunos participantes da pesquisa, que foram informados de que poderiam desistir da participação a qualquer momento.
+Procedimentos.
+Os dados foram coletados no período de 18 de fevereiro a 4 de julho de 2022. Todos os participantes realizaram o pré-teste e o pós-teste, contudo, apenas os alunos do grupo de intervenção receberam instrução fônica, os alunos do grupo comparação frequentaram aulas regulares. As tarefas de escrita foram aplicadas coletivamente e as de leitura e de consciência fonológica, individualmente. O pós-teste iniciou-se um dia após o término das intervenções e os dados foram analisados com testes estatísticos com base nos objetivos do estudo. Foram consideradas como variáveis independentes do estudo a intervenção de instrução fônica, consciência fonológica, fonêmica e conhecimento de letra e as variáveis dependentes, as medidas de leitura e escrita.
+Programa de Intervenção Baseado na Instrução Fônica.
+As sessões de intervenção foram elaboradas com base em materiais de autores que se pautam por evidências científicas no enfoque da fônica, a saber, o “Método das Onomatopeias” (
+Puliezi, 2022
+) e o material didático “Vamos todos aprender a ler” (
+Herrera, Salcedo, Sargiani & Navas, 2021
+). O programa de fônica foi composto por 22 sessões de 45 minutos, duas vezes por semana, com frequência controlada. Cada sessão foi organizada com os seguintes componentes: 1) consciência fonológica (identificação e produção de rima, aliteração, segmentação e síntese sílaba) e consciência fonêmica (identificação inicial, medial e final, segmentação, manipulação e síntese de fonêmica; 2) ensino das correspondências grafofonêmicas com o uso do recurso alfabeto das onomatopeias (
+Puliezi, 2018
+), associados aos movimentos fonoarticulatórios; 3) instrução fônica: produção, discriminação e classificação dos fonemas e suas correspondências gráficas, aplicação dos conhecimentos alfabéticos na segmentação, síntese fonêmica e mapeamento ortográfico para decodificar e codificar palavras; 4) treino de decodificação e codificação de palavras e frases controladas foneticamente, relativas às famílias dos fonemas ensinados.
+Análises dos dados.
+Testes de
+Kolmogorov-Smirnov
+identificaram a falta de normalidade dos dados quando
+p <
+0,05. O nível de significância adotado foi de
+p
+≤ 0,05 e o software utilizado foi o SPSS (
+Statistical Package for the Social Sciences
+, v. 26). Para investigar os efeitos da intervenção de instrução fônica foram realizadas análises com comparações dos grupos no pré e pós-teste, bem como a interação entre essas variáveis, baseadas em
+Generalized Estimating Equations
+(doravante, GEE) proposto por
+Liang e Zeger (1986
+). Quando foram identificados efeitos principais e de interação estatisticamente significativos, foi adotado o
+Post-Hoc Least Significant Difference
+(LSD). Para mensurar a magnitude dos tamanhos de efeito (
+r
+) de Cohen (1988) e ter uma comparabilidade com estudos anteriores, foi realizado o teste
+U Mann-Whitney
+. A regra de interpretação foi baseada em Cohen (1988) e a fórmula de cálculo baseada em
+Rosenthal (1991
+).
+Resultados
+A
+Tabela 1
+mostra a estatística descritiva dos desempenhos da amostra em todas as variáveis mensuradas no pré- e pós-teste, separadas por grupos GC (
+n
+= 24) e GI (
+n
+= 24). A
+Tabela 2
+apresenta as análises GEEs
+,
+que possibilitaram avaliar os efeitos da intervenção de instrução fônica comparando os grupos comparação e intervenção, no pré e o pós-teste e a interação entre as variáveis grupo*tempo. Foi adotado o teste
+Post-Hoc Least Significant Difference
+(LSD) para comparações
+pairwise,
+para identificar as diferenças estatísticas de desempenho entre grupos e intragrupos. Na
+Tabela 3
+, sumarizam-se os tamanhos de efeito (
+r
+) calculados a partir dos testes de
+Mann-Whitney
+.
+Thumbnail
+Tabela 1 -
+Estatística Descritiva dos Desempenhos nas Habilidades Mensuradas no Pré e Pós-Teste por Grupos GC e GI
+Thumbnail
+Tabela 2 -
+Análises Generalized Estimating Equations (GEE) dos Efeitos Principais, Interação Grupo*Tempo e Post Hoc Least Significant Difference (LSD) para Comparações de Desempenho Entre grupos, Intragrupos, GI (n = 24) vs GC (n = 24) no Pré- e Pós-Teste
+Thumbnail
+Tabela 3 -
+Teste U Mann-Whitney Entre Grupos: Tamanhos de Efeito
+(
+r
+)
+As análises GEEs dos desempenhos no pré-teste (ver
+Tabela 2
+) não revelaram diferenças significativas em escrita de frases e nos níveis de habilidades de consciência fonológica entre os grupos GI
+vs.
+GC; contudo, revelaram diferenças estatísticas para escrita e leitura de palavras e pseudopalavras, leitura de frases e texto. Quando calculados os tamanhos de efeito destas diferenças iniciais, foram considerados irrisórios e pequenos, exceto no conhecimento de letras, para o qual foi aferido efeito moderado com base na regra de interpretação de Cohen (1988). Ainda assim, essas diferenças no ponto de partida foram controladas com as análises GEEs e com cálculos de tamanho de efeito adicionais por meio do Teste
+U Mann-Whitney
+(ver
+Tabela 3
+) com base nos deltas (
+Δ
+) dos resultados, i.e., a diferença entre pós-teste e pré-teste, considerando o crescimento de ambos os grupos e as suas diferenças para estimar a magnitude do tamanho de efeito.
+Na análise de escrita de palavras e pseudopalavras (PEDvr) foi detectado um efeito de interação entre grupo*tempo (
+p <
+0,001), indicando que os alunos do grupo da intervenção tiveram desempenho superior ao grupo de comparação. Os escores no pós-teste foram maiores do que os do pré-teste, tanto para o GC (
+p <
+0,001) quanto para o GI (
+p <
+0,001), porém, o escore médio do GI foi estatisticamente superior ao do GC (
+p <
+0,001,
+r =
+0,67; Δ
+r =
+0,85, efeito grande). Esses resultados demonstram que os alunos que participaram do programa de intervenção de instrução fônica tiveram melhor desempenho em escrita de palavras e pseudopalavras em relação ao grupo de comparação.
+Não foram detectadas diferenças significativas na escrita de frases (TEF) entre GI e GC no pré-teste (
+p =
+0,205). Os escores no pós-teste foram maiores do que no pré-teste, tanto para o GC (
+p <
+0,001) quanto para o GI (
+p <
+0,001). Houve efeito de interação grupo*tempo (
+p <
+0,001), demonstrando desempenhos superiores do GI em relação ao GC (
+p <
+0,001,
+r =
+0,75;
+Δ
+r =
+0,80, efeito grande). Os dados evidenciaram que os alunos do grupo de intervenção apresentaram desempenho superior em escrita de frases do que os que não receberam este tipo de instrução.
+Na análise do desempenho em leitura de palavras e pseudopalavras (TLPP), os escores no pós-teste foram maiores do que no pré-teste, tanto para o GC (
+p <
+0,001) quanto para o GI (
+p <
+0,001). Contudo, no pós-teste, os resultados foram significativos para a análise de interação entre grupo*tempo (
+p <
+0,001), com tamanho de efeito grande para GI em relação ao GC (
+p
+< 0,001,
+r
+= 0,66;
+Δr
+= 0,84, efeito grande). Em leitura de frases, os dados revelam um efeito de interação grupo*tempo (
+p <
+0,001) para leitura de frases, no qual o GI teve escore maior que o GC (
+p =
+0,004) com tamanho de efeito grande (
+p <
+0,001;
+r =
+0,65;
+Δ
+r =
+0,83; efeito grande). Assim como em leitura de texto, foi verificado um efeito de interação grupo*tempo (
+p <
+0,001), com tamanho de efeito grande para GI sobre GC (
+p
+< 0,001;
+r
+= 0,63;
+Δ
+r
+= 0,82). Com base nestes resultados de leitura de palavras, pseudopalavras, frases e texto, pode-se verificar que os alunos do grupo de intervenção baseado na fônica tiveram desempenho superior ao dos alunos do grupo de comparação que não receberam instrução fônica.
+Na análise do desempenho em conhecimento de letras, as análises detectaram efeito de interação entre grupo*tempo (
+p <
+0,001), o que significa dizer que os alunos do GI desempenharam melhor do que os do GC, com tamanho de efeito grande (
+p ≤
+0,001; Δ
+r =
+0,72; efeito grande). Na análise do desenvolvimento da consciência fonológica PCFO_Total, foi evidenciada interação grupo*tempo, identificando diferença significativa entre os grupos (
+p
+< 0,01), com tamanho de efeito grande (
+p <
+0,001;
+r =
+0,55; Δ
+r =
+0,73). Assim como nas análises com base nos subtestes do PCFO_C.F. (rima, aliteração e sílabas) e do PCFO_C. fonêmica, também apresentou diferenças significativas, com tamanho de efeito grande (ver
+Tabela 3
+). Os resultados em PCFO_Total mostraram que os alunos do GI apresentaram maior desenvolvimento em consciência fonológica do que os do GC.
+Discussão
+O principal objetivo deste estudo foi investigar os efeitos da instrução fônica sobre o desempenho em leitura e escrita de crianças com dificuldades na compreensão do princípio alfabético, que frequentavam as turmas do 1º ao 3º ano do ensino fundamental. Os resultados das análises dos efeitos da intervenção para o desempenho em leitura e escrita dos alunos do GI sustentaram a hipótese de que o programa de instrução fônica favoreceu a compreensão do princípio alfabético, o desenvolvimento de consciência fonológica, fonêmica, da leitura e a escrita de crianças com dificuldade na compreensão do princípio alfabético, e que os efeitos da intervenção contribuíram para prevenir e remediar as dificuldades de aprendizagem da linguagem escrita. A fônica promoveu efeitos significativos e com tamanhos de efeito grande em leitura e escrita na comparação entre os grupos GI e GC. Além disso, demonstraram que a intervenção de instrução fônica foi eficaz para melhorar as habilidades de consciência fonológica e fonêmica dos alunos do GI, as quais são preditoras da aprendizagem da linguagem escrita. Ainda que os alunos do GC tenham evoluído entre o pré- e o pós-teste, com a escolarização, não avançaram tanto quanto os alunos que receberam a instrução fônica; todavia, os resultados evidenciaram que havia dificuldades tanto nos preditores quanto nas habilidades de leitura e escrita verificadas no pré-teste e persistentes no pós-teste. Esses resultados são consistentes com os achados da literatura de que a instrução fônica e as consciências fonológica e fonêmica são essenciais para a aprendizagem e o desempenho em leitura e escrita (
+Clayton, West, Sears, Hulme & Lervåg, 2019
+;
+Levlin & Mentzer, 2020
+;
+McArthur et al., 2018
+).
+Verificou-se, ainda, que o ritmo dessa progressão da aprendizagem do GI foi mais rápido do que o do GC, promovendo a aprendizagem de habilidades inseridas no programa de instrução fônica que favorecem o desempenho em leitura e escrita dos alunos, tais como habilidades metafonológicas, consciência fonológica, fonêmica, letra-som, decodificação e codificação. Por outro lado, o ritmo mais lento de progressão da aprendizagem do grupo GC refletiu no desempenho nas tarefas mensuradas de leitura e escrita. A intervenção de instrução fônica possibilitou que os alunos do GI compreendessem o princípio alfabético e fossem capazes de aplicar esse conhecimento alfabético na leitura de palavras, pseudopalavras, frases, texto e nas tarefas de escrita de palavras, pseudopalavras e frases.
+Em escrita de palavras e pseudopalavras, foi evidenciado que alunos GI tiveram desempenho superior ao dos alunos GC, com diferença estatisticamente significativa entre os grupos no pré- e no pós-teste, sugerindo que o tipo de instrução contribuiu para a habilidade de escrita de palavras e pseudopalavras. Também houve diferença significativa entre os grupos no desempenho em leitura de palavras e pseudopalavras, com vantagem para os alunos que participaram das intervenções de instrução fônica, ainda que ambos os grupos tenham evoluído com a escolarização.
+As análises de interação grupo*tempo evidenciaram desempenhos significativos do grupo GI sobre o GC, entre o pré- e o pós-teste para todas as demais habilidades mensuradas. O grupo de alunos que participou das intervenções de instrução fônica desenvolveu habilidades de consciência fonológica e fonêmica, o que era esperado, em função de terem sido contempladas nas sessões de intervenções de fônica. Verificou-se que o grupo GC, que não participou das intervenções de fônica, não evoluiu nas habilidades de consciência fonêmica. Esse fato corrobora a literatura no que diz respeito à necessidade de instrução explícita em consciência fonêmica (
+McCandliss, Beck, Sandak & Perfetti, 2003
+), em função do fonema ser uma unidade abstrata e menos perceptível na corrente da fala. Assim como de evidências de estudos anteriores (
+Boyer & Ehri, 2011
+;
+Castiglioni-Spalten & Ehri, 2003
+;
+Nilvius, Carlsson, Fälth & Nordström, 2021
+), que verificaram que a instrução fônica e a consciência fonêmica favorecem os alunos a avançarem no conhecimento alfabético. A partir dessas evidências, recomenda-se que, em programas de instrução fônica, sejam inseridas atividades de consciência fonológica e, principalmente, de consciência fonêmica, pois o desenvolvimento inicial da leitura depende dessas habilidades de domínio fonológico. Desse modo, os déficits nessa área relacionam-se causalmente às dificuldades na aprendizagem da leitura e podem ser indicadores para a identificação do risco para dificuldades na alfabetização escrita (
+Clayton, West, Sears, Hulme & Lervåg, 2020
+;
+Michalick-Triginelli & Cardoso-Martins, 2015
+).
+Os alunos que receberam a instrução fônica apresentaram uma recuperação e evolução estatisticamente significativas e mais rápidas na aprendizagem de leitura e escrita, quando comparados aos que receberam outro tipo de ensino. As comparações entre os grupos GI e GC demonstraram que a evolução observada no desempenho dos alunos do grupo de intervenção foi resultado da participação nas sessões de fônica. Os resultados, em conjunto, sustentam a hipótese de que a participação dos alunos nas sessões de instrução fônica foi eficaz para a compreensão do princípio alfabético, assim como para a aplicação do conhecimento alfabético na leitura e escrita de palavras, pseudopalavras, frases e textos.
+Os estudos que investigam efeitos de intervenção de instrução fônica, com grupo intervenção e controle, realizados em ambiente escolar devem ser destacados por sua complexidade na execução, envolvem mudanças na rotina escolar e grande empenho de pesquisador, professores e alunos. Por sua vez, podem favorecer a generalização dos resultados, pois controlam o efeito do ambiente e se assemelham a uma situação natural de aprendizagem escolar. As evidências obtidas nesta pesquisa são consistentes, considerando que se tratou de um estudo quase experimental, com o grupo comparação como elemento essencial de aferição de resultados em ambiente natural escolar.
+Os resultados sugerem que o programa de instrução fônica demonstrou efeitos grandes com crianças que enfrentam dificuldades na compreensão do princípio alfabético, habilidade fundamental para o avanço na aprendizagem da linguagem escrita. Assim, os achados deste estudo podem favorecer a formação do professor alfabetizador para o ensino, com base na abordagem de instrução fônica explícita, implementada em contexto de sala de aula regular ou com pequenos grupos. Com relação às limitações desta investigação, destaca-se o tamanho da amostra; portanto, recomenda-se estudos ulteriores para ampliar a amostra de participantes. Ademais, por razões operacionais, não foi possível realizar um segundo pós-teste para aferir a estabilidade dos efeitos da intervenção.
+Os achados do presente estudo apoiam as evidências de que a instrução fônica promove efeitos significativos para a alfabetização inicial e para alunos com dificuldades na alfabetização e com baixo nível de desenvolvimento de consciência fonológica. Assim, os achados desta investigação contribuem para ampliar as evidências da literatura científica sobre os efeitos da instrução fônica explícita no desempenho em leitura e escrita de crianças falantes do português brasileiro que apresentam dificuldades de compreensão do princípio alfabético e de aquelas que ainda lutam para aprender a ler e a escrever na alfabetização inicial.
+Referências bibliográficas
+Azevedo, C. C., & Silva, L. M. de P. (2016).
+Multicartas Fotos
+[Multicartas Photos]. Método MultiGestos®.
+Boyer, N., & Ehri, L. C. (2011). Contribution of phonemic segmentation instruction with letters and articulation pictures to word reading and spelling in beginners.
+Scientific Studies of Reading
+,
+15
+(5), 440-470. https://doi.org/10.1080/10888438.2010.520778
+» https://doi.org/10.1080/10888438.2010.520778
+Brasil. (2019). Ministério da Educação. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Diretoria de Avaliação da Educação Básica.
+Nota técnica: Indicador de Nível Socioeconômico das Escolas de Educação Básica (INSE)
+[Technical note: Basic Education School Socioeconomic Level Indicator (INSE)].
+Byrne, B., & Fielding-Barnsley, R. (1990). Acquiring the alphabetic principle: A case for teaching recognition of phoneme identity.
+Journal of Educational Psychology
+,
+82
+(4), 805-812. https://doi:10.1037/0022-0663.82.4.805
+» https://doi:10.1037/0022-0663.82.4.805
+Cardoso-Martins, C., Resende, S.M., & Rodrigues, L.A. (2002). Letter name knowledge and the ability to learn to read by processing letter-phoneme relations in words: Evidence from Brazilian Portuguese-speaking children.
+Reading and Writing
+,
+15
+(3-4), 409-432. https://doi.org/10.1023/A:1015213514722
+» https://doi.org/10.1023/A:1015213514722
+Castiglioni-Spalten, M. L., & Ehri, L. C. (2003). Phonemic Awareness Instruction: Contribution of Articulatory Segmentation to Novice Beginners’ Reading and Spelling.
+Scientific Studies of Reading
+, 7(1), 25-52. https://doi:10.1207/S1532799XSSR0701_03
+» https://doi:10.1207/S1532799XSSR0701_03
+Castles, A., Rastle, K., & Nation, K. (2018). Ending the reading wars: Reading acquisition from novice to expert.
+Psychological Science in the Public Interest
+,
+19
+(2), 5-51. https://doi.org/10.1177/1529100618786959
+» https://doi.org/10.1177/1529100618786959
+Chambrè, S. J., Ehri, L.C., & Ness, M. (2020). Phonological decoding enhances orthographic facilitation of vocabulary learning in first graders.
+Reading and Writing
+,
+33
+(5), 1133-1162. https://doi.org/10.1007/s11145-019-09997-w
+» https://doi.org/10.1007/s11145-019-09997-w
+Clayton, F., West, G., Sears, C., Hulme, C., & Lervåg, A. (2020). A longitudinal study of early reading development: Letter-sound knowledge, phoneme awareness and RAN, but not letter-sound integration, predict variations in reading development.
+Scientific Studies of Reading
+,
+24
+(2), 91-107. https://doi.org/10.1080/10888438.2019.1622546
+» https://doi.org/10.1080/10888438.2019.1622546
+Dehaene, S. (2012).
+Os neurônios da leitura: como a ciência explica nossa capacidade de ler
+[Reading in the Brain: the new Science of how we read]. (L. Sciliar-Cabral, Trans.). Penso.
+Dehaene, S. (2022). Método de ensino e manuais para aprender a ler: como escolher? [Teaching methods and textbooks for learning to read: how to choose?]. In R. A. Sargiani (Org.),
+Alfabetização baseada em evidências: Da ciência à sala de aula
+[Evidence-based literacy: from science to the classroom] (pp. 113-152). Penso.
+Ehri, L. C. (2014). Orthographic mapping in the acquisition of sight word reading, spelling memory, and vocabulary learning.
+Scientific Studies of Reading
+,
+18
+(1), 5-21. https://doi.org/10.1080/10888438. 2013.819356
+» https://doi.org/10.1080/10888438. 2013.819356
+Ehri, L. C. (2020). The Science of Learning to Read Words: A Case for Systematic Phonics Instruction.
+Reading Research Quarterly
+,
+55
+(S1), S45-S60. https://doi.org/10.1002/rrq.334
+» https://doi.org/10.1002/rrq.334
+Ehri, L. C. (2022). What Teachers Need to Know and Do to Teach Letter-Sounds, Phonemic Awareness, Word Reading, and Phonics.
+The Reading Teacher
+,
+76
+(1), 53-61. https://doi.org/10.1002/trtr.2095
+» https://doi.org/10.1002/trtr.2095
+Ehri, L. C. (2023). Roads travelled researching how children learn to read words.
+Australian Journal of Learning Difficulties
+,
+28
+(1), 55-71. https://doi.org/10.1080/19404158.2023.2208164
+» https://doi.org/10.1080/19404158.2023.2208164
+Ehri, L. C., Nunes, S. R., Stahl, S. A., & Willows, D. M. (2001). Systematic Phonics Instruction Helps Students Learn To Read: Evidence from the National Reading Panel’s Meta-Analysis.
+Review of Educational Research
+,
+71
+(3), 393-447. https://doi.org/10.3102/00346543071003
+» https://doi.org/10.3102/00346543071003
+Ghoneim, N. M., & Abdelsalam Elghotmy, H. E. (2015). The Effect of a Suggested Multisensory Phonics Program on Developing Kindergarten Pre-service Teachers' EFL Reading Accuracy and Phonemic Awareness.
+English Language Teaching
+, 8(12), 124-143. https://doi:10.5539/elt.v8n12p124
+» https://doi:10.5539/elt.v8n12p124
+Gonzalez-Frey, S. M., & Ehri, L. C. (2020). Connected Phonation is More Effective than Segmented Phonation for Teaching Beginning Readers to Decode Unfamiliar Words.
+Scientific Studies of Reading
+,
+25
+(3), 272-285. https://doi.org/10.1080/10888438.2020.1776290
+» https://doi.org/10.1080/10888438.2020.1776290
+Guimarães, S. R. K. (2011).
+As convenções da escrita: o papel da consciência morfossintática na capacidade de segmentação lexical
+[The conventions of writing: the role of morphosyntactic awareness in lexical segmentation]. Comunicação oral. Seminário Internacional de Alfabetização na Perspectiva da Psicologia Cognitiva da Leitura. Organizadora Maluf, M. R. Pontifícia Universidade Católica de São Paulo, 23 e 25 de maio.
+Herrera, D. X., Salcedo, C. D., Sargiani, R. de A., & Navas, A. L. (2021).
+Vamos Todos Aprender a Ler
+[Let’s all learn to read]. Banco Interamericano de Desenvolvimento BID. Trad. Renan de Almeida Sargiani e Ana Luiza Navas. Instituto de Educação Baseada em Evidências (Edube).
+Kilpatrick, D. A., & O’Brien, S. (2019). Effective Prevention and Intervention for Word-Level Reading Difficulties. In D. A., Kilpatrick, R. M., Joshi, & R. K., Wagner (Eds.),
+Reading Development and Difficulties: Bridging the Gap Between Research and Practice
+(pp. 179-210). Springer Nature Switzerland. https://doi.org/10.1007/978-3-030-26550-2_8
+» https://doi.org/10.1007/978-3-030-26550-2_8
+Levlin, M., & Mentzer, C. N. (2020). An evaluation of systematized phonics on reading proficiency in Swedish second-grade poor readers: Effects on pseudoword and sight word reading skills.
+Dyslexia
+,
+26
+(4), 427- 441. https://doi.org/10.1002/dys.1669
+» https://doi.org/10.1002/dys.1669
+Liang, K.Y., & Zeger, S. L. (1986). Longitudinal data analysis using generalized linear models.
+Biometrika
+,
+73
+(1), 13-22. https://doi.org/10.1093/biomet/73.1.13
+» https://doi.org/10.1093/biomet/73.1.13
+McArthur, G.M., Sheehan, Y., Badcock, N.A., Francis, D.A., Wang, H., Kohnen, S., Banales, E., Anandakumar, T., Marinus, E., & Castles, A. (2018). Phonics training for English-speaking poor readers.
+The Cochrane database of systematic reviews
+,
+11
+(1), CD009115. https://doi.org/10.1002/14651858.CD009115.pub3
+» https://doi.org/10.1002/14651858.CD009115.pub3
+McCandliss, B., Beck, I. L., Sandak, R., & Perfetti, C. (2003). Focusing attention on decoding for children with poor reading skills: Design and preliminary tests of the word building intervention.
+Scientific Studies of Reading
+, 7(1), 75-104. https://doi.org/10.1207/S1532799XSSR0701_05
+» https://doi.org/10.1207/S1532799XSSR0701_05
+Michalick-Triginelli, M. F., & Cardoso-Martins, C. (2015). The Role of Phonological Awareness and Rapid Automatized Naming in the Prediction of Reading Difficulties in Portuguese.
+Psicologia: Reflexão e Crítica
+,
+28
+(4), 823-828. https://doi:10.1590/1678-7153.201528421
+» https://doi:10.1590/1678-7153.201528421
+Miles, K. P., & Ehri, L. (2019). Orthographic Mapping Facilitates Sight Word Memory and Vocabulary Learning. In D.A., Kilpatrick, R. M., Joshi & W. K., Richard (Eds.),
+Reading Development and Difficulties: Bridging the Gap Between Research and Practice
+(pp. 63-82). Springer. https://doi:10.1007/978-3-030-26550-2_4
+» https://doi:10.1007/978-3-030-26550-2_4
+Moats, L. (2019). Phonics and spelling: Learning the structure of language at the word level. In D. A., Kilpatrick, R. M., Joshi, & R. K., Wagner (Eds.),
+Reading development and difficulties: Bridging the gap between research and practice
+(pp. 39-62). Springer. https://doi.org/10.1007/978-3-030-26550-2_3
+» https://doi.org/10.1007/978-3-030-26550-2_3
+National Reading Panel (2000).
+Teaching children to read: an evidence-based assessment of the scientific research literature on reading and its implications for reading instruction
+U.S. Dept. of Health and Human Services, National Institutes of Health, National Institute of Child Health and Human Development. https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/documents/report.pdf
+» https://www.nichd.nih.gov/sites/default/files/publications/pubs/nrp/documents/report.pdf
+Nilvius, C., Carlsson, R., Fälth, L., & Nordström, T. (2021). Tier 2 interventions within the RtI-model for developing students’ word decoding - a systematic review and meta-analysis,
+Cogent Education
+, 8(1). https://doi.org/10.1080/2331186X.2021.1994105
+» https://doi.org/10.1080/2331186X.2021.1994105
+Nobile, G. G., Barrera, S. D., & Rebustini, F. (2021). IBALEC - Instrumento para breve avaliação da leitura, escrita e compreensão. In J. F., Salles & A. L., Navas (Eds.),
+Avaliação da linguagem oral, escrita e de habilidades relacionadas: Panorama de instrumentos
+[Assessment of oral and written language and related skills: Overview of instruments] (pp. 117-143). Vetor, 117-123.
+Pinheiro, A. M.V. (1998).
+Leitura e escrita: uma abordagem cognitiva
+[Reading and writing: a cognitive approach]. Editorial Psy II.
+Puliezi, S. (2010).
+A contribuição da consciência fonológica, memória de trabalho e velocidade de nomeação na habilidade inicial de leitura
+[The contribution of phonological awareness, working memory and naming speed to initial reading skills]. [Dissertação de Mestrado em Educação: Psicologia da Educação, Pontifícia Universidade Católica de São Paulo]. https://repositorio.pucsp.br/jspui/handle/handle/16005
+» https://repositorio.pucsp.br/jspui/handle/handle/16005
+Puliezi, S. (2022).
+ProAlfo: Programa de Alfabetização Fônica
+[ProAlfo: Phonics Literacy Program] 1. Ed. Format Comunicação Gráfica e Editora.
+Rego, L. L. B. (2012). Diferenças Individuais na Aprendizagem Inicial da Leitura: Papel Desempenhado por Fatores Metalinguísticos [Individual Differences in Early Reading Learning: The Role of Metalinguistic Factors].
+Psicologia: Teoria e Pesquisa
+[Psychology: Theory and Research] ,
+11
+(1), 51-60. https://periodicos.unb.br/index.php/revistaptp/article/view/17212
+» https://periodicos.unb.br/index.php/revistaptp/article/view/17212
+Rosenthal, R. (1991).
+Meta-analytic procedures for social research. Applied Social Research Methods Series 6
+Sage Publications. https://doi.org/10.4135/9781412984997
+» https://doi.org/10.4135/9781412984997
+Sargiani, R. A. (2013).
+Amplitude visuoatencional, consciência fonêmica e desempenho em leitura: um estudo transversal com alunos do ensino fundamental
+[Visuoattenuational amplitude, phonemic awareness and reading performance: a cross-sectional study with elementary school students]. [Dissertação de Mestrado em Educação: Psicologia da Educação, Pontifícia Universidade Católica de São Paulo]. https://repositorio.pucsp.br/jspui/handle/handle/16068
+» https://repositorio.pucsp.br/jspui/handle/handle/16068
+Sargiani, R. A. (2022). Alfabetização baseada em evidências: como a ciência cognitiva da leitura contribui para as práticas e políticas educacionais de literacia [Evidence-based literacy: how the cognitive science of reading contributes to literacy educational practices and policies]. In R. A., Sargiani (Org.),
+Alfabetização baseada em evidências: da ciência à sala de aula
+[Evidence-based literacy: from science to the classroom]. (pp.1-43). Penso.
+Sargiani, R. A., Ehri, L., & Maluf, M. R. (2022). Teaching Beginners to Decode Consonant-Vowel Syllables Using Grapheme-Phoneme Subunits Facilitates Reading and Spelling as Compared with Teaching Whole-Syllable Decoding.
+Reading Research Quarterly
+,
+57
+(2), 629-648. https://doi.org/10.1002/rrq.432
+» https://doi.org/10.1002/rrq.432
+Savage, J. F. (2015).
+Aprender a ler e a escrever a partir da fônica: um programa abrangente de ensino
+[Learning to read and write from phonics: a comprehensive teaching program]. McGraw-Hill, Penso.
+Seabra, A. G., & Capovilla, F. C. (2012). Prova de Consciência Fonológica por Produção Oral - PCFO [Phonological Awareness Test by Oral Production - PAT]. In A., Seabra & N., Dias (Orgs.),
+Avaliação Neuropsicológica Cognitiva: Linguagem oral
+[Cognitive Neuropsychological Assessment: Oral Language], (pp. 117-122). Memnon.
+Seabra, A. G., & Capovilla, F. C. (2013). Prova de Escrita sob Ditado (PEDvr) [Dictated Writing Test (WPDT)]. In A., Seabra, N., Dias & F., Capovilla (Orgs.),
+Avaliação neuropsicológica cognitiva: leitura, escrita e aritmética
+[Cognitive neuropsychological assessment: reading, writing and arithmetic] (pp. 70-73). Memnon.
+Vadasy, P. F., & Sanders, E. A. (2021). Introducing phonics to learners who struggle: content and embedded cognitive elements.
+Read Writ
+,
+34
+(4), 2059-2080. https://doi.org/10.1007/s11145-021-10134-9
+» https://doi.org/10.1007/s11145-021-10134-9
+Vilhena, A. D., Sucena, A., Castro, S. L., & Pinheiro, Â. M. V. (2016). Reading Test-Sentence Comprehension: An Adapted Version of Lobrot’s Lecture 3 Test for Brazilian Portuguese.
+Dyslexia
+,
+22
+(1), 47-63. https://doi:10.1002/dys.1521
+» https://doi:10.1002/dys.1521
+Declaração de Disposição de Dados
+Os dados de pesquisa estão disponíveis por solicitação ao autor correspondente.
+Autor Correspondente
+Solange de Fátima Andreassa Di Agustini
+solangeandreassa37@gmail.com
+Editor Chefe
+Tiago Jessé Souza de Lima
+Editor Associado
+Asdrúbal Borges Formiga Sobrinho
+Datas de Publicação
+Publicação nesta coleção
+11 Maio 2026
+Data do Fascículo
+2026
+Histórico
+Recebido
+22 Out 2023
+Aceito
+08 Dez 2024
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+Sobre os autores
+person
+Solange de Fátima Andreassa Di Agustini
+school
+Pontifícia Universidade Católica de São Paulo, São Paulo, SP, Brasil
+0000-0003-1196-8677
+Sobre os autores
+person
+Maria Regina Maluf
+school
+Pontifícia Universidade Católica de São Paulo, São Paulo, SP, Brasil
+0000-0001-9132-5502
+SCImago Institutions Rankings
+Pontifícia Universidade Católica de São Paulo, São Paulo, SP, Brasil
+Pontifícia Universidade Católica de São Paulo
+Brasil
+São Paulo, SP, Brasil
+Pontifícia Universidade Católica de São Paulo, São Paulo, SP, Brasil
+Tabelas
+Tabelas
+(3)
+Thumbnail
+Tabela 1 -
+Estatística Descritiva dos Desempenhos nas Habilidades Mensuradas no Pré e Pós-Teste por Grupos GC e GI
+Thumbnail
+Tabela 2 -
+Análises Generalized Estimating Equations (GEE) dos Efeitos Principais, Interação Grupo*Tempo e Post Hoc Least Significant Difference (LSD) para Comparações de Desempenho Entre grupos, Intragrupos, GI (n = 24) vs GC (n = 24) no Pré- e Pós-Teste
+Thumbnail
+Tabela 3 -
+Teste U Mann-Whitney Entre Grupos: Tamanhos de Efeito
+(
+r
+)
+table_chart
+Tabela 1 -
+Estatística Descritiva dos Desempenhos nas Habilidades Mensuradas no Pré e Pós-Teste por Grupos GC e GI
+Variáveis
+Máx.
+N
+Grupo
+M
+DP
+IC 95%
+Mdn
+Mín.
+Máx.
+Inf.
+Sup.
+PEDvr_Pré
+108
+24
+GC
+15,96
+16,65
+9,30
+22,62
+12,50
+0,00
+55,00
+24
+GI
+8,13
+7,28
+5,21
+11,04
+8,00
+0,00
+32,00
+PEDvr_Pós
+108
+24
+GC
+37,00
+25,65
+26,74
+47,26
+26,50
+5,00
+90,00
+24
+GI
+78,08
+15,13
+72,03
+84,14
+78,00
+53,00
+101,00
+TEF_Pré
+74
+24
+GC
+2,25
+5,77
+-0,06
+4,56
+0,00
+0,00
+26,00
+24
+GI
+0,75
+1,29
+0,23
+1,27
+0,00
+0,00
+4,00
+TEF_Pós
+74
+24
+GC
+14,54
+20,97
+6,15
+22,93
+2,00
+0,00
+65,00
+24
+GI
+58,54
+14,06
+52,92
+64,17
+64,50
+33,00
+74,00
+TLPP_Pré
+108
+24
+GC
+12,58
+22,70
+3,50
+21,66
+2,00
+0,00
+65,00
+24
+GI
+2,67
+3,84
+1,13
+4,20
+2,00
+0,00
+18,00
+TLPP_Pós
+108
+24
+GC
+35,79
+33,37
+22,44
+49,14
+31,50
+0,00
+107,00
+24
+GI
+86,63
+17,30
+79,70
+93,55
+90,50
+41,00
+108,00
+TLF_Pré
+49
+24
+GC
+7,38
+15,39
+1,22
+13,53
+0,00
+0,00
+42,00
+24
+GI
+0,42
+0,83
+0,08
+0,75
+0,00
+0,00
+2,00
+TLF_Pós
+49
+24
+GC
+15,04
+17,45
+8,06
+22,02
+4,50
+0,00
+49,00
+24
+GI
+40,71
+9,11
+37,07
+44,35
+45,00
+19,00
+49,00
+TLT_Pré
+38
+24
+GC
+5,79
+12,90
+0,63
+10,95
+0,00
+0,00
+35,00
+24
+GI
+0,58
+1,38
+0,03
+1,14
+0,00
+0,00
+4,00
+TLT_Pós
+38
+24
+GC
+13,29
+13,88
+7,74
+18,84
+6,00
+0,00
+38,00
+24
+GI
+33,46
+6,64
+30,80
+36,11
+36,00
+13,00
+38,00
+TCL_Pré
+26
+24
+GC
+17,21
+7,68
+14,14
+20,28
+18,50
+0,00
+26,00
+24
+GI
+12,00
+5,52
+9,79
+14,21
+12,50
+2,00
+26,00
+TCL_Pós
+26
+24
+GC
+20,88
+7,19
+18,00
+23,75
+24,00
+1,00
+26,00
+24
+GI
+25,42
+1,14
+24,96
+25,87
+26,00
+21,00
+26,00
+PCFO_C.F._Pré
+24
+24
+GC
+12,63
+5,59
+10,39
+14,86
+14,00
+0,00
+23,00
+24
+GI
+11,13
+3,76
+9,62
+12,63
+11,00
+3,00
+20,00
+PCFO_C.F._Pós
+24
+24
+GC
+16,46
+5,27
+14,35
+18,57
+18,00
+4,00
+24,00
+24
+GI
+21,96
+2,12
+21,11
+22,80
+22,50
+18,00
+24,00
+PCFO_C.Fonêmica_Pré
+16
+24
+GC
+0,83
+1,17
+0,37
+1,30
+0,00
+0,00
+4,00
+24
+GI
+0,50
+0,78
+0,19
+0,81
+0,00
+0,00
+2,00
+PCFO_C.Fonêmica_Pós
+16
+24
+GC
+1,92
+2,26
+1,01
+2,82
+1,50
+0,00
+9,00
+24
+GI
+11,71
+2,35
+10,77
+12,65
+12,00
+7,00
+16,00
+PCFO_Total_Pré
+40
+24
+GC
+13,46
+6,23
+10,97
+15,95
+14,50
+0,00
+26,00
+24
+GI
+11,63
+4,04
+10,01
+13,24
+11,00
+3,00
+20,00
+PCFO_Total_Pós
+40
+24
+GC
+18,38
+6,81
+15,65
+21,10
+18,50
+4,00
+33,00
+24
+GI
+33,67
+4,20
+31,99
+35,35
+34,00
+25,00
+40,00
+Nota:
+Prova de Escrita sob Ditado de palavras e pseudopalavras versão reduzida (PEDvr); Tarefa de Escrita de Frases (TEF); Tarefa de Leitura de Palavras e Pseudopalavras (TLPP); Tarefa de Leitura de Frases (TLF); Tarefa de Leitura de Texto (TLT); Tarefa de Conhecimento de Letras (TCL); Consciência Fonológica nos níveis da rima, aliteração e sílaba (PCFO_C.F.); Consciência Fonêmica (PCFO_C. Fonêmica); Consciência Fonológica + Consciência Fonêmica (PCFO_Total).
+table_chart
+Tabela 2 -
+Análises Generalized Estimating Equations (GEE) dos Efeitos Principais, Interação Grupo*Tempo e Post Hoc Least Significant Difference (LSD) para Comparações de Desempenho Entre grupos, Intragrupos, GI (n = 24) vs GC (n = 24) no Pré- e Pós-Teste
+Variáveis
+QIC
+Wald (W)
+gl
+B
+SE
+IC
+95%
+Diferença média
+p
+Inf.
+Sup.
+PEDvr
+87,11
+Grupo
+13,10
+1
+41,08
+5,95
+29,42
+52,75
+16,62
+<0,001
+Tempo
+645,46
+1
+69,96
+2,54
+64,99
+74,93
+45,50
+<0,001
+Grupo*Tempo
+186,51
+1
+48,92
+3,58
+41,90
+55,94
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+3,63
+0,72
+14,95
+7,83
+0,031
+GC Pré x GC Pós
+-
+1
+-
+2,53
+16,09
+26,00
+21,04
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+2,54
+64,98
+74,93
+69,96
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+5,95
+29,42
+52,75
+41,08
+<0,001
+TEF
+176,915
+Grupo
+52,23
+1
+44,00
+5,05
+34,11
+53,89
+21,25
+<0,001
+Tempo
+256,94
+1
+57,79
+2,70
+52,50
+63,08
+35,04
+<0,001
+Grupo*Tempo
+108,30
+1
+45,50
+4,37
+36,93
+54,07
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+1,18
+0,82
+3,82
+1,50
+0,205
+GC Pré x GC Pós
+-
+1
+-
+3,44
+5,55
+19,03
+12,29
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+2,70
+52,50
+63,08
+57,79
+<0,001
+C Pós x GI Pós
+-
+1
+-
+5,05
+34,11
+53,89
+44,00
+<0,001
+TLPP
+165,527
+Grupo
+12,71
+1
+50,83
+7,51
+36,11
+45,80
+20,46
+<0,001
+Tempo
+491,22
+1
+83,96
+3,20
+77,69
+90,23
+53,58
+<0,001
+Grupo*Tempo
+157,85
+1
+60,75
+4,84
+51,27
+70,23
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+4,60
+19,97
+46,28
+9,92
+0,031
+GC Pré x GC Pós
+-
+1
+-
+3,63
+16,10
+30,32
+23,21
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+3,20
+77,69
+90,23
+83,96
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+7,51
+36,11
+65,56
+50,83
+<0,001
+TLF
+191,004
+Grupo
+8,17
+1
+25,67
+3,93
+17,96
+33,38
+9,35
+0,004
+Tempo
+326,12
+1
+40,29
+1,76
+36,84
+43,74
+23,98
+<0,001
+Grupo*Tempo
+150,92
+1
+32,63
+2,66
+27,42
+37,83
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+3,08
+0,92
+12,99
+6,96
+0,024
+GC Pré x GC Pós
+-
+1
+-
+1,99
+3,77
+11,56
+7,67
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+1,76
+36,84
+43,74
+40,29
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+3,93
+17,96
+33,38
+25,67
+<0,001
+TLT
+192,714
+Grupo
+8,13
+1
+20,17
+3,07
+14,14
+26,19
+7,48
+0,004
+Tempo
+336,47
+1
+32,87
+1,28
+30,37
+35,38
+20,19
+<0,001
+Grupo*Tempo
+132,90
+1
+25,38
+2,20
+21,06
+29,69
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+2,59
+0,13
+10,29
+5,21
+0,045
+GC Pré x GC Pós
+-
+1
+-
+1,79
+3,99
+11,01
+7,50
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+1,28
+30,37
+35,38
+32,87
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+3,08
+14,14
+26,19
+20,17
+<0,001
+TCL
+22,604
+Grupo
+0,46
+1
+4,54
+1,46
+1,69
+7,40
+0,33
+0,829
+Tempo
+161,76
+1
+13,42
+1,02
+11,41
+15,42
+8,54
+<0,001
+Grupo*Tempo
+52,69
+1
+9,75
+1,34
+7,12
+12,38
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+1,90
+1,50
+8,91
+5,21
+0,006
+GC Pré x GC Pós
+-
+1
+-
+0,87
+1,96
+5,37
+3,67
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+1,02
+11,41
+15,42
+13,42
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+1,46
+1,69
+7,39
+4,54
+0,002
+PCFO_C.F.
+16,48
+Grupo
+3,07
+1
+5,50
+1,13
+3,28
+7,72
+2,00
+0,08
+Tempo
+219,43
+1
+10,83
+0,72
+9,43
+12,24
+7,33
+<0,001
+Grupo*Tempo
+49,98
+1
+7,00
+0,99
+5,09
+8,94
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+1,35
+1,14
+4,14
+1,50
+0,265
+GC Pré x GC Pós
+-
+1
+-
+0,68
+2,49
+5,17
+3,83
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+0,72
+9,43
+12,24
+10,83
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+1,13
+3,28
+7,72
+5,50
+<0,001
+PCFO_C.Fonêmica
+72,13
+Grupo
+131,30
+1
+9,79
+0,65
+8,51
+11,07
+4,73
+<0,001
+Tempo
+463,41
+1
+11,21
+0,43
+10,36
+12,06
+6,15
+<0,001
+Grupo*Tempo
+314,44
+1
+10,13
+0,57
+9,01
+11,24
+-
+< 0,001
+GC Pré x GI Pré
+-
+1
+-
+0,28
+0,22
+0,88
+0,33
+0,235
+GC Pré x GC Pós
+-
+1
+-
+0,37
+0,35
+1,81
+1,08
+0,004
+GI Pré x GI Pós
+-
+1
+-
+0,43
+10,36
+12,06
+11,21
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+0,65
+8,51
+11,07
+9,79
+<0,001
+PCFO_Total
+18,27
+Grupo
+21,97
+1
+15,29
+1,60
+12,16
+18,43
+6,73
+<0,001
+Tempo
+571,25
+1
+22,04
+0,82
+20,43
+23,65
+13,48
+<0,001
+Grupo*Tempo
+230,52
+1
+17,13
+1,13
+14,91
+19,34
+-
+<0,001
+GC Pré x GI Pré
+-
+1
+-
+1,48
+1,07
+4,74
+1,83
+0,217
+GC Pré x GC Pós
+-
+1
+-
+0,77
+3,40
+6,43
+4,92
+<0,001
+GI Pré x GI Pós
+-
+1
+-
+0,82
+20,43
+23,65
+22,04
+<0,001
+GC Pós x GI Pós
+-
+1
+-
+1,60
+12,16
+18,43
+15,29
+<0,001
+Nota:
+Significante quando
+p
+< 0,05. Grupo = GI
+vs
+GC; Tempo = pré e pós-teste; Grupo*Tempo = interação entre as variáveis.
+Effect size
+(
+r
+):
+r
+≤ 0,09, nulo/irrisório; 0,10 ≤
+r
+< 0,29, pequeno; 0,30 ≤
+r
+< 0,49, médio;
+r
+≥ 0,5, efeito grande. A escala do tamanho de efeito
+(r)
+varia de 0 a 1.
+QIC
+=
+Quasi-likelihood Information Criterion.
+Prova de Escrita sob Ditado de palavras e pseudopalavras versão reduzida (PEDvr); Tarefa de Escrita de Frases (TEF); Tarefa de Leitura de Palavras e Pseudopalavras (TLPP); Tarefa de Leitura de Frases (TLF); Tarefa de Leitura de Texto (TLT); Tarefa de Conhecimento de Letras (TCL); Consciência Fonológica nos níveis da rima, aliteração e sílaba (PCFO_C.F.); Consciência Fonêmica (PCFO_C. Fonêmica); Consciência Fonológica + Consciência Fonêmica (PCFO_Total).
+table_chart
+Tabela 3 -
+Teste U Mann-Whitney Entre Grupos: Tamanhos de Efeito
+(
+r
+)
+Mann-Whitney
+Mann-Whitney
+Mann-Whitney
+GI
+vs
+GC pré
+GI
+vs
+GC pós
+Δ GI
+vs
+Δ GC
+Variável
+U
+Z
+p
+r
+U
+Z
+p
+r
+U
+Z
+p
+r
+PED
+214,50
+-1,52
+0,130
+0,22
+63,00
+-4,64
+<0,001
+0,67
+1,00
+-5,92
+<0,001
+0,85
+TEF
+269,00
+-0,48
+0,630
+0,07
+37,00
+-5,20
+<0,001
+0,75
+20,50
+-5,54
+<0,001
+0,80
+TLPP
+284,00
+-0,09
+0,930
+0,01
+66,00
+-4,58
+<0,001
+0,66
+5,50
+-5,83
+<0,001
+0,84
+TLF
+251,50
+-0,99
+0,320
+0,14
+69,00
+-4,53
+<0,001
+0,65
+11,00
+-5,73
+<0,001
+0,83
+TLT
+269,00
+-0,58
+0,570
+0,08
+76,50
+-4,39
+<0,001
+0,63
+12,00
+-5,71
+<0,001
+0,82
+TCL
+160,00
+-2,65
+0,010
+0,38
+172,50
+-2,60
+<0,001
+0,38
+48,50
+-4,95
+<0,001
+0,72
+PCFO_C.F.
+211,50
+-1,58
+0,110
+0,23
+103,50
+-3,84
+<0,001
+0,55
+42,00
+-5,09
+<0,001
+0,73
+PCFO_C.Fonêmica
+248,00
+-0,94
+0,350
+0,14
+4,50
+-5,87
+<0,001
+0,85
+1,00
+-5,95
+<0,001
+0,86
+PCFO_Total
+209,50
+-1,624
+0,104
+0,23
+16,50
+-6,179
+<0,02
+0,89
+0,00
+-5,95
+<0,001
+0,86
+Nota:
+Significativo quando
+p
+< 0,05.
+Effect size
+(
+r
+) baseado na regra de interpretação de Cohen (1988):
+r
+≤ 0,09 nulo/irrisório; 0,10 ≤
+r
+< 0,29 pequeno; 0,30 ≤
+r
+< 0,49 médio;
+r
+≥ 0,5 efeito grande. A escala do tamanho de efeito
+(r)
+varia de 0 a 1.
+U
+= estatística do teste;
+Z
+=
+Z score;
+Δ
+= Delta das diferenças entre grupos GI
+vs
+GC e tempos pós-teste e pré-teste. Prova de Escrita sob Ditado de palavras e pseudopalavras versão reduzida (PEDvr); Tarefa de Escrita de Frases (TEF); Tarefa de Leitura de Palavras e Pseudopalavras (TLPP); Tarefa de Leitura de Frases (TLF); Tarefa de Leitura de Texto (TLT); Tarefa de Conhecimento de Letras (TCL); Consciência Fonológica nos níveis da rima, aliteração e sílaba (PCFO_C.F.); Consciência Fonêmica (PCFO_C. Fonêmica); Consciência Fonológica + Consciência Fonêmica (PCFO_Total).
+Como citar
+link
+copiar
+more_horiz
+Ferramentas do artigo
+file_download
+PDFs
+show_chart
+Métricas
+image
+Figuras e tabelas
+translate
+Versões e traduções
+link
+Como citar este artigo
+article
+Artigos relacionados
+location_on
+Instituto de Psicologia, Universidade de Brasília
+Instituto de Psicologia, Universidade de Brasília, 70910-900 - Brasília - DF - Brazil, Tel./Fax: (061) 274-6455
+-
+Brasília
+-
+DF
+-
+Brazil
+E-mail:
+revistaptp@gmail.com
+rss_feed
+Acompanhe os números deste periódico no seu leitor de RSS
+Versão para download de PDF
+PDF
+Inglês
+Português
+Artigos relacionados
+Lista de links para artigos relacionados. Os links abrem em nova aba.
+Google
+(abre em nova aba)
+Google Scholar
+(abre em nova aba)
+Versões e tradução automática
+Escolha a versão original do texto ou utilize um serviço de tradução automática.
+Versão original do texto
+English
+Português
+Tradução automática
+Google Translator
+(abre serviço externo de tradução)
+Microsoft Translator
+(abre serviço externo de tradução)
+Como citar
+Escolha um formato para exportar ou selecione um estilo de citação. O conteúdo abaixo pode ser atualizado após a seleção.
+Baixar em
+RIS
+Baixar em
+BIBTEX
+Outros formatos de citação e exportação:
+Enter references manager format or citation style (e.g., "APA", "AMA", "MLA", "Vancouver")
+vertical_align_top
+Ir para o topo
+Brasil
+Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil
+E-mail: scielo@scielo.org
+Leia
+a Declaração de Acesso Aberto
+Métricas
+SciELO Analytics
+Dimensions
+Altmetric
+Scite_
+Effects of Phonics on the Reading and Writing of Children with Difficulties in Understanding the Alphabetic Principle
+PlumX
+×
+Close
+Mensagem
+×
+Close
+Mensagem
+Reportar erro

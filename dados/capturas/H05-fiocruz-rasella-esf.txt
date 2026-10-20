@@ -1,0 +1,173 @@
+# fonte: https://www.arca.fiocruz.br/handle/icict/25558
+# capturado em: 2026-10-20
+
+Impact of primary health care on mortality from heart and cerebrovascular diseases in Brazil: a nationwide analysis of longitudinal data
+Portal do Governo Brasileiro
+Pular para o conteúdo principal
+Fiocruz
+Fale com a Fiocruz
+Fundação Oswaldo Cruz
+Comunidades e Coleções
+Navegar por
+Estatísticas
+Autoarquivamento
+Sobre
+English
+Español
+Português do Brasil
+Entrar
+Login único Fiocruz
+Início
+Fiocruz Bahia - Instituto Gonçalo Moniz
+BA - IGM - Artigos de Periódicos
+Impact of primary health care on mortality from heart and cerebrovascular diseases in Brazil: a nationwide analysis of longitudinal data
+Impact of primary health care on mortality from heart and cerebrovascular diseases in Brazil: a nationwide analysis of longitudinal data
+Carregando...
+Arquivos
+Primário
+Rasella D Impact of primary health care on mortality....pdf
+(587,58 KB)
+Data
+2014
+Direito Autoral
+open access
+Objetivos para Desenvolvimento Sustentável
+Tipo
+journal article
+Título da Revista
+ISSN da Revista
+Título de Volume
+Editor
+BMJ Publishing Group
+Título Alternativo
+Autores
+Rasella, Davide
+Harhay, Michael O.
+Pamponet, Marina L.
+Pereira, Rosana Aquino Guimarães
+Barreto, Maurício Lima
+Afiliação
+Universidade Federal da Bahia. Instituto de Saúde Coletiva. Salvador, BA, Brasil.
+University of Pennsylvania School of Medicine. Center for Clinical Epidemiology and Biostatistics. Philadelphia, USA.
+Universidade Federal da Bahia. Instituto de Saúde Coletiva. Salvador, BA, Brasil.
+Universidade Federal da Bahia. Instituto de Saúde Coletiva. Salvador, BA, Brasil / Ciência, Tecnologia e Inovação em Saúde. Salvador, BA, Brasil.
+Universidade Federal da Bahia. Instituto de Saúde Coletiva. Salvador, BA, Brasil / Ciência, Tecnologia e Inovação em Saúde. Salvador, BA, Brasil.
+Currículo Lattes do Autor
+ORCID do Autor
+Orientador
+Currículo Lattes do Orientador
+ORCID do Orientador
+Coorientador
+Currículo Lattes do Coorientador
+ORCID do Coorientador
+item.page.capes.lattesId.member
+item.page.capes.orcid.member
+Membros da banca
+Organizador
+Coordenador
+Autor institucional
+Inventor
+Diretor
+Produtor
+Roteirista
+Produtora
+Gravadora
+Resumo
+Resumo em Inglês
+To evaluate the impact of Brazil's recently implemented Family Health Program (FHP), the largest primary health care programme in the world, on heart and cerebrovascular disease mortality across Brazil from 2000 to 2009. using negative binomial regression models for panel data with fixed effects specifications. Setting Nationwide analysis of data from Brazilian municipalities covering the period from 2000 to 2009. Data sources 1622 Brazilian municipalities with vital statistics of adequate quality. Main outcome measures The annual FHP coverage and the average FHP coverage in previous years were used as main independent variables and classified as none (0%), incipient (<30%), intermediate (30-69%), or consolidated (≥70%). Age standardised mortality rates from causes in the group of cerebrovascular (ICD-10 codes I60-69), ischaemic (ICD-10 I20-25), and other forms of heart diseases (ICD-10 I30-52), which were included in the national list of ambulatory care-sensitive conditions, were calculated for each municipality for each year. They accounted for 40% of all deaths from these groups during the study period.
+Resumo em Espanhol
+Resumo em Francês
+item.page.abstractzh
+Instituição titular da patente
+Número do Depósito
+Data de depósito
+Número do Depósito da prioridade
+Número da publicação
+item.page.datepublicacao
+item.page.dateconcessao
+item.page.nrcatapatente
+item.page.descriptionconcessao
+item.page.dateexpiracao
+🆔 Número do IPC - teste
+País de depósito da patente
+Palavras-chave
+Doenças cardiovasculares
+,
+Transtornos Cerebrovasculares
+,
+Programa de Saúde da Família
+,
+Atenção primária à saúde
+,
+Estudos longitudinais
+,
+Humanos
+,
+Brasil
+Palavras-chave em Inglês
+Cardiovascular Diseases
+,
+Cerebrovascular Disorders
+,
+Family Health Program
+,
+Primary Health Care
+,
+Longitudinal Studies
+,
+Humans
+,
+Brazil
+Palavras-chave em Espanhol
+DeCS
+Documento relacionado
+Versão posterior
+Versão anterior
+DOI
+10.1136/bmj.g4014
+ISBN
+ISSN
+0959-8138
+Notas
+Barreto, Mauricio Lima. Fundação Oswaldo Cruz. Instituto Gonçalo Moniz. “Documento produzido em parceria ou por autor vinculado à Fiocruz, mas não consta à informação no documento”.
+Data do evento
+Formato Original
+Tempo de duração
+Tempo de duração
+Sistema de cor original
+Contexto público-alvo
+Ocupação público-alvo
+Objetivo Educacional
+Avaliação
+Documento revisado
+Status da Publicação
+Financiador
+National Council for Scientific and Technological Development (CNPq).
+Fonte da publicação anterior
+Localização do evento
+Título do evento
+Tipo do evento
+Instituição de defesa
+Data de defesa
+Local de defesa
+Programa
+Referência
+RASELLA, Davide et al. Impact of primary health care on mortality from heart and cerebrovascular diseases in Brazil: a nationwide analysis of longitudinal data. TheBMJ, v. 348, p. 1-10, 2014.
+URI
+https://arca.fiocruz.br/handle/icict/25558
+Coleções
+BA - IGM - Artigos de Periódicos
+Endosso
+Revisão
+Suplementado Por
+Referenciado Por
+Página do item completo
+Instituto de Comunicação e Informação Científica e Tecnológica em Saúde (Icict/Fiocruz)
+Av. Brasil, 4.365 - Pavilhão Haity Moussatché - Manguinhos, Rio de Janeiro - CEP: 21040-900
+Tel.: (+55 21) 3865-3131
+Este portal é regido pela
+Política de Acesso Aberto ao Conhecimento
+, que busca garantir à sociedade o acesso gratuito, público e aberto ao conteúdo integral de toda obra intelectual produzida pela Fiocruz.
+Contato
+Facebook
+Linktr.ee

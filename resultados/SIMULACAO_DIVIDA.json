@@ -1,0 +1,64 @@
+{
+ "premio_central_pp": 2.05,
+ "premio_faixa_pp": [
+  1.02,
+  2.4
+ ],
+ "cenarios": {
+  "base_ifi": {
+   "2025": 78.6,
+   "2026": 82.5,
+   "2027": 86.4,
+   "2028": 90.1,
+   "2029": 92.7,
+   "2030": 95.7
+  },
+  "lula_com_premio": {
+   "2025": 78.6,
+   "2026": 82.5,
+   "2027": 87.11,
+   "2028": 91.93,
+   "2029": 95.99,
+   "2030": 100.72
+  },
+  "flavio_promessa_cumprida": {
+   "2025": 78.6,
+   "2026": 82.5,
+   "2027": 86.0,
+   "2028": 89.09,
+   "2029": 90.77,
+   "2030": 92.53
+  },
+  "flavio_promessa_nao_cumprida_com_premio_de_volta": {
+   "2025": 78.6,
+   "2026": 82.5,
+   "2027": 87.11,
+   "2028": 91.93,
+   "2029": 95.99,
+   "2030": 100.72
+  },
+  "lula_se_fizesse_o_mesmo_esforco": {
+   "2025": 78.6,
+   "2026": 82.5,
+   "2027": 86.71,
+   "2028": 90.91,
+   "2029": 94.03,
+   "2030": 97.5
+  }
+ },
+ "diferenca_2030_so_pelo_juro": 5.02,
+ "diferenca_2030_so_pelo_esforco": 3.17,
+ "diferenca_2030_lula_premio_vs_flavio_cumprida": 8.19,
+ "sensibilidade_juro_2030": {
+  "premio_central_repasse_gradual": 5.02,
+  "premio_central_repasse_total": 7.21,
+  "premio_central_repasse_metade": 3.55,
+  "premio_baixo_repasse_gradual": 2.49,
+  "premio_baixo_repasse_total": 3.55,
+  "premio_baixo_repasse_metade": 1.77,
+  "premio_alto_repasse_gradual": 5.91,
+  "premio_alto_repasse_total": 8.5,
+  "premio_alto_repasse_metade": 4.18
+ },
+ "conferencia_base_reproduzida": true
+}

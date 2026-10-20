@@ -1,0 +1,94 @@
+id,alvo,criterio,afirmacao,fonte,padrao
+EV001,L-S-a,C3,A Lei Antifacção foi sancionada (Lei 15.358/2026),S13-poder360-lei-antifaccao,domínio social estruturado
+EV002,L-S-a,C3,A Lei Antifacção foi sancionada com vetos,S14-brasildefato-lei-antifaccao,sanciona
+EV003,L-S-b,C3,O STF homologou o Plano Pena Justa (em execução),S20-stf-pena-justa,homologa
+EV004,L-S-b,C3,O Plano Pena Justa foi aprovado pelo STF,S21-gazeta-pena-justa,STF aprova plano
+EV005,L-S-c,C3,O decreto de controle de armas está em vigor (Decreto 11.615/2023),L08-decreto11615-armas,"Regulamenta a Lei nº 10.826"
+EV006,L-S-c,C4,Avaliação acadêmica encontra queda maior de homicídios onde havia mais armas depois do Estatuto,V03-pucrio-cerqueira-mello-armas,We find evidence that homicides
+EV007,L-S-c,C4,Estudo do Ipea para São Paulo associa o desarmamento à queda de homicídios,V04-ipea-td1721-armas-sp,homicídios
+EV008,L-S-c,C4,Estudo de painel encontra efeito pequeno e aumento entre jovens negros; armas legais sem efeito significante,V20-ufc-estatuto-desarmamento-painel,não contribuíram de forma significante
+EV009,L-S-d,C3,A PEC da Segurança passou na Câmara e na CCJ do Senado,S11-senado-ccj-pec-seguranca,PEC 18/2025
+EV010,L-S-d,C3,A votação da PEC da Segurança no Senado ficou para depois do 2º turno,S10-poder360-pec-seguranca-adiada,será votada só depois do 2º turno
+EV011,L-S-d,C3,A PEC precisa de 49 votos em dois turnos no Senado,S11-senado-ccj-pec-seguranca,pelo menos 49 dos 81 senadores
+EV012,F-S-a,C3,O projeto que classifica PCC e CV como terroristas passou numa comissão e ainda depende da CCJ e do plenário das duas casas,S15-camara-pl4260-terroristas,"Para virar lei, o texto deve ser aprovado pela Câmara e pelo Senado"
+EV013,F-S-a,C3,O projeto avançou em comissão da Câmara,S16-cartacapital-pl4260,avança
+EV014,F-S-b,C3,A emenda que reduz a maioridade para 16 e 14 anos foi apresentada à PEC da Segurança no Senado e não foi votada,S17-tvsenado-emenda-maioridade,maioridade penal
+EV015,F-S-b,C3,A PEC 115/2015 da maioridade está parada no Senado,S18-editoraforum-pec115,PEC
+EV016,F-S-b,C4,"Estudo de Lee e McCrary encontra efeito pequeno da punição mais dura aos 18 anos, e cita estimativa maior de Levitt",V13-lee-mccrary-2016,Levitt
+EV017,F-S-c,C3,A lei já permite às Forças Armadas agir na faixa de fronteira (LC 97/1999 art. 16-A),S19-planalto-lc97,Art. 16-A
+EV018,F-S-d,C3,O Fundo Nacional de Segurança Pública transfere recursos a estados e municípios (Lei 13.756/2018),L13-lei13756-fnsp,Fundo Nacional de Segurança Pública
+EV020,L-H-a,C4,Estudo nacional associa a Saúde da Família à menor mortalidade cardiovascular,H05-fiocruz-rasella-esf,Impact of primary health care on mortality from heart and cerebrovascular diseases
+EV021,L-H-a,C4,Estudo publicado na Lancet associa Bolsa Família e Saúde da Família à queda da mortalidade infantil,V05-exame-lancet-bolsa-familia,Saúde da Família
+EV022,L-H-b,C3,O Agora Tem Especialistas virou lei (Lei 15.233/2025),L16-lei15233-agora-tem-especialistas,Agora Tem Especialistas
+EV023,L-H-b,C3,O programa foi sancionado,H01-congressoemfoco-agora-tem-especialistas,sancionado
+EV024,L-H-c,C3,A Rede Nacional de Dados em Saúde existe desde o Conecte SUS (2020),H08-conass-rnds-conecte-sus,Rede Nacional de Dados em Saúde
+EV025,L-H-d,C4,Avaliação encontra queda de internações e óbitos por hipertensão e diabetes ligada ao Farmácia Popular,V01-rsp-farmacia-popular,27
+EV026,L-H-d,C4,Reportagem sobre o impacto do Farmácia Popular na saúde,V02-futurodasaude-farmacia-popular,Farmácia Popular
+EV027,F-H-b,C3,A lei do reajuste da tabela SUS existe e o reajuste depende de ato do Ministério e de orçamento,H02-senado-lei-tabela-sus,tabela do SUS
+EV028,F-H-b,C5,A defasagem da tabela SUS tem impacto bilionário que o Ministério teme,H03-futurodasaude-tabela-sus-defasagem,R$ 12 bilhões
+EV029,F-H-d,C4,O Brasil recuperou o certificado de país livre do sarampo depois que a cobertura vacinal subiu,H06-jornalopcao-sarampo-recertificacao,sarampo
+EV030,F-H-d,C4,Recertificação de país livre do sarampo após cinco anos,H07-jovempan-sarampo-recertificacao,sarampo
+EV031,L-E-a,C3,O arcabouço fiscal é lei complementar em vigor (LC 200/2023),L01-lc200-arcabouco,regime fiscal sustentável
+EV032,L-E-a,C4,A IFI projeta dívida bruta crescente de 2026 a 2036 mesmo com o arcabouço,F02-ifi-raf113-jun2026,"elevação, persistente e forte"
+EV033,L-E-a,C4,A IFI vê cenário fiscal preocupante para o próximo governo,F03-advfn-ifi-cenario,115%
+EV034,L-E-b,C3,A reforma tributária do consumo está regulamentada em lei complementar (LC 214/2025),L02-lc214-reforma-tributaria,Imposto sobre Bens e Serviços
+EV035,F-E-a,C4,A IFI apontou burla ao teto de gastos na PEC dos precatórios (governo Bolsonaro),F10-cnn-ifi-precatorios-teto,teto
+EV036,F-E-a,C4,A PEC dos precatórios driblou o teto de gastos para criar o Auxílio Brasil,F12-opovo-pec-precatorios-teto,teto de gastos
+EV037,F-E-d,C3,A MP do Contrato Verde e Amarelo (2019) perdeu a validade sem acordo no Congresso,E11-senado-mp905-validade,Verde e Amarelo
+EV038,F-E-d,C3,O que previa o Contrato Verde e Amarelo e por que a MP perdeu a validade,E10-politize-mp905,perdeu a validade
+EV039,F-E-d,C4,Texto do Ipea não encontra efeito da desoneração da folha sobre o emprego,V15-ipea-td2357-desoneracao,employment
+EV040,F-E-d,C4,Pesquisadores divergem: efeitos pequenos em vários países e formalização na Colômbia,V16-movimentoeconomico-desoneracao,Colômbia
+EV041,L-Ed-a,C3,O Compromisso Nacional Criança Alfabetizada é decreto em vigor e revogou a política de 2019,L09-decreto11556-crianca-alfabetizada,Fica revogado o Decreto nº 9.765
+EV042,L-Ed-b,C3,O Pé-de-Meia é lei (Lei 14.818/2024),L05-lei14818-pe-de-meia,incentivo financeiro-educacional
+EV043,L-Ed-b,C4,"Estudo ex-ante estima que o Pé-de-Meia evita 1 em cada 4 evasões (simulação, não avaliação observada)",V07-poder360-pe-de-meia-estudo,Pé-de-Meia
+EV044,L-Ed-b,C4,Reportagem crítica: bilhões pagos sem reverter a evasão,V08-gazeta-pe-de-meia-critica,evasão
+EV046,L-Ed-d,C3,O Pé-de-Meia Licenciatura foi lançado em 2025,E30-opovo-pe-de-meia-licenciatura,licenciatura
+EV047,L-Ed-d,C3,Bolsa de R$ 1.050 para estudantes de licenciatura,E31-folhavitoria-pe-de-meia-licenciatura,licenciatura
+EV048,F-Ed-a,C3,A política de alfabetização com método fônico foi decreto em 2019 (Decreto 9.765),L15-decreto9765-pna,Política Nacional de Alfabetização
+EV049,F-Ed-a,C4,Relatórios usados pela política de 2019 apontam a instrução fônica sistemática como a mais eficiente,E20-gazeta-fonica-pna,fônica
+EV050,F-Ed-a,C4,Estudo quase-experimental brasileiro encontra efeito da instrução fônica,E21-scielo-ptp-instrucao-fonica,fônica
+EV051,L-Cr-a,C3,O Plano de Integridade e Combate à Corrupção 2025-2027 foi lançado e está em vigor,C20-poder360-plano-integridade,2025 a 2027
+EV052,L-Cr-a,C3,O governo lançou plano de combate à corrupção,C21-gazeta-plano-integridade,plano
+EV053,L-Cr-c,C3,A inelegibilidade é regulada por lei complementar (Ficha Limpa),L12-lc135-ficha-limpa,inelegibilidade
+EV054,F-Cr-b,C3,As emendas parlamentares são reguladas por lei complementar (LC 210/2024),L10-lc210-emendas,emendas parlamentares
+EV055,F-Cr-c,C3,O Senado aprovou em 2023 a PEC que limita decisões individuais do STF,C12-em-pec8-senado-2023,decisões individuais
+EV056,F-Cr-c,C3,O Senado aprovou a PEC que limita decisões individuais de ministros do STF,C13-diariodonordeste-pec8-senado,Senado aprova
+EV057,F-Cr-c,C3,O Senado aprovou o fim do foro privilegiado em 2017,C14-jornalopcao-foro-senado-2017,foro privilegiado
+EV058,F-Cr-c,C3,A PEC do foro está na Câmara,C15-monitormercantil-foro-camara,foro privilegiado
+EV059,F-Cr-d,C3,A Lei das Estatais está em vigor (Lei 13.303/2016),L11-lei13303-estatais,empresa pública
+EV060,L-P-a,C3,O Bolsa Família é lei (Lei 14.601/2023),L03-lei14601-bolsa-familia,Programa Bolsa Família
+EV061,L-P-a,C4,Estudo de 20 anos associa o Bolsa Família a menos mortes e internações,V06-rtp-bolsa-familia-20-anos,mortes
+EV062,L-P-a,C4,Estudo na Lancet associa o Bolsa Família à queda da mortalidade infantil,V05-exame-lancet-bolsa-familia,Bolsa Família
+EV063,L-P-b,C3,A política de valorização do salário mínimo é lei (Lei 14.663/2023),L04-lei14663-salario-minimo,salário mínimo
+EV064,L-P-b,C4,"Artigo na American Economic Review: o salário mínimo explica parte grande da queda da desigualdade no Brasil, com efeito pequeno no emprego",V11-aer-engbom-moser,minimum wage
+EV065,L-P-c,C3,O Programa Cozinha Solidária está em lei (Lei 14.628/2023),L07-lei14628-paa-cozinha,Cozinha Solidária
+EV066,L-P-d,C3,O Minha Casa Minha Vida é lei (Lei 14.620/2023),L06-lei14620-mcmv,Minha Casa
+EV067,L-P-d,C4,Estudo de caso encontra segregação socioespacial em conjuntos do programa,P11-ufu-mcmv-segregacao,Segregação
+EV068,F-P-d,C3,O Casa Verde e Amarela foi criado por lei em 2021 (Lei 14.118/2021),L14-lei14118-casa-verde-amarela,14.118
+EV069,F-P-b,C3,A lei do Bolsa Família já prevê limite de renda para desligamento definido por ato do Executivo,L03-lei14601-bolsa-familia,valor-limite de desligamento
+EV070,STF,contexto,O Senado rejeitou a indicação de Jorge Messias ao STF por 42 a 34,J01-migalhas-messias-rejeitado,"Por 42 votos a 34, Senado rejeita Jorge Messias"
+EV071,STF,contexto,O STF completou um ano com a vaga de Barroso aberta,J02-goias246-stf-vaga-aberta,vaga aberta
+EV072,STF,contexto,O STF está desfalcado há 1 ano,J03-cnn-stf-desfalcado,desfalcado
+EV073,STF,contexto,Fux completa 75 anos em 26 de abril de 2028,J05-migalhas-aposentadorias-proximo-mandato,completará 75 anos em 26 de abril de 2028
+EV074,STF,contexto,Cármen Lúcia completa 75 anos em 19 de abril de 2029,J05-migalhas-aposentadorias-proximo-mandato,19 de abril de 2029
+EV075,STF,contexto,Gilmar Mendes completa 75 anos em 30 de dezembro de 2030,J05-migalhas-aposentadorias-proximo-mandato,30 de dezembro de 2030
+EV076,STF,contexto,O STF terá três aposentadorias até 2030,J04-timesbrasil-tres-aposentadorias,três aposentadorias
+EV080,mercado,C6,"Ibovespa subiu 7,70% e o dólar caiu 4,12% em 05/10/2026 com Flávio à frente no 1º turno",M01-cnn-mercado-5out,"A bolsa paulista subiu 7,70%"
+EV081,mercado,C6,"DI de janeiro de 2031 caiu de 13,99% para 12,70% em 05/10/2026",M-moneytimes-juros-5-10-26,"o para janeiro de 2031 despencou a 12,700%, vindo de 13,99% no ajuste"
+EV082,mercado,C6,"DI de janeiro de 2031 caiu de 13,99% para 12,70% (segunda fonte)",M04-noticiasdoplanalto-juros,"13,99%"
+EV083,mercado,simulacao,"DI de janeiro de 2031 subiu de 12,494% para 12,760% em 15/10/2026",M-moneytimes-juros-15-10-26,"o DI para janeiro de 2031 saltou de 12,494% a 12,760%"
+EV084,mercado,simulacao,A chance de Flávio na Polymarket caiu de 89% para 76% no mesmo dia,M-moneytimes-juros-15-10-26,"já chegou a alcançar 89% e, hoje, está em 76%"
+EV085,mercado,simulacao,"O mesmo salto do DI 2031 e a queda na Polymarket, em veículo de linha à esquerda",M02-ocafezinho-juros-16out,"saltou de 12,494%, no ajuste da véspera, para 12,760%"
+EV086,mercado,simulacao,"Analistas: vitória de Flávio com fiscal crível levaria o DI jan/31 a 11,50%; reeleição de Lula, acima de 13,90%",M05-bpmoney-renda-fixa-cenarios,"Reeleição de Lula abriria a taxa além dos 13,90%"
+EV087,fiscal,simulacao,"A IFI projeta a dívida bruta em 82,5% (2026), 86,4% (2027), 90,1% (2028), 92,7% (2029) e 95,7% (2030)",F02-ifi-raf113-jun2026,"78,6 82,5 86,4 90,1 92,7 95,7 98,6 102,0"
+EV088,fiscal,simulacao,Resultado primário do governo central no cenário base da IFI,F02-ifi-raf113-jun2026,"Resultado primário -0,5 -0,4 -0,6 -0,6 -0,8 -1,1 -1,2 -1,4"
+EV089,fiscal,simulacao,Resultado primário do governo central no cenário otimista da IFI,F02-ifi-raf113-jun2026,"Resultado primário -0,5 -0,4 -0,2 0,0 0,1 0,1 0,3 0,3"
+EV090,fiscal,simulacao,PIB nominal no cenário base da IFI,F02-ifi-raf113-jun2026,12.739 13.667 14.533 15.458 16.361 17.321
+EV091,C2,conferencia,Folha: Lula cumpriu 28% das 103 promessas em metade do mandato,R06-promessas-lula-oeste,28% das 103 promessas
+EV092,C2,conferencia,"Metrópoles: Bolsonaro cumpriu 24,5% de 53 propostas em 3 anos",R08-promessas-bolsonaro-metropoles-astrojildo,53 propostas
+EV093,C2,principal,"g1: Lula, 26 cumpridas, 4 em parte e 6 não, de 36",R09-promessas-lula-emdiaes,26 cumpridas integralmente
+EV094,C2,principal,"g1: Bolsonaro, 19 de 58 cumpridas; 17% em parte; 50% não",R04-promessas-bolsonaro-opovo,17% do número total de promessas foram cumpridas parcialmente
+EV095,C2,principal,g1: 19 dos 58 compromissos de Bolsonaro cumpridos integralmente,R05-promessas-bolsonaro-politicalivre,"Dos 58 compromissos assumidos, 19 foram cumpridos integralmente"
+EV096,corrupcao,contexto,A Transparência Internacional disse que Bolsonaro criou o maior esquema de corrupção institucionalizada conhecido no Brasil,C40-rr-ti-orcamento-secreto,criou o maior esquema de corrupção institucionalizada
+EV097,C2,conferencia,Vermelho soma as parciais e fala em mais de 80% para Lula,R10-vermelho-promessas-lula-2026,80
+EV098,pobreza,contexto,"Sem os programas sociais, a extrema pobreza de 2022 passaria de 5,9% para 10,6%",X06-ibge-sis-2023-pdf,"a extrema pobreza passaria de 5,9% para 10,6%"

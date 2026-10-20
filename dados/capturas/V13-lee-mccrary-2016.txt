@@ -1,0 +1,3575 @@
+# fonte: https://eml.berkeley.edu/~jmccrary/lee_and_mccrary2016.pdf
+# capturado em: 2026-10-20
+
+
+=== página 1 ===
+The Deterrence Effect of Prison:
+∗
+Dynamic Theory and Evidence
+David S. Lee Justin McCrary
+Princeton University, NBER UC Berkeley, NBER
+Firestone Library A-16-J-1 586 Simon Hall
+Industrial Relations Section Berkeley Law
+Princeton University University of California
+Princeton, NJ 08544 Berkeley, CA 94720
+E-Mail: davidlee@princeton.edu E-Mail: jmccrary@berkeley.edu
+August 2016
+Abstract
+Usingadministrative,longitudinaldataonfelonyarrestsinFlorida,weexploitthediscontinuousincreasein
+thepunitivenessofcriminalsanctionsat18toestimatethedeterrenceeffectofincarceration. Ouranalysis
+suggestsa2percentdeclineinthelog-oddsofoffendingat18,withstandarderrorsrulingoutdeclinesof
+11percentormore. WeinterpretthesemagnitudesusingastochasticdynamicextensionofBecker’s(1968)
+modelofcriminalbehavior. Calibratingthemodeltomatchkeyempiricalmoments,weconcludethat
+deterrenceelasticitieswithrespecttosentencelengthsarenomorenegativethan-0.13foryoungoffenders.
+JEL Classification:D9,K4
+Keywords:Prison,deterrence,self-control
+∗EarlierdraftsofthispapercirculatedasNBERWorkingPaper#11491,“Crime,Punishment,andMyopia”andPrinceton
+IndustrialRelationsSectionWorkingPaper#550,“TheDeterrenceEffectofPrison: DynamicTheoryandEvidence.” Brett
+Allen,DianeAlexander,andYanLauprovidedexcellentresearchassistance. WearegratefultoJeffKlingfordetailedsuggestions
+onapreviousdraft. ForusefulcommentswethankJoshAngrist,DavidAutor,DavidCard,KerwinCharles,KenChay,Gordon
+Dahl,JohnDiNardo,MichaelGreenstone,VivianHwa,ChristinaLee,SteveLevitt,RobertMcMillan,EnricoMoretti,Daniel
+Parent,DanSilverman,andseminarparticipantsatUCBerkeley,theCenterforAdvancedStudyintheBehavioralSciences,
+ChicagoGSB,Columbia,LondonSchoolofEconomics,theNBERSummerInstitute,MIT,NorthwesternLaw,theUniversity
+ofIllinoisatUrbana-Champaign,theUniversityofRochester,theUniversityofToronto,UniversityCollegeLondon,andthe
+UniversityofWisconsin. SueBurtonoftheFloridaDepartmentofLawEnforcementwasinstrumentalinobtainingthedata
+weusehere. McCraryacknowledgesfundingfromtheCenterforLocal,Urban,andStatePolicyattheUniversityofMichigan.
+
+=== página 2 ===
+I. Introduction
+Crime continues to be an important social and economic issue in the United States. While crime rates
+have fallen in the recent past, the cost of controlling crime has not. From 1970 to 2006, criminal justice
+system expenditures as a share of national income increased 112 percent, and the ratio of criminal justice
+employees to the population grew 107 percent (LEAA 1972, U.S. DOJ 2006). Over the same period, the
+incarcerated fraction of the population increased 373 percent, making the U.S. incarceration rate the highest
+in the world (Maguire and Pastore, eds. 2001, Chaddock 2003).
+Perhapsbecauseofthesetrends, theeconomicsofcrimehasemergedasanactiveareaofresearch. Recent
+studies have investigated a wide range of potential factors, including the effects of police and incarceration
+(Levitt 1997, Di Tella and Schargrodsky 2004, Klick and Tabarrok 2005, Chalfin and McCrary 2016, Levitt
+1996, Levitt 1998, Helland and Tabarrok 2007, Drago, Galbiati and Vertova 2009), conditions in prisons
+(Katz,LevittandShustorovich2003),gunownership(Lott1998,CookandLudwig2000,Duggan2001,Ayres
+and Donohue 2003) parole and bail institutions (Kuziemko 2007, Abrams and Rohlfs 2011), education
+(Lochner and Moretti 2004), social interactions and peer effects (Case and Katz 1991, Glaeser, Sacerdote
+and Scheinkman 1996, Gaviria and Raphael 2001, Kling, Ludwig and Katz 2005, Bayer, Hjalmarsson and
+Pozen2009)andfamilycircumstancesandstructure(GlaeserandSacerdote1999,DonohueandLevitt2001).
+Economistshavealsoconsideredthereturnstoeducationamongrecentprisonreleasees(Western,Klingand
+Weiman2001),theimpactofcriminalhistoriesonlabormarketoutcomes(Grogger1995,Kling2006,Mueller-
+Smith 2015) the impact of wages and unemployment rates on crime (Grogger 1998, Raphael and Winter-
+Ebmer 2001), the strategic interplay between violent and property crime (Silverman 2004), the effect of
+incarceration on the supply of crime in the economy (Freeman 1996, Freeman 1999), and optimal law
+enforcement (Polinsky and Shavell 2000, Eeckhout, Persico and Todd 2010).
+One of the key questions for both the literature as well as policymakers is the extent to which more
+punitive criminal justice sanctions can deter criminal behavior. This notion is at the core of the seminal
+model of Becker (1968) and of many less formal treatments, such as the classic works by Beccaria (1764)
+and Bentham (1789), widely cited in the law and economics and criminology literatures.
+However, despite a good deal of empirical research, magnitudes of the deterrence effect of criminal
+justice sanctions remain somewhat uncertain. Our own focus is on the deterrence effect of prison. The
+most prominent papers addressing this question yield a somewhat wide range of elasticities. On the one
+1
+
+=== página 3 ===
+hand, assuming exogeneity of changes in the punitiveness of criminal sanctions across U.S. states, Levitt
+(1998) finds crime elasticities with respect to punishments as large as -0.40, and assuming exogeneity of
+sentence enhancements given to early prison releasees, Drago et al. (2009) find elasticities as high as -0.74
+for a population of Italian offenders. On the other hand, Helland and Tabarrok (2007) compare convicted
+defendants who become exposed to the threat of the California “three-strikes” statute to observationally
+equivalent acquitted defendants, and find elasticities of -0.06, an order of magnitude smaller.
+In this paper, we use a different identification strategy to isolate the deterrence effects of long prison sen-
+tences. Specifically,wetakeadvantageofthefollowingfact: whenanindividualischargedwithacrimethatoc-
+cursbeforehis18thbirthday,hiscaseishandledbythejuvenilecourts.1 Iftheoffenseiscommittedonorafter
+his18thbirthday,however,hiscasemustbehandledbytheadultcriminalcourt,whichisknowntoadminister
+morepunitivecriminalsanctions.2Thus,whenaminorturns18,thereisanimmediateincreaseintheexpected
+cost of participating in crime. We argue that while other determinants of criminal offending may change
+rapidlywithage,theydonotchangediscontinuouslyat18. Thisallowsustoattributeanydiscontinuousdrop
+inoffenseratesat18toabehavioralresponsetoadultcriminalsanctions,relativetojuvenilecriminalsanctions.
+Our identification strategy is conceptually distinct from a standard Regression Discontinuity (RD) design,
+whichreliesonassumptionsofimprecisecontrol, andhencethesmoothnessofthedensityoftheRDrunning
+variable to identify treatment effects (Lee 2008, Lee and Lemieux 2010). Here, it is precisely the measured
+discontinuity in the density of age at offending that we are attributing to a deterrence effect.
+Our analysis takes advantage of a large, person-level, longitudinal dataset covering the universe of felony
+arrests in Florida between 1995 and 2002. This is a major improvement over publicly available data sets,
+which only capture age in years and are not longitudinal. Publicly available data sets thus make it difficult
+to distinguish deterrence from incapacitation: a lower arrest rate for 18-year-olds could be entirely driven
+by more offenders being imprisoned, and thus being unable to commit crimes.3 In contrast, our data are
+longitudinal and furnish information on exact dates of birth and offense. We use the precise timing of
+arrests relative to 18 to isolate a pure deterrence effect, as opposed to an incapacitation effect.
+Our discontinuity analysis yields small, precise point estimates: a 1.8 percent decline in the log-odds
+1While in principle the case may then be transferred to the adult criminal court, this is rare generally (Snyder and
+Sickmund1999). WeexaminejuveniletransferempiricallybelowinSectionV.
+2InFlorida,ourstudystate,theageofcriminalmajorityis18. ThisistypicalofU.S.states,butsomestateshavelegislated
+cutoffsat16and17(BozynskiandSzymanski2003).
+3Deterrencereferstothebehavioralreductionincrimeduetooffenderanticipationofpunishment. Incapacitationrefers
+tothemechanicalreductionincrimethatoccurswhenoffendersareincarceratedandunavailabletocommitadditionalcrimes
+(againsttheunimprisoned).
+2
+
+=== página 4 ===
+of offending at 18, with standard errors that can statistically rule out declines of 11 percent or more. Our
+estimates are consistently small across crime categories and across types of jurisdictions within Florida.
+These findings can be interpreted directly as an evaluation of at least three different types of policy
+reforms: (1) reducing the age of criminal majority, (2) increasing the rate at which juveniles are transferred
+to the adult criminal court, thereby increasing the expected sanction that a juvenile faces, or (3) increasing
+adult sentences, leaving juvenile sentences fixed. The first two of these policy reforms have been enacted in
+recent years in multiple states and are currently part of ongoing criminal justice policy discussions (National
+Research Council 2001, Snyder and Sickmund 1999), and the third policy reform dominated the criminal
+justice landscape during the 1980s (Levitt 1998). Our results suggest that these reforms have limited
+deterrence effects for youthful offenders.
+To extrapolate our results to evaluate a broader range of policy reforms of interest, and to connect our
+empirical results to structural parameters of offender behavior, we develop a stochastic dynamic model
+of crime. The model retains at its core the essence of the static Becker model of criminal behavior, but
+places the individual in a dynamic setting. The model makes precise the link between our discontinuity
+estimates of the intertemporal behavioral response to an anticipated increase in punishments and other
+policy-relevant deterrence elasticities. We calibrate the model to match easily attainable empirical quantities.
+This calibration exercise leads us to three additional conclusions.
+First,ourmodelandestimatesareinconsistentwith“patient”timepreferences(e.g.,annualdiscountfactors
+of0.95)andsuggestmuchsmallerdiscountfactors. Essentially,thesmallchangeinbehaviorat18isconsistent
+with offenders having short time horizons, leading them to perceive little difference between nominally
+long and short incarceration periods. Second, a moderately-sized (e.g., -0.25) elasticity of crime with respect
+to the probability of apprehension is consistent with our estimates, but requires the discount factor to be
+extremely small, which in turn implies a small elasticity with respect to sentence lengths. This result follows
+because our model leads to implied bounds for deterrence elasticities for police and prison. Finally, the most
+negative elasticity with respect to sentence lengths that is consistent with our estimates and model is -0.13.
+In addition to estimating deterrence parameters, we also present RD evidence on the incapacitation
+effect of adult sanctions. We find that being arrested just after 18 leads to an immediate (within 30 days)
+subsequent reduction in offending, relative to being arrested just before 18. We interpret this as evidence
+of the incapacitation effect of adult sanctions. Overall, from our main analysis as well as this supplementary
+evidence on incapacitation, we conclude that if lengthening prison sentences leads to significant crime
+3
+
+=== página 5 ===
+reduction, it is likely operating through a direct, “mechanical” incapacitation effect, rather than through
+a behavioral response to the threat of punishment.
+The remainder of the paper is organized as follows. Section II discusses related studies on deterrence.
+Section III describes our identification strategy and approach to estimation, while Section IV describes
+our data in detail. Section V presents our main results. In Section VI, we develop our stochastic dynamic
+model, calibrate it, and interpret our reduced-form magnitudes through the lens of this model. Section
+VII concludes. Two appendices provide further detail on our data and theoretical model.
+II. Existing Literature
+This section briefly describes a number of prominent studies that are most related to our analysis. These
+recent studies attempt to address an important problem that arises in isolating the causal impact of more
+punitive criminal sanctions on criminal behavior: crime control policies (e.g., policing, sentencing) are often
+suspected to be endogenous responses to current crime levels and trends. The problem of policy endogeneity
+has long been recognized in the literature (Ehrlich 1973, Ehrlich 1987, Nagin 1998, Levitt 2004, Donohue
+and Wolfers 2008). To circumvent policy endogeneity, recent studies exploit arguably exogenous variation in
+the punitiveness of criminal sanctions (i.e., prison sentences).4 The elasticities resulting from these analyses
+range from somewhat small (-0.06) to somewhat large (-0.74).
+ThelargestmagnitudescomefromtheanalysesofLevitt(1998)andDragoetal.(2009). Thehighly-cited
+studyofLevitt(1998)isthemostcloselyrelatedtoourown. Theanalysisusesastate-levelpanel, regressing
+juvenile crime rates on a measure of punitiveness of the juvenile justice system (number of delinquents
+in custody per 1000 juveniles), including state and year effects, as well as other control variables. It also
+disaggregatesthedatabyagecohort,andimplementsadifference-in-differencestrategy,wherebythechanges
+in adult-juvenile relative crime rates are compared between states that had higher and lower increases
+in adult-juvenile relative punitiveness over time.5 Levitt (1998) concludes that juveniles are significantly
+responsive to criminal sanctions, reporting effects that imply an elasticity of -0.40 for violent crime.6
+4See,forexample,Nagin’s(1978)criticismsofmuchoftheolderliteratureduetoitsfailuretorecognizeproblemswith
+endogeneity. SeealsothediscussioninFreeman(1999)andLevittandMiles(2007).
+5Relative punitiveness is defined as the number of adult prisoners per adult violent crimes, relative to the number of
+delinquentsperjuvenileviolentcrimes.
+6Onp. 1181,itisnotedthat“[b]etween1978and1993,punishmentpercrimefell20percentforjuvenilesbutrose60
+percentforadults. Overthatsametimeperiod,ratesofjuvenileviolentandpropertycrimerose107and7percent,respectively.
+Foradults,thecorrespondingincreaseswere52and19percent. OnthebasisoftheestimatesofTable2,ifjuvenilepunishments
+had increased proportionally with those of adults, then the predicted percentage changes in juvenile violent and property
+crimeoverthisperiodwouldhavebeen74and2percent.” Inotherwords,ifpunishmentsrose60percentinsteadoffalling
+4
+
+=== página 6 ===
+AnotherstudyfindinglargeelasticitiesofthedeterrenceeffectofprisonisthatofDragoetal.(2009),which
+examines the crime impact of a 2006 Italian clemency act. This statute led to the release of prisoners whose
+crimes were committed prior to May of 2006, subject to some minor exceptions. Importantly, the statute
+contained a sentence enhancement provision: for releasees who were re-arrested within five years of release
+and subsequently sentenced to more than two years, their sentence would be augmented by the amount of
+time that was remaining on their first sentence at the time of clemency. The paper documents the empirical
+relation between re-arrest within 7 months of release and the time remaining on the sentence length at
+time of clemency, controlling for other observables, such as the original sentence length. The results suggest
+an elasticity of crime with respect to sentence length of -0.74 at 7 months follow-up and approximately -0.45
+at 12 months follow-up.7 The identification strategy is based on sentence enhancements, and this quantity is
+interpreted as representing a deterrence effect. Given that upon release, the difference in age between those
+with little or much time remaining on their sentences are similar, the key identifying assumption here is that
+those who are arrested earlier in life have the same propensity to commit crime as those arrested later in life.
+At the other end of the range of elasticities, Helland and Tabarrok (2007) and Iyengar (2008) find
+generally small behavioral responses of criminals to California’s three-strikes law. This statute requires
+that those previously convicted of two “strikeable offenses” who are subsequently convicted of any felony
+must receive a prison sentence of 25 years to life, with a further requirement that parole can begin no
+earlier than completion of 80 percent of the sentence.8 Helland and Tabarrok (2007) assess the impact
+of the three-strikes law using data on prisoners released in 1994, the first year the statute was in effect. The
+paper compares the recidivism pattern between those previously convicted of two strikeable offenses and
+those previously tried for two strikeable offenses, but convicted for only one of those offenses. The estimates
+suggest that three-strikes lowered the incidence of crime by about 20 percent. Since the increase in expected
+sentence lengths associated with three-strikes is at least 300 percent, this implies an elasticity estimate
+on the order of -0.07.9 Using a different data set and approach Iyengar (2008) also studies the three-strikes
+statute and arrives at a set of estimates that imply similar elasticity estimates, on the order of -0.10.10
+20percent(adifferenceof80percent)crimewouldhaverisenbyonly74percentratherthan107percent(adifferenceof
+33percent),implyinganelasticityofabout33/80≈0.41.
+7SeeDragoetal.(2009,pp. 273–274).
+8Thestatutedetailsthoseoffenseswhicharestrikeable. Essentially,astrikeableoffenseisafelonythatisseriousorviolent.
+9HellandandTabarrok(2007,pp. 327–328)arguethatthree-strikesincreasedexpectedsentencesat3rdstrikeeligibility
+by330percent,orfromabout60monthstoatleast260months.
+10Iyengar(2008)estimatesa16percentdeclineintheincidenceofcrimeat2ndstrikeeligibility(associatedwithastatutorily
+requireddoublingofthesentence)anda29percentdeclineincrimeat3rdstrikeeligibility.
+5
+
+=== página 7 ===
+Thesepapersdifferinseveraldifferentways, makingithardtoknowpreciselywhytheelasticityestimates
+aresodifferent. Thepapersanalyzedatafromdifferentjurisdictions(theU.S.asawhole,Italy,andCalifornia)
+and for different time periods. They also employ different methods for measuring crime. Levitt (1998)
+measures crime using crime aggregates, while Drago et al. (2009), Helland and Tabarrok (2007), and Iyengar
+(2008) measure crime using recidivism. However, perhaps the most important difference in these papers
+is the assumptions employed. Arguably, the most plausible set of assumptions invoked are those in Iyengar
+(2008), who assumes that the ordering of criminal history is idiosyncratic—that is, the criminal propensity
+of individuals with a theft then a burglary on their record equals that of those with a burglary then a theft
+on their record. In our view, this assumption is still stronger than the smoothness assumptions we employ,
+however is more plausible than the difference-in-difference approaches employed by the other three papers.
+Asnoted, ourapproachdiffersfromthoseinthepreviousliteraturebyexploitingsmoothnessassumptions,
+which, combined with our high-frequency data, allows us to separate deterrence from incapacitation effects
+of sanctions. The use of annual data (cf., Levitt (1998)) has the potential to conflate deterrence and
+incapacitation effects. The scope for conflation of these concepts is large when differences between adult and
+juvenileincarcerationratesappearwithinayearofthe18thbirthday. InSectionV,weshowempiricallythat
+differencesinincapacitationratesemergerapidlyandareevidentwithineven30daysafterthe18thbirthday.
+It is important to note that our estimates are most relevant for individuals arrested, but not necessarily
+convicted, on felony charges in Florida prior to age 17. These juveniles are likely to have high propensities
+for crime, and thus our sample is likely to be more comparable to the Italian ex-prisoners in Drago et al.
+(2009) or the Californian repeat offenders in Helland and Tabarrok (2007), than to the aggregate data
+utilized in Levitt (1998), which also includes first-time and low-propensity offenders.
+Note that our approach is conceptually distinct from the standard RD design, which relies on an
+assumption that individuals do not precisely manipulate their running variable around the threshold of
+interest. In the standard RD context, a discontinuity in the density of the running variable constitutes
+evidence against the validity of the RD design (McCrary 2008). In our main analysis, the discontinuity
+in the density of age at offense measures deterrence and is itself the object of interest. We utilize a more
+standard RD analysis in our measurement of incapacitation, as discussed in Section V.
+Thefinaldistinctivefeatureofouranalysisisthatweinterpretourreduced-formestimatesthroughthelens
+ofastochasticdynamicmodelofcriminalbehavior. WethusexpandonBecker’s(1968)modelandexplicitly
+6
+
+=== página 8 ===
+consider the dynamic nature of the problem, much in the spirit of the theoretical work of Lochner (2004).11
+III. Identification and Estimation
+Our identification strategy exploits the fact that in the United States, the severity of criminal sanctions
+depends discontinuously on the age of the offender at the time of the offense. In all 50 U.S. states, offenders
+younger than a certain age, typically 18, are subject to punishments determined by the juvenile courts. The
+day the offender turns 18, however, he is subject to the more punitive adult criminal courts. The criminal
+courtsareknowntobemorepunitiveinanumberofways. Asignificantdifferenceisthattheexpectedlength
+of incarceration is significantly longer when the offender is treated as an adult, rather than as a juvenile.12
+We quantify this difference in Section V, below. To identify the deterrence effect of adult prison, we follow
+a cohort of youths from Florida longitudinally, and examine whether there is a discontinuous drop in their
+offense rates when they turn 18. Our data contain exact dates of birth and offense, allowing us to analyze
+the timing of offenses at high frequencies. A high frequency approach is important, because it allows us
+differentiate between secular age effects (Grogger 1998, Levitt and Lochner 2001) and responses to sanctions.
+Our approach does not require the determinants of criminal behavior to be constant throughout the
+individual’s life. Instead, it relies on the arguably plausible assumption that determinants of criminal
+propensityotherthantheseverityofpunishmentsdonotchangediscontinuouslyat18. Wearearguingthaton
+thedayofthe18thbirthday, thereisnodiscontinuouschangeintheabilityoflawenforcementtoapprehend
+anoffender;no“jumpup”inwages;nodiscontinuouschangeinthedistributionofcriminalopportunities;and
+soon. Therearesomeexceptionstothis(e.g.,therighttovoteandtherighttogamblechangediscontinuously
+at 18), but we deem these to be negligible factors in an individual’s decision whether to commit crime.
+We emphasize that we only believe that “all other factors” are roughly constant when examining offense
+rates in relatively short intervals (e.g., one day, or one week). Indeed, the determinants of criminal behavior
+change significantly at a year-to-year frequency, as is apparent from the age distribution of arrestees at
+annual frequencies (see Appendix Figure 1).13 In the age range of 17, 18, or 19, for example, youth are
+11SeeMcCrary(2010)forareviewoftheliteratureondynamicmodelsofcriminalbehavior. Animportantearlypaper
+inthisliteratureisFlinn(1986),andarecentpaperisSicklesandWilliams(2008).
+12Further,takingintoaccounttheconditionsofconfinementaswellasthedurationofconfinementsurelyamplifiesthe
+deterrenceeffectoftheadultsystem. AsnotedbyParsell(2012),“CongressionalfindingsinthePrisonRapeEliminationAct
+of2003positedthatjuvenileswerefivetimesaslikelytobesexuallyassaultedinadultratherthaninjuvenilefacilities--often
+within their first 48 hours of incarceration. Youth advocacy groups report that juveniles housed in adult facilities are 36
+timesmorelikelytocommitsuicide.”
+13AppendixFigure1plotsthefrequencydistributionofage(measuredinyears),forthosearrestedforanindexcrimes
+(murder, rape, robbery, assault, burlgary, larceny, and motor vehicle theft), as computed using the Federal Bureau of
+7
+
+=== página 9 ===
+graduating from high school, starting new jobs, and developing physiologically and psychologically in ways
+that could affect underlying criminal propensities (Lochner 2004, Wilson and Herrnstein 1985). Since this
+research design relies heavily on the continuity of all factors aside from sanctions, in Sections IV and V,
+we assess a number of alternative ways in which data issues or police discretion in reporting could affect
+our interpretation of the discontinuity in arrest rates as a response to more punitive sanctions.
+Implementingourresearchdesignisstraightforward. Herewedescribethebasicideabehindourapproach,
+and later describe minor adjustments associated with implementation. Suppose we have a sample of N
+individuals, and we can track their subsequent offending behavior, starting at age 17. Then for each week,
+we can calculate the number of individuals arrested for the first time since 17, as a fraction of those who are
+stillatriskofdoingso. Ifn , n , andn arethenumberofindividualswhoarearrestedinthefirst, second,
+1 2 3
+and third weeks after their 17th birthday, respectively, then nonparametric estimates of the hazard of arrest
+are given by h(cid:98)(1)=n 1/N, h(cid:98)(2)=n 2/(N−n 1), h(cid:98)(3)=n 3/(N−n 1−n 2). We refer to these as local average
+estimates of the hazard of offense. The empirical question to be addressed is whether the hazard drops
+off precipitously at age 18, as seems intuitive and as is predicted by deterrence theory, as we discuss below.
+Itisconvenienttosummarizetheseaveragesandthecorrespondingdiscontinuitywithaflexibleparametric
+form. To do this, we estimate a panel data logit model, as suggested in Efron (1988). Specifically, we
+organize the data set into an unbalanced panel, with N observations for the first period, N−n for the
+1
+second, N−n −n for the third, and so on. We then estimate the logit model
+1 2
+P(Y =1|X ,D ) = F(X(cid:48)α+D θ) (1)
+it t t t t
+where Y is the indicator for arrest for persion i in period t, X ≡(1,t−t ,(t−t )2,...,(t−t )q)(cid:48), q is the
+it t 0 0 0
+order of the polynomial, t is the week of the 18th birthday, D is 1 if t≥t and is 0 otherwise, and
+0 t 0
+F(z)=exp(z)/(1+exp(z)).14
+Below, we compare the predicted values from the logit model to the local average hazard estimates
+h(cid:98)(t), and report a likelihood ratio test for the restrictions imposed by the logit form.15 As will be clear
+from the empirical results below, these models do a good job of providing a parsimonious but accurate
+Investigation’sUniformCrimeReports(UCR).BecauseouradministrativedatapertaintoFloridaduringtheperiod1995-2002,
+weshowthedataforFloridaandtheU.S.for1995andfortheU.S.in2002.
+14The vector X can also include interactions of the polynomial with the indicator for adulthood. Practically, because
+t
+theregressorsonlyvaryatthelevelofthegroup,weestimatethemodelatthegrouplevelandavoidtheconstructionof
+the(large)microdataset.
+15Todoso,weestimatealogitmodelwithfunctionalformF(W(cid:48)π),whereW isaseriesofindicatorsforeachweek,and
+t t
+comparethefittothe(nested)parametricapproximation.
+8
+
+=== página 10 ===
+fit to the functional form suggested by the local averages. The reduced-form parameter of interest is θ, the
+discontinuous change in the log-odds of committing an offense when the youth turns 18 and immediately
+becomes subject to the adult criminal courts.
+In a later section, we estimate the incapacitation effect of adult sanctions. For this, we focus on the
+timing of the second arrest since the 17th birthday, viewed as a function of age at first arrest since 17.16
+Specifically, we compare how quickly a re-arrest occurs after being arrested just before age 18, to how
+quickly it occurs if arrested just after 18. If the marginal adult takes longer to re-offend, this provides some
+indirect evidence of an incapacitation effect at work. While this is not the main target of our analysis,
+it nevertheless provides some information on the incapacitation mechanism. This is particularly useful
+for quantifying the sentence length elasticity and for calibrating the economic model that we develop below.
+The implementation of this analysis follows a more standard RD design, where the running variable is
+the age at first arrest since 17, the “treatment” is whether that arrest occurred before or after age 18, and
+the dependent variable is whether the second arrest occurs within, for example, 30 days.
+IV. Data and Sample
+InthisSectionwedescribeourdata,ourmainanalysissample,andhowvariousfeaturesofourdataaffect
+our estimation. We also discuss why our sample is unlikely to be affected by differential reporting at age 18.
+For ease of exposition, we defer to Section V a more detailed discussion of expungement of juvenile records.
+A. Main Analysis Sample
+Our analysis uses an administrative database maintained by the Florida Department of Law Enforcement
+(FDLE). Essentially, the data consist of all recorded felony arrests in the state of Florida from 1989 to 2002.
+Thedatabaseincludesexactdateofbirth,gender,andraceforeachperson. Foreacharrestincident,thereis
+informationonthedateoftheoffense,thedateofarrest,thecountyofarrest,thetypeofoffense,whetheror
+nottheindividualwasformallychargedfortheincident,andwhetherornottheincidentledtoaconvictionand
+prisonterm. Importantly,thedataarelongitudinal: eacharrestincidentislinkedtoaperson-levelidentifier.17
+Therawdata, therefore, canbedescribedasadatabaseofindividuals, eachwithanassociatedarresthistory.
+From this database, we focus on three key arrest events that define our sample and outcomes of interest:
+16Notethatthisapproachtoestimatingincapacitationeffectsofprisonisaccuratetotheextentthattherearesmallto
+nodeterrenceeffectsofprison.
+17AmoredetaileddescriptionofthedatabaseanditsconstructionisprovidedintheDataAppendix.
+9
+
+=== página 11 ===
+(1) the first arrest recorded in our administrative data, which we refer to as the “baseline arrest”, (2) the
+first arrest since the 17th birthday (we call this the “first arrest”), and (3) the second arrest since the 17th
+birthday (we call this the “second arrest”). Our main analysis sample is defined by those whose baseline
+arrest occurs prior to the 17th birthday, for a total of N=64,073 individuals.18 To examine deterrence
+we examine the incidence of the “first arrest” at age 18, and to provide some evidence on incapacitation,
+we examine the time between the “first arrest” and “second arrest” as a function of the age at “first arrest.”
+More specifically, for our analysis on deterrrence, we implement the estimation approach described in
+Section III, with the following modifications and considerations:
+• Our last date of observation is December 31, 2002, leading to some individuals being censored. The
+standard way to adjust for this is to compute hazards as h(cid:98)(1)=n 1/N , h(cid:98)(2)=n 2/(N−n 1−m 1),
+h(cid:98)(3)=n 3/(N−n 1−n 2−m 1−m 2), and so on, where m
+1
+and m
+2
+are the numbers of individuals who
+are 1 and 2 weeks into their 17th year on December 31, 2002 (i.e., censored), respectively. Following
+Efron (1988), we construct the unbalanced panel for the logit in an analogous way.
+• WenotethatN=64,703islargerthanthetrue“atrisk”population,sinceatanyaget>17,anindividual
+could still be incarcerated for the “baseline arrest” or could be incarcerated because of a non-Index crime
+arrest that occurred between age 17 and t.19 This fact by itself will not generate a discontinuity in our
+estimated hazards, as long as the true “at risk” population is evolving smoothly in age, particularly at
+age 18. There is an institutional reason for a discontinuity in the number “at risk” at age 21; Florida
+law mandates that no individuals above age 21 can be held in a juvenile correctional facility. However,
+there does not appear to be such a reason for an effect at age 18.
+• In terms of the estimated magnitude of our discontinuity, this means our logit parameter θ estimates
+(cid:18) (cid:19) (cid:18) (cid:19)
+ρh ρh
+J
+ln −ln =ln(h)−ln(h )+ln(1−ρh)−ln(1−ρh )
+J J
+1−ρh 1−ρh
+J
+where h and h are the arrest hazards for an 18.02 and 17.98-year-old, respectively, and ρ∈(0,1) reflects
+J
+the over-estimation of the risk set. Thus if h >h, as would be consistent with deterrence, then
+J
+(cid:18) (cid:19) (cid:18) (cid:19)
+h h
+J
+ln −ln ≤ θ < ln(h)−ln(h )<0
+J
+1−h 1−h
+J
+In practice, the difference between the upper and lower bounds is scant. Consequently, there is little
+18Thebaselinearrestisallowedtobeanyarrest. Thefirstandsecondarrestssince17arerestrictedtobeindexarrests
+unlessotherwisespecified.
+19Also,inourmainanalysiswefocusontheincidenceofIndexfelonies,andsoatanypost-17age,theindividualcould
+beincarceratedfromanon-Indexfelonyarrest.
+10
+
+=== página 12 ===
+loss in thinking of θ as estimating the percentage change in the hazard as a youthful offender transitions
+to adulthood.
+• Our main analysis sample will include individuals who may be more likely be affected by the increase in
+sanctions. Inparticular,itseemslikelythatforthisgroup,thereisaperceivedpositivenetbenefittocrim-
+inalactivity. Afterall,anindividualinoursamplehasalreadybeenarrestedatleastonceby17,indicating
+that at least one crime was deemed worthwhile. By contrast, those who have not been arrested as of 17
+couldpotentiallyincludemanyyouthwhohavevirtuallynochanceofcommittingaseriouscrime. Forthese
+near-certain law-abiders, it would be mechanically impossible for their criminal activity to decline after 18.
+• It is plausible that those who have already been arrested by age 17 are more likely to understand that
+there is a difference between the juvenile and adult criminal justice systems; they may even have been
+warned about this fact upon their “baseline arrest.” Glassner, Ksander, Berg and Johnson (1983) provide
+anecdotal evidence to support this viewpoint.20
+• Our main analysis sample is not likely to be affected by expungement or sealing of criminal records. In
+Florida, as in most states, it is possible to have criminal records sealed or expunged. If juvenile records
+weresystematicallymissingrelativetoadultrecords, thenwewouldbebiasedagainstfindingadeterrence
+effect. But our sample, which requires having at least one juvenile record, necessarily consists of those
+who have not expunged their entire juvenile arrest record. We discuss this in greater detail in Section V.
+Table 1 reports some summary statistics for our main analysis sample. We begin with 64,073 individuals
+whose baseline arrest occurred prior to 17. As is common in criminal justice data sets, 80 to 90 percent of
+thesearresteesaremale,androughly50percentarenon-white. Thefirsttwocolumnspresentinformationon
+thebaselinearrestandthefirstarrestsince17. Ageatthebaselinearrestisabout15,andthemostcommon
+category of offense is property crime, followed by violent crime. Individuals are distributed evenly among
+small,medium,andlargecounties.21Slightlylessthanhalfofourmainanalysissampleisobservedreoffending
+afterage17. Thesexandgendercompositionofarresteesissimilaratbaselinearrestandfirstarrestsince17,
+asisthecounty-sizedistribution. Offensesaredistributedsomewhatmoreevenlyamongthefourcrimetypes
+described at first arrest since 17 than at baseline arrest. For comparison, the final column reports the same
+20Forexample,respondingtoaquestionregardinghowheknewthatsanctionsweremorepunitiveaftertheageofcriminal
+majority, one twelve-year-old interviewed by those authors who was earlier arrested for stealing from cars responded that
+thepolicehadtoldhimso: “Policecomeinourschoolandalotofstuff,andIgetcaughtandtheytellmethat”(p. 220).
+21WeclassifiedcountiesaccordingtototalarrestsintheFDLEdata. LargecountiesareMiami-Dade,Broward,andOrange.
+MediumcountiesareFranklin,PalmBeach,Duval,Pinellas,Polk,Escambia,andVolusia. Remainingcountiesareclassified
+assmall.
+11
+
+=== página 13 ===
+statistics for all arrests where the individual was 17 or 18 years old at the time of arrest. From the means,
+it is apparent that our main estimation sample is broadly representative of this larger arrest population.
+B. Measurement and Reporting Discontinuities
+Ourapproachrequiresthatcriminalitybemeasuredinasmoothfashionnear18. Therearesomepotential
+threatstocontinuousmeasurement,whichwenowdiscuss. Oneissueisthatcrimesarenotnecessarilydefined
+similarlyforjuvenilesandadults(e.g.,truancy,corruptionofaminor,statutoryrape,andsoon). Toavoiddefi-
+nitionalproblems,weconsideronlycrimesthatarewell-definedforbothjuvenilesandadults,suchasburglary.
+Even for crimes that are defined the same way for juveniles and adults, it is still possible that police
+officers could exercise discretion in executing an arrest that would lead to discontinuous measurement. For
+example, a police officer might view possession of small amounts of marijuana as forgivable for youth and
+might overlook the incident upon learning that the individual was still a minor. This would result in a
+discontinuous increase at 18 in the probability of observing criminality in arrest records.22 Alternatively,
+one could imagine that the officer would view possession of marijuana as forgivable, but would want to
+“teach a lesson” to the offender, as long as the cost of the lesson were not too great. This would result
+in a discontinuous decrease at 18 in the probability of observing criminality.
+To avoid such problems with discontinuous measurement of criminality at 18, we focus on arrests for
+so-called Index crimes: murder, rape, robbery, assault, burglary, and theft, including motor vehicle theft.
+We are confident that these felonies are sufficiently serious that an arresting officer would not overlook
+an offense. An additional benefit of focusing on Index crimes is that these are the crimes most commonly
+studied in the literature.
+Finally, even if police officers themselves do not exercise discretion regarding making an arrest, admin-
+istrative records may be more complete for adult arrests than juvenile arrests. The data from Florida do
+not suffer from this problem for the post-1994 period, due to an important criminal justice reform, the
+1994 Juvenile Justice Reform Act, which requires that police departments forward records of serious juvenile
+felony arrests to the FDLE (see Section V).
+22Another example that leads to the same prediction of an increase at 18 in the probability of observing criminality is
+fromLevitt(1998). There,ahypotheticalofficerdesirestoseeanarresteepunishedanddeemsthatthepunishmentaccorded
+ajuvenileisnotworththepaperworkrequiredtocompletethearrest.
+12
+
+=== página 14 ===
+V. Evidence on Deterrence and Incapacitation
+This section presents our main empirical results. We address two issues. First, we quantify the deterrence
+effect of adult criminal sanctions, relative to juvenile criminal sanctions, by studying the pattern of offending
+around the 18th birthday. Second, we quantify the incapacitation effect of adult criminal sanctions, relative
+tojuvenilecriminalsanctions, bystudyingthechangearoundthe18thbirthdayindurationsbetweenarrests.
+A. Evidence on Deterrence
+Our main result is summarized by Figure 1. The top panel of this figure is an empirical hazard function
+for being arrested, between ages 17 and 19, among those arrested at least once before their 17th birthday.
+Each open circle represents those arrested in a given week as a proportion of those not yet arrested. For
+example, the first circle shows that about 0.005 of the main sample are arrested within a week of their
+17th birthday. Of those who still not had been arrested by their 18th birthday, almost 0.0025 are arrested
+in the week of their 18th birthday. The solid line gives predicted probabilities of arrest, based on maximum
+likelihood estimates of the logit in equation (1).23 The figure shows little indication of a systematic drop in
+arrest rates at the age of 18. The arrest probability literally does fall between the week before and after the
+18thbirthday, butthatdropdoesnotappeartobeunusual, ascomparedtotypicalweek-to-weekdifferences.
+For comparison, the bottom panel of Figure 1 plots the analogous weekly arrest probabilities for those
+who were arrested at least once before their 19th birthday. We track the arrest records for individuals
+in this “placebo” sample for two years, from 19 to 21. The arrest probabilities are smooth in age, as would
+be expected since this age range is well past 18, and there is no legal significance to being 20 years old.
+The top and bottom panels of the figure are quite similar.
+Table 2 reports estimated discontinuities in arrest probabilities at 18, based on the logit model of
+Equation (1). These estimates support the inference suggested by Figure 1: the drop in arrests at 18 is
+small in magnitude and statistically insignificant. The estimated discontinuity is roughly −0.018, with an
+estimated standard error of about 0.047.24 These estimates imply that we can statistically rule out values
+23Here,X isacubicpolynomialint. Thesepredictionscorrespondtoestimationofthemodelincolumn(1)ofTable2.
+t
+24WereportinTable2standarderrorsbasedontheobservedinformationmatrix(OIM).Theseareaccurateifthelogit
+modelisthecorrectparametricmodelwithinourneighborhoodofoneyear. Wenotethatthestandarderrorsarehighly
+similartothoseobtainedfromtheouterproductofthegradient(OPG)or(consequently)therobustor“sandwich”approach
+ofWhite(1982). Forexample,tofourdigits,theestimateincolumn(1)is-0.0180withanOIMstandarderrorof0.0474;
+the OPG standard error is 0.0472; and the robust standard error is 0.0475. As another example, the corresponding four
+numbersforcolumn(7)are-0.0172,0.0474,0.0472,and0.0475. Thesimilarityoftheseestimatedstandarderrorsisconsistent
+withtheimplicationsoftheinformationmatrixequality. Oneinterpretationofthissimilarityisthatthedatacontainlittle
+evidenceagainstourparametriclogitapproximationwithinoneyearofthe18thbirthday.
+13
+
+=== página 15 ===
+of θ more negative than −0.11 at the 5 percent level of significance.25
+In Section VI, below, we present evidence that the expected sentence length facing an adult arrestee is
+roughly230percentgreaterthanthatfacingajuvenilearrestee. Thesmalldeclineinarrestratesat18thussug-
+gestsanelasticityofcrimewithrespecttoexpectedsentencelengthsnomorenegativethan−0.048. InSection
+VI, we compare these magnitudes to the predictions from a dynamic economic model of criminal behavior.
+The estimated discontinuity is robust to changes in specification, corroborating the smoothness assump-
+tions required for our approach. Moving from left to right in Table 2, we control for an increasing number
+of covariates measured as of the time of the baseline arrest. Column (1) gives our most parsimonious model,
+controlling only for a juvenile/adult dummy and a cubic polynomial in age at current arrest; column (8)
+gives our most complex model, adding controls for race, size of county in which the baseline arrest occurred,
+offense type of baseline arrest, and a quintic polynomial in age at baseline arrest. In each column, the
+added controls are good predictors of the probability of arrest, but in no case does including additional
+controls significantly affect the estimated discontinuity.
+Appendix Table 3 explores the sensitivity of the estimates to functional form. It reports the estimated
+θ for different orders of the polynomial, ranging from a linear to a quintic polynomial in time and allowing
+for interactions of the polynomial with the juvenile/adult dummy. The models are also tested against an
+unrestrictedspecification,wherethepolynomialandthedummyarereplacedwithafullsetofweek-dummies.
+Overall,thelinearandquadraticspecificationsareapparentlytoorestrictive,andcanbestatisticallyrejected
+by a test against the unrestricted model. For richer specifications, including ones that include a linear term
+interacted with juvenile/adult status, the point estimates range from −0.065 to 0.029, with none of the
+estimates being statistically significant. A similar pattern is found when baseline covariates are included.
+Our approach to estimation and inference follows Efron (1988) and thus is rooted in parametric models
+applied to local neighborhoods. Arguing in favor of this method is that our parametric testing approach
+allows us to verify that the local averages are not inconsistent with the parametric model fitted to them,
+as described above. However, an alternative approach to estimation and inference in general RD contexts is
+linear estimation applied to potentially smaller local neighborhoods (e.g., Hahn, Todd and van der Klaauw
+2001, Calonico, Cattaneo and Titiunik 2014).
+A challenge to comparing our results to the nonparametric inference results of Calonico, Cattaneo and
+Titiunik(2014)isthattheirresultsarelimitedtolinearmodels—andhencedonotapplydirectlytononlinear
+25Useofaone-sidedtestimpliesrejectionofanyθ morenegativethan−0.095.
+14
+
+=== página 16 ===
+modelssuchaslogit. Nonetheless,asisbynowwidelyappreciated(c.f.,AngristandPischke2009),regression
+and logit marginal effects rarely differ substantially. Here, the parameter θ can be accurately approximated
+as (h−h )/h . This suggests a natural way to connect our approach to that of Calonico et al. (2014): (1)
+J J
+estimateh usinglocallinearregressionandthelocalaveragesfromFigure1beforethe18thbirthday,(2)esti-
+J
+matethedifferenceh−h usinglocallinearregressionandallthelocalaverages,and(3)scaletheestimateof
+J
+thedifferenceh−h by1/h usingtheestimatefrom(1).26Thisapproachcanbethoughtofasanalternative
+J J
+approach to Column (1) of Table 2, since those estimates rely only on the local averages plotted in Figure 1.
+In step (1) from above, we use a bandwidth of 135 days because that is what is implied by the bandwidth
+selectoremployedby rdrobust instep(2),below. Locallinearestimationofthehazardwiththisbandwidth
+leads to a boundary estimate of 1/h(cid:98)J=1/0.00247≈404. In step (2), local linear estimation with quadratic
+models for bias adjustment leads to a point estimate (standard error) of -0.018 (0.065).27 For comparison,
+our parametric point estimate (standard error) from Column (1) is -0.018 (0.047).
+In the approach of Calonico et al. (2014), we adjust the point estimate for the possibility of bias; doing so
+leads to an adjusted estimate of -0.038. Those authors present an estimated standard error that additionally
+incorporates the uncertainty due to the fact that the bias is estimated. This flavor of standard error is
+somewhat higher: 0.075, or about 17 percent larger than the local linear standard error ignoring bias
+estimation. Consequently, and in summary, while the Efron (1988) parametric approach suggests a point
+estimate (standard error) of -0.018 (0.047), a local linear framework suggests -0.018 (0.075).28
+These comparisons clarify that changes to estimation and inference approaches generally corroborate
+the magnitudes from our more parametric analysis. Point estimates are quite similar, with second-decimal
+differences arising only in the context of bias adjustment. Even those differences are not large relative
+to the range of sampling uncertainty. Changes to standard errors are more meaningful and yet are also
+qualitatively similar to what was obtained from the more parametric approach.
+Below, we set aside econometric considerations to consider some potential threats to the validity of our
+interpretation of these discontinuities as reflecting deterrence effects.
+26Practically, we implement this using the rdrobust package using the default options unless otherwise specified. The
+packagewasdownloadedfrom https://sites.google.com/site/rdpackages/rdrobust.
+27ThisstandarderrorissimilartothatadvocatedbyHahn,ToddandvanderKlaauw(2001)andisdescribedby rdrobust
+as“conventional.”
+28Ifwechangetolocalcubicestimationwithfourth-ordermodelsforbiasadjustment,thepointestimate(standarderror)
+analogous to the local linear framework above increases in magnitude to -0.0498 (0.1091). Bias adjustment now reduces
+themagnitudeofthepointestimate,to-0.0424,andstandarderrorsrobusttobiasestimationincreaseto0.1220,orabout
+12percentlargerthanthestandarderrorignoringbiasestimation.
+15
+
+=== página 17 ===
+B. Transfers of Juveniles to the Adult Criminal Court
+The first potential threat to the validity of our interpretation is the possibility of a lack of a discontinuity
+in the “treatment.” That is, while all adults are handled by the criminal courts, and most minors are
+handled by the juvenile courts, all states allow a juvenile offender to be transferred to the criminal courts to
+be tried as an adult (Government Accounting Office 1995).29 In principle, prosecutors could be more likely
+to request that a juvenile case be transferred to the criminal justice system when the arrestee is almost
+18. In the extreme case, all arrestees aged 17.8 or 17.9 could be transferred to the adult court, which would
+result in no discontinuous jump in the punitiveness of criminal sanctions and no “treatment.”
+Our data allow us to rule out this possibility empirically. The top panel of Figure 2 plots the probability
+of being formally charged as an adult as a function of the age at the first post-17 arrest. Each open circle
+represents the individuals against whom a formal prosecution was filed, expressed as a fraction of those
+who were arrested in that particular week.30 There is a striking upward discontinuity at the age of 18.31
+Those who are arrested just before their 18th birthday have about a 20 percent chance of being formally
+prosecuted as an adult, while those arrested just after their 18th birthday have a 60 to 70 percent chance.
+The latter probability is not 1, because not all arrestees will have formal charges filed against them.
+The bottom panel of Figure 2 provides further evidence of a discontinuity in the treatment, using a
+different measure of punishment. It plots the probability that the arrestee is eventually convicted and
+sentenced to either state prison or a county jail. Again, the figure shows a flat relationship between this
+measure of punitiveness and the age at arrest. There is a noticeable jump at age 18, from about 0.03 to 0.17.
+We quantify these discontinuities in Table 3, which reports coefficient estimates from different OLS
+regressions. In columns (1) through (5) the dummy variable for whether the individual was prosecuted is
+regressed on the juvenile/adult status dummy, a cubic polynomial in age at arrest, as well as its interaction
+with the juvenile/adult dummy, and other covariates. Columns (6) through (8) further include the age
+at the baseline arrest as an additional control. Across specifications, the discontinuity estimate of about
+0.40 is relatively stable. Appendix Table 4 is an analogous table for the probability of being convicted
+29InFlorida,prosecutorshavethediscretiontotryajuvenilearresteeintheadultcriminalcourt. Thistypicallyresults
+inalargernumberofjuvenilestriedasadultsthantheothercommonformofjuveniletransfer,inwhichthejuvenilecourt
+judgeretainstheauthoritytotransferjuveniles(SnyderandSickmund2006).
+30Therefore,thesampleforthisfigureisthesameasthatunderlyingthetoppanelofFigure1.
+31We note that, analogous to McCrary and Royer (2011), assessing the magnitude of the “treatment” discontinuity is
+possibleherebecausethereislittleevidenceofdeterrence. Weretheretobestrongevidenceofdeterrence,thecomposition
+ofthesamplewouldpotentiallybequitedifferentforthoseaged17.98and18.02.
+16
+
+=== página 18 ===
+as an adult and sentenced to prison or jail.
+Overall, the evidence strongly suggests that juvenile transfers to the criminal court are not prevalent
+enough to eliminate a sharp discontinuity in the punitiveness of criminal sanctions at 18.
+C. Age-based Law Enforcement Discretion
+Another possibility is that offenses committed by juveniles and adults have different likelihoods of being
+recorded in our data. For example, it is possible that law enforcement may exercise discretion in formally
+arresting an individual, based on age. Suppose that the probability of arresting an individual, conditional
+on the same offense, is substantially higher for an 18.1 year old than a 17.9 year old. Then it is theoretically
+possible that the small effects we observe are a combination of a negative deterrence effect and a positive
+and offsetting jump in the arrest probability.
+Thereareanumberofreasonswhywebelievethisisnotoccurringinourdata. First, ouranalysisfocuses
+on very serious crimes, where it seems unlikely that an officer would be willing to release a suspect without
+an arrest, purely on the basis of the individual’s age. For example, all Index crimes involve a victim. We
+suspect that the pressure to capture a suspect is too great for officers to be willing to release an individual
+suspectedofcommittinganIndexcrime. Bycontrast, forrelativelylessseriouscrimessuchasmisdemeanors
+or drug possession, it is more plausible that officers might exercise discretion in making the arrest.
+Second, each individual in our main estimation sample already has a recorded formal arrest as of age
+17, when we begin following their arrest experiences. Thus, it seems unlikely that the law enforcement
+agency will exercise leniency in recording an arrest: if a juvenile is apprehended just before his eighteenth
+birthday, it is too late to do anything to keep the youth’s felony arrest record clean.
+Third, our analysis focuses on arrests since 1994, the year of Florida’s Juvenile Justice Reform Act
+(JJRA), which requires that felonies and some misdemeanors committed by juveniles be forwarded to the
+state for inclusion in the criminal history records maintained by the FDLE.32 The impact of this law on
+the prevalence of juvenile records is shown in Appendix Figure 2. This figure show the number of juvenile
+arrests as a proportion of all arrests in the FDLE arrest data, by month from 1989 to 2002. There is
+a marked discontinuity in the ratio at October 1994, the month the JJRA took effect. This feature of
+32TheimplicationofthisFloridalawwassummarizedbyastateattorneygeneralopinionin1995: “UnderFloridalaw,
+crimeandpolicerecordsregardingcrimehavebeenamatterofpublicrecord. Withlimitedexceptions,however,theidentity
+ofajuvenilewhocommittedacrimehasbeenprotected. WiththeenactmentofChapter94-209,LawsofFlorida,anomnibus
+juvenilejusticereformmeasure,theLegislaturehasamendedtheconfidentialityprovisionsrelatingtojuvenileoffendersto
+allow for greater public dissemination of information. The clear goal of the Legislature was to establish the public’s right
+toobtaininformationaboutpersonswhocommitseriousoffenses,regardlessofage”(Butterworth1995,p. 274).
+17
+
+=== página 19 ===
+Florida’s criminal justice system was a major factor influencing us to use Florida as our study state.
+Finally,ifjuvenileandadultarrestshaddifferentlikelihoodsofbeingrecordedinourdata,wewouldexpect
+to observe significant heterogeneity in the estimated θ, by different groups of individuals, and different crime
+types,sinceitislikelythatanyoff-settingmeasurementproblemswillvarybycharacteristicsoftheindividual,
+as well as by crime type. Figure 3 provides evidence contrary to this prediction. The top panel of the figure
+disaggregatesthearrestprobabilitiesfromthetoppanelofFigure1intotwocomponents: propertyandviolent
+crime. Thefigureshowsthattheestimateddiscontinuityisessentiallythesameforthetwocategoriesofcrime.
+We also estimate θ separately by sub-groups defined by key correlates of arrest propensities, and find no
+evidence of significant negative effects for some groups being masked by positive effects of other sub-groups.
+Table4reportsestimatesfrominteractingthejuvenile/adultdummywithrace, sizeofcountyofthebaseline
+arrest, and offense of the baseline arrest. The estimates for these different sub-groups range from -0.07 to
+0.09. These estimates are generally of small magnitude; moreover, none of the 20 are statistically significant.
+Finally, we fail to reject the null hypothesis that the interaction effects are all zero in Table 2, and this
+holds for all specifications considered.
+Although our analysis focuses on Index crimes, for completeness we show the results for all remaining
+offenses in the bottom panel of Figure 3. We consider the potential for arrest discretion to be the most
+serious for these non-Index crimes, which include “victimless” offenses such as drug possession. Here, the
+cubic polynomial predictions do show a small perverse discontinuity, although the local averages do not
+reveal an obviously compelling jump at age eighteen. Still, if law enforcement discretion is of particular
+concern, a conservative approach would be to discount the results for non-Index crimes.
+D. Expungement of Juvenile Records
+Athirdpossibilityisthattheabilityofindividualstoexpungeandsealjuvenilearrestrecordscouldgenerate
+downwardbiasedestimatesofarrestratesforjuveniles,andhencemaskanytruedeterrenceeffects. Floridalaw
+allowsindividualswhosuccessfullycompleteajuvenilediversionprogramtoapplytohavealljuvenilerecords
+expunged (Fla. Stat. 943.0582). Apart from this provision, Florida law also mandates that juvenile arrest
+histories be expunged when the individual turns 24.33 Our choice of sample, however, circumvents these two
+expungementprovisionsinthefollowingways. First, ourestimationsampleisrestrictedtothosecommitting
+baseline crimes before age 17 but subsequent to January 1, 1995. Therefore, the individuals are not yet 24
+33Floridacreatesanexceptiontothisgeneralrulewhentheindividualhascommittedaseriousoffenseasanadult. Juvenile
+recordsfor“habitualoffenders”areretainedbytheFDLEuntiltheoffenderis26(Fla. Stat. 943.0585,943.059).
+18
+
+=== página 20 ===
+by the end of our sample frame, and thus will not be subject to the time-activated expungement. Second, a
+requirement for inclusion in our sample is an observed arrest record prior to age 17. Thus, by construction,
+the individuals in our main estimation sample did not have their complete juvenile arrest history expunged.
+Toillustratetheimportanceofthissamplechoicetoavoidingproblemsrelatedtoexpungement,wepresent
+the time profile of arrests for the individuals who are excluded from our main analysis: those who were not
+observedasarrestedpriortoturning17. Someoftheseindividuals’firstrealarrestwilloccurbeforeeighteen,
+and for some it will occur after eighteen. If there is an opportunity for the former group to later expunge
+their juvenile records, then a positive discontinuity in the number of arrests should occur at age eighteen.
+ThisisthepatternfoundinFigure4. Thisfigureisastackedhistogram,wherethecombinedtotalrepresents
+the total number of people who are arrested for the first time since turning 17. The histogram is comprised
+of two populations, those arrests corresponding to our estimation sample (the dark bars) and the remaining,
+unused observations (the light bars). For the total, there is a striking positive discontinuity at age 18. But
+this discontinuity is entirely concentrated in the unused sample (the upper part of the stacked graph).34
+E. Evidence on Incapacitation
+Uptothispoint,wehaveexaminedtheevidenceforadeterrenceeffectofadultcriminalsanctions,relative
+to juvenile criminal sanctions. We now ask: What is the incapacitation effect of treating an apprehended
+offenderasanadultinsteadofajuvenile? Toanswerthis,weuseastandardRDdesign,wherethe“treatment”
+ofadultstatusisadiscontinuousfunctionoftherunningvariableofageat“firstarrest.” AsdescribedinLee
+(2008), if there is imprecise sorting around the age of majority, then being treated as an adult has statistical
+properties analogous to a randomized experiment.35 Indeed, in the analysis above we are unable to detect
+strongevidenceofsuchsortingbehavior. Inessence,ourresultsondeterrenceimplythatthisdesignpassesthe
+test of manipulation of the running variable suggested in McCrary (2008), enabling credible assessment of in-
+capacitationeffectsdespiteanalyzingaselectedsampleofarrestsasopposedtoallindividuals,arrestedornot.
+The RD design for detecting incapacitation effects is illustrated in Figure 5. The top panel of the figure
+plots the probability that the “second arrest” occurs within a specific window of time since the “first
+arrest,” as a function of the age at “first arrest.” Specifically, the leftmost open circle indicates that among
+those whose “first arrest” occurs the week after their 17th birthday, the probability of re-arrest within
+34The dark bars represent the values used in the upper panel of Figure 1, except that Figure 1 normalizes each value
+withtheat-riskpopulationateachpointintimetoprovideaprobabilityvalue.
+35By“imprecisesorting”wemeanthatforeachindividual,thedensityfunctionofageatarrestiscontinuousat18. See
+Lee(2008)forfurtherdiscussion.
+19
+
+=== página 21 ===
+the subsequent 30 days is about 15 percent. Among those whose “first arrest” occurs just before their
+18th birthday, the probability of re-arrest within the subsequent 30 days is about 20 percent.
+There is a sharp discontinuity in the probability of re-arrest at age 18, with 18.02-year-olds having a
+probability of re-arrest within 30 days of about 10 percent. A natural explanation for this difference is that
+being handled by the adult criminal court leads to a longer period of custody than does being processed
+as a juvenile. The 17.98-year-old is released earlier and hence has a greater opportunity to re-offend within
+any short time window, compared to the 18.02-year-old.
+The solid circles and open triangles plot the same kind of graph, except that we examine the probability
+of a re-arrest occurring within 120 and 365 days after the “first arrest.” The probabilities are higher for
+120 and 365 days, since the probability of re-arrest increases with the window width.
+The length of the follow-up period is arbitrary. The bottom panel of Figure 5 plots the profile of
+discontinuity estimates using follow-up lengths ranging from 1 to 500 days. For example, the estimates
+at 30, 120, and 365 days in the bottom panel, emphasized with large solid triangles, correspond to the
+discontinuity estimates from the top panel of the figure. Overall, the bottom panel shows that already by
+20 days, there is a large divergence in the cumulative number of arrests between those who are arrested as
+a 17.98 year-old and those arrested at age 18.02, for example.36 This divergence continues to grow, slowing
+down at around 100 days after the initial arrest.37
+VI. Predicted Effects from a Dynamic Model of Crime
+In this Section we interpret the magnitudes of our estimated deterrence effects through the lens of an
+economic model of criminal behavior. We develop a dynamic extension of Becker’s (1968) model of crime.
+We first consider how large of a discontinuity we should expect given our model, which can be calibrated
+to readily available sample means, and standard assumptions. We then use our model to draw a precise
+link between our discontinuity estimates, which identify a particular set of policy responses as discussed
+above, and other policy elasticities of interest that measure deterrence effects in a broader way. In doing so,
+36ItisworthnotingthatbyFloridalaw,juvenilepre-trialdetentioncannotbelongerthan21days. Nosuchrestrictionappliesto
+adultpre-trialdetention. Investigationofthejuvenilehazardofre-offenseindicatesastrongspikenear21days(resultsunreported).
+37Notealsothatanincapacitationinterpretationisnottheonlyoneconsistentwiththedata. Alternatively,thesedata
+arealsoconsistentwithnodifferencebetweenjuvenileandadultlengthsofincarceration. Thiscouldoccurifbeingincarcerated
+intheadultcriminaljusticesystemhadanegativecausaleffectoncriminalpropensitiesuponrelease. Thisnotionissometimes
+referredtoas“specificdeterrence,”particularlyinthecriminologyliterature. SeeCook(1980)fordiscussionoftheconcept
+andHjalmarsson(2009b) for arecent empiricalapproach. This alternativeinterpretationrequires amechanismby which
+thequalityoftheexperienceofbeingincarceratedasanadultinducesindividualstobemorelaw-abidinguponrelease.
+20
+
+=== página 22 ===
+we employ both standard parametric assumptions as well as consider a nonparametric approach where we
+impose a monotonicity restriction on the distribution of criminal benefits. We show how that nonparametric
+restriction allows us to provide informative bounds on the broader policy elasticities that are not directly
+identified by our study. This nonparametric analysis delivers the most negative deterrence elasticities that
+are consistent with both our model and our reduced-form estimates.
+A. The Model
+The essence of Becker’s model of crime is that an individual weighs the expected benefits (e.g., monetary
+or otherwise) against the expected costs (e.g., fines, disutility from being incarcerated). This basic notion
+canbecapturedinadiscrete-timedynamicmodel,inwhichtheindividualfacesacriminalopportunityevery
+period and chooses between committing the offense and abstaining. If he commits the offense, there is a
+chance that he will be apprehended and incarcerated for a random number of periods before being released.
+Themodeldescribedbelowcloselyresemblesthecanonicaljobsearchmodel(McCall1970). Theelements
+of the model are as follows:
+• In each period, the individual is presented with a criminal opportunity. The value of this opportunity,
+or benefit, is given by the non-negative continuous random variable B with finite mean, cumulative
+distribution function F(·), and density f(·).38
+• After observing the value of the current period’s criminal opportunity, the individual chooses to offend
+or abstain. In a given period t, if he abstains, he receives flow utility u =a. If he offends and is not
+t
+caught, he obtains the flow utility u =a+B. If he is caught, however, he will be incarcerated beginning
+t
+immediately and perhaps for some time. Apprehension occurs with probability p. While incarcerated,
+he receives flow utility a−c, where c is a positive per-period utility cost of being incarcerated.39
+• The duration of incarceration is given by the non-negative discrete random variable S, which has
+probability function {π }∞ and finite mean E[S].
+s s=1
+• The individual knows the structure of the problem as outlined, the probabilities p and {π }∞ , the
+s s=1
+distribution of criminal opportunities F(·), and the parameters a and c. He chooses to offend or
+abstain in each period he is free, seeking to maximize the expected present discounted value of utility,
+E (cid:2)(cid:80)∞ δτ−tu (cid:3) . Here, E is the expectation operator conditional on information available as of period
+t τ=t τ t
+38Inanearlierdraft,weconsideredanalternativemodelinwhichtherewasheterogeneityinp,theprobabilityofapprehension
+(LeeandMcCrary2005).
+39Thus,criminalopportunitiescannotbeacteduponwhileincarcerated.
+21
+
+=== página 23 ===
+t, δ is the discount factor, and u is either a−c, a, or a+B, depending on the agent’s choices, whether
+t
+he has been apprehended for any crimes committed, and whether he is currently detained.
+The Bellman equation for this problem is
+(cid:40) (cid:88)∞ (cid:20) 1−δs (cid:21) (cid:20) (cid:21)(cid:41)
+V(b)=max a+δE[V(B)] , p π (a−c) +δsE[V(B)] +(1−p) a+b+δE[V(B)] (2)
+s
+1−δ
+s=1
+Thefirstargumentofthemaxfunctionisthepayofffromabstaining: receiptoftheflowutilityaandtheex-
+pectedcontinuationpayoff. Thesecondargumentofthemaxfunctionistheexpectedpayofffromcommitting
+the offense. If caught and incarcerated for s periods, the payoff is (a−c)(1+δ+δ2+···+δs−1)+δsE[V(B)].
+If not caught, the individual’s payoff is the best possible: a+b+δE[V(B)].
+The individual’s optimal strategy is characterized by a “reservation benefit,” b∗, such that when B>b∗,
+he commits the crime, and when B<b∗ he abstains.40 Of course, when B=b∗, the individual is indifferent.
+Consequently, we may calculate the reservation benefit by equating the two arguments of the max function
+above. Doing so shows that
+p
+(cid:34) (cid:88)∞ δ−δs(cid:18) (1−δ)E[V(B)]−a(cid:19)(cid:35)
+b∗ = c 1+ π 1+ (3)
+s
+1−p 1−δ c
+s=1
+We make the following observations about this expression:
+• When δ=0 and the individual is entirely present-focused, the expression reduces to b∗=c p . In that
+1−p
+special case, crime will be committed whenever the ratio of the net benefit to net cost, B/c , exceeds
+the odds of apprehension, p . This is precisely the notion put forth in a standard (and static) Becker
+1−p
+model of crime. It is intuitive that when the individual completely discounts the future, the length of
+incarceration, S, is irrelevant.
+• Similarly, b∗=c p if the punishment is only 1 period long (i.e., π =0 for s=2,3,...).
+1−p s
+• The second term inside the square braces thus captures the increased expected cost to offending due
+to a period of incarceration longer than 1 period. During incarceration, the offender bears the per-period
+cost c, but also is not able to exercise the option of committing offenses during this period. This lost
+value is summarized by the term ((1−δ)E[V(B)]−a)/c.
+• The Theory Appendix shows that the annuitized value of the dynamic program can be expressed as
+(1−δ)E[V(B)] = a+(1−F(b∗))(1−p)E[B−b∗|B>b∗] (4)
+40Thismimicsthestandardreservationwagepropertyofajobsearchmodel. See,forexample,thetextbooktreatments
+inAddaandCooper(2003)andLjungqvistandSargent(2004).
+22
+
+=== página 24 ===
+It is intuitive that the annuitized option value of the dynamic program, the second term in Equation (4),
+is the chances of encountering a worthwhile crime times the chances of avoiding apprehension times the
+expected benefit of those worthwhile crimes.
+We obtain the following intuitive comparative statics (proof in Theory Appendix). The crime rate, which
+is given by 1−F(b∗), decreases with:
+• Higher discount factor, δ. As the individual places more weight on future utility, the penalty of
+incarceration poses a higher cost.
+• Higher per-period direct utility cost to incarceration, c.
+• Higher apprehension rates, p.
+• Longer sentence lengths. Any rightward shift in the distribution of the incarceration length S (i.e., the
+new distribution first-order stochastically dominates the old) decreases offending.
+B. Benchmark Model Calibration and Predicted Values for θ: A Parametric Analysis
+In this section, we calibrate the above model to produce predictions on the size of the reduced-form
+estimates of θ from our logit estimation. This exercise answers the question: “In this economic model of
+crime, how large of a θ would we have expected to observe?” In the calibration of our model, we let a=0
+and c=1 and we take each period to be a single day.41 Because each period is a day, the model’s implied
+arrest probabilities for the boundary adult and juvenile, p(1−F(b∗)) and p(1−F(b∗)), respectively, where
+J
+b∗ is the juvenile analogue of b∗, correspond to our empirical estimate of θ as
+J
+(cid:18) P (Arrest) (cid:19) (cid:18) P (Arrest) (cid:19)
+18.02 17.98
+θ = ln −ln (5)
+1−P (Arrest) 1−P (Arrest)
+18.02 17.98
+(cid:18)
+1 −
+(1−p(1−F(b∗)))7(cid:19) (cid:18)
+1 −
+(1−p(1−F(b∗)))7(cid:19)
+= ln −ln J
+(1−p(1−F(b∗)))7 (1−p(1−F(b∗)))7
+J
+where P (Arrest) and P (Arrest) are the predictions from our reduced-form empirical models for the
+17.98 18.02
+probabilities of arrest one week prior to and after the 18th birthday, respectively. That is, the left-hand side
+of Equation (5) can be thought of as “measurement” and the right-hand side can be theory of as “theory.”
+To tighten this connection, we combine Equations (3) and (4) to obtain an implicit equation for b∗, and
+41Setting a=0 and c=1 can be viewed as a normalization. Maximizing E[(cid:80)∞ δτ−tu ] is equivalent to maximizing
+E[(cid:80)∞ δτ−t(u −a)/c]. Thus, no matter the values of a and c, the solution wt illτ b= et equivaτ lent to considering a problem
+t τ=t τ
+wheretheflowutilitytakesthevaluesof−1,0,orB/c.
+23
+
+=== página 25 ===
+similarly obtain an implicit equation for b∗:
+J
+p (cid:34) (cid:88)∞ δ−δs(cid:110) (cid:111)(cid:35)
+b∗ = 1+ π 1+(1−F(b∗))(1−p)E[B−b∗|B>b∗] (6)
+s
+1−p 1−δ
+s=1
+p (cid:34) (cid:88)∞ δ−δs(cid:110) (cid:111)(cid:35)
+b∗ = 1+ πJ 1+(1−F(b∗))(1−p)E[B−b∗|B>b∗] (7)
+J 1−p s 1−δ
+s=1
+The sole difference in these two expressions is the distribution of sentence lengths. Intuitively, this is because
+the term (1−F(b∗))(1−p)E[B−b∗|B>b∗] is related to the expected continuation payoff and so pertains
+to adulthood for both the boundary juvenile and the boundary adult.
+In our benchmark calibration, we (1) let the adult and juvenile sentence lengths S and S be distributed
+J
+as a discretized exponential (geometric), with E[S]=207 (days) and E[S ]=63, (2) let the probability of
+J
+apprehension be p=0.08 and the daily discount factor be δ=0.951/365, and (3) let the criminal opportunity,
+B,bedistributedexponentiallywithmeanparameterλ=4.56. Withthesemagnitudesandparameterizations,
+Equations (6) and (7) are used to solve for b∗ and b∗, respectively, which yields the daily arrest hazards
+J
+p(1−F(b∗))andp(1−F(b∗)),respectively. ThesearethenusedtoproduceapredictedθusingEquation(5).42
+J
+The magnitudes we use for these parameters have some empirical backing, as we now describe:
+• Our model suggests that we can use the evidence from Figure 5 to estimate the gap E[S]−E[S ].
+J
+Specifically, wecomputethetimebetween“firstarrest”and“secondarrest”for17.98-and18.02-year-olds.
+According to our model, that difference is an estimate of E[S]−E[S ].43 Using the same data and similar
+J
+approach as the RD analysis in Figure 5, we estimate a Weibull duration model, where the duration
+is a function of a cubic in age and a dummy variable for adulthood.44 This yields estimated durations
+of approximately 962 and 818 for adults and juveniles, respectively, and a gap of E[S]−E[S ]=144 days.
+J
+• We obtain E[S ]=9.05×7≈63 from Appendix Table 1, which reports average incarceration lengths
+J
+from a completely different data source (see Data Appendix for discussion). This approach suggests
+E[S]=63+144=207. We note that this different data source yields E[S]=46.48×7≈325 days, which
+implies a difference E[S]−E[S ] of 262. We opt for a conservative calibration by choosing the smaller gap
+J
+(cid:16) (cid:17) (cid:16) (cid:17)
+42As noted in Section IV, ln h −ln hJ ≤θ<ln(h)−ln(h )<0, where h and h are the true arrest hazards for
+1−h 1−hJ J J
+aboundaryadultandjuvenile,respectively. Inourcalibrations,wereportthesmaller(inmagnitude)ofthetwo,ln(h)−ln(h ),
+J
+butasnotedthereisverylittledifferencebetweentheboundsinpractice.
+43According to our model, the average duration between arrests as an adult is E[S]+1/(p(1−F(b∗))); that is, once an
+adultisarrested,thetimeuntilthenextarrestisgivenbytheperiodofincarcerationS plusthetimebetweenbeingreleased
+andthenextarrest,whichisexponentiallydistributedwithhazardp(1−F(b∗))andthusmean1/(p(1−F(b∗))). Similarly,
+thetimeuntilnextarrestforaboundaryjuvenileisE[S ]+1/(p(1−F(b∗))).
+J
+44Specifically,wemodelthejuvenileandadultdurationsasseparateWeibullmodels,allowingboththeshapeandscale
+parameterstodependonacubicinageatinitialarrest.
+24
+
+=== página 26 ===
+of 144 days. The predicted θ would be yet larger if we were instead to increase this gap above 144 days.
+• Appendix Table 2 provides estimates of clearance rates and reporting rates for Index crimes in 2002.
+These numbers suggest p=0.08.45
+• Finally, we choose λ=4.56 so that the implied b∗ (cf., Equation (6)) is consistent with our estimate of
+the adult arrest hazard of p(1−F(b∗))=0.0013, which is computed as follows. Using the same Weibull
+estimates from above, we have 1/(p(1−F(b∗)))=962−E[S]=962−207=755. The implied daily arrest
+hazard is p(1−F(b∗))=1/755, or about 0.0013.
+The results of our calculations for the benchmark calibration are presented in the first row of Table 5,
+which shows that this set of parameters would predict a discontinuity estimate of -2.76. As noted above,
+our standard errors are small enough to statistically rule out values of θ more negative than -0.11. Thus,
+in the context of the model outlined, a benchmark calibration suggests that the data are very much at
+odds with long time horizons. The rest of Table 5 reports our exploration of the sensitivity of the predicted
+θ to different parameter values for the model. We vary each parameter one at a time, while maintaining
+the values for the other parameters in the benchmark calibration in the top row.
+Inspection of Table 5 reveals that while the predicted θ increases in magnitude with increasing p, from
+-2 to -3.74 as p ranges from 0.025 to 0.400, none of the predicted values for θ are close to our point estimate
+of -0.018. Indeed, none are close to the outer edge of the two-sided confidence region for θ, -0.11. Note
+that the extreme values of p that we consider, 0.025 and 0.400, are at odds with the evidence summarized
+in Appendix Table 2. The conclusion that our estimates are much smaller than the benchmark prediction
+seems robust to assumptions regarding p.
+Table 5 also presents estimates based on shifts to the distribution of sentence lengths. As noted, our
+benchmark calibration assumes sentences are distributed as a discretized exponential (geometric). The
+exponential distribution is a special case of the Weibull distribution, with the shape parameter of the
+Weibull equal to 1. To explore the sensitivity of the predicted θ to the assumed shape of the distribution,
+we vary the shape parameter for the juvenile and adult sentence length distribution over 0.25, 0.40, 2.0,
+and 4.0. For each such shape parameter, k and k , we adjust the Weibull scale parameters to match
+J A
+the means E[S ]=63 and E[S]=207. To gain intuition about these changes, note that when the shape
+J
+45Clearanceratesarethefractionofoffensesknowntopoliceforwhichanindividualhasbeenarrestedandhandedover
+toprosecutors. TheseratesareestimatedusingtheUCRdata. ReportingratesarethefractionofIndexoffensesreported
+to police and are based on the NCVS. The aggregate clearance rate is 20 percent, and the aggregate reporting rate is 42
+percent,foranapproximate0.2×0.42=0.08probabilityofapprehension.
+25
+
+=== página 27 ===
+parameter is 0.25, the density is more convex and skewed, while when the shape parameter is 4, the shape
+of the distribution is more akin to that of the chi-square distribution. The table shows that the shape of the
+sentence length distribution affects our predictions only negligibly. For example, with the shape parameter
+for the juvenile distribution, k , equal to 0.25, the predicted θ is -2.95 and with a shape parameter of
+J
+4.0, the predicted θ is -2.76. Results for the impact of the adult shape parameter, k , are similar.46
+A
+The final row of Table 5 shows the effect on the predicted θ of changes to the discount factor. When
+the discount factor declines from 0.95 to 0.01 on an annual basis, the magnitude of the predicted θ falls
+from -2.50 to -1.57. This is a notable pattern, because—unlike the case of p, E[S], and E[S ]—we have
+J
+no independent information on the discount factor. The relevant discount factor is not that of a typical
+individual, but that of a marginal offender—namely, those individuals for whom the economic and social
+environment is such that offending is contemplated but not assured—and thus could be much smaller than
+0.95. We note that in some settings, such as the market for subprime loans, the literature has documented
+behaviors that are consistent with extremely small discount factors (e.g., Adams, Einav and Levin 2009).47
+Perhaps most importantly, discount factors could be much smaller when arrestees are drug-users, a common
+pattern. For example, urinanalysis evidence indicates that a large fraction of arrestees test positive for
+drug use. In 2000, 61.8 percent of Fort Lauderdale and 62.8 percent of Miami arrestees tested positive for
+one or more of the following: cocaine, marijuana, opiates, methamphetamine, or PCP (National Institute of
+Justice 2003). These considerations suggest the prevalence of short time horizons and low discount factors
+among the relevant subpopulation. In our model, as is intuitive, θ is small when the discount factor is.
+Present-oriented individuals may respond little to threatened future punishments.
+Finally, we consider the impact of changes in the shape of the criminal benefit distribution, the other
+element of the model for which we have no independent information. In the benchmark calibration, this
+distribution was assumed to be exponential. Generalizing to a Weibull distribution, we vary the shape
+parameter, k, over 0.25, 0.40, 2.0, and 4.0. When k=4.0, many individuals are on the margin of the crime
+participation decision, but when k=0.25, few individuals are on the margin. We see that as the shape
+parameter falls from 4.0 to 0.25, the predicted θ falls in magnitude from -3.84 to -1.03.
+We conclude from these analyses that a reasonable benchmark parametric model with standard “patient”
+46Thisrobustnesstodistributionalassumptionsonthesentencingsideisduetothefactthatthedistributionofsentences
+onlymatterstotheextentthatitaffects(cid:80)∞
+π
+(cid:0) δ−δS(cid:1)
+/(1−δ)].
+s=1 s
+47Asanotherexample,Caskey(1996)showsthatinstateswithoutinterestrateregulations,pawnbrokerschargeinterest
+ratesimplyingannualdiscountfactorsof0.3.
+26
+
+=== página 28 ===
+discount factors predicts much larger discontinuities in offending at age 18 than we observe in our data.
+However, given that the predictions seem somewhat sensitive to the discount factor and the shape of
+the benefit distribution, when we consider the policy implications of our estimates below, we relax the
+parametric assumptions on the benefit distribution, and present a bounding analysis.
+C. Connecting θ to Broader Policy Elasticities
+In the introduction, we outlined a set of specific policies that are addressed by our reduced-form estimates
+above(e.g.,changingtheageofcriminalmajority). However,muchoftheliteraturefocusesonbroaderpolicy
+parameters, such as elasticities of crime with respect to policing and expected sentence lengths. Intuitively,
+our reduced-form estimates are not unrelated to these policy parameters, but the nature of the connection
+is vague, imprecise, and qualitative. The feature of a behavioral model is that it makes these connections
+specific, precise, and even quantitative. In this subsection, we connect our empirical work to these broader
+policyparameters,withaparticularfocusonminimizingtheassumptionsnecessarytomakethatconnection.
+In elasticity terms, the responsiveness of the crime rate to sentence length and police increases under
+our model can be shown to be
+(cid:104)(cid:16) (cid:17) (cid:105) (cid:16) (cid:17)
+η
+E[S]
+≡ ∂(1 ∂− EF [S( ]b∗) 1−E F[S (b]
+∗)
+= −pf( hb∗)E[S] ∂∂ Eb [∗
+S]
+= − hJ h−h (cid:14)(cid:0)ν− ννJ(cid:1) η
+ν
+1+1
+νh
+f f( (b b∗ )) (8)
+(cid:104)(cid:16) (cid:17) (cid:105) (cid:16) (cid:17)
+η ≡ ∂(1−F(b∗) p = −pf(b∗) p∂b∗ = − hJ−h (cid:14)(cid:0)ν−νJ(cid:1) κ 1 f(b∗) (9)
+p ∂p 1−F(b∗) h ∂p h ν 1+νh f(b)
+respectively, where h=p(1−F(b∗)), h =p(1−F(b∗)), ν=(cid:80)∞ π δ−δs , ν =(cid:80)∞ πJδ−δs , η ≡ ∂ν E[S] ,
+J J s=1 s 1−δ J s=1 s 1−δ ν ∂E[S] ν
+(cid:16) (cid:17) (cid:16) (cid:17)
+κ ≡ c p (1+ν)+νhE[B−b∗|B>b∗] (cid:14) c p ν+νhE[B−b∗|B>b∗] , and b ∈ (b∗,b∗) is such that
+(1−p)2 1−p J
+F(b∗)−F(b∗)
+f(b)= J (see Theory Appendix for detailed derivation).
+b∗−b∗
+J
+Sinceθ≈−(h −h)/h,Equations(8)and(9)showthatourreduced-formdiscontinuityestimateispropor-
+J
+tionaltothebroaderpolicyelasticitiesη andη . Thisisthentheresultthatconfirmstheintuitionthatour
+E[S] p
+reduced-formestimatesarerelevanttobroaderpolicyparameters. TheadditionalfactorsinEquations(8)and
+(9) sharpen this connection and raise the possibility of quantifying the distinction between our reduced-form
+estimatesandthesebroaderpolicyparameters. Wenowprovidediscussionregardingtheseadditionalfactors.
+The second factor of Equations (8) and (9), (ν−ν )/ν, gives the percent increase in the expected
+J
+discounted number of periods of incarceration when crossing the age 18 threshold. This term reflects the
+influenceofδ aswellasthechangeofpunishmentregimefromS toS. Forpatientindividuals,(ν−ν )/ν is
+J J
+approximately equal to (E[S]−E[S ])/E[S], but for present-oriented individuals it may be much smaller.48
+J
+48Aslightlymoreaccurateapproximationis(E[S]−E[S ])/(1+E[S])butsincewemeasuretimeindays,thisdistinction
+J
+27
+
+=== página 29 ===
+The third factors are unique to each elasticity. In the case of η , the third factor η reflects the
+E[S] ν
+percentagechangeinν broughtonbyapercentagechangeintheexpectednumberofperiodsofincarceration.
+In the case of η , the third factor κ is a quantity that reflects the percentage change in p that has the
+p
+equivalent impact as a percentage change in ν.
+The fourth factor is an offsetting adjustment that accounts for the following effect: when the expected
+costs of offending rise, the option value of being free is reduced, which in turn dampens the per-period
+cost of incarceration.49 Finally, the fifth term reflects the shape of the benefit distribution: f(b∗)/f(b)=1
+if the density of B is flat between b∗ and b∗, but more generally this ratio may differ from 1.
+J
+We can calibrate our benchmark model to ask what policy elasticities our estimates imply. For example,
+we can adjust the discount factor so that the predicted θ matches -0.11, the outer edge of our confidence
+interval. This yields a daily discount factor of 0.71, which predicts elasticities of η =−0.049 and
+E[S]
+η =−4.44. We could alternatively have kept δ fixed and attempted to match the predicted θ to the
+p
+observed θ by adjusting the shape parameter k of the benefit distribution. Since it is arbitrary which
+parameter to adjust, in the next Subsection, we consider a wide range of discount factors, while relaxing
+the parametric restriction on the benefit distribution.
+D. Nonparametric Bounds on Policy Elasticities
+We now explore the range of policy elasticities that are consistent with our discontinuity estimates,
+relaxing the parametric restriction on the shape of the criminal benefit distribution.
+We first note that it is always possible to construct a distribution for B that is both consistent with
+any negative value of θ, yet yields policy elasticities of zero or −∞. One needs to simply set the density
+f(b∗) to zero or arbitrarily large. This fact is not unique to our dynamic model: this will be the case with
+any model that has a distribution of criminal benefits and a threshold above which crime occurs.
+Itisthusmoreinformativeandplausibletoconsidersomemildrestrictionsonthebenefitdistribution. We
+focus on the assumption that the density of benefits is weakly declining, or that more valuable opportunities
+are more rare. This assumption has some economic and conceptual justification, going back at least to
+Stigler (1970) and Viscusi (1986). Intuitively, as these authors have argued, opportunities that are valuable
+to the offender are typically costly for the victim. This provides incentives for victims to take greater
+precaution regarding more valuable criminal opportunities (e.g., deadbolt locks, car alarms, and mace).
+isoflittlepracticaldifference.
+49SeeTheoryAppendixfordiscussion.
+28
+
+=== página 30 ===
+It is thus plausible that more valuable opportunities are scarce, relative to less valuable opportunities.
+In the Theory Appendix, we show that the nonparametric assumption of a declining density delivers
+an upper bound on the magnitude of the policy elasticities η and η . In particular, we show that
+E[S] p
+(cid:20)(cid:18) (cid:19) (cid:18) (cid:19)(cid:21) (cid:18) (cid:19)
+h J−h (cid:14) ν−ν J 1
+η > η ≡ − η (10)
+E[S] E[S]
+h ν
+ν
+1+νh
+(cid:20)(cid:18) (cid:19) (cid:18) (cid:19)(cid:21) (cid:18) (cid:19)
+h J−h (cid:14) ν−ν J 1
+η > η ≡ − κ (11)
+p p h ν 1+νh
+(cid:16) (cid:17) (cid:16) (cid:17)
+where κ= c p (1+ν)+νhE / c p ν+νhE and E is given in the Theory Appendix.50 Both η
+(1−p)2 1−p E[S]
+and η can be computed using information on discount factors, the distribution of sentence lengths, and
+p
+our empirical findings on arrest rates for youthful offenders at age 17.98 and 18.02. Other than assuming
+a declining density, no further information regarding the distribution of criminal benefits is required to
+obtain these bounds; this is the sense in which this might be described as a nonparametric restriction.
+Table 6 reports our estimates of the elasticity bounds η and η for our point estimate of θ=−0.018
+E[S] p
+and for the edge of our (two-sided) 95 percent confidence interval, θ=−0.11, using various values of the
+discount factor. Using the most negative value of θ=−0.11, the sentencing elasticity ranges from −0.130
+to −0.060, and the policing elasticity ranges from very large negative values to −0.136. If we use our point
+estimate, the sentencing elasticity η varies only slightly, from −0.013 to −0.010, while the probability
+E[S]
+of apprehension elasticity η varies from −0.117 to −0.044.
+p
+Interestingly, for the case of θ=−0.018, there are some values of δ that cannot be rationalized within the
+frameworkofthemodel. Thatis, asweshowintheTheoryAppendix, wefindthatifθ=−0.018, thenthere
+exists no E[B−b∗|B>b∗] that is consistent with both the model and the restriction of a declining density.
+Overall, the table points to two policy conclusions. First, if one believes that the probability of appre-
+hension elasticity is large, then this implies very low discount factors, and consequently very low sentence
+length elasticities. Second, across the entire range of permissible discount factors, all of the sentence length
+elasticities are generally small in magnitude.
+VII. Conclusion
+Over the past 40 years, the incarceration rate in the United States has soared, from 93 persons in prisons
+per 100,000 in 1972 to 480 persons per 100,000 in 2012. Indeed, despite the declining crime rates of recent
+50AsweshowintheTheoryAppendix,ourmodelandadecliningdensityforB impliesthatE[B−b∗|B>b∗]canbeno
+lowerthanE,whichisstrictlypositiveaslongasadultscommitcrime. SeeAppendixfortheformulaforE.
+29
+
+=== página 31 ===
+years, prison and jail populations continue to climb, as the full impact of sentencing reforms from previous
+years becomes felt (Raphael and Stoll 2009).51
+For economists, it is natural to wonder if more severe prison sentences deter crime by a sufficient amount
+to make paying for them worthwhile. Furthermore, can a lower level of crime be attained by an expenditure-
+neutralreallocationoffundsfromprisonstoalternativeuses,suchassocialprograms(DonohueandSiegelman
+1998) or policing (McCrary 2010, Chalfin and McCrary 2016)? These questions have recently acquired a re-
+newedpolicyrelevance,asstateandlocalgovernmentsscrambletolowercostsinthewakeofthefinancialcrisis.
+Akeyinputtotheseconsiderationsisthemagnitudeofthedeterrenceeffectofprisonsentences. Inthispa-
+per,weuseaquasi-experimentalapproachtoidentifythedeterrenceeffectofadultcriminalsanctions,relative
+to juvenile criminal sanctions. Standard economic models of crime imply that participation in crime should
+drop discontinuously at 18, when sanctions become more punitive. Our central empirical finding is that the
+rateofcriminalinvolvementofyoungoffendersisgenerallyasmoothfunctionofage,withonlyasmallchange
+at 18. Our findings are based on a high frequency, longitudinal administrative data set on arrests in Florida.
+Our focus on the pattern of criminal involvement around 18 years of age yields two key benefits. First,
+under mild smoothness assumptions, our estimated effects are unlikely to be tainted by omitted variables
+bias. Second, our estimated effect reflects purely a deterrence effect, rather than a conflation of deterrence
+and incapacitation—which may well be contributing to the larger estimated deterrence elasticities in the
+some of the existing literature. We document that incapacitation effects of prison are large and nearly
+immediate, at least for youthful offenders in our data.
+The point estimates from our discontinuity analysis indicate an approximately 2 percent decline in the
+rateofcriminaloffendingwhen ajuvenile turns eighteen, whenthe expectedincarcerationlengthconditional
+on arrest jumps discontinuously by roughly 230 percent. This suggests a small “reduced-form” elasticity
+of −0.007.52 This elasticity is directly relevant to three types of criminal justice policy reforms that impact
+youthful offenders when they cross the age of criminal majority: (1) reducing the age of criminal majority,
+(2) increasing the rate at which juveniles are tried in the adult criminal court, and (3) marginal increases
+in the juvenile-adult gap in punishments. These kinds of policy changes are not simply hypothetical, but
+are instead relevant to recent and ongoing criminal justice discussions: (1) four states have reduced the
+51Since1993,themostrecentpeakofcriminalactivity,through2012,violentcrimehadfallenby37percentandproperty
+crimehadfallenby26percent,whereastheprisonpopulationhadincreased34percent. SeeSourcebookofCriminalJustice
+StatisticsOnline,Tables3.106.2012,6.1.2011,and6.28.2012,andSourcebookofCriminalJusticeStatistics,1975,Table1.131.
+52Whenweconsiderthesmallestnegativeeffectsconsistentwithour(two-sided)confidenceinterval,−0.11,thiselasticity
+isinstead−0.047.
+30
+
+=== página 32 ===
+age of majority in recent years (Snyder and Sickmund 2006, Chalfin and Loeffler 2016), (2) all 50 states
+and the District of Columbia had by 1995 adopted provisions for juvenile transfer to the adult criminal
+court (Government Accounting Office 1995), and (3) during the 1980s and 1990s, many states increased
+the punitiveness of the sentencing regime for adults by much more than that for juveniles (Levitt 1998).53
+Our estimates imply that changes to these types of policy changes may affect the crime rate of youthful
+offenders through incapacitation channels, but have at best minor effects on deterrence.
+Investigating the implications of our estimates for broader policies of interest requires imposing some
+structural assumptions on criminal behavior. Combining ideas from Becker (1968) and McCall (1970), we
+developastochasticdynamicmodelofcrimeandcalibrateittomatchkeyempiricalquantities. Werecognize
+that our forward-looking, rational-expectations, rational-agent model may indeed be too restrictive. For
+example,althoughaggregatestatisticsgiveusareasonablyobjectiveestimateofboththeaverageprobability
+of apprehension and expected incarceration lengths, potential offenders may not accurately perceive, and
+could conceivably vastly underestimate, those risks and punishments (Lochner 2007, Hjalmarsson 2009a).
+Furthermore, it may well be that criminal offending is better described by a hyperbolic discounting model,
+or some alternative model of time preferences, rather than time-consistent exponential discounting.54
+Nevertheless, with the caveat that our theoretical framework is one particular lens through which to view
+the results, we draw upon it to reach three key conclusions. First, the magnitudes of our point estimates
+are consistent with impatient or even myopic behavior on the part of criminal offenders. For example,
+combining our point estimate with the mild assumption of a decreasing density function of criminal benefits
+rules out annual discount factors of 0.022 or more.55
+Second,withintherangeofdiscountfactorsconsistentwithbothourempiricalfindingsandourtheoretical
+model, our predicted elasticities can be reconciled with previous estimates of the elasticity of crime with
+respect to the probability of apprehension (e.g., Evans and Owens (2007) or Klick and Tabarrok (2005)).
+Interestingly, the model indicates that large policing elasticities, such as the −0.75 estimate of Di Tella
+and Schargrodsky (2004), imply a very small discount factor—so small that it would imply an elasticity
+with respect to sentence lengths no more negative than −0.06. Generally, there is a trade-off between these
+two elasticities, if one stipulates to both our model and our empirical results.
+53Forfurtherbackgroundontheseinstitutionalchanges,seeNationalResearchCouncil(2001).
+54Forexplorationofmodelsofthistypeinthiscontext,seeLeeandMcCrary(2005).
+55Note, however, that the outer edge of our (two-sided) confidence region does not allow us to rule out any particular
+discountfactor.
+31
+
+=== página 33 ===
+Third, no matter the discount factor, the most negative sentence length elasticity consistent with our
+data and model is −0.13. This is several times smaller than the larger elasticities from the literature, but
+is consistent with the magnitudes from Helland and Tabarrok (2007) and Iyengar (2008).
+We conclude by noting that while our findings point to small deterrence effects of prison, this does not
+meanthatprisonisineffectiveinreducingtheoverallincidenceofcrime. Indeed, weshowthatoncearrested,
+the marginal juvenile transferred from the juvenile to adult criminal justice system is less likely to recidivate.
+We suspect that this is occurring through an incapacitation mechanism, which could be quite important, as
+suggested by the work of Jacob and Lefgren (2003). A fruitful avenue for future research would thus be an
+investigation of optimal sentencing structure and the optimal mix of police and prisons when incapacitation
+is the primary mechanism for crime reduction.
+32
+
+=== página 34 ===
+References
+Abrams, David S. and Chris Rohlfs,“OptimalBailandtheValueofFreedom: EvidencefromthePhiladelphia
+BailExperiment,” Economic Inquiry,2011, 49(3),750–770.
+Adams, William, Liran Einav, and Jonathan Levin, “Liquidity Constraints and Imperfect Information in
+SubprimeLending,” American Economic Review,January2009, 99(1),49–84.
+Adda, Jerome and Russell W. Cooper, Dynamic Economics: Quantitative Methods and Applications,
+Cambridge: MITPress,2003.
+Angrist, Joshua and J¨orn-Steffen Pischke, Mostly Harmless Econometrics,Princeton: PrincetonUniversity
+Press,2009.
+Ayres, Ian and John J. Donohue, “The Latest Misfires in Support of the More Guns, Less Crime Hypothesis,”
+Stanford Law Review,2003, 55,1371.
+Bayer, Patrick, Randi Hjalmarsson, and David Pozen, “Building Criminal Capital Behind Bars: Peer
+EffectsininJuvenileCorrections,” Quarterly Journal of Economics,February2009, 124(1).
+Beccaria, Cesare, On Crimes and Punishments,Oxford: ClarendonPress,1764.
+Becker, Gary S.,“CrimeandPunishment: AnEconomicApproach,” Journal of Political Economy,March/April
+1968, 76(2),169–217.
+Bentham, Jeremy, An Introduction to the Principles of Morals and Legislation,Oxford: ClarendonPress,1789.
+Bozynski, Melanie and Linda Szymanski, “National Overviews,” State Juvenile Justice Profiles, 2003,
+Pittsburgh: NationalCenterforJuvenileJustice,.
+Butterworth, Bob, Annual Report of the Attorney General of the State of Florida,Tallahassee: AttorneyGeneral’s
+Office,1995.
+Calonico, Sebastian, Matias Cattaneo, and Rocio Titiunik,“RobustNonparametricConfidenceIntervals
+forRegression-DiscontinuityDesigns,” Econometrica,2014, 82(6),2295–2326.
+Case, Anne C. and Lawrence F. Katz,“TheCompanyYouKeep: TheEffectsofFamilyandNeighborhood
+onDisadvantagedYouths,” NBER Working Paper #3705,1991.
+Caskey, John P., Fringe Banking,NewYork: RussellSage,1996.
+Chaddock, Gail Russell,“U.S.NotchesWorld’sHighestIncarcerationRate,” Christian Science Monitor,August
+18,2003.
+Chalfin, Aaron and Charles Loeffler, “Estimating the Crime Effects ofRaising the Age of Majority: Evidence
+fromConnecticut,” Criminology and Public Policy,Forthcoming2016.
+and Justin McCrary,“AreU.S.CitiesUnderpoliced?: TheoryandEvidence,” Review of Economics and
+Statistics,Forthcoming2016.
+Cook, Philip J.,“ResearchinCriminalDeterrence: LayingtheGroundworkfortheSecondDecade,”inMichael
+Tonry,ed., Crime and Justice: An Annual Review of Research,Vol.2,Chicago: UniversityofChicagoPress,
+1980,pp.211–268.
+and Jens Ludwig, Gun Violence: The Real Costs,NewYork: OxfordUniversityPress,2000.
+Di Tella, Rafael and Ernesto Schargrodsky, “Do Police Reduce Crime? Estimates Using the Allocation of
+PoliceForcesAfteraTerroristAttack,” American Economic Review,March2004, 94(1),115–133.
+Donohue,JohnJ.IIIandJustinWolfers,“UsesandAbusesofEmpiricalDataintheDeathPenaltyDebate,”in
+StevenD.LevittandThomasJ.Miles,eds.,EconomicsofCriminalLaw,Northampton,MA:EdwardElgar,2008.
+and Peter Siegelman, “Allocating Resources among Prisons and Social Programs in the Battle against
+Crime,” Journal of Legal Studies,January1998, 27(1),1–43.
+Donohue, John J. III and Steven D. Levitt,“TheImpactofLegalizedAbortiononCrime,” Quarterly Journal
+of Economics,2001, 116(2),379–420.
+Drago, Francesco, Roberto Galbiati, and Pietro Vertova, “The Deterrent EffectsofPrison: Evidence from
+aNaturalExperiment,” Journal of Political Economy,2009, 117(2),257–280.
+Duggan, Mark,“MoreGuns,MoreCrime,” Journal of Political Economy,October2001, 109(5),1086–1114.
+Eeckhout, Jan, Nicola Persico, and Petra Todd, “A Theory of Optimal Random Crackdowns,” American
+Economic Review,June2010, 100(3).
+Efron, Bradley,“LogisticRegression,SurvivalAnalysis,andtheKaplan-MeierCurve,” Journal of the American
+Statistical Association,June1988, 83(402),414–425.
+33
+
+=== página 35 ===
+Ehrlich, Isaac, “Participation in Illegitimate Activities: A Theoretical and Empirical Investigation,” Journal of
+Political Economy,May/June1973, 81(3),521–565.
+, “On the Issue of Causality in the Economic Model of Crime and Law Enforcement: Some Theoretical
+ConsiderationsandExperimentalEvidence,” American Economic Review,May1987, 77(2),99–106.
+Evans, William N. and Emily G. Owens, “COPS and Crime,” Journal of Public Economics, 2007, 91 (1),
+181–201.
+Federal Bureau of Investigation, Uniform Crime Reporting Handbook, 2004, Washington, D.C.: FederalBureau
+ofInvestigation,2004.
+Flinn, Christopher,“DynamicModelsofCriminalCareers,”inAlfredBlumstein,JacquelineCohen,JeffreyA.
+Roth, and Christy A. Visher, eds., Criminal Careers and “Career Criminals”, Vol. 2, Washington, D.C.:
+NationalAcademyPress,1986,pp.356–379.
+Freeman, Richard B., “Why DoSo Many Young American Men Commit Crimes and What Might We Do About
+It?,” Journal of Economic Perspectives,Winter1996, 10(1),24–42.
+, “The Economics of Crime,” in Orley Ashenfelter and David E. Card, eds., Handbook of Labor Economics,
+Vol.3C,NewYork: Elsevier-NorthHolland,1999,pp.3529–3571.
+Gaviria, Alejandro and Steven Raphael, “School-Based Peer Effects and Juvenile Behavior,” Review of
+Economics and Statistics,May2001, 83(2),257–268.
+Glaeser, Edward L. and Bruce Sacerdote, “Why is There More Crime in Cities?,” Journal of Political
+Economy,December1999, 107(2,Part2),S225–S258.
+, , and Jose A. Scheinkman, “Crime and Social Interactions,” Quarterly Journal of Economics, May
+1996, 111(2),507–548.
+Glassner, Barry, Margret Ksander, Bruce Berg, and Bruce Johnson, “A Note on the Deterrent Effect
+ofJuvenilevs.AdultJurisdiction,” Social Problems,December1983, 31(2),219–221.
+Government Accounting Office,“JuvenileJustice: JuvenilesProcessedinCriminalCourtandCaseDispositions,”
+Washington, DC: U.S. General Accounting Office,August1995.
+Grogger, Jeff, “The Effect of Arrests on the Employment and Earnings of Young Men,” Quarterly Journal of
+Economics,February1995, 110(1),51–72.
+,“MarketWagesandYouthCrime,” Journal of Labor Economics,October1998, 16(4),756–791.
+Hahn, Jinyong, Petra Todd, and Wilbert van der Klaauw, “Identification and Estimation of Treatment
+EffectswithaRegressionDiscontinuityDesign,” Econometrica,February2001, 69(1),201–209.
+Helland, Eric and Alex Tabarrok, “Does Three Strikes Deter: A Non-Parametric Investigation,” Journal of
+Human Resources,Spring2007, 42(2),309–330.
+Hjalmarsson, Randi,“CrimeandExpectedPunishment: ChangesinPerceptionsattheAgeofCriminalMajority,”
+American Law and Economics Review,2009, 11(1).
+,“JuvenileJails: APathtotheStraightandNarroworHardenedCriminality?,” Journal of Law and Economics,
+November2009, 52(4).
+Iyengar, Radha,“I’dRatherBeHangedforaSheepThanaLamb: TheUnintendedConsequencesof’Three-Strikes’
+Laws,” NBER Working Paper #13784,February2008.
+Jacob, Brian A. and Lars Lefgren, “Are Idle Hands the Devil’s Workshop? Incapacitation, Concentration,
+andJuvenileCrime,” American Economic Review,December2003, 93(5),1560–1577.
+Katz, Lawence F., Steven D. Levitt, and Ellen Shustorovich,“PrisonConditions,CapitalPunishmentand
+Deterrence,” American Law and Economics Review,Fall2003, 5(2),318–343.
+Klick, Jonathan and Alex Tabarrok, “Using Terror Alert Levels to Estimate the Effect of Police on Crime,”
+Journal of Law and Economics,April2005, 48(1),267–280.
+Kling, Jeffrey R., “Incarceration Length, Employment, and Earnings,” American Economic Review, June 2006,
+96(3),863–876.
+, Jens Ludwig, and Lawrence F. Katz, “Neighborhood Effects on Crime for Female and Male Youth:
+Evidence from a Randomized Housing Voucher Experiment,” Quarterly Journal of Economics, February 2005,
+120(1),87–130.
+Kuziemko, Ilyana, “Going Off Parole: How the Elimination of Discretionary Prison Release Affects the Social
+CostofCrime,”September2007. NBERWorkingPaper#13380.
+LEAA, U.S., Expenditure and Employment Data for the Criminal Justice System: 1969-1970, Washington, D.C.:
+34
+
+=== página 36 ===
+U.S.GovernmentPrintingOffice,1972.
+Lee, David S., “Randomized Experiments from Non-random Selection in U.S. House Elections,” Journal of
+Econometrics,February2008, 142(2).
+and Justin McCrary,“Crime,Punishment,andMyopia,” NBER Working Paper # 11491,July2005.
+and Thomas Lemieux, “Regression Discontinuity Designs in Economics,” Journal of Economic Literature,
+June2010, 48(2),281–355.
+Levitt, Steven D.,“TheEffectofPrisonPopulationSizeonCrimeRates: EvidencefromPrisonOvercrowding
+Litigation,” Quarterly Journal of Economics,May1996, 111(2),319–351.
+, “Using Electoral Cycles in Police Hiring to Estimate the Effect of Police on Crime,” American Economic
+Review,June1997, 87(3),270–290.
+,“JuvenileCrimeandPunishment,” Journal of Political Economy,December1998, 106(6),1156–1185.
+,“UnderstandingWhyCrimeFellinthe1990s: FourFactorsthatExplaintheDeclineandSixthatDoNot,”
+Journal of Economic Perspectives,Winter2004, 18(1),163–190.
+and Lance Lochner, “The Determinants of Juvenile Crime,” in Jonathan Gruber, ed., Risky Behavior
+Among Youths: An Economic Analysis,Chicago: UniversityofChicagoPress,2001,pp.327–374.
+and Thomas J. Miles, “Empirical Study of Criminal Punishment,” in A. Mitchell Polinsky and Steve
+Shavell,eds., Handbook of Law and Economics,Vol.1,North-Holland,2007,chapter7,pp.455–498.
+Ljungqvist, Lars and Thomas J. Sargent, Recursive Macroeconomic Theory,Cambridge: MITPress,2004.
+Lochner, Lance, “Education, Work, andCrime: AHumanCapital Approach,” International Economic Review,
+August2004, 45(3),811–843.
+,“IndividualPerceptionsoftheCriminalJusticeSystem,” American Economic Review,March2007, 97(1),
+444–460.
+and Enrico Moretti, “The Effect of Education on Crime: Evidence from Prison Inmates, Arrests, and
+Self-Reports,” American Economic Review,March2004, 94(1),155–189.
+Lott, John, More Guns, Less Crime,Chicago: UniversityofChicagoPress,1998.
+Maguire, Kathleen and Ann L. Pastore, eds., Sourcebook of Criminal Justice Statistics, 2000, Washington,
+D.C.: U.S.GPO,2001.
+McCall,JohnJ.,“EconomicsofInformationandJobSearch,”QuarterlyJournalofEconomics,1970,84(1),113–126.
+McCrary, Justin, “Manipulation of the Running Variable in the Regression Discontinuity Design: A Density
+Test,” Journal of Econometrics,February2008, 142(2).
+, “Dynamic Perspectives on Crime,” in Bruce Benson and Paul R. Zimmerman, eds., Handbook on the
+Economics of Crime,Northampton,MA:EdwardElgar,2010.
+and Heather N. Royer,“TheEffectofFemaleEducationonFertilityandInfantHealth: Evidencefrom
+SchoolEntryPoliciesUsingExactDateofBirth,” American Economic Review,February2011.
+Mueller-Smith, Michael,“The Criminaland LaborMarket Impactsof Incarceration,”August 2015. Unpublished
+manuscript,UniversityofMichigan.
+Nagin, Daniel, “General Deterrence: A Review of the Empirical Evidence,” in Alfred Blumstein, Jacqueline Cohen,
+and DanielNagin, eds., Deterrence and Incapacitation: Estimating the Effects of Criminal Sanctions on Crime
+Rates,Washington,D.C.: NationalAcademyofSciences,1978,pp.95–139.
+, “Criminal Deterrence Research at the Outset of the Twenty-First Century,” in Michael Tonry, ed., Crime
+and Justice: A Review of Research,Vol.23,Chicago: UniversityofChicagoPress,1998,pp.1–42.
+National Institute of Justice,“2000ArresteeDrugAbuseMonitoring: AnnualReport,”April2003.
+National Research Council, Juvenile Crime, Juvenile Justice,Washington,D.C.: NationalAcademyPress,2001.
+Parsell, T.J.,“InPrison,TeenagersBecomePrey,” New York Times,June5,2012.
+Polinsky, A. Mitchell and Steven Shavell, “The Economic Theory of Public Enforcement of Law,” Journal
+of Economic Literature,March2000, 38(1),45–76.
+Raphael, Steven and Rudolf Winter-Ebmer, “Identifying the Effect of Unemployment on Crime,” Journal
+of Law and Economics,April2001, 44(1),259–284.
+Sickles, Robin C. and Jenny Williams, “Turning from Crime: A Dynamic Perspective,” Journal of
+Econometrics,2008, 145(1-2),158–173.
+Silverman, Dan,“StreetCrimeandStreetCulture,” International Economic Review,August2004, 45(3),761–786.
+35
+
+=== página 37 ===
+Snyder, Howard N. and Melissa Sickmund, Juvenile Offenders and Victims: 1999 National Report,
+Washington,D.C.: OfficeofJuvenileJusticeandDelinquencyPrevention,1999.
+and , Juvenile Offenders and Victims: 2006 National Report, Washington, D.C.: Office of Juvenile
+JusticeandDelinquencyPrevention,2006.
+Stigler, George J., “The Optimum Enforcement of Laws,” Journal of Political Economy, May/June 1970, 78
+(3),526–536.
+U.S. DOJ, “Justice Expenditure and Employment Statistical Extracts, 2006,” accessed online,
+http://www.ojp.usdoj.gov/bjs/eande.htm2006.
+Viscusi, W. Kip,“TheRisksandRewardsofCriminalActivity: AComprehensiveTestofCriminalDeterrence,”
+Journal of Labor Economics,July1986, 4(3),317–340.
+Western,Bruce,JeffreyR.Kling,andDavidF.Weiman,“TheLaborMarketConsequencesofIncarceration,”
+IR Section Working Paper,PrincetonUniversity,2001, 450.
+White, Halbert,“MaximumLikelihoodEstimationofMisspecifiedModels,” Econometrica,1982, 50(1),1–25.
+Wilson,JamesQ.andRichardJ.Herrnstein,CrimeandHumanNature,NewYork: SimonandSchuster,1985.
+36
+
+=== página 38 ===
+A. Data Appendix
+1. Arrest-level Database
+Our data set is constructed using four electronic files maintained by the FDLE. The FDLE refers to these
+files as the arrest, date of birth, judicial, and identifier files. They constitute the key elements of Florida’s
+Computerized Criminal History (CCH) system, which is maintained by the Criminal Justice Information
+System (CJIS) division of the FDLE. We obtained from the FDLE records on all felony arrests for the
+period 1989 to 2002.
+i. Construction of Data Set
+We construct our data set as follows. First, we begin with the arrests file, which contains a person
+identifier,56 the offense date, the arrest date, the charge code, and the arresting agency. Each record in
+the arrest file pertains to a separate offense.57 The total number of records in the arrest file we received
+is 4,498,139. Because a single arrest event may result in multiple records (due to multiple offenses), we
+collapse the data down to the level of the (1) person identifier and (2) arrest date, coding the offense as the
+most serious offense with which the individual was charged on that date, using the FBI hierarchy (Federal
+Bureau of Investigation 2004, p. 10) There are 3,314,851 unique arrest-person observations.58
+We similarly collapse the judicial file down to the person-arrest-date level. The judicial file represents all
+arrests that result in a formal prosecution. For each collapsed observation, if any of the potentially multiple
+arrests led to a conviction and prison or jail sentence, a prison or jail sentence was associated with the
+person-arrest-date. The collapsed judicial and arrest files were then merged on the unique person-identifier-
+arrest-date pair. We use the race variable in the identifier file and birthday from the birth date file.
+ii. Date Variables
+The key variables we utilize from the arrest file are the person identifier, the arrest date, and the offense
+code. The offense date is missing for many observations, so we use the arrest date to proxy for the date of
+crime commission. This is due primarily to a reporting problem–officers do not always submit information
+ontheoffensedate. Ontheotherhand,therearenomissingvaluesforthearrestdate. Amongthe1,948,096
+records with information on offense date, every one of those records has an associated arrest date. 90%
+of those arrest dates are equal to the offense date, and over 93% of those arrest dates occur within the
+first week subsequent to the stated offense date.
+To further assess the validity of date of arrest as a proxy for date of offense, we obtained data from the
+Miami Police Department, which recorded arrest and offense dates for all charges pertaining to arrests
+made between July 1999 and December 2002. For the 272,494 arrests we obtained, 257,263 have a valid
+offense date, and 91.3% of those have offense and arrest dates that are identical, and with 95.8% of arrests
+occurring within the first week after the offense date. Focusing only on felony arrests, we find that of the
+33,698 felony arrests, 32,033 have valid offense dates, and of these 78.9% have identical arrest and offense
+dates, and 90.6% have associated arrest dates that fall within a week of the offense date.
+56ThisidentifierisconstantacrosstheFDLEfiles.
+57Roughlyspeaking, arecordofthearrestfilecorrespondstothetripleof(1)personidentifier, (2)arrestdate, and(3)
+chargecode. Conceptually,thenamedtriplewillnotuniquelyidentifyarecordduetothepossibilityofmultiplearrestevents
+for the same crime on the same day. Practically, there also appear to be some minor errors with double-counting in the
+file (e.g., two such triples, one with a missing offense date and another with an offense date equal, as usual, to the arrest
+date). However,thenumberofuniquetriplesinthedatais94.3%ofthetotalrecordcount. Weconcludethatneitherthe
+conceptualdistinctionnorthedouble-countingissueisimportantempirically.
+58Thustheaveragearresteventisassociatedwith1.36charges.
+37
+
+=== página 39 ===
+2. Average Incarceration Lengths: E[S] and E[S ]
+J
+To estimate the average number of weeks that an arrestee can expect to spend incarcerated, we obtain
+the cumulative number of person-weeks that are spent incarcerated for a given year, and divide by the
+total number of arrests that occur within the year. As long as jail/prison populations and arrest numbers
+are reasonably stable, this should provide the average number of weeks spent incarcerated per arrest.
+Our estimates of the jail and prison populations are complied from the 1999 Census of Jails, the 2000
+Census of State and Federal Correctional Facilities, and the 1999 Census of Juveniles in Residential
+Placement. Our estimates of the number of arrests come from the 1999 FBI Uniform Crime Reports.
+The first two numbers in column (1) of Appendix Table 1 provide the number of arrests for juveniles
+(youngerthan18yearsold)andadults(18andolder). Column(2)providesthestockofjuvenilesandadults
+incarcerated in jail awaiting courtproceedings.59 Provided that these population numbers are reasonable
+estimatesoftheaveragedailypopulationthroughouttheyear,thisnumbermultipliedby52givesthenumber
+ofperson-weeksspentincarceratedin“jail”throughouttheyear. Thenextcolumntakestheratioofthefirst
+two columns to produce an average duration of incarceration conditional on an arrest. For juveniles, it is
+about0.59weeks,andforadultsitisabout2.21weeks. Theratiooftheseisgiveninthesamecolumn(3.77).
+Column (3) provides the prison populations of both juveniles and adults, and the subsequent column
+divides by the number of arrests to give the average length of incarceration in juvenile or adult prison
+(2.06 and 6.09, respectively) conditional on an arrest. It is important to note that this average will include
+many zeroes, for those who are not convicted/committed, or for whom formal charges are dropped. The
+penultimate column adds the two averages. Overall, the expected length of incarceration conditional on
+an arrest is about 2.65 weeks for a juvenile, and 8.30 for adults.
+The final column of Appendix Table 1 adjusts the figures in the penultimate column for juvenile transfer,
+assuming that 20 percent of juveniles are tried as juveniles, 50 percent are tried as adults, and that the
+remainder have no charges brought against them (cf., Figure 2). To understand the adjustment calculations
+we use, we introduce some new notation. We observe N individuals in adult prisons and jails, N
+A J
+individuals in juvenile facilities, M adult arrestees, and M juvenile arrestees. The only people in juvenile
+A J
+facilitiesarejuveniles,butsomeoftheindividualsinadultprisonsandjailsareadults,andsomearejuveniles.
+Decompose
+N = NA+NJ (A.1)
+A A A
+where NA is the number of adults in adult facilities and NJ is the number of juveniles in adult facilities,
+A A
+both of which are unobserved.
+Ideally, we would approximate expected sentences for adults and juveniles as
+P
+A
+E(cid:98)[S] = (A.2)
+M
+A
+P
+J
+E(cid:98)[S J] = (A.3)
+M
+J
+where P =NA is the number of adults incarcerated and P =NJ+N is the number of juveniles
+A A J A J
+incarcerated. Because NA and NJ are unobserved, so are P and P .
+A A A J
+To back out P and P , let the number of juveniles in adult facilities, relative to the number of
+A J
+59Inthejuvenilecourts,aseriouscriminaloffenderwillbeplacedinsecure“detention”(theroughequivalentofjail),where
+theyawaitanadjudicationbythejuvenilecourtjudge. Iftheyarefoundtobeguilty,theyarecommittedtoaresidential
+placement facility (the rough equivalent of a prison). In the table, column (2) (labeled “jail”) includes juveniles in secure
+detentionawaitinganadjudicationaswellasadultswhoareunconvicted,butawaitingcourtproceedings. Notethatinthe
+UnitedStates,jailsnotonlyincarceratethoseawaitinghearingsandtrials,butalsothosewhohavebeenconvictedtoshort
+terms. Therefore, the prison populationincludes adults ina statecorrectional facility as wellasthose incarceratedin jail
+whoareservingasentence. Forjuveniles,theprisonpopulation(column(3))includesthoseinjuvenileresidentialplacement.
+38
+
+=== página 40 ===
+incarcerated juveniles, be denoted by
+NJ
+α = A (A.4)
+P
+J
+For example, if 20 percent of juveniles are tried as adults, and 50 percent are tried as juveniles, and if
+.
+juveniles tried as adults receive adult sentences, then we can approximate α=20/(20+50)=0.286.
+Withαinhand, weadjusttheobservedquantitiesN andN toestimateNJ andP . Specifically, since
+J A A J
+1 P
+J
+= (A.5)
+1−α N
+J
+α NJ
+= A (A.6)
+1−α N
+J
+we obtain
+N −N α
+E(cid:98)[S] =
+A J1−α
+(A.7)
+M
+A
+N 1
+E(cid:98)[S J] =
+J1−α
+(A.8)
+M
+J
+These are the quantities reported in the final column of Appendix Table 1.
+Our analysis focuses on Index crimes. More minor crimes are likely to lead to very short periods of
+custody, and many offenders–particularly for misdemeanors–may be released almost immediately after a
+formal arrest. Thus, the numbers in the first set of rows are probably a lower bound on the incarceration
+lengths, conditional on an Index arrest.
+To obtain an upper bound, the second set of rows re-computes the average durations using the number
+of Index Crime arrests as the denominator. This is an upper bound since surely some non-Index Arrests
+lead to a positive incarceration length.
+3. Probability of Arrest
+In our model, p is the expected probability of being apprehended, conditional on committing a crime.
+We provide an estimate of this quantity using so-called “clearance rates” from the FBI Uniform Crime
+Reports. A reported crime is “cleared by arrest” when an incident is followed up by law enforcement, and
+results in the arrest of an alleged offender who is then charged with the offense.
+Column (2) of Appendix Table II reports clearance rates for all FBI Index Crimes, and the various
+sub-categories. The overall rate is 0.20. This is likely an upwardly biased estimate of p, because not all
+criminalincidentsarereportedtothepolice, andthereforethedenominatorofColumn(2)islikelytoosmall.
+To address this, we obtained estimates of the rate of reporting victimizations to the police from the National
+Criminal Victimization Survey. By multiplying these rates (Column 3) by Column 2, we obtain an adjusted
+estimate of the probability of arrest conditional on committing an Index crime. The average for all Index
+crimes is about 0.08, with the lowest for larceny (0.06), and the highest for assault (0.26) and murder (0.49).
+39
+
+=== página 41 ===
+B. Theory Appendix
+1. Expressions for E[V(B)], b∗, Comparative Statics, and ν
+In this subsection, we derive E[V(B)], define and then characterize b∗, and provide some results for ν.60
+First, to develop E[V(B)], note that for opportunities b<b∗, the value is fixed at V(b)=a+δE[V(B)]. For
+opportunities b>b∗, higher value opportunities are worth more: V(b) is linear in b with slope 1−p. These
+two segments of V(b) connect at b=b∗. We thus have
+V(b)=a+δE[V(B)]+(1−p)(b−b∗)1(b>b∗) (B.1)
+Taking expectations with respect to the distribution of B and rearranging yields
+(1−δ)E[V(b)] = a+(1−F(b∗))(1−p)E[B−b∗|B>b∗] (B.2)
+Second, to obtain b∗, substitute Equation (B.2) into Equation (3) from the main text. Doing so shows
+that b∗ solves
+(cid:20) (cid:18) (cid:19)(cid:21)
+p 1−p
+G(p,δ,c,b∗)≡c 1+ν 1+ ψ(b∗) −b∗=0 (B.3)
+1−p c
+where ψ(b)=(1−F(b))E[B−b|B>b] and we recall from the main text that ν=(cid:80)∞ π δ−δs .
+s=1 s 1−δ
+Third, to characterize how b∗ changes with changes to δ, c, p, and E[S], we use the implicit function
+theorem. Specifically:
+(cid:16) (cid:17)
+• ∂b∗ =−∂G/∂δ >0, because ∂G=c p ∂ν 1+1−pψ(b∗) is positive and because ∂G=−pν(1−F(b∗))−1
+∂δ ∂G/∂b∗ ∂δ 1−p∂δ c ∂b∗
+is negative. To obtain the sign for ∂ν, rewrite ν=(cid:80)∞ π (δ+···+δs−1) and the result follows on
+∂δ s=1 s
+inspection. To obtain the result for ∂G/∂b∗, note that integration by parts shows ψ(b)=(cid:82)∞ (1−F(t))dt.
+b
+The Leibniz integral rule then shows that ψ(cid:48)(b)=−(1−F(b)).
+• ∂b∗ =−∂G/∂c >0 because as shown above ∂G is negative, and because ∂G= p (1+ν) is positive.
+∂c ∂G/∂b∗ ∂b∗ ∂c 1−p
+• ∂b∗ =−∂G/∂p >0 because ∂G is negative, and because ∂G=c 1 (1+ν)+νψ(b∗) is positive.
+∂p ∂G/∂b∗ ∂b∗ ∂p (1−p)2
+• ∂b∗ =∂b∗ ∂ν because changes to E[S] affect b∗ only through ν. Then note that ∂b∗ =−∂G/∂ν >0
+∂E[S] ∂ν ∂E[S] ∂ν ∂G/∂b∗
+because ∂G is negative and ∂G=c p +pψ(b∗) is positive. Consequently, ∂b∗ is positive since ∂ν
+∂b∗ ∂ν 1−p ∂E[S] ∂E[S]
+is positive. This follows for any first-order stochastically dominating rightward shift in the distribution
+of S, which results in an increase in E[S] and an increase in ν (since δ−δs is strictly increasing in s).
+1−δ
+Fourth, to develop results for ν, observe that it is a shifted geometric series and thus both absolutely
+and uniformly convergent, allowing rearrangements and differentiation, respectively. Rearrangement then
+implies ν=π ×0+π ×δ+π ×(δ+δ2)+···=(cid:80)∞ δsP(S>s).61 Differentiation then provides confirmation
+1 2 3 s=1
+that ∂ν/∂δ>0 because the derivative can be written as ∂ν/∂δ=(cid:80)∞ sδs−1P(S>s)>0.
+s=1
+2. Elasticities of Crime with Respect to p and E[S]
+In this subsection, we give expressions for the policing elasticity and the sentencing elasticity. In addition
+to the notation above, define the expected surplus associated with crimes worth doing, E≡E[B−b∗|B>b∗],
+the elasticity η ≡ ∂ν E[S] , and the adult and juvenile arrest rates, h≡p(1−F(b∗)) and h ≡p(1−F(b∗)),
+ν ∂E[S] ν J J
+respectively, where b∗ is defined analogously to Equation (B.3) with ν replacing ν.62
+J J
+60SeeMcCrary(2010)fordetailsonsomeofthecalculationsdescribedinthisAppendix.
+61IfS isdistributedgeometricwithmean1/q,thenthisformulaquicklyshowsthatν=δ(1−q)/(1−δ(1−q)).
+62Note,however,thatinthejuvenileanaloguetoEquation(B.3),ψ(b∗)retainsitsadultdefinitionbecausethejuvenile
+willbeanadultinsubsequentperiods.
+40
+
+=== página 42 ===
+The policing elasticity is given by
+∂(1−F(b∗) p f(b∗)p ∂b∗
+η ≡ =− (B.4)
+p ∂p 1−F(b∗) 1−F(b∗) ∂p
+By the mean value theorem, there is a b between b∗ and b∗ such that
+J
+(1−F(b∗))−(1−F(b∗))
+f(b) = J (B.5)
+b∗−b∗
+J
+Our model implies that the denominator in this expression is proportional to ν −ν. Too see this, note
+J
+that Equations (6) and (7) in the main text imply that
+(cid:18) (cid:19) (cid:18) (cid:19)
+p p
+b∗−b∗ = c +pψ(b∗) (ν −ν)= c +hE (ν −ν) (B.6)
+J 1−p J 1−p J
+which in turn means that
+h −h 1 1
+J
+f(b) = (B.7)
+ν−ν c p +hEp
+J 1−p
+Combining Equation (B.7) with Equation (B.4), we have
+f(b∗) f(b)p ∂b∗ f(b∗)h −h 1 p∂b∗
+J
+η = − =− (B.8)
+p f(b) 1−F(b∗) ∂p f(b) ν−ν J c 1−p p+hEh ∂p
+f(b∗)h −h ν p ∂b∗
+J
+= − (B.9)
+f(b) h ν−ν J c 1−p pν+hνE ∂p
+Using the results from the prior section, we have
+∂b∗ ∂G/∂p c (1−1 p)2(1+ν)+νψ(b∗) c (1−p p)2(1+ν)+νhE1
+= − =− = (B.10)
+∂p ∂G/∂b∗ −pν(1−F(b∗))−1 1+νh p
+Finally, combining Equations (B.9) and (B.10), we have
+f(b∗)(cid:18) h J−h(cid:14)ν−ν J(cid:19)c (1−p p)2(1+ν)+νhE 1
+η = − (B.11)
+p f(b) h ν c p ν+hνE 1+νh
+1−p
+Turning now to the sentencing elasticity, note that since changes in E[S] affect ν but no other parameter,
+∂(1−F(b∗)) ν f(b∗)ν ∂b∗
+η = η =− η (B.12)
+E[S] ∂ν 1−F(b∗) ν 1−F(b∗) ∂ν ν
+Using the results from the prior section, we have
+∂b∗ ∂G/∂ν c p +pψ(b∗) c p +hE
+1−p 1−p
+= − =− = (B.13)
+∂ν ∂G/∂b∗ −pν(1−F(b∗))−1 1+νh
+41
+
+=== página 43 ===
+Parallel to above, we now substitute in Equation (B.7) and then (B.13) into (B.12) to obtain
+f(b∗)ν ∂b∗
+η = − η (B.14)
+E[S] 1−F(b∗) ∂ν ν
+f(b∗) f(b)ν ∂b∗
+= − η (B.15)
+f(b) 1−F(b∗) ∂ν ν
+f(b∗)h −h ν 1∂b∗
+J
+= − η (B.16)
+f(b) ν−ν J c 1−p p+hEh ∂ν ν
+f(b∗)(cid:18) h J−h(cid:14)ν−ν J(cid:19) 1 ∂b∗
+= − η (B.17)
+f(b) h ν c p +hE ∂ν ν
+1−p
+f(b∗)(cid:18)
+h J−h(cid:14)ν−ν
+J(cid:19)
+1
+= − η (B.18)
+ν
+f(b) h ν 1+νh
+3. Implications of Non-increasing Density f(·)
+SupposenowthatthedensityofB issuchthatf(·)isnon-increasingpastb∗. Theelasticityη isthemost
+J p
+negative when the product
+f(b∗)c (1−p p)2(1+ν)+νhE
+is as large as possible. Consider then the smallest possible
+f(b) c p ν+νhE
+1−p
+E (sincethesecondfactorispositiveanddecreasinginE)consistentwiththemodelandtheassumptionthat
+f(·) be non-increasing. We have the following inequalities: (1) E≥1−F(b∗) , and (2) f(b∗)≤F(b∗)−F(b∗ J) .63
+2f(b∗) b∗−b∗
+J
+Inequalities (1) and (2), together with Equation (B.4), yield
+E ≥
+1−F(b∗) ≥(1−F(b∗))(b∗−b∗ J) =(1−F(b∗))(ν−ν J)(c 1−p p+hE)
+(B.19)
+2f(b∗) 2(F(b∗)−F(b∗)) 2(F(b∗)−F(b∗))
+J J
+Minor rearrangement allows us to isolate E, and we obtain the bound
+(1−F(b∗))(ν−ν )c p
+J 1−p
+E ≥ ≡E (B.20)
+2(F(b∗)−F(b∗))−h(1−F(b∗))(ν−ν )
+J J
+Since E>0, we must have E>0, which is true if and only if the denominator is positive, which in turn
+is true if and only if
+2h −h
+J
+ν−ν < (B.21)
+J
+h h
+This means that since ν−ν is increasing in δ, certain values of δ may be strictly inconsistent with the
+J
+model and measured rates of arrest h and h .
+J
+When Inequality (B.21) is satisfied, the smallest E consistent with the model is given by the E defined
+in (B.20). When E=E, Inequalities (1) and (2) are both binding, and if (2) is binding then the density
+between b∗ and b∗ is flat, which implies f(b∗)/f(b)=1. Thus, the most negative elasticity consistent with
+J
+our modeling assumptions is given by
+(cid:18) h J−h(cid:14)ν−ν J(cid:19)c (1−p p)2(1+ν)+νhE 1
+η = − (B.22)
+p h ν c p ν+νhE 1+νh
+1−p
+Similarly, under a non-increasing f(·), by setting f(b∗)=f(b), we obtain the most negative sentencing
+63Thefirstinequalitycorrespondstoauniformdistributionovertherangeb∗ tob∗+1−F(b∗),whichoninspectionisthe
+f(b∗)
+distributionwhichyieldsthesmallestpossiblevalueofE andyetisconsistentwithaboundaryadultcrimerateof1−F(b∗)
+anddoesnotviolatetheassumptionofanon-increasingdensity. Thesecondinequalityfollowssinceiff(·)isnon-increasing
+thenthedistributionfunctionF(·)isconcave,implyingf(b∗)≤F(b∗)−F(b∗ J)≤f(b∗)sinceb∗≤b∗.
+b∗−b∗ J J
+J
+42
+
+=== página 44 ===
+elasticity consistent with our estimates and model as
+(cid:18) (cid:19)
+h J−h(cid:14)ν−ν
+J
+1
+η = − η (B.23)
+E[S]
+h ν 1+νh
+ν
+4. Intertemporal Elasticity
+Thesentencingelasticitiesdiscussedaboveincorporatetwodistinctmechanisms: (1)anincreaseinpunish-
+mentsreducestheimmediateattractivenessofcrime,and(2)anincreaseinpunishmentsreducestheexpected
+benefit from a future crime, and hence reduces the opportunity cost of being incarcerated (and therefore un-
+abletocommitcrime). Anelasticitythatisolatesthefirstmechanismwouldimmediatelychangepunishments
+today, while keeping future punishments constant. Call this notion of elasticity an “intertemporal elasticity.”
+Consider a generic response to a 1 percent increase in the juvenile’s punishment E[S ]. Because the
+J
+adult’s punishment does not change, E[B−b∗|B>b∗] is held constant as E[S ] changes. This elasticity is
+J
+pf(b∗)(cid:20)
+p
+(cid:21)
+η = − J c ν +ν hE η (B.24)
+E[SJ]
+h 1−p
+J J νJ
+J
+To isolate the intertemporal elasticity described above, we evaluate this elasticity assuming that the
+distribution of sentence lengths is equal for adults and juveniles. When this is the case, we have
+η = η (1+νh) (B.25)
+E[SJ] E[S]
+The resulting analogue to η becomes
+E[S]
+(cid:18) (cid:19)
+h J−h(cid:14)ν−ν
+J
+η = − η (B.26)
+E[SJ]
+h ν
+ν
+Both η and η differ from the adult analogue only by the term 1/(1+νh). This discussion clarifies
+E[SJ] E[SJ]
+that this term reflects the fact that an increase in punishments reduces the expected benefit from a future
+crime, and hence reduces the opportunity cost of being incarcerated.
+43
+
+=== página 45 ===
+FIGURE 1. CRIMINAL PROPENSITY ESTIMATES BY AGE
+ytilibaborP
+tserrA
+ylkeeW
+600.
+500.
+400.
+300.
+200.
+100.
+0
+A. First Arrest Since 17
+17 17.5 18 18.5 19
+Age at Arrest
+ytilibaborP
+tserrA
+ylkeeW
+600.
+500.
+400.
+300.
+200.
+100.
+0
+B. First Arrest Since 19
+19 19.5 20 20.5 21
+Age at Arrest
+Note: Toppaneloffigureshowsestimatesofthehazardforindexcrimearrestforallthosearrestedatleast
+onceforanyfelonypriorto17between1995and1998. Opencirclesareweeklynonparametricestimates
+ofthehazard,computedasthenumberoffendinginthegivenweek,asafractionofthosewhohaveneither
+reoffended nor been censored, as of the given week. Solid line presents a smoothed estimate based on a
+logitmodel,allowingforajumpat18(seetextfordetails). Bottompaneloffigurepresentsafalsification
+analysis pertaining to the arrest hazard for all those arrested at least once prior to 19 between 1995 and
+1998.
+
+=== página 46 ===
+FIGURE 2. TRANSFER AND PUNITIVENESS BY AGE
+egrahC
+fo
+ytilibaborP
+8.
+6.
+4.
+2.
+0
+A. Probability of Being Charged as an Adult
+17 17.5 18 18.5 19
+Age at Arrest
+liaJ
+ro
+nosirP
+fo
+ytilibaborP
+4.
+3.
+2.
+1.
+0
+B. Probability of Sentence to Adult Confinement
+17 17.5 18 18.5 19
+Age at Arrest
+Note: Top panel of figure shows the probability of being charged as an adult, as a function of age at first
+arrest since 17. Sample is identical to that for Figure 1. Open circles are nonparametric local averages,
+computed as the sample proportion charged as an adult for individual arrested in the given week. Solid
+line is based on a flexible polynomial model (see text for details). Bottom panel shows analogous figure
+forwhetherarresteewassentencedtoadultconfinement.
+
+=== página 47 ===
+FIGURE 3. CRIMINAL PROPENSITY BY TYPE OF OFFENSE
+Property Crime (right axis)
+Violent Crime (left axis)
+emirC
+tneloiV
+:ytilibaborP
+tserrA
+ylkeeW
+300.
+200.
+100.
+0
+300.
+200.
+100.
+0
+emirC
+ytreporP
+:ytilibaborP
+tserrA
+ylkeeW
+A. Index Crimes
+17 17.5 18 18.5 19
+Age at Arrest
+Non−Drug Crime (right axis)
+Drug Crime (left axis)
+emirC
+gurD
+:ytilibaborP
+tserrA
+ylkeeW
+5100.
+100.
+5000.
+0
+5100.
+100.
+5000.
+0
+emirC
+gurD−noN
+:ytilibaborP
+tserrA
+ylkeeW
+B. Non−Index Crimes
+17 17.5 18 18.5 19
+Age at Arrest
+Note: FigureisanalogoustoFigure1. Toppanelshowsre-arrest,disaggregatedformurder,rape,robbery,
+and aggravated asault (“violent crime”) and burglary, larceny, and motor vehicle theft (“property crime”).
+Bottompanelshowsre-arrestforanon-indexfelonyoffense.
+
+=== página 48 ===
+FIGURE 4. NUMBER OF ARRESTS BY AGE:
+MAIN SAMPLE VERSUS UNUSED OBSERVATIONS
+detserrA
+rebmuN
+006
+004
+002
+0
+Main Sample
+Unused Observations
+17 17.5 18 18.5 19
+Age at Arrest
+Note: Figureisastackedhistogram(shadedandlightrectanglessumtototal). Heightsrefertothenumber
+of individuals arrested. “Main sample” refers to the sample underlying Figure 2 and pertains to those
+arrested at least once for any offense prior to 17 between 1995 and 1998. “Unused observations” pertains
+toallotherfelonyarrests.
+
+=== página 49 ===
+FIGURE 5. INCAPACITATION EFFECTS OF ADULT SANCTIONS
+365 Days
+120 Days
+30 Days
+tserra−eR
+fo
+ytilibaborP
+6.
+4.
+2.
+0
+A. Probability of Re−arrest within Follow−up Window,
+by Age at First Arrest Since 17
+17 17.5 18 18.5 19
+Age at First Arrest Since 17
+30 Days
+365 Days
+120 Days
+tserra−eR
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+0
+1.−
+2.−
+B. Discontinuity Estimates, by Length of Follow−up Window
+0 100 200 300 400 500
+Days Subsequent to First Arrest Since 17
+Note: Top panel presents probability of re-arrest within 30, 120, and 365 days of first arrest since 17, by
+age in weeks. Local averages by week, computed as sample proportions, are accompanied by a smoothed
+estimatebasedonaflexiblepolynomialmodel(seetextfordetails). Bottompanelplotsestimateddiscon-
+tinuity in probability of re-arrest, for follow-up lengths ranging from 1 to 500 days, with twice pointwise
+standarderrorbands.
+
+=== página 50 ===
+Table 1. Summary Statistics, Estimation Sample
+Main Analysis Sample
+Baseline First
+Variable Arrest Arrest Young Arrestees
+(1) (2) (3)
+Non-white 0.42 0.52 0.48
+Male 0.80 0.88 0.88
+Age 14.93 18.39 18.14
+(1.39) (1.24) (0.56)
+Arrested in Small County 0.28 0.31 0.31
+Arrested in Medium County 0.36 0.35 0.35
+Arrested in Large County 0.36 0.34 0.34
+Index Crime, Violent 0.26 0.25 0.24
+Index Crime, Property 0.51 0.33 0.39
+Non-index Crime, Drug 0.07 0.22 0.20
+Non-index Crime, Non-drug 0.15 0.19 0.17
+Number of Persons 64,073 30,938 163,037
+Note: Standard deviations in parentheses. Young arrestees are those arrested between
+17 and 19. Number of arrests observed for young arrestees is 247,037.
+Table 2. Discontinuity Estimates of Deterrence
+Variable (1) (2) (3) (4) (5) (6) (7) (8)
+Discontinuity Estimate -0.018 -0.017 -0.017 -0.018 -0.017 -0.017 -0.017 -0.017
+(0.047) (0.047) (0.047) (0.047) (0.047) (0.047) (0.047) (0.047)
+Non-white 0.545 0.503 0.576 0.533 0.542 0.540 0.540
+(0.017) (0.017) (0.017) (0.018) (0.018) (0.018) (0.018)
+County Size, Baseline
+(Relative to Large County)
+Small 0.250 0.255 0.247 0.250 0.250
+(0.021) (0.021) (0.021) (0.021) (0.021)
+Medium 0.081 0.087 0.087 0.086 0.086
+(0.021) (0.021) (0.021) (0.021) (0.021)
+Type of Crime, Baseline
+Index Crime, Violent 0.020 0.009 0.016 0.016 0.016
+(0.028) (0.028) (0.028) (0.028) (0.028)
+Index Crime, Property 0.191 0.190 0.202 0.205 0.205
+(0.026) (0.026) (0.026) (0.026) (0.026)
+Non-index Drug -0.153 -0.154 -0.207 -0.213 -0.213
+(0.042) (0.042) (0.042) (0.042) (0.042)
+Controls for Age at
+Baseline Arrest? N N N N N Y Y Y
+Order of Polynomial in
+Age at Baseline Arrest 1 3 5
+Log-likelihood -96,006 -95,491 -95,420 -95,412 -95,339 -95,237 -95,178 -95,175
+Note: Standard errors in parentheses. Table presents coefficients from a logit model for being
+arrested for an index crime since 17. In addition to controls described, each model controls for a
+cubic polynomial in age at current arrest, relative to 18. Estimates are based on a panel of 4,928,226
+observations pertaining to 64,703 persons.
+
+=== página 51 ===
+truoC
+tludA
+ni
+degrahC
+gnieB
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+.3
+elbaT
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+elbairaV
+4504.0
+2504.0
+1504.0
+3404.0
+7304.0
+1404.0
+5304.0
+2404.0
+ytiunitnocsiD
+detamitsE
+)5320.0(
+)5320.0(
+)5320.0(
+)5320.0(
+)5320.0(
+)5320.0(
+)5320.0(
+)5320.0(
+5701.1
+3701.1
+0701.1
+8501.1
+8401.1
+4501.1
+4401.1
+6501.1
+ytiunitnocsiD
+goL
+5920.0-
+6920.0-
+4920.0-
+0230.0-
+0030.0-
+4920.0-
+4720.0-
+etihw-noN
+)9500.0(
+)9500.0(
+)9500.0(
+)9500.0(
+)8500.0(
+)8500.0(
+)7500.0(
+tserrA
+enilesaB
+fo
+ytnuoC
+fo
+eziS
+)ytnuoC
+egraL
+ot
+evitaleR(
+9210.0
+8210.0
+9210.0
+0410.0
+1410.0
+llamS
+)2700.0(
+)1700.0(
+)1700.0(
+)2700.0(
+)2700.0(
+5910.0
+4910.0
+5910.0
+8910.0
+9910.0
+muideM
+)9600.0(
+)9600.0(
+)9600.0(
+)9600.0(
+)9600.0(
+tserrA
+enilesaB
+,emirC
+fo
+epyT
+)gurD-noN
+xedni-noN
+ot
+evitaleR(
+0600.0
+0600.0
+0600.0
+2500.0
+5500.0
+tneloiV
+,emirC
+xednI
+)5900.0(
+)5900.0(
+)5900.0(
+)5900.0(
+)5900.0(
+8100.0-
+7100.0-
+5100.0-
+8200.0-
+1300.0-
+ytreporP
+,emirC
+xednI
+)5800.0(
+)5800.0(
+)5800.0(
+)5800.0(
+)5800.0(
+7210.0
+7210.0
+1310.0
+9220.0
+8220.0
+gurD
+xedni-noN
+)1210.0(
+)1210.0(
+)1210.0(
+)0210.0(
+)0210.0(
+ta
+egA
+rof
+slortnoC
+Y
+Y
+Y
+N
+N
+N
+N
+N
+?tserrA
+enilesaB
+ni
+laimonyloP
+fo
+redrO
+5
+3
+1
+tserrA
+enilesaB
+ta
+egA
+4712.0
+4712.0
+3712.0
+7512.0
+4512.0
+5512.0
+2512.0
+4412.0
+2R
+detneserp
+eht
+morf
+detaluclac
+si
+dna
+seitilibaborp
+gol
+ni
+ecnereffid
+si
+ytiunitnocsid
+goL
+.sesehtnerap
+ni
+srorre
+dradnatS
+:etoN
+gol
+eht
+rof
+srorre
+dradnats
+dohtem
+atleD
+.elinevuj
+lanigram
+eht
+rof
+2.0
+fo
+etar
+enilesab
+a
+gnisu
+etamitse
+ecnereffid
+.930.0
+yletamixorppa
+ecnatsni
+hcae
+ni
+era
+ytiunitnocsid
+
+=== página 52 ===
+Table 4. Heterogeneity in Discontinuity Estimates
+(1) (2) (3) (4) (5) (6) (7) (8)
+Subsample
+All Arrestees -0.0180 -0.0171
+(0.0474) (0.0474)
+White Arrestees 0.0240 0.0240
+(0.0670) (0.0670)
+Non-white Arrestees -0.0592 -0.0590
+(0.0670) (0.0670)
+Baseline Crime was in: 0.0292 0.0300
+Large County (0.0821) (0.0821)
+Medium County -0.0214 -0.0208
+(0.0807) (0.0807)
+Small County -0.0622 -0.0619
+(0.0834) (0.0834)
+Baseline Crime was: 0.0553 0.0556
+Index, Violent (0.0930) (0.0930)
+Index, Property -0.0696 -0.0683
+(0.0646) (0.0646)
+Non-index, Drug 0.0919 0.0952
+(0.1960) (0.1959)
+Non-index, Non-drug -0.0032 -0.0025
+(0.1250) (0.1250)
+Log-likelihood -96,005.7 -95,174.8 -95,490.1 -95,173.8 -95,835.6 -95,170.6 -95,954.9 -95,165.0
+Controls for Race? N Y Y Y N Y N Y
+Controls for County
+Size? N Y N Y Y Y N Y
+Controls for Baseline
+Crime Type? N Y N Y N Y Y Y
+Controls for Age at
+Baseline Arrest? N Y N Y N Y N Y
+Order of Polynomial in
+Age at Baseline Arrest 5 5 5 5
+Test for Equality of
+Discontinuity Estimates 0.771 0.770 0.612 0.620 1.590 1.582
+degrees of freedom [ 1 ] [ 1 ] [ 2 ] [ 2 ] [ 3 ] [ 3 ]
+p-value 0.380 0.380 0.736 0.733 0.662 0.663
+Note:Standarderrorsinparentheses. Tablepresentsdiscontinuityestiamtesfordifferentgroupsestimatedfromlogit
+models. Odd-numbered columns include only those controls appropriate to testing the treatment interaction of
+interest. For example, column (3) includes controls for (i) white, (ii) a cubicpolynomial inage, asin TableII, (iii)the
+interaction of the same cubic polynomial with the indicator for white, (iv) the interaction of an indicator for being
+above 18 with the indicator for white (estimate for whites shown), and (v) the interaction of the indicators for being
+above18andnon-white(estimatefornon-whitesshown).Even-numberedcolumnsadditionallyincludetherichestset
+of controls considered in Table II. The final row of the table tests for the equality of the interacted treatment effects.
+
+=== página 53 ===
+Table 5. Predicted Reduced Form Discontinuities: Parametric Calibration
+A. Baseline Parameterization
+Annual Benefit
+Discount Distribution Predicted
+Probability of Factor, Expected Sentences, in Weeks Scale Reduced Form
+Apprehension, p "1/365 Juveniles Adults Parameter, ! Discontinuity, !
+0.08 0.95 9.03 29.57 4.56 -2.76
+B. Effects of Changes in Individual Parameters, Relative to Baseline
+Probability of Apprehension Juvenile Sentences Parameter Adult Sentences Parameter
+p ! k ! k !
+J A
+0.025 -2.00 0.250 -2.95 0.250 -2.22
+0.050 -2.46 0.400 -2.78 0.400 -2.70
+0.200 -3.33 2.000 -2.76 2.000 -2.77
+0.400 -3.74 4.000 -2.76 4.000 -2.78
+Annual Discount Factor Benefit Distribution Parameter
+"1/365 ! k !
+0.500 -2.50 0.250 -1.03
+0.250 -2.26 0.400 -1.79
+0.100 -2.01 2.000 -3.55
+0.010 -1.57 4.000 -3.84
+Note: In panel A, all Weibull shape parameters k, k, and k are equal to 1. In panel B, Weibull shape
+J A
+and other parameters vary, as specified. Throughout, when k varies, l is adjusted to hold E[S]
+J J J
+constant, and when k varies, l is adjusted to hold E[S] constant. Each entry of the table
+A A
+matches the adult hazard by adjusting the benefit distribution scale parameter, !. Details in text.
+TABLE 6. BOUNDS ON POLICY ELASTICITIES
+Annual θ = −0.11 θ = −0.018
+DiscountFactor η η η η
+p E[S] p E[S]
+10−8 -0.760 -0.060 -0.117 -0.009
+0.0010 -0.379 -0.071 -0.057 -0.011
+0.0025 -0.349 -0.073 -0.052 -0.011
+0.0050 -0.326 -0.075 -0.048 -0.012
+0.0100 -0.302 -0.077 -0.044 -0.012
+0.0250 -0.271 -0.082 - -
+0.0500 -0.248 -0.086 - -
+0.1000 -0.223 -0.091 - -
+0.2500 -0.190 -0.101 - -
+0.5000 -0.163 -0.113 - -
+0.9500 -0.136 -0.130 - -
+Notes: Tablepresentslowerboundsontheelasticityofcrimewithrespecttopolice,η ,andwithrespectto
+p
+expectedsentencelengths,η ,forvariousvaluesoftheannualdiscountfactor,δ,undertwoassumptions
+E[S]
+regarding the reduced form parameter (θ = −0.11 and θ = −0.018). Not all values of δ are consistent
+with the assumption of a declining density function for the distribution of criminal benefits; for values of
+δ inconsistentwiththisassumption,elasticitycolumnscontainadash.
+
+=== página 54 ===
+APPENDIX FIGURE 1. AGE DISTRIBUTION OF CRIME:
+FBI UNIFORM CRIME REPORTS
+seetserrA
+llA
+fo
+noitcarF
+1.
+50.
+0
+A. 1995
+Florida U.S.
+10 20 30
+Age at Arrest
+seetserrA
+llA
+fo
+noitcarF
+1.
+50.
+0
+B. 2002
+U.S.
+10 20 30
+Age at Arrest
+Note: Figure presents the histogram of age at arrest, for 1995 and 2002, for Florida and the U.S, for
+cities of 10,000 population or more. Data pertain to arrests for murder, rape, robbery, aggravated assault,
+burglary, larceny, and motor vehicle theft (“index arrests”) and are from the FBI Uniform Crime Reports.
+1995isthelastyearFloridaprovidedtheFBIwithdetailedagebreakdownsforarrests.
+
+=== página 55 ===
+APPENDIX FIGURE 2. IMPACT OF JUVENILE JUSTICE REFORM ACT
+OF 1994 ON FDLE COVERAGE OF JUVENILE ARRESTS
+htnoM
+ni
+stserrA
+fo
+noitcarF
+elinevuJ
+2.
+51.
+1.
+50.
+0
+1989 1991 1993 1995 1997 1999 2001
+Note: Figure shows fraction of arrests in FDLE data set pertaining to juveniles, by month since 1989.
+VerticallineindicateseffectivedateofJuvenileJusticeReformActof1994.
+
+=== página 56 ===
+skeeW
+ni
+htgneL
+noitarecracnI
+tludA
+dna
+elinevuJ
+.1
+elbaT
+xidneppA
+,noitaruD
+egarevA
+rof
+detsujdA
+egarevA
+egarevA
+egarevA
+1refsnarT
+elinevuJ
+noitaruD
+latoT
+noitaruD
+nosirP
+noitaruD
+liaJ
+stserrA
+)1(/))3(+)2((*25
+)3(+)2(
+)1(/)3(*25
+)3(
+)1(/)2(*25
+)2(
+)1(
+adirolF
+.A
+rotanimoneD
+sa
+sesneffO
+llA
+17.3
+56.2
+396,6
+60.2
+112,5
+95.0
+284,1
+033,131
+elinevuJ
+21.8
+03.8
+513,221
+90.6
+037,98
+12.2
+585,23
+952,667
+tludA
+91.2
+31.3
+59.2
+77.3
+oitaR
+elinevuJ/tludA
+rotanimoneD
+sa
+sesneffO
+xednI
+30.9
+54.6
+396,6
+20.5
+112,5
+34.1
+284,1
+769,35
+elinevuJ
+84.64
+25.74
+513,221
+68.43
+037,98
+66.21
+585,23
+358,331
+tludA
+51.5
+73.7
+49.6
+68.8
+oitaR
+elinevuJ/tludA
+setatS
+detinU
+.B
+rotanimoneD
+sa
+sesneffO
+llA
+47.4
+83.3
+563,301
+25.2
+629,67
+78.0
+934,62
+938,885,1
+elinevuJ
+08.21
+90.31
+538,009,1
+56.01
+654,645,1
+44.2
+973,453
+263,255,7
+tludA
+07.2
+78.3
+32.4
+28.2
+oitaR
+elinevuJ/tludA
+rotanimoneD
+sa
+sesneffO
+xednI
+98.71
+87.21
+563,301
+15.9
+629,67
+72.3
+934,62
+345,024
+elinevuJ
+95.88
+55.09
+538,009,1
+76.37
+654,645,1
+88.61
+973,453
+035,190,1
+tludA
+59.4
+90.7
+57.7
+61.5
+oitaR
+elinevuJ/tludA
+,9991raeyehtrof
+erastnuoc
+tserraelinevujdnatludA
+.snosirapmocwolf-kcotsnodesabhtgnelnoitarecracniegareva
+fosetamitsesevigelbaT:etoN
+eht
+morf
+emoc
+stnuoc
+noitalupop
+liaj
+tludA
+.scitsitatS
+ecitsuJ
+lanimirC
+fo
+koobecruoS
+eht
+ni
+detroper
+sa
+,stropeR
+emirC
+mrofinU
+s'IBF
+eht
+morf
+enuJ
+ot
+niatrep
+dna
+seitilicaf
+lanoitcerroC
+fo
+susneC
+ehtmorf
+emocstnuoc
+noitalupop
+nosirp
+tludA
+.9991
+rebmeceD
+otniatrep
+dnasliaJ
+fo
+susneC
+.9991
+rebotcO
+ot
+niatrep
+dna
+tnemecalP
+laitnediseR
+ni
+selinevuJ
+fo
+susneC
+eht
+morf
+emoc
+stnuoc
+noitalupop
+nosirp
+dna
+liaj
+elinevuJ
+.0002
+ees
+;truoc
+elinevuj
+ni
+deirt
+tnecrep
+05
+dna
+truoc
+lanimirc
+tluda
+ni
+deirt
+seetserra
+elinevuj
+fo
+tnecrep
+02
+semussa
+refsnart
+elinevuj
+rof
+tnemtsujdA
+1
+.snoitaluclac
+fo
+sliated
+rof
+xidneppA
+
+=== página 57 ===
+seitilibaborP
+tserrA
+.2
+elbaT
+xidneppA
+fo
+noitcarF
+fo
+noitcarF
+snoitazimitciV
+sesneffO
+sesneffO
+fo
+ytilibaborP
+ot
+detropeR
+yb
+deraelC
+ot
+nwonK
+noisneherppA
+eciloP
+tserrA
+eciloP
+yrogetaC
+emirC
+)3(*)2(
+)3(
+)2(
+)1(
+80.0
+24.0
+02.0
+127,121,01
+semirC
+xednI
+llA
+32.0
+84.0
+74.0
+354,481,1
+emirC
+tneloiV
+94.0
+*
+77.0
+46.0
+165,31
+redruM
+42.0
+45.0
+54.0
+515,08
+epaR
+elbicroF
+81.0
+17.0
+62.0
+320,343
+yrebboR
+62.0
+64.0
+75.0
+453,747
+tluassA
+detavarggA
+70.0
+04.0
+71.0
+862,739,8
+emirC
+ytreporP
+80.0
+85.0
+31.0
+039,248,1
+yralgruB
+60.0
+33.0
+81.0
+092,410,6
+tfehT-ynecraL
+21.0
+68.0
+41.0
+840,080,1
+tfehT
+elciheV
+rotoM
+'srohtuA
+,SVCN
+RCU
+RCU
+:ecruoS
+snoitaluclac
+SHCN
+eht
+fo
+noitidE
+enilnO
+ht03
+eht
+morf
+nekat
+era
+dna
+2002
+ot
+niatrep
+serugiF
+:etoN
+s'IBF
+eht
+morf
+era
+"RCU"
+dellebal
+serugiF
+.scitsitatS
+ecitsuJ
+lanimirC
+fo
+koobecruoS
+susneC
+eht
+morf
+era
+"SVCN"
+dellebal
+serugiF
+.)91.4
+elbaT(
+metsys
+stropeR
+emirC
+mrofinU
+eht
+taht
+setacidni
+ksiretsA
+.)63.3
+elbaT(
+yevruS
+noitazimitciV
+emirC
+lanoitaN
+s'uaeruB
+sesneffo
+fo
+oitar
+eht
+gnikat
+yb
+detamitse
+saw
+ecilop
+ot
+detroper
+snoitazimitciv
+fo
+noitcarf
+htlaeH
+rof
+retneC
+lanoitaN
+eht
+ot
+detroper
+sredrum
+2002
+fo
+rebmun
+eht
+ot ecilop
+ot
+nwonk
+.)5002
+,71
+.oN
+,35
+.loV
+,stropeR
+scitsitatS
+latiV
+lanoitaN
+,E elbaT(
+scitsitatS
+
+=== página 58 ===
+stluseR
+niaM
+fo
+ssentsuboR
+.3
+elbaT
+xidneppA
+81
+ta
+sevitavireD
+tnereffiD
+rof
+gniwollA
+81
+ta
+sevitavireD
+fo
+ytilauqE
+gnisopmI
+)01(
+)9(
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+setamitsE
+lanoitidnocnU
+.A
+560.0-
+450.0-
+410.0
+040.0-
+741.0
+920.0
+200.0
+810.0-
+531.0
+471.0
+ytiunitnocsiD
+detamitsE
+)901.0(
+)090.0(
+)270.0(
+)350.0(
+)630.0(
+)750.0(
+)840.0(
+)740.0(
+)630.0(
+)530.0(
+5
+4
+3
+2
+1
+5
+4
+3
+2
+1
+laimonyloP
+fo
+redrO
+3.901
+3.011
+6.211
+5.911
+5.351
+0.311
+8.311
+8.911
+2.441
+8.571
+ledoM
+detarutaS
+tsniagA
+tseT
+]39[
+]59[
+]79[
+]99[
+]101[
+]89[
+]99[
+]001[
+]101[
+]201[
+modeerf
+fo
+seerged
+4911.0
+1531.0
+5231.0
+9870.0
+6000.0
+1241.0
+1641.0
+5680.0
+1300.0
+0000.0
+eulav-p
+emirC
+enilesaB
+fo
+epyT
+dna
+,ytnuoC
+fo
+eziS
+,ecaR
+rof
+gnillortnoC
+.B
+560.0-
+450.0-
+410.0
+930.0-
+741.0
+920.0
+200.0
+710.0-
+431.0
+371.0
+ytiunitnocsiD
+detamitsE
+)901.0(
+)090.0(
+)270.0(
+)350.0(
+)630.0(
+)750.0(
+)840.0(
+)740.0(
+)630.0(
+)530.0(
+335.0
+335.0
+335.0
+335.0
+435.0
+335.0
+335.0
+335.0
+335.0
+435.0
+kcalB
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+)810.0(
+552.0
+552.0
+552.0
+552.0
+552.0
+552.0
+552.0
+552.0
+552.0
+652.0
+ytnuoC
+llamS
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+780.0
+780.0
+780.0
+780.0
+880.0
+780.0
+780.0
+780.0
+880.0
+880.0
+ytnuoC
+muideM
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+)120.0(
+900.0
+900.0
+900.0
+900.0
+900.0
+900.0
+900.0
+900.0
+900.0
+900.0
+tneloiV
+emirC
+enilesaB
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+)820.0(
+091.0
+091.0
+091.0
+091.0
+091.0
+091.0
+091.0
+091.0
+091.0
+091.0
+ytreporP
+emirC
+enilesaB
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+)620.0(
+451.0-
+451.0-
+451.0-
+451.0-
+451.0-
+451.0-
+451.0-
+451.0-
+451.0-
+351.0-gurD
+xedni-noN
+emirC
+enilesaB
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+)240.0(
+5
+4
+3
+2
+1
+5
+4
+3
+2
+1
+laimonyloP
+fo
+redrO
+3.901
+3.011
+7.211
+5.911
+7.251
+1.311
+9.311
+7.911
+8.341
+8.371
+ledoM
+detarutaS
+tsniagA
+tseT
+]39[
+]59[
+]79[
+]99[
+]101[
+]89[
+]99[
+]001[
+]101[
+]201[
+modeerf
+fo
+seerged
+2911.0
+1531.0
+3231.0
+1970.0
+7000.0
+4141.0
+5541.0
+3780.0
+3300.0
+0000.0
+eulav-p
+eht
+no
+stneiciffeoC
+.II
+elbaT
+ni
+nevig
+sledom
+eht
+fo
+snoitazirtemarap
+evitanretla
+stneserp
+elbaT
+.sesehtnerap
+ni
+srorre
+dradnatS
+:etoN
+ledom
+detarutas
+a
+tsniaga
+ledom
+detneserp
+eht
+fo
+tif
+eht
+stset
+wor
+mottob
+eht
+lenap
+hcae
+nI
+.tuohguorht
+desserppus
+era
+ledom
+laimonylop
+.skeew
+ni
+,ega
+elbissop
+hcae
+rof
+srotacidni
+evisulcxe
+yllautum
+dna
+evitsuahxe
+fo
+seires
+a sedulcni
+hcihw
+
+=== página 59 ===
+noitarecracnI
+tludA
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+.4
+elbaT
+xidneppA
+)8(
+)7(
+)6(
+)5(
+)4(
+)3(
+)2(
+)1(
+setamitsE
+niaM
+.A
+0641.0
+9541.0
+3641.0
+4641.0
+9741.0
+9541.0
+4741.0
+5741.0
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+detamitsE
+)4510.0(
+)4510.0(
+)4510.0(
+)4510.0(
+)5510.0(
+)4510.0(
+)5510.0(
+)5510.0(
+tnemenifnoC
+2617.1
+2517.1
+6717.1
+1817.1
+4627.1
+6517.1
+8327.1
+6427.1
+ytiunitnocsiD
+goL
+8100.0
+7100.0
+7100.0
+0200.0
+3400.0-
+2100.0
+3500.0-
+etihw-noN
+)9300.0(
+)9300.0(
+)9300.0(
+)8300.0(
+)8300.0(
+)8300.0(
+)7300.0(
+)egraL
+ot
+evitaleR(
+tserrA
+enilesaB
+fo
+ytnuoC
+fo
+eziS
+8640.0-
+9640.0-
+1740.0-
+2740.0-
+6740.0-
+llamS
+)7400.0(
+)7400.0(
+)7400.0(
+)7400.0(
+)7400.0(
+0630.0-
+9530.0-
+8530.0-
+8530.0-
+0630.0-
+muideM
+)5400.0(
+)5400.0(
+)5400.0(
+)5400.0(
+)5400.0(
+)gurd-noN
+xedni-noN
+ot
+evitaleR(
+tserrA
+enilesaB
+,emirC
+fo
+epyT
+3410.0-
+3410.0-
+3410.0-
+2410.0-
+6510.0-
+tneloiV
+,emirC
+xednI
+)2600.0(
+)2600.0(
+)2600.0(
+)2600.0(
+)2600.0(
+0400.0-
+0400.0-
+1400.0-
+9300.0-
+1400.0-
+ytreporP
+,emirC
+xednI
+)6500.0(
+)6500.0(
+)6500.0(
+)6500.0(
+)6500.0(
+0400.0
+9300.0
+4400.0
+3300.0
+9200.0
+gurD
+xedni-noN
+)9700.0(
+)9700.0(
+)9700.0(
+)9700.0(
+)9700.0(
+Y
+Y
+Y
+N
+N
+N
+N
+N
+?tserrA
+enilesaB
+ta
+egA
+rof
+slortnoC
+5
+3
+1
+tserrA
+enilesaB
+ta
+egA
+ni
+laimonyloP
+fo redrO
+3070.0
+2070.0
+0070.0
+9960.0
+4560.0
+5960.0
+0560.0
+9460.0
+2R
+:liaJ
+dna
+nosirP
+otni
+noitarecracnI
+fo
+ytilibaborP
+fo
+noitisopmoceD
+.B
+4930.0
+2930.0
+5930.0
+5930.0
+1040.0
+4930.0
+0040.0
+1040.0
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+detamitsE
+)7010.0(
+)7010.0(
+)7010.0(
+)7010.0(
+)7010.0(
+)7010.0(
+)7010.0(
+)7010.0(
+nosirP
+0393.1
+7093.1
+3593.1
+4593.1
+7604.1
+3493.1
+4504.1
+6604.1
+ytiunitnocsiD
+goL
+7601.0
+6601.0
+8601.0
+9601.0
+8701.0
+5601.0
+4701.0
+5701.0
+fo
+ytilibaborP
+ni
+ytiunitnocsiD
+detamitsE
+)0210.0(
+)0210.0(
+)0210.0(
+)0210.0(
+)0210.0(
+)0210.0(
+)0210.0(
+)0210.0(
+liaJ
+3539.1
+0539.1
+4639.1
+0739.1
+2449.1
+9339.1
+0149.1
+7149.1
+ytiunitnocsiD
+goL
+rof
+230.0
+fo
+etar
+enilesab
+a
+gnisu
+etamitse
+ytiunitnocsid
+detneserp
+morf
+detaluclac
+ytiunitnocsid
+goL
+.sesehtnerap
+ni
+srorre
+dradnatS
+:etoN
+elbat
+fo
+lenap
+mottoB
+.680.0
+yletamixorppa
+esac
+hcae
+ni
+era
+ytiunitnocsid
+gol
+eht
+rof
+srorre
+dradnats
+dohtem-atleD
+.elinevuj
+lanigram
+eht
+ni
+seitiunitnocsid
+goL
+.ylevitcepser
+,liaj
+tluda
+ot
+dna
+nosirp
+tluda
+ot
+decnetnes
+gnieb
+fo
+ytilibaborp
+ni
+ytiunitnocsid
+detamitse
+stneserp
+rof
+srorre
+dradnats
+dohtem-atleD
+.ylevitcepser
+,810.0
+dna
+310.0
+fo
+liaj
+dna
+nosirp
+rof
+etar
+elinevuj
+lanigram
+enilesab
+a
+esu
+lenap
+mottob
+.desserppus
+lenap
+mottob
+ni
+snoisserger
+rof
+slortnoC
+.ylevitcepser
+,680.0
+dna
+51.0
+yletamixorppa
+esac
+hcae
+ni
+era
+seitiunitnocsid
+gol
+eseht

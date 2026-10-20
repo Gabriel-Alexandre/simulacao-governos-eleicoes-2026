@@ -1,0 +1,43 @@
+indicador,ano,valor,uso,fonte,padrao
+mvi_taxa,2018,27.9,principal,S01-fbsp-anuario-2026,"Brasil 27,7 28,0 29,7 28,9 30,2 31,2 27,9 23,0 24,1 23,0 22,7 21,9 20,8 19,1"
+mvi_taxa,2022,22.7,principal,S01-fbsp-anuario-2026,"Brasil 27,7 28,0 29,7 28,9 30,2 31,2 27,9 23,0 24,1 23,0 22,7 21,9 20,8 19,1"
+mvi_taxa,2025,19.1,principal,S01-fbsp-anuario-2026,"Brasil 27,7 28,0 29,7 28,9 30,2 31,2 27,9 23,0 24,1 23,0 22,7 21,9 20,8 19,1"
+mvi_taxa,2018,27.5,conferencia,S05-fbsp-anuario-2019,"Brasil 24,5 28,2 27,8 29,5 28,6 29,9 30,8 27,5"
+mvi_taxa,2022,23.4,conferencia,S04-fbsp-anuario-2023,"Brasil 48.228 47.452 23,9 23,4"
+mvi_taxa,2025,19.1,conferencia,S02-agenciabrasil-mvi-2025,"19,1"
+roubo_veiculo_taxa,2018,245.3,principal,S05-fbsp-anuario-2019,"Brasil 280.392 247.148 292,5 245,3"
+roubo_veiculo_taxa,2022,128.6,principal,S04-fbsp-anuario-2023,"Brasil 142.745 147.984 128,1 128,6"
+roubo_veiculo_taxa,2025,80.9,principal,S01-fbsp-anuario-2026,"Brasil 126.358 104.491 101,9 80,9"
+estelionato_registros,2018,426799,principal,S04-fbsp-anuario-2023,passando de 426.799 casos em 2018 para 1.819.409 em 2022
+estelionato_registros,2022,1819409,principal,S04-fbsp-anuario-2023,passando de 426.799 casos em 2018 para 1.819.409 em 2022
+estelionato_registros,2025,2261055,principal,S01-fbsp-anuario-2026,Brasil 2.193.122 2.261.055
+estelionato_registros,2018-2025,crescimento,conferencia,S01-fbsp-anuario-2026,superior a 400% desde 2018
+ideb_medio,2017,3.8,principal,E12-agenciabrasil-ideb-2017,"chegando a 3,8"
+ideb_medio,2017,3.8,conferencia,E07-ihu-ideb-2017,"ensino médio geral do Brasil foi de 3,8"
+ideb_medio,2019,4.2,informativo,E13-agenciabrasil-ideb-2019,"No ensino médio, passou de 3,8 para 4,2"
+ideb_medio,2021,4.2,principal,E05-folhape-ideb-2021,"No ensino médio, o Ideb foi 4,2"
+ideb_medio,2023,4.3,informativo,X05-ibge-sis-2024-pdf,"o ensino médio terminaram 2023 com IDEB de 5,0 e de 4,3"
+ideb_medio,2025,4.5,principal,E01-inep-ideb-2025,"ensino médio em ambas as redes passou de 4,3 para 4,5"
+ideb_iniciais,2017,5.8,principal,E12-agenciabrasil-ideb-2017,"A etapa alcançou 5,8"
+ideb_iniciais,2017,5.8,conferencia,E13-agenciabrasil-ideb-2019,"passou de 5,8, em 2017, para 5,9, em 2019"
+ideb_iniciais,2021,5.8,principal,E05-folhape-ideb-2021,"o Ideb 2021 foi 5,8"
+ideb_iniciais,2025,6.3,principal,E01-inep-ideb-2025,"passou de 6 para 6,3 nos anos iniciais"
+ipc_brasil,2018,35,principal,C30-ti-brasil-ipc,2018 e 2019 (35 pontos)
+ipc_brasil,2022,38,principal,C32-cnn-ipc-2024,o Brasil recebeu nota 38 em 2022
+ipc_brasil,2022,38,conferencia,C38-lec-ipc-2022,94º lugar entre os 180 países avaliados
+ipc_brasil,2025,35,principal,C30-ti-brasil-ipc,o Brasil obteve 35 pontos
+ipc_media_mundial,2018,43,principal,C36-moneytimes-ipc-2018,puxou a pontuação média para 43
+ipc_media_mundial,2018,43,conferencia,C37-poder360-ipc-2018,A pontuação média é 43
+ipc_media_mundial,2022,43,principal,C38-lec-ipc-2022,abaixo da média global de 43 pontos
+ipc_media_mundial,2025,42,principal,C33-gazeta-ipc-pior-posicao,Tanto a média global quanto a das Américas são de 42 pontos
+extrema_pobreza_ibge,2021,9.0,conferencia,X06-ibge-sis-2023-pdf,"a extrema pobreza caiu de 9,0%para 5,9%"
+extrema_pobreza_ibge,2022,5.9,conferencia,X06-ibge-sis-2023-pdf,"a extrema pobreza caiu de 9,0%para 5,9%"
+extrema_pobreza_ibge,2023,4.4,conferencia,X05-ibge-sis-2024-pdf,"atin- gindo 4,4% da população"
+extrema_pobreza_ibge,2024,3.5,conferencia,X01-cut-pobreza-sis,"Brasil: 3,5%"
+esperanca_vida_ibge,2019,76.2,conferencia,X05-ibge-sis-2024-pdf,"2019 1,7 76,2 72,8 79,6"
+esperanca_vida_ibge,2022,75.4,conferencia,X05-ibge-sis-2024-pdf,"2022 1,6 75,4 72,1 78,8"
+esperanca_vida_ibge,2023,76.4,conferencia,X05-ibge-sis-2024-pdf,"2023 1,6 76,4 73,1 79,7"
+vacina_triplice_viral_d1,2021,74,conferencia,H06-jornalopcao-sarampo-recertificacao,74%
+vacina_triplice_viral_d1,2024,91,conferencia,H06-jornalopcao-sarampo-recertificacao,91%
+ideb_iniciais,2019,5.9,informativo,E13-agenciabrasil-ideb-2019,"passou de 5,8, em 2017, para 5,9, em 2019"
+ideb_iniciais,2023,6.0,informativo,E01-inep-ideb-2025,"passou de 6 para 6,3 nos anos iniciais"

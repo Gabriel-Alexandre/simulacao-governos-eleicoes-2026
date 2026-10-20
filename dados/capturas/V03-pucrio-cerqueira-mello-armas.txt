@@ -1,0 +1,82 @@
+# fonte: https://econpapers.repec.org/RePEc:rio:texdis:607
+# capturado em: 2026-10-20
+
+EconPapers: Evaluating a National Anti-Firearm Law and Estimating the Causal Effect of Guns on Crime
+EconPapers Home
+About EconPapers
+Working Papers
+Journal Articles
+Books and Chapters
+Software Components
+Authors
+JEL codes
+New Economics Papers
+Advanced Search
+EconPapers FAQ
+Archive maintainers FAQ
+Cookies at EconPapers
+Format for printing
+The RePEc blog
+The RePEc plagiarism page
+Evaluating a National Anti-Firearm Law and Estimating the Causal Effect of Guns on Crime
+Daniel Cerqueira
+and
+Joao De Mello
+No 607,
+Textos para discussão
+from
+Department of Economics PUC-Rio (Brazil)
+Abstract:
+We report two results. First, we evaluate the impact of a nationwide anti-firearm legislation passedby the Brazilian Congress in December 2003 (Estatuto do Desarmamento, henceforth ED). Our identificationstrategy hinges on the hypothesis that the law had stronger impact in places where gun prevalence washigher in the baseline. We find evidence that homicides (reduced form) and firearms prevalence(mechanism or first-stage) dropped faster in places with higher gun prevalence after the 2003. Using ourpreferred estimates, the ED saved between 2,000 and 2,750 lives from 2004 through 2007 in cities withmore than 50,000 inhabitants in the state of São Paulo. Second, assuming the ED causes homicide onlythrough its impact on firearms prevalence, we recover a causal estimate of the impact of firearms onhomicides. One standard deviation in the prevalence of firearms reduces homicides by quarter of astandard deviation. We find no impact of both ED and firearms on property crime in general or onrobberies.
+Pages:
+30p
+Date:
+2013-10
+References:
+View references in EconPapers
+View complete reference list from CitEc
+Citations:
+Downloads:
+(external link)
+http://www.econ.puc-rio.br/uploads/adm/trabalhos/files/td607.pdf
+(application/pdf)
+Our link check indicates that this URL is bad, the error code is: 404 Not Found (http://www.econ.puc-rio.br/uploads/adm/trabalhos/files/td607.pdf [301 Moved Permanently]--> https://www.econ.puc-rio.br/uploads/adm/trabalhos/files/td607.pdf)
+Related works:
+This item may be available elsewhere in EconPapers:
+Search
+for items with the same title.
+Export reference:
+BibTeX
+RIS
+(EndNote, ProCite, RefMan)
+HTML/Text
+Persistent link:
+https://EconPapers.repec.org/RePEc:rio:texdis:607
+Access Statistics
+for this paper
+More papers
+in Textos para discussão from
+Department of Economics PUC-Rio (Brazil)
+Contact information at
+EDIRC
+.
+Bibliographic data for series maintained by (
+).
+Share
+This site is part of
+RePEc
+and all the data displayed here is part of the RePEc data set.
+Is your work missing from RePEc? Here is how to
+contribute
+.
+Questions or problems? Check the
+EconPapers FAQ
+or send mail to
+.
+EconPapers is hosted by the
+School of Business
+at
+Örebro University
+.
+Page updated 2026-10-19
+Handle: RePEc:rio:texdis:607

@@ -1,0 +1,911 @@
+# fonte: https://repositorio.ufjf.br/jspui/bitstream/ufjf/13360/1/danielledeoliveiracosta.pdf
+# capturado em: 2026-10-20
+
+
+=== página 1 ===
+CENSITARIZAÇÃO DAS AVALIAÇÕES EXTERNAS EM LARGA ESCALA:
+Uma análise da universalização e da divulgação de resultados do Ensino Médio no Saeb-
+Ideb/2017
+Danielle de Oliveira Costa1
+RESUMO
+O presente artigo levanta uma discussão acerca do alcance das taxas de participação exigidas
+para a divulgação dos resultados por escola nas avaliações externas nacionais e o seu impacto
+no contexto de massiva ampliação da abrangência das aplicações. Elegeu-se como estudo de
+caso a censitarização aplicada à edição de 2017 do Saeb/Ideb para as escolas do Ensino Médio.
+Utilizou-se como método a análise descritiva dos normativos legais e do arcabouço acadêmico
+sobre o tema, associada à produção e interpretação de indicador baseado no percentual de
+escolas com dados divulgados por UF e por dependência administrativa. O estudo revelou, entre
+as principais motivações para a adoção do critério de participação mínima, a importância da
+precisão estatística dos resultados, o controle de eventuais manipulações e seleções de
+estudantes e a vinculação legal e financeira à observância da medida. A análise das taxas de
+divulgação de resultados revelou que mais da metade das escolas do Ensino Médio participantes
+da avaliação em 2017 deixaram de receber os indicadores calculados devido a taxas de
+participação inferiores a 80%, prejudicando os objetivos centrais da avaliação. Revelou também
+grande variabilidade da medida em relação aos estratos investigados. Identificou-se na
+literatura, como condicionantes desse cenário, o perfil e o baixo engajamento dos estudantes do
+Ensino Médio e das redes de ensino participantes, bem como os calendários de aplicação
+estabelecidos e a concorrência com outros exames e avaliações externas e internas. O estudo
+alerta para os impactos financeiros, logísticos, pedagógicos e educacionais do cenário e para a
+tendência de seu agravamento diante da crescente censitarização das avaliações externas. Por
+fim, levanta-se linhas de atuação para o enfrentamento dos problemas decorrentes da questão.
+Palavras-chave: Avaliação Externa; Censitarização; Taxas de participação.
+1. INTRODUÇÃO
+As avaliações nacionais em larga escala ganham cada vez mais relevância na orientação
+e no monitoramento das políticas públicas educacionais no Brasil. Para a sua realização,
+mobiliza-se um grande volume de recursos financeiros, logísticos e pedagógicos, assim como
+a participação de diversos atores do processo educacional – gestores, professores, estudantes,
+pesquisadores e comunidade escolar.
+O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – Inep,
+vinculado ao Ministério da Educação, é o órgão do governo brasileiro responsável pela
+condução das avaliações externas em larga escala em âmbito nacional que, na etapa da
+Educação Básica, tem como principal instrumento o Sistema de Avaliação da Educação Básica
+– Saeb. Tal avaliação, além de permitir o acompanhamento longitudinal da qualidade
+educacional desde a década de 1990, auxilia atualmente a compor o mais conhecido indicador
+educacional do Brasil: o Índice de Desenvolvimento da Educação Básica – Ideb.
+1 Pesquisadora do Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - Inep. Mestre em
+Geografia pela Universidade de Brasília. Email: danielle.costa@inep.gov.br
+1
+
+=== página 2 ===
+Ao avaliarmos documentos legais e técnicos que projetam o futuro dessa avaliação,
+reforça-se a percepção da centralidade e da relevância que vem sendo ocupada por ela no
+contexto dos debates acerca da Educação Básica. A Portaria Nº 458, de 05 de maio 2020,
+publicada pelo Ministério da Educação com o objetivo de instituir normas necessárias ao
+cumprimento da Política Nacional de Avaliação da Educação Básica, veio estabelecer que o
+Saeb passe a ser aplicado com periodicidade anual, de forma censitária, para todas as áreas de
+formação e em todas as séries/anos da Educação Básica (BRASIL, 2020a).
+Tal medida acende o debate sobre os benefícios, os desafios e a pertinência da expansão
+das avaliações externas para estratos tão detalhados e específicos, sobre a adequação de sua
+periodicidade, sobre a factibilidade financeira e logística da ampliação do projeto de avaliação
+para tamanhas dimensões e, principalmente, sobre o real alcance dos objetivos pretendidos com
+a medida.
+É fato que o Saeb vem paulatinamente caminhando na direção da sua universalização.
+O último movimento concreto observado nesse sentido foi a expansão da etapa de avaliação do
+Ensino Médio, antes amostral, para o formato censitário na edição de 2017. Embora a ampliação
+dessa etapa específica represente um movimento proporcionalmente pequeno, comparado à
+reformulação da avaliação pretendida na Portaria publicada em 2020, avaliar este caso prático
+e já integralmente implementado pode favorecer a reflexão sobre as projeções das políticas de
+expansão do universo das avaliações nacionais.
+Uma importante dimensão dentro do espectro dos objetivos e utilidades das avaliações
+é a apropriação dos resultados que produzem. A divulgação de seus resultados é por lógica o
+principal produto das avaliações e refletir sobre o acesso e a proporção das escolas e redes que
+recebem esses resultados é de suma importância para verificar a pertinência da expansão da
+política e até mesmo monitorar o alcance de seus objetivos.
+Diante do exposto, o presente estudo se propõe a investigar a divulgação dos resultados
+do Saeb/Ideb do Ensino Médio em sua primeira edição censitária, aplicada em 2017, para
+levantar contribuições acerca do debate sobre o processo de censitarização das avaliações em
+larga escala nacional observado nos últimos anos. Para isso, são assumidos os seguintes
+objetivos: (i) analisar o histórico da evolução do Saeb/Ideb desde sua origem até as suas últimas
+edições, destacando as transições das abordagens amostrais para as censitárias; (ii) descrever e
+avaliar os critérios mínimos estabelecidos pelo Inep para a divulgação de resultados das escolas
+participantes do Saeb/Ideb e (iii) calcular e analisar as taxas de divulgação de resultados por
+escola do Saeb/Ideb 2017 para o Ensino Médio, considerando as desagregações em estratos
+adotados na avaliação.
+Pretende-se ainda explorar em que medida há impacto nas taxas de divulgação de
+resultados observadas na edição 2017 do Saeb/Ideb-Ensino Médio, bem como na variabilidade
+do indicador entre os estratos avaliados, em decorrência da confluência de fatores como: (i) o
+perfil do alunado do Ensino Médio (idade; engajamento; concorrência da frequência escolar
+com atividades adicionais de trabalho, estudo para vestibular/Enem, etc.); (ii) o ineditismo de
+aplicações censitárias para essa etapa de escolarização até a edição de 2017, associado ao breve
+período entre a tomada da decisão e a sua implementação e; (iii) a alta taxa de participação
+exigida para a divulgação de resultados (80% dos alunos previstos no Censo Escolar presentes
+no dia da avaliação).
+Para e o alcance dos objetivos assumidos por este artigo, utilizaremos como metodologia
+a análise das documentações técnicas e legais que registram a evolução do Saeb e do Ideb, bem
+como o levantamento das discussões presentes na literatura acadêmica sobre o tema.
+2
+
+=== página 3 ===
+Para o cálculo das taxas de divulgação dos resultados das escolas participantes do
+Saeb/Ideb 2017, serão utilizados como fonte de dados secundários as Planilhas de divulgação
+do Ideb referentes à edição avaliada – 20172. Os dados disponibilizados nesse repositório
+relacionam-se aos indicadores que compõem o Ideb (desempenho no Saeb e rendimento
+escolar), apresentados por escola e sinalizados com suas respectivas dependências
+administrativas e Unidades Federativas – UFs – vinculadas, informações que serão utilizadas
+para verificar a variabilidade do indicador proposto por esse estudo nesses estratos.
+Esse trabalho está dividido em quatro seções, além dessa Introdução. A primeira
+desenvolve um breve debate sobre a evolução do público-alvo do Saeb, marcando os momentos
+de sua transformação de amostral para censitário nos diferentes estratos e etapas de avaliação,
+com enfoque no Ensino Médio. As justificativas e os embasamentos técnicos, legais, políticos
+e pedagógicos dessa decisão também são abordados nessa seção, em diálogo com os
+posicionamentos disponíveis na literatura da área quanto os benefícios das técnicas de
+universalização ou de amostragem de avaliações em larga escala.
+A segunda seção detalha os critérios metodológicos utilizados pelo Inep para a
+divulgação dos resultados do Saeb, e consequentemente do Ideb, por unidade escolar. O
+enfoque recairá sobre a descrição da taxa mínima de participação estabelecida pelo Instituto
+responsável pelo cálculo da medida para a divulgação dos resultados das escolas na avaliação,
+identificando e discutindo os principais motivadores para a adoção destes critérios e a sua
+modificação ao longo do tempo.
+A terceira seção apresenta os dados da edição de 2017 do Saeb/Ideb, explorando a
+divulgação dos resultados da avaliação por escola, realizando análises agregadas
+principalmente por UF e dependência administrativa. Para isso, serão apresentadas as taxas de
+participação do Ensino Médio considerando esses estratos. Serão também apresentadas análises
+comparativas com as demais séries/etapas escolares avaliadas na edição, bem como com o
+comportamento do fenômeno na edição de 2019.
+Na quarta seção, é desenvolvida a discussão dos dados e resultados produzidos por esse
+artigo, incluindo o debate e a análise dos condicionantes que impactam as taxas de participação
+das escolas participantes da avaliação.
+Por fim, serão apresentadas as considerações finais, recortando os alcances e limites do
+estudo, bem como os seus potenciais aprofundamentos e ramificações. Desenvolve-se ainda
+uma reflexão acerca da influência desse indicador no alcance dos objetivos da avaliação
+educacional e, principalmente, na crescente censitarização que vem sendo para ela proposta.
+2. HISTÓRICO DA AVALIAÇÃO DO ENSINO MÉDIO NO SAEB/IDEB: DO
+AMOSTRAL AO CENSITÁRIO
+O Sistema de Avaliação da Educação Básica teve sua primeira edição oficialmente
+aplicada no ano de 1990, inaugurando o mais longevo programa de avaliação nacional em larga
+escala do país.
+À época, foram aplicados testes nas áreas de Língua Portuguesa, Matemática, Ciências
+Naturais e Redação para amostras de estudantes matriculados nas séries ímpares do Ensino
+Fundamental público, então denominado Ensino de 1º Grau: 1ª, 3ª, 5ª e 7ª séries. Relatório
+2 Os dados brutos mencionados estão agregados nas planilhas de divulgação do Ideb-2017 e seguem disponíveis
+em http://portal.inep.gov.br/web/guest/educacao-basica/ideb/resultados (INEP, 2020a)
+3
+
+=== página 4 ===
+produzido sobre essa primeira edição (INEP, 1994) registra que a nomenclatura inicialmente
+adotada para a avaliação era “SAEP – Sistema Nacional de Avaliação das Escolas Públicas de
+1º Grau” e que apenas após a aplicação e coleta de dados decidiu-se pela mudança da sigla e a
+incorporação da Educação Básica para possibilitar a eventual futura inclusão da avaliação do
+então denominado 2º Grau, hoje Ensino Médio. A segunda edição da avaliação realizada em
+1993, no entanto, repetiu a mesma abrangência e metodologia da aplicação de 1990.
+Em 1995, ocorre uma reformulação no Saeb que muitos autores consideram uma
+importante guinada na avaliação em larga escala nacional (BONAMINO e SOUZA, 2012;
+BLASIS, 2013; BROOKE et.al, 2015). Trata-se da adoção da Teoria de Resposta ao Item, que
+inaugurou a possibilidade da comparabilidade longitudinal da avaliação, associada à fixação de
+seu público-alvo nas séries/anos finais dos três segmentos da Educação Básica: os anos iniciais
+do Ensino Fundamental (4ª série/5º ano), os anos finais do ensino fundamental (8ª série/9º ano)
+e, pela primeira vez, o Ensino Médio, com testes e questionários aplicados a estudantes
+matriculados na 3ª série.
+O público-alvo da edição de 1995 foi replicado nas quatro edições seguintes da
+avaliação (1997, 1999, 2001 e 2003), quando o Saeb passou a ter aplicações bianuais. A edição
+de 1995 inovou ainda ao incluir, além do Ensino Médio, amostras relacionadas às redes privadas
+de ensino. Os resultados dos testes até 2003 foram produzidos e divulgados por UF e Região,
+além de agrupados nacionalmente a partir das amostras selecionadas de estudantes. Essas
+amostras eram desagregadas no máximo por dependência administrativa (estadual, municipal,
+federal, privada), localização (urbana ou rural) e área (capital e interior), não produzindo
+resultados para as unidades escolares selecionadas na amostra.
+Riether e Rauter (2000; p. 149) revelam que o fator preponderante considerado para
+opção pela avaliação de caráter amostral e para a definição dos tamanhos de amostras nestas
+edições foi a obediência “à disponibilidade de recursos para realização do Saeb a cada ciclo”,
+lançando luz sobre o peso dos custos de aplicação e planejamento para a tomada de decisão
+relacionada à abrangência da avaliação até então. Os autores alertam que as extrapolações de
+resultados para unidades escolares participantes eram inviáveis e equivocadas devido à questão
+da representatividade das amostras planejadas.
+Na edição de 2005, ocorre o primeiro movimento de ampliação de estratos da avaliação
+para abordagens censitárias. Nesta ocasião, apenas os estratos relacionados ao Ensino
+Fundamental – 4ª e 8ª séries, atuais 5º e 9º anos – passaram a ser aplicados para todas as escolas
+públicas que apresentassem ao menos 20 alunos matriculados na série/ano de avaliação. Essa
+nova abordagem do Saeb foi denominada de Prova Brasil e foi utilizada também para a
+proposição e cálculo do Ideb a partir dessa edição.
+Machado e Alavarse (2015) destacam que, dentre as motivações para essa ampliação do
+universo da avaliação, estava a alegação de que antes, com a divulgação do Saeb apenas por
+Unidades da Federação, as unidades escolares não se reconheciam nos resultados divulgados.
+Os autores consideram que a disponibilização de resultados por unidade escolar passou a
+possibilitar a reflexão sobre o trabalho que é realizado no cotidiano das escolas, como também
+o estabelecimento de “metas e prioridades para a continuidade das ações coletivas nas redes e
+nas escolas na constante busca da melhoria da sua qualidade” (p. 75). Os autores destacam ainda
+– em diálogo com Franco, Alves e Bonamino (2007) e Sousa e Lopes (2010) – que a expansão
+dos resultados calculados por unidades escolares impulsionou ainda os questionamentos acerca
+da qualidade da educação por parte da sociedade em geral, bem como as investigações de
+pesquisadores e gestores sobre o tema.
+4
+
+=== página 5 ===
+Blasis (2013, p. 253) acrescenta ao rol das vantagens da reformulação de 2005 o
+potencial de monitoramento das políticas, ponderando que “o caráter censitário da Prova Brasil
+e a projeção de metas bianuais do Ideb se tornou ferramenta para o acompanhamento das metas
+de qualidade para a educação básica do Plano de Desenvolvimento da Educação (PDE)”
+Fernandes (2016) ressalta que é exatamente na edição de 2005, marco do início da
+universalização da aplicação, em que há um ponto de inflexão nos resultados da avaliação, que
+passam a apresentar uma trajetória de crescimento. Ao investigar os condicionantes desse
+crescimento, o autor reflete que a política de accountability decorrente da criação da Prova
+Brasil e do Ideb em 2005 tenha sido apenas um dos fatores que influenciaram o crescimento do
+que considera a qualidade educacional do país, associada a um contexto de “maior mobilização
+de diversas esferas de governo (federal, estadual e municipal) e da sociedade em geral para a
+melhoria da educação” (p. 108).
+A avaliação censitária do Saeb e o cálculo do Ideb por escola, entretanto, mantiveram-
+se restritos aos segmentos avaliados do Ensino Fundamental até a edição de 2015,
+permanecendo o Ensino Médio avaliado apenas em caráter amostral.
+O Quadro 1, que sintetiza a evolução da abordagem da avaliação ao longo de sua
+história, destaca que é apenas na edição de 2017 que o Saeb passa a avaliar também de forma
+censitária as escolas do Ensino Médio brasileiro. A medida foi estabelecida a partir da
+reformulação do sistema de avaliação proposta na Portaria Ministerial Nº 564, de 19 de abril de
+2017 (MEC, 2017).
+Quadro 1. Síntese da evolução da abrangência do Saeb– 1990 a
+20193
+Edição Abrangência da avaliação
+1990
+1993
+1995
+1997 Amostral em todos os estratos
+1999
+2001
+2003
+2005
+2007
+2009 Censitária no Ensino Fundamental
+2011 Amostral no Ensino Médio
+2013
+2015
+2017
+Censitária em todos os estratos
+2019
+Fonte: Elaborado pela autora (2021)
+Além das justificativas já mobilizadas à época da ampliação censitária no Ensino
+Fundamental, no caso do Ensino Médio foi oficialmente acrescida a alegação de que, por falta
+de indicadores educacionais para esta etapa de ensino, as redes e a imprensa acabavam por
+utilizar o “Enem por escola” para este fim, medida inadequada e pouco precisa segundo a
+avaliação da equipe do Ministério da Educação e do Inep, que optou naquele momento por
+3 O quadro restringe-se aos estratos que dão origem ao cálculo do Ideb, não contemplando as aplicações
+relacionadas às Ciências Humanas e da Natureza realizadas em 2013 e 2019, bem como as avaliações da
+alfabetização incorporadas ao Saeb ao longo do tempo.
+5
+
+=== página 6 ===
+descontinuar o cálculo do Enem por escola com a criação do Ensino Médio Censitário no Saeb
+(TOKARNIA, 2017).
+Essa expansão da avaliação censitária do Saeb e do Ideb para o Ensino Médio,
+inaugurada em 2017 e replicada em 2019, pode ser considerada um degrau de impulso ao que
+vem se desenhando para o futuro da avaliação externa em larga escala no Brasil. As recentes
+reformulações propostas (BRASIL, 2020a) registram a pretensão de se estender ainda mais o
+seu caráter universal e censitário a partir da inclusão no seu público-alvo de estudantes
+matriculados em todas as séries/anos da Educação Básica e não apenas das séries/anos finais
+dos segmentos escolares. Outra intenção sinalizada é a de avaliação de todas as disciplinas
+previstas na Base Nacional Comum Curricular, que passaria a ser aplicada com periodicidade
+anual.
+Este movimento precisa, entretanto, ser considerado a reboque das discussões acerca do
+alcance da participação das redes e estudantes previstos no público-alvo e da divulgação dos
+resultados da avaliação, apresentadas e debatidas nas próximas seções.
+3. CRITÉRIOS PARA A DIVULGAÇÃO DOS RESULTADOS DO SAEB/IDEB
+A censitarização do Saeb e do Ideb até aqui demonstrada não se reflete automaticamente
+na universalização da divulgação dos resultados das escolas e estratos participantes da
+avaliação. Isto porque são empregados critérios para que as escolas selecionadas para a
+aplicação dos testes tenham seus resultados publicizados. Com relação à edição de 2017, a Nota
+Técnica informativa do Ideb (INEP, 2019) atesta que três critérios foram considerados para a
+exclusão dos resultados do Ideb das escolas pertencentes ao público-alvo da avaliação conforme
+detalhado na seção anterior.
+O critério numericamente menos expressivo para a não divulgação dos resultados,
+aplicado a apenas uma unidade escolar dos anos iniciais na edição de 2017, segundo a Nota, foi
+o de solicitação da própria escola ou Secretaria de Educação para que o resultado não fosse
+divulgado.
+O segundo critério que justifica a exclusão dos resultados das escolas é a ausência de
+“taxa de aprovação” calculada. Essa lacuna está relacionada à falta de prestação da informação
+(alunos aprovados) ao Censo Escolar do ano, o que inviabiliza o cálculo do índice mesmo que
+a unidade escolar tenha participado das avaliações do Saeb. Este critério também pode ser
+considerado pouco expressivo do ponto de vista do alcance numérico, atingindo na edição de
+2017 apenas 16 escolas – 8 nos anos iniciais do ensino fundamental, 8 nos anos finais e 5 no
+Ensino Médio4.
+Já o terceiro critério de exclusão dos resultados alcança um número muito mais
+expressivo das escolas selecionadas para a avaliação: a taxa insuficiente de participação de
+alunos previstos no Saeb da edição. Em 2017, este critério, cujo enfoque e debate figuram o
+cerne do presente estudo, atingiu mais de 25.000 unidades escolares que, embora tenham
+participado da avaliação, não tiveram seus resultados divulgados.
+4 Uma mesma escola pode figurar na contagem de mais de uma etapa de escolarização, o que justifica um total
+maior que o somatório desagregado.
+6
+
+=== página 7 ===
+Para melhor refletir sobre esses números e o impacto que trazem para avaliação,
+objetivos das próximas seções deste trabalho, é importante antes compreender o histórico e as
+motivações que são mobilizadas para o emprego deste critério.
+Embora a aplicação por escola do Saeb e o cálculo do Ideb tenham sido iniciados na
+edição de 2005, não foram aplicadas taxas mínimas para divulgação de resultados nesta edição
+e na edição de 2007.
+Apenas a terceira edição deste novo modelo censitário introduziu o critério. A Portaria
+Nº 87, de 7 de maio de 2009 (INEP, 2009), documento que estabelece as diretrizes da aplicação
+do Saeb na edição daquele ano, registra a inovação. Ela prevê que um “critério de participação
+mínima (% de participantes em relação à matrícula), a ser estabelecido e divulgado pelo Inep”
+seria aplicado para a divulgação dos resultados de desempenho do Saeb e, consequentemente,
+do Ideb de cada unidade escolar e de cada município. Entretanto, não foi possível localizar
+documentos posteriores com a divulgação da taxa mínima estabelecida pelo Instituto, embora
+os dados referentes à edição registrem unidades sem resultados divulgados por este critério.
+Nas duas edições seguintes – 2011 e 2013 – o critério mínimo de 50% de participantes
+em relação ao número de matrículas declaradas ao Censo Escolar é explicitamente instituído
+nas Portarias que estabeleceram as diretrizes de aplicação da avaliação (INEP, 2011; INEP,
+2013).
+A partir da edição de 2015, a taxa de participação mínima é elevada e estabelecida em
+80% dos estudantes previstos, assim permanecendo desde então (INEP, 2015; INEP, 2017;
+INEP, 2019a). Um importante condicionante da decisão de elevar a taxa mínima para 80% é o
+estabelecimento legal desse parâmetro no Art. 11 da Lei que rege o Plano Nacional de
+Educação, tornando a decisão pela aplicação da taxa não apenas vinculada a deliberações
+administrativas ou técnicas do Inep, mas uma obrigação legal imposta ao Instituto e às escolas
+e municípios participantes da avaliação.
+ART. 11 [...]
+§ 1º O sistema de avaliação a que se refere o caput produzirá, no máximo a
+cada 2 (dois) anos:
+I - indicadores de rendimento escolar, referentes ao desempenho dos (as)
+estudantes apurado em exames nacionais de avaliação, com participação de
+pelo menos 80% (oitenta por cento) dos (as) alunos (as) de cada ano
+escolar periodicamente avaliado em cada escola, e aos dados pertinentes
+apurados pelo censo escolar da educação básica; (BRASIL, 2014; grifos
+nossos)
+É importante observar, no entanto, que na edição de 2015 houve um recuo na decisão
+da aplicação desta taxa mínima após a aplicação das provas. O percentual mínimo aplicado foi
+diminuído novamente para 50%, conforme tradicionalmente calculado nas edições anteriores.
+Essa informação é registrada apenas a posteriori na “Nota Informativa do Ideb 2015” (INEP,
+2016: p. 3) e no “Relatório SAEB (ANEB e ANRESC) 2005-2015: panorama da década”
+(INEP, 2018a: p. 14). Não há explicitação da justificativa para o descumprimento da taxa
+mínima previamente estabelecida nos atos normativos ou documentos técnicos, abrindo espaço
+para interpretações sobre a proporção de unidades que não atenderiam ao percentual mínimo
+de participação e/ou da pouca antecedência e debate sobre o estabelecimento da medida, o que
+pode ter impactado o ambiente de demandas das redes por uma revisão do critério na edição.
+Ainda com relação a atos normativos que fazem referência à utilização da taxa mínima
+de 80% de participação, cabe dar destaque à recente publicação da Lei Nº 14.113, de 25 de
+dezembro de 2020, que reinstitui e regulamenta o Fundo de Manutenção e Desenvolvimento da
+7
+
+=== página 8 ===
+Educação Básica e de Valorização dos Profissionais da Educação – Fundeb (Brasil, 2020b). Em
+seu art. 14, o novo Fundeb torna o atendimento a esse critério uma condicionalidade para o
+recebimento da complementação do valor anual por aluno (VAAR) pelas redes públicas de
+ensino, correspondente a 2,5% da complementação realizada pela União aos recursos do fundo.
+Em outras palavras, os estados e municípios que não atinjam essa participação mínima passam,
+a partir da publicação da Lei, a sofrer impactos financeiros.
+Este fato reforça a relevância do debate acerca dos desdobramentos da implementação
+de taxas mínimas de participação no contexto amplo da avaliação educacional em larga escala
+no país, conduzindo-nos também a aprofundar as motivações, além das legais e administrativas
+já relatadas, para a aplicação deste critério.
+Do ponto de vista técnico, nas documentações oficiais do Inep, é possível encontrar
+como principal justificativa para a instituição de um percentual mínimo de participação a
+preservação da precisão estatística dos resultados (INEP, 2020c). Acrescenta-se que, do ponto
+de vista metodológico, indicadores calculados com contingentes inferiores aos estipulados não
+refletiriam fielmente o resultado de toda a escola (INEP, 2016).
+Há que se considerar que os erros estatísticos das medidas ampliam-se de forma
+diretamente proporcional ao percentual de alunos previstos porém ausentes na avaliação, e
+podem fragilizar as conclusões e extrapolações baseadas nos resultados médios alcançados
+pelas unidades escolares. É o que também enfatiza Pasquali (1996, p. 34) ao discorrer que “o
+erro de amostragem é desastroso, uma vez que poderia ocasionar inferências errôneas, dada a
+presença de vieses da amostra com respeito a esta população (falta de representatividade)”.
+Outra dimensão que está relacionada ao estabelecimento de critérios mínimos de
+participação é a existência de denúncias de manipulação de resultados com base na seleção ou
+exclusão dos alunos participantes da aplicação dos testes. É possível identificar ao longo dos
+últimos anos a abordagem dessas denúncias tanto por parte da imprensa (SEMIS, 2018;
+PITOMBO, 2018), quanto nos estudos acadêmicos que debatem os efeitos da
+responsabilização, bonificação e accountability relacionadas às avaliações externas em larga
+escala.
+De forma mais aprofundada a esse respeito, merece destaque o trabalho de Capochi
+(2017). Ao pesquisar evidências de implicações indesejadas de avaliações externas em larga
+escala no Brasil, o autor desenvolveu uma abordagem do que classificou como “ausências
+seletivas” ou “ausências não aleatórias”, caraterizadas como “as faltas que se associam com
+algum tipo específico de discente. Estas são as ausências associadas aos estratagemas que se
+visam a analisar: se os alunos tidos como ‘problema’ e de baixa proficiência forem excluídos
+da avaliação, por qualquer meio (...)” (CAPOCHI, 2017: p. 86)
+O autor dedica ainda uma seção de seu trabalho a descrever casos registrados na
+literatura nacional e internacional acerca do que nomeia “manipulação na base de dados dos
+alunos testados” (Idem, p. 61), em que são listadas situações que envolvem a atuação deliberada
+de exclusão de alunos que impactariam negativamente o resultado da escola nas avaliações
+externas, devido à pressuposição de suas baixas proficiências. Dentre os casos listados pelo
+pesquisador, há registros de dispensa prévia da presença no dia da aplicação das avaliações, de
+redirecionamento para atividades alternativas internas ou excursões recreativas externas no
+horário das provas e, até mesmo, a suspensão punitiva de estudantes que são enquadrados neste
+perfil.
+Especificamente no que se refere ao Saeb/Prova Brasil, encontramos menções em
+estudos de Camargo, Pinto e Guimarães (2008), que afirmam que alguns municípios adotam
+estratégias similares para garantir fontes de repasse de recursos federais associadas ao resultado
+8
+
+=== página 9 ===
+das avaliações. Os autores relatam casos noticiados pela imprensa de “escolas que diziam a
+determinados alunos, aqueles que tinham as maiores dificuldades, que não precisariam vir à
+escola no dia da Prova Brasil, por exemplo” (CAMARGO; PINTO; GUIMARÃES, 2008: p.
+832).
+Ancora-se no debate exposto a tese de que, ao se exigir a participação mínima de
+estudantes previstos no dia da aplicação, a eventual margem de manipulação na seleção de
+estudantes, aventada nas denúncias e estudos acadêmicos, seria diminuída e o ruído nos
+resultados da avaliação seria atenuado. É o que defende de forma mais explícita Fernandes
+(2016, p. 106) quando conclui que “os programas devem procurar incluir formas de penalizar
+a exclusão de alunos com baixa proficiência” diante da possibilidade da existência dessa
+estratégia de manipulação.
+Embora ainda haja muita discussão, divergência e polêmica acerca do assunto, o
+somatório dos argumentos técnicos, legais, políticos e sociais ora apresentados ajudou a
+consolidar e a justificar a adoção e a fixação de taxa mínima de participação para a divulgação
+do Saeb e do Ideb em 80% dos alunos previstos. Detalhamos a seguir os impactos quantitativos
+dessa medida na edição de 2017.
+4. CÁLCULO E ANÁLISE DAS TAXAS DE PARTICIPAÇÃO E DIVULGAÇÃO
+DE RESULTADOS DO SAEB/IDEB 2017
+O Saeb é certamente uma das maiores avaliações em larga escala aplicadas em todo o
+mundo, dada a dimensão territorial e populacional do Brasil e também o caráter censitário
+assumido pela avaliação. Os quantitativos da edição de 2017 explicitam esse cenário. Segundo
+dados do Inep (2018b), em 2017 participaram da aplicação de testes e questionários 5.458.065
+estudantes distribuídos em 73.027 escolas. Especificamente em relação ao Ensino Médio, a
+avaliação alcançou um total de 1.459.747 estudantes matriculados em escolas de todo o
+território nacional.
+Aplicados os critérios mínimos de participação, entretanto, o número de escolas
+participantes que obtiveram seus resultados divulgados na edição de 2017 do Saeb, bem como
+do Ideb que é a ele atrelado, sofre relevantes decréscimos. Para demonstrá-los, a presente
+pesquisa utilizou como fonte de dados as Planilhas para Download publicadas pelo Inep na
+divulgação dos dados em seu sítio eletrônico (INEP, 2020a).
+Essas planilhas, atualizadas a cada nova edição, trazem os resultados da avaliação e do
+índice divulgados por escola – assim como por município, UF, Região e Brasil – e os classifica
+adicionalmente por sua dependência administrativa (rede de ensino).
+Os dados disponibilizados representam um repositório pormenorizado das fontes
+utilizadas para produção do Ideb. Incluem as taxas de aprovação nas séries/anos pertencentes
+às etapas de ensino avaliadas, necessárias para o cálculo do Indicador de Rendimento, bem
+como os resultados da proficiência média alcançada pelas escolas e redes em Língua Portuguesa
+e Matemática, utilizados para o cálculo da Nota média padronizada do Saeb, outro componente
+do índice. Acrescentam-se aos dados divulgados nas Planilhas para Download o índice
+alcançado por cada unidade de avaliação na edição do ano e nas participações anteriores, além
+do histórico de metas a elas atribuídas.
+9
+
+=== página 10 ===
+Para o propósito do recorte assumido neste estudo, importa o enfoque relacionado ao
+quantitativo de escolas participantes do Saeb/Ideb em 2017 que alcançaram a participação
+mínima de 80% dos estudantes previstos para responderem os instrumentos da avaliação.
+O quantitativo de escolas do Ensino Médio elegíveis para a participação do Saeb em
+2017 em todo o território nacional segue detalhado por dependência administrativa na Tabela
+01. A tabela também revela o quantitativo de escolas que alcançaram o critério mínimo de
+participação de estudantes para a divulgação de seus resultados na edição de 2017 segundo a
+mesma estratificação. Esta informação deriva da soma das escolas sinalizadas com o rótulo
+“ND - Número de participantes no SAEB insuficiente para que os resultados sejam divulgados”
+nas planilhas de divulgação de resultados (INEP:2020a).
+Tabela 01: Quantitativo de escolas participantes do Saeb/Ideb Ensino Médio por dependência
+administrativa e situação de divulgação dos resultados – Brasil – 2017
+Estadual Federal Municipal Privada Total Geral
+Total de Escolas Previstas 17.809 390 180 1.246 19.625
+Escolas com resultados
+8.510 139 101 855 9.605
+divulgados
+Escolas sem resultados
+9.299 251 79 391 10.020
+divulgados
+Fonte: Elaborado pela autora com base em Inep (2020a)
+Segundo os dados disponibilizados na Tabela, é possível observar que menos da metade
+(49%) das escolas previstas para a participação no Saeb/Ideb-Ensino Médio em 2017 tiveram
+seus resultados divulgados, o que revela uma baixa taxa de atendimento ao critério mínimo de
+participação de estudantes nesse estrato da avaliação.
+Decompondo-se a análise das escolas por dependência administrativa, percebemos que
+a rede estadual de ensino acompanha o comportamento nacional, com aproximadamente 48%
+das escolas participantes do Saeb Ensino Médio em 2017 alcançando os requisitos mínimos
+para a divulgação dos resultados.
+A este respeito, é importante destacar que a oferta da etapa de escolarização do Ensino
+Médio compete prioritariamente às redes de ensino estadual e do Distrito Federal, segundo o
+Art. 211 da Constituição Brasileira (BRASIL, 1988). Essa prioridade de oferta da etapa se
+reflete na grande proporção de escolas estaduais previstas para participarem da avaliação do
+Ensino Médio em 2017: mais de 90% (17.809 de 19.625) das escolas elegíveis a participarem
+da edição nesta etapa de ensino eram vinculadas à rede estadual. Isso ajuda a explicar o
+espelhamento das taxas de divulgação dos resultados dessa rede de ensino no observado em
+relação ao agregado geral.
+Os dados relativos às escolas municipais revelam uma taxa de divulgação de resultados
+maior que a apresentada pela média nacional: 101 das 180 escolas previstas, aproximadamente
+56%, alcançaram os critérios mínimos. Deve-se também levar em consideração que a oferta do
+Ensino Médio é pouco coberta por essa dependência administrativa que, segundo o texto
+constitucional e a Lei de Diretrizes e Bases da educação brasileira, deve atuar prioritariamente
+na oferta do ensino fundamental e da educação infantil. É possível constatar na Tabela 2 que
+12 Unidades da Federação sequer possuíam escolas de Ensino Médio elegíveis a participarem
+do Saeb vinculadas às redes municipais de ensino. O percentual de escolas previstas para o Saeb
+2017 nesta dependência administrativa foi inferior a 1%, de acordo com os dados da Tabela 1.
+10
+
+=== página 11 ===
+Proporção de cobertura similar é apresentada pela rede federal no Ensino Médio, que
+correspondeu a apenas 2% das escolas previstas a participarem do Saeb em 2017.
+Curiosamente, considerando que está atrelada à mesma esfera de governo responsável pela
+condução da avaliação, esta foi a rede de ensino com a menor taxa de divulgação de resultados
+desta edição do Saeb, com apenas 36% das escolas participantes atendendo aos critérios
+estabelecidos.
+As escolas da rede privada apresentaram os maiores percentuais nacionais de
+participação dentre as previstas para a avaliação do Ensino Médio, com 69% delas tendo os
+seus resultados divulgados. O caráter voluntário da participação das escolas exclusivo para este
+estrato, exigindo a inscrição e o pagamento de taxa de participação por elas (INEP, 2017),
+ajudam a explicar o destaque desta rede em relação ao cenário ora analisado.
+Viabilizando a análise da variabilidade das taxas de participação por UF e dependência
+administrativa, a Tabela 02 apresenta o percentual de escolas participantes da edição de 2017
+que alcançaram a participação mínima exigida para a divulgação de resultados, detalhados por
+esses estratos de avaliação.
+Tabela 02: Percentual de escolas com taxa de participação superior a 80% no Saeb/Ideb Ensino
+Médio – 2017, por UF e Dependência Administrativa
+Dependência Administrativa
+UF Estadual Federal Municipal Privada Total Geral
+AC 49% 57% - 73% 52%
+AL 66% 50% - 71% 66%
+AM 45% 23% 100% 64% 47%
+AP 20% 0% - 71% 26%
+BA 36% 30% 52% 79% 38%
+CE 97% 25% - 74% 95%
+DF 14% 43% - 51% 26%
+ES 72% 31% 100% 70% 70%
+GO 79% 48% 60% 85% 79%
+MA 64% 33% 33% 70% 63%
+MG 57% 42% 70% 84% 58%
+MS 25% 0% 100% 70% 29%
+MT 29% 47% - 62% 33%
+PA 17% 33% 0% 62% 20%
+PB 48% 30% 50% 62% 49%
+PE 86% 8% 100% 65% 83%
+PI 56% 60% 0% 62% 57%
+PR 27% 19% - 50% 28%
+RJ 51% 26% 45% 62% 51%
+RN 15% 25% - 64% 21%
+RO 54% 17% - 72% 55%
+RR 39% 0% - 57% 39%
+RS 36% 48% 41% 58% 38%
+SC 25% 30% 80% 73% 28%
+SE 47% 67% - 65% 50%
+SP 42% 46% 59% 76% 44%
+TO 64% 38% - 68% 64%
+Total Geral 48% 36% 56% 69% 49%
+Fonte: Elaborado pela autora com base em Inep (2020a)
+11
+
+=== página 12 ===
+Os dados revelam grande variabilidade da proporção de escolas do Ensino Médio com
+resultados divulgados entre as Unidades da Federação. Considerando os agregados gerais,
+observamos que enquanto no estado do Ceará 95% das escolas que responderam aos testes
+alcançaram o critério mínimo de participação, no estado do Pará apenas 20% das escolas
+cumpriram o critério.
+Quando verificamos apenas as escolas vinculadas às redes estaduais de ensino, essa
+variabilidade é ainda mais acentuada, tendo o estado do Ceará novamente como o que mais
+alcançou o critério mínimo nas escolas da rede (97%), enquanto no Distrito Federal apenas 14%
+das escolas participantes conseguiram garantir que 80% dos estudantes previstos estivessem
+presentes na aplicação.
+A rede privada é a que apresenta o comportamento mais homogêneo entre os estados da
+federação, com desvios máximos de 16 pontos percentuais para cima, no caso do estado de
+Goiás, e 19 pontos percentuais para baixo, no caso do estado do Paraná, tendo como referência
+a média nacional de 69% apresentada pela rede. Mais uma vez, o caráter voluntário e por adesão
+das escolas desse estrato pode ajudar a explicar esse comportamento.
+Quanto às redes federal e municipal de ensino, é preciso novamente reconhecer que
+alguns estados contam com um quantitativo muito reduzido de escolas nesses estratos, o que
+deve ser considerado um atenuador na interpretação do alcance total (100%) ou nulo (0%)
+registrados na Tabela 2. Em todas as ocorrências dos dois extremos, verifica-se um quantitativo
+inferior a 3 escolas nos estratos avaliados.
+Para subsidiar as análises comparativas relacionadas ao alcance das taxas mínimas de
+participação no Saeb/Ideb Ensino Médio – 2017, a Tabela 03 registra os dados da avaliação
+nacional desta edição e estrato, bem como os dados aferidos nas demais etapas avaliadas (Anos
+Iniciais e Anos finais do Ensino Fundamental) e também os dados mais recentes divulgados, da
+edição de 2019, o que permite um acompanhamento da evolução do fenômeno.
+Tabela 03: Percentual de escolas com taxa de participação inferior a 80% no Saeb/Ideb por etapa de
+avaliação – Brasil – 2017 e 2019
+Total de escolas Escolas com Percentual de
+Etapa Edição
+participantes participação <80% Escolas com <80%
+2017 46.756 5.235 11%
+Anos Iniciais
+2019 45.684 3.527 8%
+2017 35.677 10.139 28%
+Anos Finais
+2019 35.682 5.962 17%
+2017 19.625 10.020 51%
+Ensino Médio
+2019 18.516 6.435 35%
+Fonte: Elaborado pela autora com base em Inep (2020a) e Inep (2019b)
+Por meio dos dados disponibilizados, percebe-se que a proporção de escolas com
+participação inferior a 80% e que, portanto, não tiveram os seus resultados divulgados, aumenta
+consideravelmente à medida que se avança pelas etapas de escolarização. Na edição de 2017,
+apenas 11% das escolas dos anos iniciais previstas não alcançaram o critério mínimo
+estabelecido pelo Inep. Nos anos finais do Ensino Fundamental, esse percentual salta para 28%,
+duas vezes e meia a mais que na etapa anterior. O impacto é ainda maior nas escolas do Ensino
+Médio, em que 51% das escolas participantes não alcançam o critério, quase cinco vezes a
+proporção do fenômeno apresentada nos anos iniciais.
+12
+
+=== página 13 ===
+Ao compararmos os dados da edição de 2017 aos alcançados na edição de 2019,
+percebemos que a questão foi atenuada neste intervalo em todas as etapas avaliadas. A
+proporção de escolas sem resultados divulgados caiu 3 pontos percentuais nos anos iniciais, 11
+pontos percentuais nos anos finais e 16 pontos percentuais no Ensino Médio. Embora tenha
+alcançado o maior decréscimo observado entre os três segmentos de escolarização, o Ensino
+Médio permaneceu com a maior defasagem de resultados divulgados por escola, alcançando
+35% daquelas que participaram na edição de 2019, em contraste com os 8% e 17% aferidos no
+primeiro e segundo segmentos, respectivamente.
+A seção a seguir debaterá o significado do cenário apresentado e os seus efeitos e
+condicionantes pedagógicos e educacionais.
+5. CONDICIONANTES E DESDOBRAMENTOS DO CENÁRIO DE
+DIVULGAÇÃO DE RESULTADOS
+É possível eleger dois eixos de análise quanto aos fatores que contribuem para as baixas
+taxas de divulgação de resultados verificadas no Saeb/Ideb do Ensino Médio: as características
+endógenas de seu público-alvo e as opções técnicas e metodológicas adotadas pela avaliação.
+Desde o senso comum até os debates acadêmicos, um dos argumentos mais mobilizados
+para explicar os problemas e deficiências qualitativas no Ensino Médio no Brasil é a motivação
+e o engajamento dos cursistas desta etapa de escolarização. Em pesquisa de abrangência
+nacional realizada sobre o tema, Abramovay e Castro (2003) constataram que três quartos dos
+professores elegeram o desinteresse dos estudantes como o principal problema da escola de
+Ensino Médio, impressão também compartilhada por cerca de 60% dos próprios estudantes que
+participaram da pesquisa.
+O que é chamado de desinteresse ou falta de engajamento desse público, e que
+certamente impacta os resultados alcançados e até mesmo o absenteísmo no dia de aplicação
+das avaliações, pode estar relacionado com várias questões características dessa faixa etária.
+Uma dela é a maior influência e envolvimento nas dinâmicas e problemas familiares nessa etapa
+de transição para a vida adulta, com destaque para os impactos da condição socioeconômica
+que muitas vezes acrescem responsabilidades e tarefas aos jovens do Ensino Médio. Relatório
+do Programa Internacional de Avaliação de Alunos – Pisa 2015 (OECD, 2017) revelou que
+43,7% por cento dos estudantes brasileiros participantes da avaliação trabalhavam de forma
+remunerada antes ou depois da escola, enquanto a média dos países da OCDE era de 23,3%.
+Adicionalmente, 79,8% dos estudantes brasileiros que responderam à avaliação declararam que
+desenvolvem tarefas domésticas e cuidados com membros familiares no período extraescolar.
+O estudo internacional ainda chama atenção para outro potencial condicionante que
+impacta o sentimento dos estudantes com relação aos testes e que, consequentemente, pode
+comprometer a presença nas datas de sua aplicação: aproximadamente 80% dos respondentes
+brasileiros afirmaram que frequentemente se preocupam com eventuais dificuldades na
+realização de provas e que se sentem muito ansiosos mesmo quando se consideram
+adequadamente preparados para elas.
+Há que se considerar ainda que é nesse segmento da Educação Básica – Ensino Médio
+- que se observam as maiores taxas de abandono e evasão escolar, o que também afeta os
+quantitativos de alunos presentes no dia da avaliação. O Relatório “Panorama da distorção
+idade-série no Brasil” (UNICEF, 2018) adiciona ao rol de fatores intervenientes a defasagem
+idade-série resultante das reprovações acumuladas nesse segmento e afirma que “em muitos
+13
+
+=== página 14 ===
+casos, o que ocorre é que os estudantes que estão em atraso acabam abandonando a escola” (p.
+5).
+Por fim, questões relacionadas à baixa identificação dos estudantes com os objetivos e
+as estruturas de organização escolar, curricular e metodológica são apontadas até mesmo pelo
+Ministério da Educação como a origem de sua desmotivação e desinteresse (MEC, 2018). A
+escola, principalmente a de Ensino Médio, tem sido considerada pouco atrativa para a
+manutenção da frequência e do engajamento do estudante do século XXI.
+O fato desse conjunto de especificidades intra e extraescolares vinculadas aos estudantes
+do Ensino Médio impactar o cenário das taxas de participação no Saeb/Ideb deve ser
+considerado pelos formuladores de políticas e projetos de avaliação educacional no próprio
+desenho de seus instrumentos e metodologias. Somam-se a elas, ainda, características do
+próprio processo de avaliação que também contribuem para o cenário discutido.
+A primeira especificidade técnica do Saeb que pode estar relacionada ao impacto nas
+taxas de participação e divulgação dos resultados, especialmente do Ensino Médio, é a
+arbitração pela data de aplicação dos testes no último trimestre do ano. As portarias que
+estabelecem a organização da avaliação demonstram que as aplicações ao longo do tempo se
+concentraram oficialmente entre a segunda quinzena de outubro e a primeira quinzena de
+novembro. O cronograma ainda sofre, por vezes, adiamentos em decorrência de problemas
+técnicos relacionados à logística de aplicação (MARIZ, 2019; SALDAÑA, 2019; GOVERNO
+DE SANTA CATARINA, 2019).
+Se observado o argumento de que a avaliação se direciona ao final de cada segmento
+educacional analisado, a opção por aplicá-la no último trimestre do ano é bastante justificada
+por se aproximar ao máximo de suas datas conclusivas. Entretanto, sabe-se que é no mesmo
+período e pelo mesmo argumento que estados e municípios que realizam suas próprias
+avaliações vão a campo, submetendo por vezes o mesmo estudante ao cansaço e à
+hiperexposição à múltiplas aplicações de testes externos, além daqueles já relacionados à rotina
+escolar, como provas bimestrais e finais.
+A ocorrência do Exame Nacional do Ensino Médio – Enem e dos vestibulares locais
+também se dá no mesmo período do ano letivo e, embora a sua aplicação não concorra com as
+datas exatas do Saeb, já que são aplicados aos finais de semana, os estudantes envolvidos na
+preparação e nos estudos para os exames podem também priorizá-los em detrimento à
+participação em avaliações voluntárias e com baixo impacto individual. É o que também atestou
+Soares (2012, s/p.), quando afirmou mesmo antes do advento da censitarização que “no ensino
+médio é fácil entender a grande taxa de ausência: a Prova Brasil é aplicada depois que os alunos
+fizeram o ENEM e não é obrigatória. Assim não tem nenhum interesse para os alunos.”
+À parte essa concorrência com outros projetos avaliativos e exames, pondera-se também
+que no final do ano letivo da última série do Ensino Médio é mais provável a observação de
+estudantes que evadam da escola ou diminuam a sua frequência em decorrência de seu status
+de aprovação e sucesso escolar ao longo do ano, incluindo estudantes que entendam ser
+irreversível uma eventual reprovação e também aqueles que, decorridos três quartos do ano
+letivo, entendam que já cumpriram os requisitos mínimos para sua aprovação e para a conclusão
+desta etapa de escolarização.
+Outra opção técnica relacionada ao calendário que pode ter afetado particularmente a
+edição 2017 do Saeb/Ideb do Ensino Médio foi a pouca antecedência entre o anúncio da decisão
+de universalizar a avaliação e a data de início das aplicações. Observa-se que, segundo a Portaria
+Nº 447, de 24 de maio 2017 (INEP, 2017), o intervalo entre as duas ações foi de apenas cinco
+meses. A Portaria estabelece ainda como pré-requisito de participação das escolas o
+14
+
+=== página 15 ===
+preenchimento do Censo Escolar do ano corrente a partir de 31 de maio, ou seja, apenas uma
+semana após a publicação da Portaria, bem como o correto preenchimento da edição anterior
+do Censo (em 2016), ação já prescrita na data de publicação do regulamento da avaliação.
+A pouca antecedência, associada à censitarização não paulatina da avaliação para esse
+estrato, pode ter inviabilizado a correta instrução e mobilização das redes de ensino e de seus
+estudantes para a relevância e os objetivos da avaliação. Reforça essa percepção a análise de
+que a proporção de unidades escolares sem resultados divulgados no Ensino Médio caiu de 51%
+para 35% na edição seguinte, quando a decisão inédita de universalizar a avaliação para o
+estrato já apresentava dois anos de exposição nacional.
+Quando contrastamos o cenário de baixas taxas de participação dos estudantes previstos
+no Ensino Médio com os objetivos assumidos para o Saeb, os condicionantes aqui debatidos
+ganham ainda mais relevância à consideração dos formuladores e gestores da avaliação externa
+em larga escala do país. Afinal, para “avaliar a qualidade da educação nacional e, assim,
+oferecer subsídios para a formulação, reformulação e monitoramento das políticas públicas
+educacionais” (INEP, 2017), é necessário garantir primeiramente que os critérios para
+divulgação dos resultados sejam amplamente atendidos e que eles retornem também às unidades
+escolares e redes para a correta análise e intepretação imprescindíveis para o monitoramento e
+reorientação educacional.
+6. CONSIDERAÇÕES FINAIS
+Diante do cenário ora descrito e analisado, fica endossada a pertinência do papel e da
+importância da participação efetiva do público-alvo previsto, bem como da adequada
+divulgação e acesso aos resultados, no contexto de ampliação da abrangência das avaliações
+externas em larga escala no Brasil. Embora existam prerrogativas legais, critérios normativos e
+benefícios técnicos apontados pela área acadêmica e demonstrados no presente estudo, a adoção
+da taxa mínima de participação de 80% dos estudantes previstos para a divulgação dos
+resultados das escolas e estratos participantes do Saeb e do Ideb tem impactado de forma cada
+vez mais escalonada a produção e os usos previstos para as informações educacionais,
+especialmente para as escolas do Ensino Médio, como aqui demonstrado.
+A censitarização da aplicação dos testes para toda a Educação Básica tende a aumentar
+ainda mais esses impactos, já que o público-alvo desenhado para o futuro da avaliação deve ser
+acrescido em volumes incomparáveis, considerando as 8 novas séries/anos incluídas e a
+alteração da periodicidade para anual, sem mencionar o acréscimo das áreas disciplinares hoje
+censitariamente não avaliadas.
+As recentes vinculações financeiras ao critério de participação mínima estabelecidas
+pelo Fundeb, como aqui descrito, representam outro importante potencializador dos efeitos das
+taxas mínimas de participação, ampliando o caráter de alto impacto dos resultados do Saeb e
+do Ideb e reforçando a necessidade de garantir medidas que promovam a melhoria dos baixos
+indicadores de divulgação dos resultados identificados.
+O levantamento realizado das causas e condicionantes das baixas taxas de participação
+no Ensino Médio elencou elementos intra e extraescolares, incluindo o engajamento e o perfil
+dos estudantes dessa etapa escolar. Entretanto, acredita-se que é nos elementos mais
+relacionados à organização da avaliação, principalmente os derivados do calendário de
+realização e das estratégias de mobilização das redes, em que residem as melhores
+possibilidades de intervenção no cenário.
+15
+
+=== página 16 ===
+Considera-se que iniciativas de debate e divulgação da problemática central desse
+estudo já se apresentam como uma possível medida de enfrentamento às altas taxas de escolas
+que deixam de receber os resultados da avaliação externa nacional e dos indicadores a elas
+atrelados. É necessário, no entanto, que elas sejam capitaneadas e ampliadas pelos condutores
+da Política Nacional de Avaliação.
+Os dados expostos e debatidos demonstraram grande variabilidade das taxas de
+divulgação de resultados entre as unidades da federação brasileiras, o que pressupõe diferentes
+graus de mobilização e preparação para a aplicação dos testes e questionários. Estudos
+centrados nas boas práticas e experiências das redes e estratos da avaliação que conseguiram
+apresentar taxas de participação adequadas ajudariam a identificar as medidas implementadas,
+as quais poderiam ser replicadas pelas redes e unidades de ensino em que esse indicador
+apresenta níveis mais preocupantes.
+A divulgação dos erros estatísticos pelo órgão central organizador do Saeb e do Ideb
+também ajudaria a justificar a adoção do critério mínimo de participação para a divulgação dos
+resultados e, associada à elucidação oficial dos impactos na variação dos resultados das
+unidades escolares, promoveria adicionalmente a maior mobilização das redes de ensino
+participantes.
+Por fim, a realização de testes e estudos-piloto de aplicações em calendários não
+concentrados em meados do último trimestre do ano letivo, como hoje adotado pelas aplicações
+do Saeb, poderia esclarecer sobre a viabilidade de antecipação da coleta de dados para períodos
+com menor interveniência dos fatores característicos do período (concorrência com outras
+avaliações e exames, maior evasão ou abandono, etc.).
+Embora esse estudo tenha priorizado a análise dos impactos do estabelecimento das
+taxas de participação por unidades escolares, a investigação do fenômeno e de suas
+consequências considerando também os estratos municipais e estaduais representaria um
+importante desdobramento. É possível ainda elencar outras dimensões relacionadas ao cenário
+de censitarização das avaliações externas que não foram aqui aprofundadas e que são passíveis
+de investigação e de consideração pelos propositores e executores das ações de avaliação.
+Destacamos eventuais estudos de correlação das proficiências médias alcançadas com as taxas
+de participação aferidas ou o levantamento de outros fatores associados a essas taxas; o
+inventário pormenorizado do impacto sobre o aporte de recursos financeiros e logísticos que
+serão necessários para a ampliação proposta para a avaliação, em diálogo com os objetivos
+assumidos por ela; a viabilidade de interpretação e intervenção pedagógica e gestora,
+considerando os tempos de retorno das devolutivas da avaliação aos estratos e unidades, que
+será ainda mais estrangulado a partir da adoção do ciclo anual; entre outras.
+Dessa maneira, a orientação e o embasamento das decisões pela ampliação da
+abrangência do Saeb estariam ancorados por evidências científicas e, possivelmente, mais bem
+recepcionadas pelos atores envolvidos no debate e na prática educacional.
+16
+
+=== página 17 ===
+REFERÊNCIAS
+ABRAMOVAY, M; CASTRO, M. G. Ensino Médio: múltiplas vozes. Brasília: UNESCO,
+MEC, 2003. 662p. Disponível em: < http://www.dominiopublico.gov.br/
+download/texto/ue000069.pdf >. Acesso em 25 jan. 2021.
+BLASIS, Eloisa de. Avaliações em larga escala: contribuições para a melhoria da qualidade na
+educação. Cadernos Cenpec | Nova série, [S.l.], v. 3, n. 1, dez. 2013. ISSN 2237-9983.
+Disponível em: <http://cadernos.cenpec.org.br/cadernos/index.php/cadernos/article/view/
+213/227>. Acesso em: 18 jan. 2021
+BONAMINO, A.; SOUSA, S. Z. Três gerações de avaliação da educação básica no Brasil:
+Interfaces com o currículo da/na escola. Em: Educação e Pesquisa. São Paulo, v. 38, n. 2, p. 73-
+388, abr./jun. 2012. Disponível em: http://www.scielo.br/pdf/ep/v38n2/aopep633.pdf. Acesso
+em: jan. 2020.
+BRASIL. Constituição da República Federativa do Brasil de 1988. Brasília, DF: Presidência da
+República: [2020]. Disponível em: http://www.planalto.gov.br/ccivil_03/constituicao/
+constituicao.htm. Acesso em: 4 nov. 2020.
+________. Lei nº 13.005, de 25 de junho de 2014. Aprova o Plano Nacional de Educação (PNE)
+e dá outras providências. Diário Oficial da União. Brasília, 26 jun. 2014. Disponível em:
+<http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm>. Acesso em: 16
+dez. 2020.
+________. Portaria Nº 564, de 19 de abril de 2017. Altera a Portaria MEC no 482, de 7 de junho
+de 2013, que dispõe sobre o Sistema de Avaliação da Educação Básica - SAEB e dá outras
+providências. MEC. Diário Oficial da União. Brasília, 20 de abril de 2020. Seção 1, p. 23.
+________. Portaria Nº 458, de 05 de maio 2020. Institui normas complementares necessárias
+ao cumprimento da Política Nacional de Avaliação da Educação Básica. MEC. Diário Oficial
+da União. Brasília, 06 de maio de 2020a. Disponível em: <https://www.in.gov.br/web/dou/-
+/portaria-n-458-de-5-de-maio-de-2020-255378342>. Acesso em: 24 set. 2020.
+________. Lei nº 14.113, de 25 de dezembro de 2020. Regulamenta o Fundo de
+Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da
+Educação (Fundeb). Diário Oficial da União. Brasília, 25 de dezembro de 2020b (edição extra).
+Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm>.
+Acesso em: 10 jan. 2021.
+BROOKE, N.; ALVES, M. T. G.; OLIVEIRA, L. K. M. Seção 2 – As avaliações chegam à
+maioridade – Introdução. Em: BROOKE, N.; ALVES, M. T. G.; OLIVEIRA, L. K. M. A
+avaliação da educação básica: a experiência brasileira. Belo Horizonte: Fino Traço, 2015. P.
+85-92.
+CAPOCCHI, Eduardo Rodrigues. Avaliações em larga escala e políticas de responsabilização
+na educação: evidências de implicações indesejadas no Brasil. 2017. Dissertação (Mestrado em
+Educação) - Faculdade de Educação, Universidade de São Paulo, São Paulo, 2017. Acesso em:
+15 dez. 2020.
+17
+
+=== página 18 ===
+CAMARGO, Rubens Barbosa de; PINTO, José Marcelino de Rezende; GUIMARAES, José
+Luiz. Sobre o financiamento no Plano de Desenvolvimento da Educação. Cadernos de Pesquisa,
+v. 38, n. 135, p. 817-839, set./dez. 2008. Disponível em: <http
+s://www.scielo.br/pdf/cp/v38n135/v38n135a14.pdf>Acesso em: 15 dez. 2020.
+FERNANDES, Reynaldo. A universalização da avaliação e a criação do Ideb: pressupostos e
+perspectivas. Em Aberto, Brasília, v. 29, n. 96, p. 99-111, maio/ago. 2016. Disponível em:
+<http://rbep.inep.gov.br/ojs3/index.php/ emaberto/article/view/3154> Acesso em: 09 set. 2020.
+FRANCO, C.; ALVES, F.; BONAMINO, A. Qualidade do ensino fundamental: políticas, suas
+possibilidades, seus limites. Educação & Sociedade, Campinas, v.28, n.100, especial, p.989-
+1014, Out. 2007.
+GOVERNO DE SANTA CATARINA. Aplicação das provas do Saeb deve iniciar no dia 25 de
+outubro em Santa Catarina. Secretaria de Estado da Educação de SC, 23 de outubro de 2019.
+Disponível em: < http://www.sed.sc.gov.br/secretaria/imprensa/noticias/30425-aplicacao-das-
+provas-do-saeb-devem-iniciar-no-dia-28-de-outubro-em-santa-catarina> . Acesso em 28 jan.
+2021.
+INEP. Saeb – Sistema de Avaliação da Educação Básica: Objetivos, diretrizes, produtos e
+resultados. Brasília, DF: MEC/INEP, 1994. 34p. Disponível em:
+<http://www.dominiopublico.gov.br/download/texto/me002195.pdf> Acesso em: 14 jan. 2021.
+___________. Portaria Nº 87, de 7 de maio 2009. Diário Oficial da União, Nº 86, sexta-feira, 8
+de maio de 2009. Seção 1, p. 48.
+___________. Portaria Nº 149, de 16 de junho 2011. Diário Oficial da União, Nº 116, sexta-
+feira, 17 de junho de 2011. Seção 1, p. 24-25.
+___________. Portaria Nº 304, de 21 de junho 2013. Diário Oficial da União, Nº 119, segunda-
+feira, 24 de junho de 2013. Seção 1, p. 33-34.
+___________. Portaria Nº 174, de 13 de maio 2015. Diário Oficial da União, Nº 90, quinta-
+feira, 14 de maio de 2015. Seção 1, p. 16.
+___________. Nota informativa Ideb 2015. Brasília, DF: INEP, 2016. Disponível em:
+<https://www.academia.edu/33352588/NOTA_INFORMATIVA_DO_IDEB_2015>. Acesso
+em: 16 dez. 2020.
+___________. Portaria Nº 447, de 24 de maio 2017. Diário Oficial da União, Nº 99, quinta-
+feira, 25 de maio de 2017. Seção 1, p. 21-22.
+___________. Relatório SAEB (ANEB e ANRESC) 2005-2015: panorama da década. Brasília:
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, 2018a. 154p.
+Disponível em: <https://download.inep.gov.br/educacao_basica/saeb/2018/
+documentos/livro_saeb_2005_2015_completo.pdf> Acesso em: 02 dez. 2020.
+___________. Press Kit Saeb 2017. Brasília, DF: INEP, 2018b. Disponível em:
+<http://download.inep.gov.br/educacao_basica/saeb/2018/documentos/presskit_saeb2017.pdf
+>. Acesso em: 30 nov. 2020.
+18
+
+=== página 19 ===
+___________. Portaria Nº 366, de 29 de abril 2019. Diário Oficial da União, Nº 83-A, quinta-
+feira, 2 de maio de 2019a. Seção 1, Edição Extra, p. 1-2.
+___________. Nota Informativa do Ideb 2017. Brasília, DF: INEP, 2019b. Disponível
+em:<https://download.inep.gov.br/educacao_basica/portal_ideb/o_que_e_o_ideb/Nota_Infor
+mativa_Ideb_2017.pdf>. Acesso em: 24 set. 2020.
+___________. Planilhas do Ideb. Brasília, DF: INEP, 2020a. Disponível em:
+<http://portal.inep.gov.br/web/guest/educacao-basica/ideb/resultados>. Acesso em: 24 set.
+2020.
+___________. Nota Informativa do Ideb 2019. Brasília, DF: INEP, 2020b. Disponível
+em:<http://download.inep.gov.br/educacao_basica/portal_ideb/o_que_e_o_ideb/nota_informa
+tiva_ideb.pdf>. Acesso em: 30 nov. 2020.
+___________. Resumo Técnico: Resultados do Índice de Desenvolvimento da Educação
+Básica. Versão Preliminar. Brasília, DF: INEP, 2020c. Disponível em:
+<https://download.inep.gov.br/educacao_basica/portal_ideb/planilhas_para_download/2019/r
+esumo_tecnico_ideb_2019_versao_preliminar.pdf>. Acesso em 16 dez. 2020.
+MACHADO, Cristiane; ALAVARSE, Ocimar. Responsabilização ou controle da qualidade do
+ensino: a que serve a avaliação externa? Educação: Teoria e Prática, Rio Claro, Vol. 25, n.48,
+p. 67-79, Jan-Abr. 2015. Disponível em: <https://www.researchgate.net/publication/
+304446405> Acesso em: 05 out. 2020.
+MARIZ, Renata. Com risco de atraso na entrega de provas, governo estuda mudar cronograma
+de avaliação do ensino básico. O Globo, 02 de outubro de 2019. Disponível em:
+<https://oglobo.globo.com/sociedade/com-risco-de-atraso-na-entrega-de-provas-governo-
+estuda-mudar-cronograma-de-avaliacao-do-ensino-basico-23991377> Acesso em 28 jan.2021.
+MEC. Guia de Implementação do Novo Ensino Médio. MEC/CONSED, Brasília, 2018.
+Disponível em: <http://novoensinomedio.mec.gov.br/resources/downloads/pdf/Guia.pdf.>
+Acesso em 27 jan. 2021.
+OECD. PISA 2015 Results (Volume III): Students’ Well-Being, PISA, OECD Publishing,
+Paris, 2017. Disponível em: <http://dx.doi.org/10.1787/9789264273856-en>. Acesso em 27
+jan. 2021.
+PASQUALI, L. A Teoria da Medida. In: PASQUALI, L. (org.). Teoria e métodos de medida
+em ciências do comportamento. Brasília: Inep, 1996, p. 21-42.
+PITOMBO, João Pedro. Alunos dizem ter substituído colegas em testes para avaliar redes de
+ensino e premiar professores. Folha de São Paulo; 30 de setembro de 2018. Disponível em:
+<https://www1.folha.uol.com.br/poder/2018/09/estudantes-de-sobral-berco-de-ciro-relatam-
+pressao-para-fraudar-provas.shtml> Acesso em: 14 dez. 2020.
+RIETHER, M. M.; RAUTER, R. A metodologia de amostragem do SAEB. Revista Brasileira
+de Estudos Pedagógicos. Brasília, v. 81, n. 197, p. 143-153, jan./abr. 2000. Disponível em:
+<http://rbepold.inep.gov.br/index.php/ rbep/article/view/968> Acesso em: 26 ago. 2020.
+19
+
+=== página 20 ===
+SALDAÑA, Paulo. Atraso na gráfica pode prejudicar cronograma de avaliação da educação
+básica. Folha de S. Paulo, 02 de outubro de 2019. Disponível em:
+<https://www1.folha.uol.com.br/educacao/2019/10/atraso-na-grafica-pode-prejudicar-
+cronograma-de-avaliacao-da-educacao-basica.shtml>. Acesso em 28 jan. 2021.
+SEMIS, Lais. Sobral: 10 perguntas e respostas sobre as suspeitas de fraude na rede. Nova
+escola; 01 de outubro 2018. Disponível em: <https://novaescola.org.br/conteudo/12665/
+respostas-para-entender-as-denuncias-de-fraude-do-ideb-em-sobral>. Acesso em 14 dez. 2020.
+SOARES, José Francisco. ENEM no IDEB? Oportunidade ou Manipulação? [Entrevista
+concedida a Simon Schwartzman]. Simon’s Site, 2012. Disponível em:
+<http://www.schwartzman.org.br/sitesimon/?p=3855>. Aceso em 28 jan. 2021.
+SOUSA, S. M. Z.; LOPES, V. V. Avaliação nas políticas educacionais atuais reitera
+desigualdades. Revista Adusp, São Paulo, s/v, n.46, p.53-59, jan. 2010.
+TOKARNIA, Mariana. MEC determina fim do Enem por escola; prova foca na seleção do
+ensino superior. Agência Brasil; 11 de março de 2017. Disponível em:
+<https://agenciabrasil.ebc.com.br/educacao/noticia/2017-03/mec-determina-fim-do-enem-por-
+escola-prova-foca-na-selecao-do-ensino>. Acesso em: 14 jan. 2021.
+UNICEF. Panorama da distorção idade-série no Brasil. Brasília, 2018. Disponível em:
+<https://www.unicef.org/brazil/media/461/file/Panorama_da_distorcao_idadeserie_no_Brasil.
+pdf>. Acesso em: mai 2020.
+20

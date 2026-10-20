@@ -1,0 +1,1667 @@
+{
+ "gerado_em": "2026-10-20",
+ "c1_indicadores": [
+  {
+   "tema": "economia",
+   "indicador": "PIB real, Brasil menos emergentes (p.p. ao ano, média)",
+   "bolsonaro_2019_2022": -1.9,
+   "lula_2023_atual": -1.5333,
+   "melhor": "maior",
+   "diferenca_minima": 0.3,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "FMI WEO"
+  },
+  {
+   "tema": "economia",
+   "indicador": "Inflação, Brasil menos emergentes (p.p. ao ano, média)",
+   "bolsonaro_2019_2022": -0.375,
+   "lula_2023_atual": -2.4667,
+   "melhor": "menor",
+   "diferenca_minima": 0.5,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "FMI WEO"
+  },
+  {
+   "tema": "economia",
+   "indicador": "Desemprego, variação ao ano (p.p.; até 08/2026)",
+   "bolsonaro_2019_2022": -0.95,
+   "lula_2023_atual": -0.7091,
+   "melhor": "menor",
+   "diferenca_minima": 0.2,
+   "pontos_lula": 0,
+   "pontos_flavio": 2,
+   "fonte": "IBGE, PNAD Contínua (SIDRA 6381)"
+  },
+  {
+   "tema": "economia",
+   "indicador": "Dívida bruta do governo geral, variação ao ano (p.p. do PIB; até 08/2026)",
+   "bolsonaro_2019_2022": -0.8975,
+   "lula_2023_atual": 3.0518,
+   "melhor": "menor",
+   "diferenca_minima": 0.5,
+   "pontos_lula": 0,
+   "pontos_flavio": 2,
+   "fonte": "Banco Central (SGS 13762)"
+  },
+  {
+   "tema": "economia",
+   "indicador": "Rendimento médio real do trabalho, variação ao ano (%; até 08/2026)",
+   "bolsonaro_2019_2022": -0.2546,
+   "lula_2023_atual": 3.6054,
+   "melhor": "maior",
+   "diferenca_minima": 0.5,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "IBGE, PNAD Contínua (SIDRA 6390)"
+  },
+  {
+   "tema": "seguranca",
+   "indicador": "Mortes violentas intencionais por 100 mil, variação ao ano",
+   "bolsonaro_2019_2022": -1.3,
+   "lula_2023_atual": -1.2,
+   "melhor": "menor",
+   "diferenca_minima": 0.3,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Anuário FBSP 2026"
+  },
+  {
+   "tema": "seguranca",
+   "indicador": "Roubo de veículo por 100 mil veículos, variação ao ano (%)",
+   "bolsonaro_2019_2022": -14.9086,
+   "lula_2023_atual": -14.3155,
+   "melhor": "menor",
+   "diferenca_minima": 2.0,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Anuários FBSP 2019, 2023 e 2026"
+  },
+  {
+   "tema": "seguranca",
+   "indicador": "Estelionato registrado, variação ao ano (%)",
+   "bolsonaro_2019_2022": 43.6901,
+   "lula_2023_atual": 7.5128,
+   "melhor": "menor",
+   "diferenca_minima": 2.0,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "Anuários FBSP 2023 e 2026"
+  },
+  {
+   "tema": "saude",
+   "indicador": "Esperança de vida, Brasil menos América Latina, variação ao ano (anos)",
+   "bolsonaro_2019_2022": -0.0889,
+   "lula_2023_atual": -0.0099,
+   "melhor": "maior",
+   "diferenca_minima": 0.1,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Banco Mundial (OMS/ONU)"
+  },
+  {
+   "tema": "saude",
+   "indicador": "Mortalidade infantil, Brasil menos América Latina, variação ao ano (por mil)",
+   "bolsonaro_2019_2022": 0.125,
+   "lula_2023_atual": 0.15,
+   "melhor": "menor",
+   "diferenca_minima": 0.1,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Banco Mundial (OMS/ONU)"
+  },
+  {
+   "tema": "saude",
+   "indicador": "Vacina de sarampo, Brasil menos América Latina, variação ao ano (p.p.)",
+   "bolsonaro_2019_2022": -0.1725,
+   "lula_2023_atual": 3.4219,
+   "melhor": "maior",
+   "diferenca_minima": 1.0,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "Banco Mundial (OMS/ONU)"
+  },
+  {
+   "tema": "educacao",
+   "indicador": "Ideb do ensino médio, variação por edição",
+   "bolsonaro_2019_2022": 0.2,
+   "lula_2023_atual": 0.15,
+   "melhor": "maior",
+   "diferenca_minima": 0.1,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Inep (via Agência Brasil, Folha de Pernambuco e Inep)"
+  },
+  {
+   "tema": "educacao",
+   "indicador": "Ideb dos anos iniciais, variação por edição",
+   "bolsonaro_2019_2022": 0.0,
+   "lula_2023_atual": 0.25,
+   "melhor": "maior",
+   "diferenca_minima": 0.1,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "Inep (via Agência Brasil, Folha de Pernambuco e Inep)"
+  },
+  {
+   "tema": "corrupcao",
+   "indicador": "Índice de Percepção da Corrupção, Brasil menos média mundial, variação ao ano (pontos)",
+   "bolsonaro_2019_2022": 0.75,
+   "lula_2023_atual": -0.6667,
+   "melhor": "maior",
+   "diferenca_minima": 1.0,
+   "pontos_lula": 0,
+   "pontos_flavio": 2,
+   "fonte": "Transparência Internacional"
+  },
+  {
+   "tema": "corrupcao",
+   "indicador": "Controle da Corrupção (Banco Mundial, nota 0 a 100), variação ao ano",
+   "bolsonaro_2019_2022": -0.1344,
+   "lula_2023_atual": 0.5077,
+   "melhor": "maior",
+   "diferenca_minima": 3.0,
+   "pontos_lula": 1,
+   "pontos_flavio": 1,
+   "fonte": "Banco Mundial (WGI)"
+  },
+  {
+   "tema": "pobreza",
+   "indicador": "Extrema pobreza (US$ 3 por dia), variação ao ano (p.p.)",
+   "bolsonaro_2019_2022": -0.5,
+   "lula_2023_atual": -0.95,
+   "melhor": "menor",
+   "diferenca_minima": 0.2,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "Banco Mundial sobre a PNAD (emenda 5)"
+  },
+  {
+   "tema": "pobreza",
+   "indicador": "Índice de Gini do rendimento domiciliar per capita, variação ao ano",
+   "bolsonaro_2019_2022": -0.007,
+   "lula_2023_atual": -0.002,
+   "melhor": "menor",
+   "diferenca_minima": 0.003,
+   "pontos_lula": 0,
+   "pontos_flavio": 2,
+   "fonte": "IBGE, PNAD Contínua (SIDRA 7435)"
+  },
+  {
+   "tema": "pobreza",
+   "indicador": "Subalimentação (FAO, média de 3 anos), variação ao ano (p.p.)",
+   "bolsonaro_2019_2022": 0.225,
+   "lula_2023_atual": -0.45,
+   "melhor": "menor",
+   "diferenca_minima": 0.5,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "FAO (via Banco Mundial)"
+  }
+ ],
+ "c1_sensibilidade_sem_2020_2021": [
+  {
+   "tema": "economia",
+   "indicador": "PIB real, Brasil menos emergentes (p.p. ao ano, média)",
+   "bolsonaro_2019_2022": -1.95,
+   "lula_2023_atual": -1.5333,
+   "melhor": "maior",
+   "diferenca_minima": 0.3,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "FMI WEO"
+  },
+  {
+   "tema": "economia",
+   "indicador": "Inflação, Brasil menos emergentes (p.p. ao ano, média)",
+   "bolsonaro_2019_2022": -0.9,
+   "lula_2023_atual": -2.4667,
+   "melhor": "menor",
+   "diferenca_minima": 0.5,
+   "pontos_lula": 2,
+   "pontos_flavio": 0,
+   "fonte": "FMI WEO"
+  }
+ ],
+ "c1_sensibilidade_todos_os_mandatos": [
+  {
+   "indicador": "PIB, Brasil menos emergentes",
+   "bolsonaro": -1.9,
+   "lula_todos_os_mandatos": -2.191,
+   "dilma": -4.533,
+   "pontos_lula": 1,
+   "pontos_flavio": 1
+  },
+  {
+   "indicador": "Inflação, Brasil menos emergentes",
+   "bolsonaro": -0.375,
+   "lula_todos_os_mandatos": -0.655,
+   "dilma": 1.633,
+   "pontos_lula": 1,
+   "pontos_flavio": 1
+  },
+  {
+   "indicador": "Esperança de vida, Brasil menos América Latina (variação ao ano)",
+   "bolsonaro": -0.089,
+   "lula_todos_os_mandatos": 0.152,
+   "dilma": 0.006,
+   "pontos_lula": 2,
+   "pontos_flavio": 0
+  },
+  {
+   "indicador": "Mortalidade infantil, Brasil menos América Latina (variação ao ano)",
+   "bolsonaro": 0.125,
+   "lula_todos_os_mandatos": -0.32,
+   "dilma": 0.2,
+   "pontos_lula": 2,
+   "pontos_flavio": 0
+  },
+  {
+   "indicador": "Vacina de sarampo, Brasil menos América Latina (variação ao ano)",
+   "bolsonaro": -0.172,
+   "lula_todos_os_mandatos": 0.995,
+   "dilma": -0.556,
+   "pontos_lula": 2,
+   "pontos_flavio": 0
+  }
+ ],
+ "c2": {
+  "lula": 77.78,
+  "flavio": 41.38,
+  "base": {
+   "lula": "26 cumpridas, 4 em parte e 6 não, de 36 (até 30/06/2026)",
+   "flavio": "19 cumpridas, 10 em parte (17%) e 29 não, de 58 (até 31/12/2022, governo Jair Bolsonaro)"
+  }
+ },
+ "c6": {
+  "evento": "05/10/2026, primeiro pregão depois do 1º turno",
+  "ibovespa_dia_pct": 7.7,
+  "eem_dia_pct": 1.57,
+  "bolsa_anormal_pct": 6.14,
+  "desvio_padrao_bolsa_pct": 1.5,
+  "z_bolsa": 4.1,
+  "ptax_dia_pct": -4.55,
+  "dolar_emergentes_dia_pct": -0.21,
+  "moeda_anormal_pct": -4.35,
+  "desvio_padrao_moeda_pct": 0.68,
+  "z_moeda": -6.4,
+  "pregoes_na_base": 250,
+  "nota": {
+   "flavio": 100,
+   "lula": 0
+  },
+  "juros_futuros": {
+   "di_jan2031_05out": {
+    "de": 13.99,
+    "para": 12.7,
+    "fontes": [
+     "M-moneytimes-juros-5-10-26",
+     "M04-noticiasdoplanalto-juros"
+    ]
+   },
+   "di_jan2031_15out": {
+    "de": 12.494,
+    "para": 12.76,
+    "polymarket_flavio": {
+     "de": 89,
+     "para": 76
+    },
+    "fontes": [
+     "M-moneytimes-juros-15-10-26",
+     "M02-ocafezinho-juros-16out"
+    ]
+   }
+  }
+ },
+ "propostas": [
+  {
+   "id": "L-S-a",
+   "lado": "lula",
+   "tema": "seguranca",
+   "subtema": "a",
+   "pagina_plano": "27",
+   "proposta": "Manter a asfixia financeira do crime organizado, com a Lei Antifacção sancionada em 2026",
+   "trecho_do_plano": "Manteremos a estratégia de asfixia financeira do crime organizado",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: a Lei Antifacção (Lei 15.358/2026) está em vigor e a asfixia financeira já é feita",
+   "c3_evid": "EV001;EV002",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; não há avaliação publicada de efeito",
+   "c4_evid": "EV001;EV002",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-S-b",
+   "lado": "lula",
+   "tema": "seguranca",
+   "subtema": "b",
+   "pagina_plano": "28",
+   "proposta": "Cumprir as metas do Plano Pena Justa e criar o Pacto Nacional de Execução Penal",
+   "trecho_do_plano": "Cumpriremos as metas do Plano Pena Justa e instituiremos o Pacto Nacional de Execução Penal",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Proposta composta (emenda 5): o Pena Justa já está homologado e em execução, mas o Pacto Nacional de Execução Penal é novo e depende de decisão do Executivo",
+   "c3_evid": "EV003;EV004",
+   "c4_nota": 35.0,
+   "c4_motivo": "Parte nova (o Pacto) sem evidência encontrada; vale o elo mais fraco (emenda 5)",
+   "c4_evid": "EV003",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-S-c",
+   "lado": "lula",
+   "tema": "seguranca",
+   "subtema": "c",
+   "pagina_plano": "28",
+   "proposta": "Manter a política de controle de armas e munições (revogação dos decretos de acesso a armas)",
+   "trecho_do_plano": "manteremos uma política de controle de armas e munições",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: o decreto de controle de armas está em vigor",
+   "c3_evid": "EV005",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona, com avaliação mista: estudos associam o Estatuto do Desarmamento a menos homicídios e outro estudo encontra efeito pequeno, aumento entre jovens negros e nenhum efeito das armas legais",
+   "c4_evid": "EV006;EV007;EV008",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-S-d",
+   "lado": "lula",
+   "tema": "seguranca",
+   "subtema": "d",
+   "pagina_plano": "30",
+   "proposta": "Criar o Ministério da Segurança Pública depois de aprovada a PEC da Segurança (repetida no debate)",
+   "trecho_do_plano": "Uma vez aprovada a PEC da Segurança Pública proposta pelo Executivo, criaremos o Ministério da Segurança Pública",
+   "c3_degrau": "5",
+   "c3_nota": 25.0,
+   "c3_motivo": "Emenda à Constituição (3/5), do lado mais longe da maioria (degrau 6), com +1 degrau porque já passou na Câmara; a votação no Senado ficou para depois do 2º turno",
+   "c3_evid": "EV009;EV010;EV011",
+   "c4_nota": 35.0,
+   "c4_motivo": "Ministério novo; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-S-a",
+   "lado": "flavio",
+   "tema": "seguranca",
+   "subtema": "a",
+   "pagina_plano": "13",
+   "proposta": "Declarar PCC, CV e milícias organizações narcoterroristas (repetida no debate)",
+   "trecho_do_plano": "PCC, CV, milícias e todas as outras facções serão declaradas como organizações narcoterroristas",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Lei ordinária, do lado da maioria do Congresso de 2027; o projeto parecido passou só numa comissão da Câmara",
+   "c3_evid": "EV012;EV013",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Regra legal, sem custo direto; o plano não diz isso (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-S-b",
+   "lado": "flavio",
+   "tema": "seguranca",
+   "subtema": "b",
+   "pagina_plano": "13",
+   "proposta": "Reduzir a maioridade penal de 18 para 16 anos, e punir maiores de 14 por crimes graves (repetida no debate)",
+   "trecho_do_plano": "O novo governo do Brasil vai apoiar e sancionar a redução da maioridade penal de 18 para 16 anos",
+   "c3_degrau": "5",
+   "c3_nota": 25.0,
+   "c3_motivo": "Emenda à Constituição (art. 228), do lado mais perto dos 3/5; sem bônus de tramitação porque o texto aprovado na Câmara em 2015 (16 anos para crimes hediondos) é diferente da proposta (16 anos para todos e 14 para crimes graves), e a emenda igual à proposta não foi votada no Senado",
+   "c3_evid": "EV014;EV015",
+   "c4_nota": 35.0,
+   "c4_motivo": "Evidência mista: punição mais dura aos 18 anos reduz pouco o crime num estudo (Lee e McCrary) e mais em outro (Levitt, citado no mesmo trabalho)",
+   "c4_evid": "EV016",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte (e prender mais custa)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-S-c",
+   "lado": "flavio",
+   "tema": "seguranca",
+   "subtema": "c",
+   "pagina_plano": "13",
+   "proposta": "Criar o Sistema Nacional de Fronteira com Exército, Marinha e Aeronáutica (repetida no debate)",
+   "trecho_do_plano": "Vamos criar o Sistema Nacional de Fronteira, uma tropa de elite do Exército, da Marinha e",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Decisão do Executivo: a LC 97/1999 já autoriza as Forças Armadas na faixa de fronteira",
+   "c3_evid": "EV017",
+   "c4_nota": 35.0,
+   "c4_motivo": "O sistema proposto é novo; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-S-d",
+   "lado": "flavio",
+   "tema": "seguranca",
+   "subtema": "d",
+   "pagina_plano": "13",
+   "proposta": "Consórcios e convênios com estados e municípios para investir em inteligência, territórios e polícia",
+   "trecho_do_plano": "Vamos fazer consórcios e convênios com estados e municípios para investir em inteligência",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Decisão do Executivo sobre lei existente: o Fundo Nacional de Segurança Pública já transfere recursos a estados e municípios",
+   "c3_evid": "EV018",
+   "c4_nota": 65.0,
+   "c4_motivo": "O mecanismo de repasse funciona; sem avaliação publicada de efeito",
+   "c4_evid": "EV018",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-H-a",
+   "lado": "lula",
+   "tema": "saude",
+   "subtema": "a",
+   "pagina_plano": "34",
+   "proposta": "Manter o apoio à expansão e qualificação das equipes de Saúde da Família",
+   "trecho_do_plano": "Seguiremos mantendo o apoio à expansão e qualificação das equipes de saúde",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: a Estratégia Saúde da Família está em execução",
+   "c3_evid": "EV020;EV021",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliação publicada: estudos nacionais associam a Saúde da Família a menos mortes",
+   "c4_evid": "EV020;EV021",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-H-b",
+   "lado": "lula",
+   "tema": "saude",
+   "subtema": "b",
+   "pagina_plano": "37",
+   "proposta": "Impulsionar o Agora Tem Especialistas (filas de consultas, exames e cirurgias; repetida no debate)",
+   "trecho_do_plano": "As ações do Agora Tem Especialistas serão ainda mais impulsionadas",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter e ampliar: o Agora Tem Especialistas virou lei em 2025",
+   "c3_evid": "EV022;EV023",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona desde 2025; sem avaliação de impacto publicada",
+   "c4_evid": "EV022",
+   "c5_nota": 50.0,
+   "c5_motivo": "O plano diz a fonte (créditos financeiros de hospitais privados), não o custo",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-H-c",
+   "lado": "lula",
+   "tema": "saude",
+   "subtema": "c",
+   "pagina_plano": "35",
+   "proposta": "Consolidar o prontuário único do cidadão pela Rede Nacional de Dados em Saúde",
+   "trecho_do_plano": "Vamos acelerar os esforços na consolidação do prontuário único do cidadão",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: a Rede Nacional de Dados em Saúde já funciona",
+   "c3_evid": "EV024",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito publicada",
+   "c4_evid": "EV024",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-H-d",
+   "lado": "lula",
+   "tema": "saude",
+   "subtema": "d",
+   "pagina_plano": "36",
+   "proposta": "Manter o Farmácia Popular 100% gratuito e incluir exames",
+   "trecho_do_plano": "O programa será mantido, 100% gratuito",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: o Farmácia Popular está em execução",
+   "c3_evid": "EV026",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliação publicada: menos internações e óbitos por hipertensão e diabetes",
+   "c4_evid": "EV025;EV026",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-H-a",
+   "lado": "flavio",
+   "tema": "saude",
+   "subtema": "a",
+   "pagina_plano": "37",
+   "proposta": "Ampliar a Estratégia Saúde da Família",
+   "trecho_do_plano": "Vamos ampliar a Estratégia Saúde da Família",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Ampliar por decisão do Executivo um programa que existe (emenda 4e)",
+   "c3_evid": "EV020",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliação publicada (o mesmo programa)",
+   "c4_evid": "EV020;EV021",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-H-b",
+   "lado": "flavio",
+   "tema": "saude",
+   "subtema": "b",
+   "pagina_plano": "37",
+   "proposta": "Corrigir a tabela SUS para hospitais, santas casas e clínicas",
+   "trecho_do_plano": "Vamos garantir as condições para que seja possível a correção efetiva da tabela SUS",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "A lei do reajuste existe; corrigir a tabela é ato do Ministério e depende de orçamento",
+   "c3_evid": "EV027",
+   "c4_nota": 35.0,
+   "c4_motivo": "Correção maior é nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte; o Ministério estima impacto bilionário da defasagem",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-H-c",
+   "lado": "flavio",
+   "tema": "saude",
+   "subtema": "c",
+   "pagina_plano": "26",
+   "proposta": "Implantar o prontuário eletrônico único ligado ao CPF (repetida no debate)",
+   "trecho_do_plano": "Vamos implantar o prontuário eletrônico único, vinculado ao CPF",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Concluir por decisão do Executivo um sistema que existe (a Rede Nacional de Dados em Saúde, criada em 2020)",
+   "c3_evid": "EV024",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito publicada",
+   "c4_evid": "EV024",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-H-d",
+   "lado": "flavio",
+   "tema": "saude",
+   "subtema": "d",
+   "pagina_plano": "37",
+   "proposta": "Manter a imunização e incentivar a produção nacional de vacinas",
+   "trecho_do_plano": "manter a imunização e o incentivo à produção nacional de vacinas",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: a vacinação do SUS está em execução",
+   "c3_evid": "EV029;EV030",
+   "c4_nota": 100.0,
+   "c4_motivo": "Efeito observado: o país recuperou o certificado de livre do sarampo depois que a cobertura subiu",
+   "c4_evid": "EV029;EV030",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-E-a",
+   "lado": "lula",
+   "tema": "economia",
+   "subtema": "a",
+   "pagina_plano": "49",
+   "proposta": "Manter o novo arcabouço fiscal",
+   "trecho_do_plano": "manteremos o novo arcabouço fiscal",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: o arcabouço fiscal é lei complementar em vigor",
+   "c3_evid": "EV031",
+   "c4_nota": 35.0,
+   "c4_motivo": "Evidência mista: o déficit primário caiu, mas a IFI projeta dívida crescente até 2036 com a regra atual",
+   "c4_evid": "EV032;EV033",
+   "c5_nota": 100.0,
+   "c5_motivo": "Regra que limita o gasto; o plano diz isso",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-E-b",
+   "lado": "lula",
+   "tema": "economia",
+   "subtema": "b",
+   "pagina_plano": "48",
+   "proposta": "Consolidar a reforma tributária do consumo em implementação",
+   "trecho_do_plano": "consolidar os avanços promovidos pela reforma tributária",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: a reforma tributária do consumo está em lei e em transição desde 2026",
+   "c3_evid": "EV034",
+   "c4_nota": 65.0,
+   "c4_motivo": "Em implementação; sem avaliação de efeito",
+   "c4_evid": "EV034",
+   "c5_nota": 50.0,
+   "c5_motivo": "Desenho com carga neutra, sem custo novo (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-E-c",
+   "lado": "lula",
+   "tema": "economia",
+   "subtema": "c",
+   "pagina_plano": "49",
+   "proposta": "Manter os fundos garantidores, o controle de gastos com apostas e aprimorar regras de crédito",
+   "trecho_do_plano": "aprimorando as regras de oferta e responsabilidade na concessão de crédito",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Regras de crédito e apostas são atos do Executivo e do Conselho Monetário sobre leis existentes",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Regras novas; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Regra, sem custo direto (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-E-d",
+   "lado": "lula",
+   "tema": "economia",
+   "subtema": "d",
+   "pagina_plano": "74",
+   "proposta": "Fortalecer o Sistema Público de Emprego, Trabalho e Renda e a qualificação profissional",
+   "trecho_do_plano": "Começamos a reconstruir o Sistema Público de Emprego, Trabalho, Renda, objetivo que será fortalecido",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o Sistema Público de Emprego já existe",
+   "c3_evid": "",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito publicada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-E-a",
+   "lado": "flavio",
+   "tema": "economia",
+   "subtema": "a",
+   "pagina_plano": "71",
+   "proposta": "Reformular as regras fiscais com foco na dívida, superávits e controle de gastos dos três Poderes",
+   "trecho_do_plano": "Apresentaremos uma reformulação nas atuais regras fiscais",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Mudar a regra fiscal exige lei complementar (o arcabouço é LC 200/2023), do lado da maioria do Congresso de 2027",
+   "c3_evid": "EV031",
+   "c4_nota": 35.0,
+   "c4_motivo": "Evidência mista: a regra anterior com teto foi cumprida e depois contornada por emendas constitucionais no governo Bolsonaro",
+   "c4_evid": "EV035;EV036",
+   "c5_nota": 100.0,
+   "c5_motivo": "Regra que limita o gasto e promete superávit; o plano diz isso",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-E-b",
+   "lado": "flavio",
+   "tema": "economia",
+   "subtema": "b",
+   "pagina_plano": "30",
+   "proposta": "Rever e redimensionar a reforma tributária para reduzir o IVA",
+   "trecho_do_plano": "Vamos promover a revisão e o redimensionamento da reforma tributária em curso",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Rever alíquotas e exceções da reforma exige lei complementar (LC 214/2025), do lado da maioria",
+   "c3_evid": "EV034",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "Reduz receita; o plano não diz custo nem de onde sai o dinheiro",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-E-c",
+   "lado": "flavio",
+   "tema": "economia",
+   "subtema": "c",
+   "pagina_plano": "31",
+   "proposta": "Simplificar a conta de luz e reduzir CDE, encargos e impostos sobre energia e combustíveis",
+   "trecho_do_plano": "Vamos simplificar a conta de luz, racionalizando encargos e subsídios cruzados",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Reduzir encargos da conta de luz e impostos sobre energia e combustíveis exige lei; do lado da maioria",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "Reduz receita e subsídio cruzado; o plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-E-d",
+   "lado": "flavio",
+   "tema": "economia",
+   "subtema": "d",
+   "pagina_plano": "43",
+   "proposta": "Reduzir gradualmente o custo do trabalho e criar contrato de primeiro emprego de 18 a 24 anos",
+   "trecho_do_plano": "Vamos reduzir gradualmente o custo do trabalho, sem retirar direitos",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Novo contrato de trabalho com menos encargos exige lei; do lado da maioria (a MP parecida de 2019 perdeu a validade sem acordo no Congresso da época)",
+   "c3_evid": "EV037;EV038",
+   "c4_nota": 35.0,
+   "c4_motivo": "Evidência mista: a desoneração da folha não mostrou efeito no emprego no Brasil; houve formalização em outro país",
+   "c4_evid": "EV039;EV040",
+   "c5_nota": 0.0,
+   "c5_motivo": "Reduz receita; o plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Ed-a",
+   "lado": "lula",
+   "tema": "educacao",
+   "subtema": "a",
+   "pagina_plano": "31",
+   "proposta": "Seguir o Compromisso Nacional Criança Alfabetizada até 80% alfabetizados na idade certa",
+   "trecho_do_plano": "Seguiremos com as ações e políticas já pactuadas com os estados e municípios brasileiros para chegarmos à meta de 80%",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o Compromisso Nacional Criança Alfabetizada é decreto em vigor",
+   "c3_evid": "EV041",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona e o indicador subiu; sem avaliação de impacto",
+   "c4_evid": "EV041",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Ed-b",
+   "lado": "lula",
+   "tema": "educacao",
+   "subtema": "b",
+   "pagina_plano": "32",
+   "proposta": "Continuar e fortalecer o Pé-de-Meia",
+   "trecho_do_plano": "Vamos dar continuidade e fortalecer o Pé-de-Meia",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o Pé-de-Meia é lei em vigor",
+   "c3_evid": "EV042",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; há estimativa ex-ante e dados administrativos, sem avaliação de impacto observada, e há crítica de que a evasão não caiu",
+   "c4_evid": "EV043;EV044",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Ed-c",
+   "lado": "lula",
+   "tema": "educacao",
+   "subtema": "c",
+   "pagina_plano": "31",
+   "proposta": "Ampliar o apoio a creches e pré-escolas pelo Novo PAC",
+   "trecho_do_plano": "Na segunda edição do Novo PAC, ampliaremos ainda mais o fomento a estados e municípios",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o apoio a creches pelo Novo PAC está em execução",
+   "c3_evid": "",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito do programa",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "O plano diz a fonte (Novo PAC), não o custo",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Ed-d",
+   "lado": "lula",
+   "tema": "educacao",
+   "subtema": "d",
+   "pagina_plano": "33",
+   "proposta": "Pé-de-Meia Licenciatura e Bolsa Mais Professores (repetida no debate)",
+   "trecho_do_plano": "por meio do Pé-de-Meia Licenciatura",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o Pé-de-Meia Licenciatura existe desde 2025",
+   "c3_evid": "EV046;EV047",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito",
+   "c4_evid": "EV046",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Ed-a",
+   "lado": "flavio",
+   "tema": "educacao",
+   "subtema": "a",
+   "pagina_plano": "35",
+   "proposta": "Priorizar o método fônico na alfabetização",
+   "trecho_do_plano": "Vamos priorizar o método fônico",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Decisão do Executivo (decreto); a política de 2019 com método fônico foi decreto e revogada em 2023",
+   "c3_evid": "EV048;EV041",
+   "c4_nota": 65.0,
+   "c4_motivo": "Nova como política nacional, com evidência a favor da instrução fônica sistemática",
+   "c4_evid": "EV049;EV050",
+   "c5_nota": 50.0,
+   "c5_motivo": "Diretriz pedagógica, sem custo novo relevante (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Ed-b",
+   "lado": "flavio",
+   "tema": "educacao",
+   "subtema": "b",
+   "pagina_plano": "36",
+   "proposta": "Ampliar a educação técnica no ensino médio, com o setor produtivo",
+   "trecho_do_plano": "Vamos ampliar a oferta de educação técnica para os alunos do ensino médio",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Ampliar o ensino técnico no ensino médio é decisão do Executivo com estados sobre lei existente",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Sem avaliação de efeito encontrada para o desenho proposto",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "O plano diz uma fonte possível (bolsas pagas pelo setor produtivo), não o custo",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Ed-c",
+   "lado": "flavio",
+   "tema": "educacao",
+   "subtema": "c",
+   "pagina_plano": "21",
+   "proposta": "Ampliar creches em período integral e dar voucher-creche onde faltar vaga",
+   "trecho_do_plano": "Vamos ampliar a oferta de creches para as crianças desde a primeira infância",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Ampliar creches e criar voucher onde faltar vaga, por decisão do Executivo com municípios",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Parte nova (voucher-creche) sem evidência encontrada; vale o elo mais fraco (emenda 5)",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Ed-d",
+   "lado": "flavio",
+   "tema": "educacao",
+   "subtema": "d",
+   "pagina_plano": "35",
+   "proposta": "Qualificação contínua de professores baseada em evidências",
+   "trecho_do_plano": "Os professores terão qualificação contínua baseada em evidências científicas",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Formação de professores é decisão do Executivo com as redes",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Sem avaliação de efeito encontrada para o desenho proposto",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Cr-a",
+   "lado": "lula",
+   "tema": "corrupcao",
+   "subtema": "a",
+   "pagina_plano": "18",
+   "proposta": "Aprofundar o Plano de Integridade e Combate à Corrupção 2025-2027",
+   "trecho_do_plano": "O Plano de Integridade e Combate à Corrupção 2025–2027 representa um avanço institucional que será aprofundado",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Aprofundar: o Plano de Integridade 2025-2027 está em vigor",
+   "c3_evid": "EV051;EV052",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito",
+   "c4_evid": "EV051",
+   "c5_nota": 50.0,
+   "c5_motivo": "Cada órgão executa com o próprio orçamento (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Cr-b",
+   "lado": "lula",
+   "tema": "corrupcao",
+   "subtema": "b",
+   "pagina_plano": "18",
+   "proposta": "Portal da Transparência com dados abertos e inteligência artificial",
+   "trecho_do_plano": "O Portal da Transparência receberá investimentos para evoluir para uma plataforma inteligente",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Evoluir o Portal da Transparência é decisão do Executivo",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano fala em investimentos, sem valor nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Cr-c",
+   "lado": "lula",
+   "tema": "corrupcao",
+   "subtema": "c",
+   "pagina_plano": "27",
+   "proposta": "Medidas rígidas para barrar candidaturas de pessoas ligadas ao crime organizado",
+   "trecho_do_plano": "medidas rígidas para barrar candidaturas de indivíduos ligados ao crime organizado",
+   "c3_degrau": "4",
+   "c3_nota": 35.0,
+   "c3_motivo": "Mudar regras de candidatura exige lei complementar (inelegibilidade), fora do lado da maioria",
+   "c3_evid": "EV053",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Regra, sem custo direto (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Cr-b",
+   "lado": "flavio",
+   "tema": "corrupcao",
+   "subtema": "b",
+   "pagina_plano": "69",
+   "proposta": "Mais transparência, controle e rastreabilidade das emendas parlamentares",
+   "trecho_do_plano": "daremos mais transparência, controle e rastreabilidade às emendas parlamentares",
+   "c3_degrau": "3",
+   "c3_nota": 60.0,
+   "c3_motivo": "Mudar regras das emendas exige lei complementar (LC 210/2024), do lado da maioria",
+   "c3_evid": "EV054",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Regra, sem custo direto (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Cr-c",
+   "lado": "flavio",
+   "tema": "corrupcao",
+   "subtema": "c",
+   "pagina_plano": "65",
+   "proposta": "Reforma do STF: fim do foro criminal originário, limite a decisões individuais, quarentena",
+   "trecho_do_plano": "Fim das competências criminais originárias do STF",
+   "c3_degrau": "4",
+   "c3_nota": 35.0,
+   "c3_motivo": "Emenda à Constituição do lado mais perto dos 3/5 (degrau 5) com +1 degrau: partes iguais já passaram no Senado (decisões individuais em 2023; fim do foro em 2017)",
+   "c3_evid": "EV055;EV056;EV057;EV058",
+   "c4_nota": 35.0,
+   "c4_motivo": "Medida nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Regra, sem custo direto (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-Cr-d",
+   "lado": "flavio",
+   "tema": "corrupcao",
+   "subtema": "d",
+   "pagina_plano": "70",
+   "proposta": "Estatais com comando técnico: fortalecer a Lei das Estatais e recrutar com regras de mercado",
+   "trecho_do_plano": "o comando das estatais e dos cargos de direção será preenchido por recrutamento com regras de mercado",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Recrutar dirigentes por regras de mercado é decisão do Executivo; a Lei das Estatais está em vigor",
+   "c3_evid": "EV059",
+   "c4_nota": 35.0,
+   "c4_motivo": "Prática nova; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 50.0,
+   "c5_motivo": "Gestão, sem custo direto (inferido)",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-P-a",
+   "lado": "lula",
+   "tema": "pobreza",
+   "subtema": "a",
+   "pagina_plano": "18",
+   "proposta": "Manter, aperfeiçoar e ampliar a proteção social e a transferência de renda (Bolsa Família)",
+   "trecho_do_plano": "devemos manter, aperfeiçoar e ampliar as políticas de proteção social para quem mais necessita",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter e ampliar: o Bolsa Família é lei em vigor",
+   "c3_evid": "EV060",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliações publicadas associam o programa a menos mortes e internações",
+   "c4_evid": "EV061;EV062",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-P-b",
+   "lado": "lula",
+   "tema": "pobreza",
+   "subtema": "b",
+   "pagina_plano": "74",
+   "proposta": "Continuar a valorização do salário mínimo (repetida no debate)",
+   "trecho_do_plano": "dará continuidade à política de valorização do salário mínimo",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: a política de valorização do salário mínimo é lei",
+   "c3_evid": "EV063",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliação publicada: o salário mínimo explica parte grande da queda da desigualdade, com efeito pequeno no emprego",
+   "c4_evid": "EV064",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-P-c",
+   "lado": "lula",
+   "tema": "pobreza",
+   "subtema": "c",
+   "pagina_plano": "26",
+   "proposta": "Cozinhas solidárias e restaurantes populares",
+   "trecho_do_plano": "Fomentaremos a construção de infraestruturas que ampliam os cuidados indiretos e comunitários, como as lavanderias públicas, as cozinhas solidárias e os restaurantes populares",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Continuar: o Programa Cozinha Solidária está em lei",
+   "c3_evid": "EV065",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona; sem avaliação de efeito",
+   "c4_evid": "EV065",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-P-d",
+   "lado": "lula",
+   "tema": "pobreza",
+   "subtema": "d",
+   "pagina_plano": "45",
+   "proposta": "Manter e ampliar o Minha Casa, Minha Vida",
+   "trecho_do_plano": "O MCMV será mantido e ampliado no próximo mandato",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter e ampliar: o Minha Casa Minha Vida é lei em vigor",
+   "c3_evid": "EV066",
+   "c4_nota": 65.0,
+   "c4_motivo": "Funciona com avaliação mista (moradia entregue, mas segregação em estudos de caso)",
+   "c4_evid": "EV066;EV067",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-P-a",
+   "lado": "flavio",
+   "tema": "pobreza",
+   "subtema": "a",
+   "pagina_plano": "42",
+   "proposta": "Manter os programas sociais existentes, com gestão e combate a fraudes (Bolsa Família repetido no debate)",
+   "trecho_do_plano": "vamos manter os programas sociais existentes, com aperfeiçoamento da gestão, correção de distorções e combate às fraudes",
+   "c3_degrau": "1",
+   "c3_nota": 100.0,
+   "c3_motivo": "Manter: os programas sociais estão em lei",
+   "c3_evid": "EV060",
+   "c4_nota": 100.0,
+   "c4_motivo": "Avaliações publicadas do Bolsa Família",
+   "c4_evid": "EV061;EV062",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-P-b",
+   "lado": "flavio",
+   "tema": "pobreza",
+   "subtema": "b",
+   "pagina_plano": "43",
+   "proposta": "Prioridade e trilha de emprego e qualificação para beneficiários, com volta sem fila ao benefício",
+   "trecho_do_plano": "o beneficiário de programa social terá prioridade em todas as ações do Estado voltadas ao trabalho",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Dar prioridade e trilha de emprego aos beneficiários é decisão do Executivo; a lei do Bolsa Família já prevê limite de desligamento",
+   "c3_evid": "EV069",
+   "c4_nota": 35.0,
+   "c4_motivo": "Desenho novo; sem avaliação de efeito encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-P-c",
+   "lado": "flavio",
+   "tema": "pobreza",
+   "subtema": "c",
+   "pagina_plano": "31",
+   "proposta": "Comida mais barata: corredores logísticos, seguro rural e armazenagem de safras",
+   "trecho_do_plano": "Vamos criar os Corredores Logísticos Inteligentes",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Corredores logísticos, seguro rural e armazéns são decisões de orçamento e do Executivo",
+   "c3_evid": "",
+   "c4_nota": 35.0,
+   "c4_motivo": "Sem avaliação do efeito sobre o preço da comida encontrada",
+   "c4_evid": "",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "F-P-d",
+   "lado": "flavio",
+   "tema": "pobreza",
+   "subtema": "d",
+   "pagina_plano": "47",
+   "proposta": "Retomar o Casa Verde e Amarela com meta de 2,5 milhões de moradias",
+   "trecho_do_plano": "Vamos retomar o Casa Verde e Amarela, com meta de 2,5 milhões de residências",
+   "c3_degrau": "2",
+   "c3_nota": 80.0,
+   "c3_motivo": "Retomar um programa habitacional com nova meta é decisão do Executivo sobre lei existente",
+   "c3_evid": "EV068",
+   "c4_nota": 35.0,
+   "c4_motivo": "Retomada de programa encerrado em 2023, com avaliação mista dos programas habitacionais",
+   "c4_evid": "EV067",
+   "c5_nota": 0.0,
+   "c5_motivo": "O plano não diz custo nem fonte",
+   "sem_proposta": false
+  },
+  {
+   "id": "L-Cr-d-sem",
+   "lado": "lula",
+   "tema": "corrupcao",
+   "subtema": "d",
+   "pagina_plano": "",
+   "proposta": "SEM PROPOSTA NO PLANO",
+   "trecho_do_plano": "O plano não traz ação sobre governança de estatais ou fraude em benefícios; a defesa de estatais fortes (debate) é posição de política econômica, não medida de integridade.",
+   "sem_proposta": true
+  },
+  {
+   "id": "F-Cr-a-sem",
+   "lado": "flavio",
+   "tema": "corrupcao",
+   "subtema": "a",
+   "pagina_plano": "",
+   "proposta": "SEM PROPOSTA NO PLANO",
+   "trecho_do_plano": "O plano não traz ação sobre órgãos de controle, investigação ou integridade; a adesão à OCDE aparece no capítulo de política externa.",
+   "sem_proposta": true
+  }
+ ],
+ "temas": {
+  "seguranca": {
+   "nome": "Segurança",
+   "criterios": {
+    "lula": {
+     "C1": 66.7,
+     "C2": 77.8,
+     "C3": 76.2,
+     "C4": 50.0,
+     "C5": 0.0,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 33.3,
+     "C2": 41.4,
+     "C3": 61.2,
+     "C4": 42.5,
+     "C5": 12.5,
+     "C6": 0
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 61.2,
+     "flavio": 42.7,
+     "diferenca": 18.5,
+     "veredito": "Lula"
+    },
+    "iguais": {
+     "lula": 54.1,
+     "flavio": 38.2,
+     "diferenca": 15.9,
+     "veredito": "Lula"
+    },
+    "historico_pesa_mais": {
+     "lula": 62.5,
+     "flavio": 39.4,
+     "diferenca": 23.1,
+     "veredito": "Lula"
+    },
+    "execucao_pesa_mais": {
+     "lula": 62.1,
+     "flavio": 46.5,
+     "diferenca": 15.6,
+     "veredito": "Lula"
+    }
+   },
+   "veredito": "Lula",
+   "robustez": "firme"
+  },
+  "saude": {
+   "nome": "Saúde",
+   "criterios": {
+    "lula": {
+     "C1": 66.7,
+     "C2": 77.8,
+     "C3": 100.0,
+     "C4": 82.5,
+     "C5": 12.5,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 33.3,
+     "C2": 41.4,
+     "C3": 85.0,
+     "C4": 75.0,
+     "C5": 0.0,
+     "C6": 0
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 76.1,
+     "flavio": 55.0,
+     "diferenca": 21.0,
+     "veredito": "Lula"
+    },
+    "iguais": {
+     "lula": 67.9,
+     "flavio": 46.9,
+     "diferenca": 20.9,
+     "veredito": "Lula"
+    },
+    "historico_pesa_mais": {
+     "lula": 71.7,
+     "flavio": 46.1,
+     "diferenca": 25.6,
+     "veredito": "Lula"
+    },
+    "execucao_pesa_mais": {
+     "lula": 80.5,
+     "flavio": 62.4,
+     "diferenca": 18.1,
+     "veredito": "Lula"
+    }
+   },
+   "veredito": "Lula",
+   "robustez": "firme"
+  },
+  "economia": {
+   "nome": "Economia",
+   "criterios": {
+    "lula": {
+     "C1": 60.0,
+     "C2": 77.8,
+     "C3": 95.0,
+     "C4": 50.0,
+     "C5": 50.0,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 40.0,
+     "C2": 41.4,
+     "C3": 60.0,
+     "C4": 35.0,
+     "C5": 25.0,
+     "C6": 100
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 58.5,
+     "flavio": 51.6,
+     "diferenca": 6.9,
+     "veredito": "Lula"
+    },
+    "iguais": {
+     "lula": 55.5,
+     "flavio": 50.2,
+     "diferenca": 5.2,
+     "veredito": "Lula"
+    },
+    "historico_pesa_mais": {
+     "lula": 59.1,
+     "flavio": 46.3,
+     "diferenca": 12.8,
+     "veredito": "Lula"
+    },
+    "execucao_pesa_mais": {
+     "lula": 65.0,
+     "flavio": 50.6,
+     "diferenca": 14.4,
+     "veredito": "Lula"
+    }
+   },
+   "veredito": "Lula",
+   "robustez": "firme"
+  },
+  "corrupcao": {
+   "nome": "Corrupção",
+   "criterios": {
+    "lula": {
+     "C1": 25.0,
+     "C2": 77.8,
+     "C3": 71.7,
+     "C4": 45.0,
+     "C5": 33.3,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 75.0,
+     "C2": 41.4,
+     "C3": 58.3,
+     "C4": 35.0,
+     "C5": 50.0,
+     "C6": 0
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 51.8,
+     "flavio": 54.5,
+     "diferenca": -2.7,
+     "veredito": "empate"
+    },
+    "iguais": {
+     "lula": 50.6,
+     "flavio": 51.9,
+     "diferenca": -1.4,
+     "veredito": "empate"
+    },
+    "historico_pesa_mais": {
+     "lula": 47.7,
+     "flavio": 58.4,
+     "diferenca": -10.7,
+     "veredito": "Flávio"
+    },
+    "execucao_pesa_mais": {
+     "lula": 56.1,
+     "flavio": 53.6,
+     "diferenca": 2.5,
+     "veredito": "empate"
+    }
+   },
+   "veredito": "empate",
+   "robustez": "depende do peso"
+  },
+  "educacao": {
+   "nome": "Educação",
+   "criterios": {
+    "lula": {
+     "C1": 75.0,
+     "C2": 77.8,
+     "C3": 100.0,
+     "C4": 65.0,
+     "C5": 12.5,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 25.0,
+     "C2": 41.4,
+     "C3": 80.0,
+     "C4": 42.5,
+     "C5": 25.0,
+     "C6": 0
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 74.7,
+     "flavio": 47.5,
+     "diferenca": 27.2,
+     "veredito": "Lula"
+    },
+    "iguais": {
+     "lula": 66.1,
+     "flavio": 42.8,
+     "diferenca": 23.3,
+     "veredito": "Lula"
+    },
+    "historico_pesa_mais": {
+     "lula": 73.3,
+     "flavio": 41.0,
+     "diferenca": 32.3,
+     "veredito": "Lula"
+    },
+    "execucao_pesa_mais": {
+     "lula": 78.3,
+     "flavio": 54.9,
+     "diferenca": 23.4,
+     "veredito": "Lula"
+    }
+   },
+   "veredito": "Lula",
+   "robustez": "firme"
+  },
+  "pobreza": {
+   "nome": "Pobreza, fome e desigualdade",
+   "criterios": {
+    "lula": {
+     "C1": 66.7,
+     "C2": 77.8,
+     "C3": 100.0,
+     "C4": 82.5,
+     "C5": 0.0,
+     "C6": 0
+    },
+    "flavio": {
+     "C1": 33.3,
+     "C2": 41.4,
+     "C3": 85.0,
+     "C4": 51.2,
+     "C5": 0.0,
+     "C6": 0
+    }
+   },
+   "pesos": {
+    "principal": {
+     "lula": 74.8,
+     "flavio": 50.3,
+     "diferenca": 24.5,
+     "veredito": "Lula"
+    },
+    "iguais": {
+     "lula": 65.4,
+     "flavio": 42.2,
+     "diferenca": 23.2,
+     "veredito": "Lula"
+    },
+    "historico_pesa_mais": {
+     "lula": 70.5,
+     "flavio": 43.7,
+     "diferenca": 26.7,
+     "veredito": "Lula"
+    },
+    "execucao_pesa_mais": {
+     "lula": 79.3,
+     "flavio": 57.6,
+     "diferenca": 21.6,
+     "veredito": "Lula"
+    }
+   },
+   "veredito": "Lula",
+   "robustez": "firme"
+  }
+ },
+ "vereditos_sem_2020_2021": {
+  "seguranca": "Lula",
+  "saude": "Lula",
+  "economia": "Lula",
+  "corrupcao": "empate",
+  "educacao": "Lula",
+  "pobreza": "Lula"
+ },
+ "sensibilidade_nao_preregistrada": {
+  "sem_C2": {
+   "seguranca": {
+    "lula": 58.3,
+    "flavio": 42.9,
+    "diferenca": 15.4,
+    "veredito": "Lula"
+   },
+   "saude": {
+    "lula": 75.8,
+    "flavio": 57.5,
+    "diferenca": 18.3,
+    "veredito": "Lula"
+   },
+   "economia": {
+    "lula": 56.4,
+    "flavio": 52.8,
+    "diferenca": 3.6,
+    "veredito": "empate"
+   },
+   "corrupcao": {
+    "lula": 47.2,
+    "flavio": 56.8,
+    "diferenca": -9.6,
+    "veredito": "Flávio"
+   },
+   "educacao": {
+    "lula": 74.1,
+    "flavio": 48.5,
+    "diferenca": 25.6,
+    "veredito": "Lula"
+   },
+   "pobreza": {
+    "lula": 74.3,
+    "flavio": 51.9,
+    "diferenca": 22.5,
+    "veredito": "Lula"
+   }
+  },
+  "so_propostas_C3_C4_C5": {
+   "seguranca": {
+    "lula": 54.8,
+    "flavio": 46.9,
+    "diferenca": 7.9,
+    "veredito": "Lula"
+   },
+   "saude": {
+    "lula": 79.6,
+    "flavio": 67.5,
+    "diferenca": 12.1,
+    "veredito": "Lula"
+   },
+   "economia": {
+    "lula": 72.5,
+    "flavio": 45.8,
+    "diferenca": 26.7,
+    "veredito": "Lula"
+   },
+   "corrupcao": {
+    "lula": 56.4,
+    "flavio": 49.2,
+    "diferenca": 7.2,
+    "veredito": "Lula"
+   },
+   "educacao": {
+    "lula": 73.8,
+    "flavio": 58.3,
+    "diferenca": 15.4,
+    "veredito": "Lula"
+   },
+   "pobreza": {
+    "lula": 77.5,
+    "flavio": 59.6,
+    "diferenca": 17.9,
+    "veredito": "Lula"
+   }
+  },
+  "seguranca_sem_estelionato": {
+   "lula": 57.0,
+   "flavio": 46.8,
+   "diferenca": 10.2,
+   "veredito": "Lula"
+  },
+  "economia_sem_C6": {
+   "lula": 68.9,
+   "flavio": 43.1,
+   "diferenca": 25.8,
+   "veredito": "Lula"
+  }
+ },
+ "conferencia_planos": [
+  {
+   "lado": "flavio",
+   "afirmacao": "Reduzimos em 4 pontos percentuais a relação entre a dívida e o PIB (governo Bolsonaro)",
+   "pagina": 29,
+   "conferido": "dez/2018 75.27% para dez/2022 71.68% (-3.6 pontos)",
+   "situacao": "bate, arredondado"
+  },
+  {
+   "lado": "flavio",
+   "afirmacao": "Em quatro anos, a dívida pública cresceu 13 pontos percentuais em relação ao PIB (governo atual)",
+   "pagina": 29,
+   "conferido": "dez/2022 71.68% para 08/2026 82.87% (+11.2 pontos)",
+   "situacao": "não bate com a dívida bruta do governo geral do Banco Central; o plano não diz que conceito usou"
+  },
+  {
+   "lado": "lula",
+   "afirmacao": "A inflação alcançou uma média anual de 4,6%",
+   "pagina": 10,
+   "conferido": "IPCA de dezembro a dezembro: 2023 4.62%, 2024 4.83%, 2025 4.26%; média 4.57%",
+   "situacao": "bate"
+  },
+  {
+   "lado": "lula",
+   "afirmacao": "O Gini atingiu o menor patamar histórico de 0,504",
+   "pagina": 12,
+   "conferido": "IBGE: 2024 0.504; 2025 0.511",
+   "situacao": "bate para 2024; na mesma série, 2025 subiu"
+  },
+  {
+   "lado": "lula",
+   "afirmacao": "A pobreza extrema recuou para o menor nível da série, de 4,6% da população",
+   "pagina": 12,
+   "conferido": "IBGE, linha de US$ 2,15: 4,4% em 2023 e 3,5% em 2024 (capturas X05 e X01)",
+   "situacao": "não bate com a série do IBGE na linha de US$ 2,15; o plano não diz a linha"
+  }
+ ],
+ "stf": {
+  "vagas_no_mandato_2027_2030": [
+   "vaga de Barroso (aberta desde out/2025; o Senado rejeitou Jorge Messias por 42 a 34 em abr/2026)",
+   "Luiz Fux (75 anos em 26/04/2028)",
+   "Cármen Lúcia (75 anos em 19/04/2029)",
+   "Gilmar Mendes (75 anos em 30/12/2030, no fim do mandato)"
+  ],
+  "evidencias": [
+   "EV070",
+   "EV071",
+   "EV072",
+   "EV073",
+   "EV074",
+   "EV075",
+   "EV076"
+  ],
+  "aprovacao_no_senado": "maioria absoluta, 41 de 81",
+  "senado_2027": {
+   "direita": 48,
+   "centro": 17,
+   "esquerda": 15
+  }
+ }
+}

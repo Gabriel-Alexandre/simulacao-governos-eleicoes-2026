@@ -1,0 +1,2036 @@
+# fonte: https://repositorio.ipea.gov.br/bitstream/11058/2927/1/TD_1721.pdf
+# capturado em: 2026-10-20
+
+
+=== página 1 ===
+Capa_TD_1721.pdf 1 05/03/2012 10:48:52
+1721
+MENOS ARMAS, MENOS CRIMES
+C
+M
+Y
+CM
+MY Daniel Ricardo de Castro Cerqueira
+CY João Manoel Pinho de Mello
+CMY
+K
+ISSN 1415-4765
+9 771415 476001
+47
+
+=== página 2 ===
+1 7 2 1
+TEXTO PARA DISCUSSÃO
+Brasília, março de 2012
+Menos arMas, Menos criMes*
+Daniel Ricardo de Castro Cerqueira**
+João Manoel Pinho de Mello***
+* Os autores agradecem a Túlio Kahn pelas sugestões e pelo valioso apoio na produção da base de dados.
+** Técnico de Planejamento e Pesquisa da Diretoria de Estudos e Políticas Regionais, Urbanas e Ambientais (Dirur) do Ipea.
+*** Professor do Departamento de Economia da Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio).
+
+=== página 3 ===
+Governo Federal Texto para
+Discussão
+Secretaria de Assuntos Estratégicos da
+Presidência da República
+Ministro Wellington Moreira Franco
+Publicação cujo objetivo é divulgar resultados de estudos
+direta ou indiretamente desenvolvidos pelo Ipea, os quais,
+por sua relevância, levam informações para profissionais
+especializados e estabelecem um espaço para sugestões.
+As opiniões emitidas nesta publicação são de exclusiva e
+Fundação pública vinculada à Secretaria de
+inteira responsabilidade do(s) autor(es), não exprimindo,
+Assuntos Estratégicos da Presidência da República,
+necessariamente, o ponto de vista do Instituto de Pesquisa
+o Ipea fornece suporte técnico e institucional às
+Econômica Aplicada ou da Secretaria de Assuntos
+ações governamentais – possibilitando a formulação Estratégicos da Presidência da República.
+de inúmeras políticas públicas e programas de
+desenvolvimento brasileiro – e disponibiliza, É permitida a reprodução deste texto e dos dados nele
+para a sociedade, pesquisas e estudos realizados contidos, desde que citada a fonte. Reproduções para fins
+por seus técnicos. comerciais são proibidas.
+Presidente
+Marcio Pochmann
+Diretor de Desenvolvimento Institucional
+Geová Parente Farias
+Diretor de Estudos e Relações Econômicas
+e Políticas Internacionais, Substituto
+Marcos Antonio Macedo Cintra
+Diretor de Estudos e Políticas do Estado,
+das Instituições e da Democracia
+Alexandre de Ávila Gomide
+Diretora de Estudos e Políticas Macroeconômicas
+Vanessa Petrelli Corrêa
+Diretor de Estudos e Políticas Regionais,
+Urbanas e Ambientais
+Francisco de Assis Costa
+Diretor de Estudos e Políticas Setoriais
+de Inovação, Regulação e Infraestrutura
+Carlos Eduardo Fernandez da Silveira
+Diretor de Estudos e Políticas Sociais
+Jorge Abrahão de Castro
+ISSN 1415-4765
+Chefe de Gabinete
+Fabio de Sá e Silva JEL: K42.
+Assessor-chefe de Imprensa e Comunicação
+Daniel Castro
+Ouvidoria: http://www.ipea.gov.br/ouvidoria
+URL: http://www.ipea.gov.br
+
+=== página 4 ===
+SUMÁRIO
+SINOPSE
+ABSTRACT
+1 INTRODUÇÃO ........................................................................................................7
+2 EM BUSCA DO EFEITO CAUSAL ENTRE ARMAS E CRIMES .....................................10
+3 MODELO TEÓRICO ...............................................................................................23
+4 ABORDAGEM EMPÍRICA ......................................................................................28
+5 CONCLUSÃO .......................................................................................................50
+REFERÊNCIAS .........................................................................................................52
+BIBLIOGRAFIA COMPLEMENTAR .............................................................................54
+APÊNDICE ..............................................................................................................55
+
+=== página 5 ===
+
+
+=== página 6 ===
+sinoPse
+Mais armas causam mais ou menos crimes? Há os que advogam que a difusão das
+armas de fogo faz diminuir o seu preço no mercado ilegal, além de estimular soluções
+violentas aos conflitos interpessoais. Alguns autores, no entanto, apontam que as ar-
+mas provocam um efeito de dissuasão ao crime, devido ao aumento do custo esperado
+pelo criminoso para lidar com uma vítima potencialmente armada. Neste trabalho,
+em primeiro lugar, fez-se uma ampla análise da literatura sobre a relação entre armas
+e crimes. Formulou-se um modelo teórico de demanda por armas para entender os
+canais que relacionam estes dois elementos. Por fim, elaborou-se uma estratégia de
+identificação para estimar o efeito das armas sobre os crimes violentos e contra a pro-
+priedade, nos municípios paulistas, entre 2001 e 2007. A estratégia adotada se baseou
+no uso de variáveis instrumentais, que permitiu explorar a variação temporal e a varia-
+ção cross-section dos crimes e da prevalência de armas nos municípios. O instrumento
+foi elaborado com informações do Estatuto do Desarmamento (ED) – lei nacional
+sancionada em dezembro de 2003 –, a partir de uma medida de difusão de armas nos
+municípios paulistas em 2003. A hipótese identificadora é que o impacto do ED sobre
+a demanda por armas seria tanto maior quanto maior a prevalência de armas antes
+da ocorrência da lei. Apresentam-se evidências de que a política de desarmamento
+praticada no estado de São Paulo entre 2001 e 2007 foi um dos fatores relevantes que
+levaram à diminuição nos crimes violentos, em particular nos homicídios (elasticidade
+em torno de 2,0). Entretanto, não se encontraram evidências de qualquer efeito sobre
+outros crimes com motivação econômica, como latrocínio, roubo de veículos e tráfico
+de drogas ilícitas, o que sugere a irrelevância do eventual efeito da dissuasão ao crime
+pela vítima potencialmente armada.
+aBsTracTi
+Do more guns cause less crime or more crime? Some authors argue that the spread of
+firearms encourage violent solutions to interpersonal conflicts. Other authors, however,
+suggest that the defensive use of gun decreases economic crime. In this paper we pro-
+i As versões em língua inglesa das sinopses (abstracts) desta coleção não são objeto de revisão pelo Editorial do Ipea.
+The versions in English of this series have not been edited by Ipea’s editorial department.
+
+=== página 7 ===
+posed an identification strategy to estimate the effect of guns on violent crimes and on
+property crime. The strategy was based on the use of instrumental variables that allo-
+wed us to explore the temporal and cross-section variation of the crimes and prevalence
+of guns in cities. The instrument was developed based on the Statute of Disarmament
+(ED) - a national law passed in December 2003. The identification hypothesis is that
+the impact of ED on the demand for weapons would be greater as higher the preva-
+lence of weapons previous the occurrence of the Law. We presented evidence that the
+policy of disarmament, operated in the state of São Paulo between 2001 and 2007,
+was one of the relevant factors that led to the decrease in violent crime, particularly
+homicides (average elasticity around 2.0). On the other hand, we found no evidence
+of any effect on other crimes with economic motivation as larceny, vehicle theft, and
+trafficking of illicit drugs, suggesting the irrelevance of the potential effect of deterring
+crime by the armed victim.
+
+=== página 8 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+1 inTroDUÇÃo
+Devido ao crescimento da criminalidade violenta ocorrido nos EUA na segunda me-
+tade dos anos 1980, o debate sobre o papel das armas de fogo se intensificou. Diversos
+trabalhos acadêmicos têm sido escritos desde então sobre o tema.
+Vários autores procuram evidenciar a relação causal entre mais armas e mais crimes,
+entre os quais Duggan (2001), Sherman, Shaw e Rogan (1995), Stolzenberg e D´Alessio
+(2000), McDowall (1991), McDowall, Loftin e Wiersema (1995), Cook e Ludwig (1998,
+2002), Sloan et al. (1988), Ludwig (1998) e Newton e Zimring (1969). Geralmente os
+argumentos utilizados nestes artigos são os seguintes: i) o indivíduo que possui uma arma
+de fogo fica encorajado a dar respostas violentas para a solução de conflitos interpessoais;
+ii) o possuidor de armas fica com poder para coagir; iii) do ponto de vista do criminoso, a
+posse da arma de fogo faz aumentar a produtividade e diminuir o risco de o perpetrador
+cometer crimes; e iv) o aumento da facilidade e do acesso às armas significa diminuição
+do custo da arma pelo criminoso no mercado ilegal.
+Entretanto, a conclusão de vários trabalhos – entre os quais Bronars e Lott Junior
+(1998), Lott Junior e Mustard (1997), Kleck (1979) e Bartley e Cohen (1998) – é de
+que mais armas significam menos crimes. Segundo estes autores, a difusão de armas na
+população faria diminuir a taxa de crimes (pelo menos os crimes contra o patrimônio),
+uma vez que o uso defensivo da arma de fogo pelas potenciais vítimas faria aumentar o
+custo esperado para o perpetrador cometer crimes.
+A despeito dos inúmeros artigos sobre o tema, não se alcançou ainda um con-
+senso acerca do efeito causal entre armas de fogo e aumento da criminalidade. Pos-
+sivelmente isto decorre das dificuldades metodológicas envolvidas, que passam pela
+busca por uma medida confiável de prevalência de armas de fogo nas cidades, além dos
+clássicos problemas de simultaneidade e de variáveis omitidas. Por exemplo, alguns au-
+tores utilizaram proxies de validade bastante discutível para o estoque de armas de fogo
+nas localidades, como o número de revistas especializadas em armas de fogo vendidas1
+(MOODY e MARVELL, 2002; DUGGAN, 2001), ou mesmo a produção e importa-
+1. As quatro revistas especializadas em armas de maior circulação nos EUA são American Rifleman, American Hunter,
+American Handgunner e Guns & Ammo.
+7
+
+=== página 9 ===
+Brasília, março de 2012
+ção de armas de fogo (KLECK, 1979). Em muitos outros trabalhos, sequer se utilizou
+uma medida de prevalência das armas de fogo, e a estratégia de identificação geralmen-
+te se baseou na análise da variação da taxa de crimes em cidades e estados americanos
+em que houve ou não mudança na legislação sobre o tema (aprovação do sistema de
+shall issue, conforme será visto adiante). Contudo, é bastante questionável interpretar
+uma mudança de lei como uma variação exógena, se esta mudança ocorreu apenas em
+alguns estados da base de dados, possivelmente como consequência da alta criminali-
+dade nestas localidades. Por sua vez, o problema de variáveis omitidas permanece como
+uma questão central a ser trabalhada dentro das estratégias de identificação utilizadas
+para captar o efeito da mudança de legislação.
+A contribuição deste estudo no sentido de aferir a relação causal entre armas e crimes
+passa por desenvolver uma nova estratégia de identificação e por utilizar uma base de dados
+diferente daquela utilizada nos trabalhos supramencionados, que se referem sempre ao
+caso norte-americano. A análise desenvolvida neste trabalho utiliza informações de todos
+os 645 municípios paulistas, entre 2001 e 2007, período em que houve uma redução de
+60,1% no número de homicídios nestas localidades, colocando o estado de São Paulo, ao
+lado de Nova Iorque e Bogotá,2 entre os exemplos internacionais de maior sucesso em ter-
+mos da diminuição de crimes violentos, em um período de tempo relativamente reduzido.
+A oportunidade para identificar o efeito causal pretendido surge com a implan-
+tação de uma lei nacional,3 o Estatuto do Desarmamento (ED), que: i) restringiu subs-
+tancialmente a possibilidade de o cidadão ter acesso a arma de fogo;4 ii) aumentou o
+custo de aquisição e registro da arma fogo;5 e iii) aumentou substantivamente o custo
+esperado pelo indivíduo para circular em vias públicas portando uma arma de fogo
+2. Em Nova Iorque, a diminuição dos homicídios foi de 81% entre 1996 e 2007, ao passo que em Bogotá a queda foi de
+71% entre 1993 e 2003.
+3. Lei no 10.826, de 22/12/2003.
+4. Lei no 10.826, de 22/12/2003, Artigo 4o: “Para adquirir arma de fogo de uso permitido o interessado deverá, além de
+declarar a efetiva necessidade [grifo nosso], atender aos seguintes requisitos: I - comprovação de idoneidade, com a apre-
+sentação de certidões de antecedentes criminais fornecidas pela Justiça Federal, Estadual, Militar e Eleitoral e de não estar
+respondendo a inquérito policial ou a processo criminal; II - apresentação de documento comprobatório de ocupação lícita
+e de residência certa; III - comprovação de capacidade técnica e de aptidão psicológica para o manuseio de arma de fogo,
+atestadas na forma disposta no regulamento desta lei”.
+5. Ver Lei no 10.826, de 22/12/2003, Artigo 11.
+8
+
+=== página 10 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+em situação irregular.6 A instituição do ED funcionou, portanto, como uma variação
+exógena na demanda por armas no Brasil e constitui a pedra angular da estratégia de
+identificação aqui formulada.
+Para contornar o problema da ausência de uma medida de difusão de armas
+de fogo nos municípios, utiliza-se uma proxy, reconhecida na literatura internacional
+como a de melhor qualidade para este fim, que é a proporção de suicídios perpetrados
+com o uso da arma de fogo, em relação ao total de suicídios ocorridos. Como instru-
+mento principal, a fim de explorar a dimensão temporal e a variação cross-section dos
+dados, utiliza-se uma variável composta pela interação de uma dummy – que indica
+o período de vigência do ED – e a medida de prevalência de armas nos municípios
+antes da implantação do ED, sob a hipótese de que o efeito da lei deveria ser mais
+forte exatamente nos municípios onde a difusão das armas de fogo era maior antes
+do advento do estatuto.
+Com base no método desenvolvido neste trabalho, procurou-se testar duas hi-
+póteses: i) se a disponibilidade de armas faz aumentar os crimes violentos; e ii) se
+a disponibilidade de armas faz diminuir os crimes contra a propriedade. Para tanto,
+utilizaram-se dados do Sistema de Informação de Mortalidade do Ministério da Saúde
+(SIM/MS), e da Secretaria Estadual de Segurança Pública do Estado de São Paulo.
+Os seguintes incidentes foram analisados: homicídio doloso; morte por agressão; morte
+por arma de fogo; lesão corporal dolosa; latrocínio; roubo de veículo; e delitos envol-
+vendo drogas ilícitas.
+As evidências encontradas aqui sugerem que, no período analisado, houve efe-
+tivamente uma diminuição na prevalência de armas de fogo no estado de São Paulo,7
+6. Lei no 10.826, de 22/12/2003, Artigo 12: “Possuir ou manter sob sua guarda arma de fogo, acessório ou munição, de
+uso permitido, em desacordo com determinação legal ou regulamentar, no interior de sua residência ou dependência desta,
+ou, ainda no seu local de trabalho, desde que seja o titular ou o responsável legal do estabelecimento ou empresa: Pena –
+detenção, de 1 (um) a 3 (três) anos, e multa”.
+7. Além da implementação do ED, desde finais dos anos 1990 o governo do estado de São Paulo vem praticando uma
+política de desarmamento no estado, com a priorização das apreensões de armas de fogo em situação ilegal. De 2001 a
+2007, foram apreendidas 228.813 armas. Para se ter uma ideia da mobilização do esforço policial para este fim, em 2007
+haviam sido registradas no Sistema Nacional de Armas de Fogo (SINARM) 82.237 armas de fogo (armas em situação legal)
+em todo o estado de São Paulo, ao passo que na campanha do desarmamento foram devolvidas, voluntariamente, 20.936
+armas de fogo entre 2004 e 2008.
+9
+
+=== página 11 ===
+Brasília, março de 2012
+e que o desarmamento gerou efeitos importantes para fazer diminuir os crimes letais,
+mas não impactou significativamente os crimes contra o patrimônio, o que, indireta-
+mente, implica a irrelevância do suposto efeito da dissuasão ao crime pela vítima poten-
+cialmente armada. Ou seja, ao que tudo indica, menos armas, menos crimes.
+2 eM BUsca Do eFeiTo caUsaL enTre arMas e criMes
+O efeito causal da prevalência das armas de fogo sobre os crimes tem sido objeto de
+inúmeras investigações ao longo das últimas décadas por economistas, sociólogos,
+cientistas políticos e criminólogos. O interesse no tema é proporcional à contro-
+vérsia dos resultados obtidos nos vários trabalhos, o que em certa medida reflete a
+limitação dos dados disponíveis e a complexidade do fenômeno, que impõe grandes
+desafios metodológicos aos pesquisadores.
+2.1 CORRElAçÃO EnTRE ARmAS E CRImES
+Menos controversos têm sido os resultados que deixam clara a positiva correlação entre
+armas, suicídios e homicídios no âmbito internacional. Por exemplo, Lester (1991),
+com base em informações de 16 nações europeias, constatou que existe uma alta corre-
+lação entre homicídios por perfuração de arma de fogo (PAF) e duas medidas de proxy
+de difusão de armas de fogo nos países, sendo elas a proporção de suicídios por PAF e
+a taxa de acidentes fatais envolvendo o uso de armas de fogo.
+Killias (1993) também evidenciou a correlação positiva entre a disponibilidade
+de armas de fogo e taxas de homicídio e suicídio por PAF entre vários países. O autor
+utilizou dados da International Crime Survey (ICS), pesquisa sobre a propriedade
+de armas de fogo nos domicílios produzida com base em perguntas por telefone,
+aplicada, em 1989, em 14 países diferentes (Austrália, Bélgica, Canadá, Inglaterra,
+Finlândia, França, Holanda, Irlanda do Norte, Noruega, Escócia, Espanha, Suíça,
+Estados Unidos e Alemanha Ocidental). Os dados de homicídios e suicídios foram
+extraídos da Organização Mundial de Saúde (OMS). Quatro conclusões foram obti-
+das: i) existe uma correlação positiva entre a proporção de domicílios com armas de
+fogo (PDAF) e a proporção de homicídios e suicídios perpetrados com o uso de arma
+de fogo; ii) existe uma correlação positiva entre a PDAF e as taxas de homicídios e
+suicídios por PAF; iii) não existe uma correlação negativa entre a PDAF e as taxas de
+10
+
+=== página 12 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+homicídios e suicídios praticados com o uso de outro meio qualquer; e iv) existe uma
+correlação positiva entre a PDAF e as taxas de homicídios e suicídios totais, pratica-
+dos por qualquer meio.
+2.2 DA CORRElAçÃO PARA A CAUSAlIDADE: ASPECTOS mETODOlógICOS
+Um primeiro aspecto a ser observado na busca pela identificação do efeito causal entre
+armas e crimes diz respeito ao resultado teórico ambíguo, largamente reconhecido na
+literatura e estilizado em modelos teóricos, como em Dezhbakhsh e Rubin (1999) ou
+Moody e Marvell (2002). Em termos gerais, duas forças se contrapõem. Por um lado,
+a difusão de armas na população: i) aumenta o poder de letalidade do meio utilizado
+pelos indivíduos para a resolução de conflitos violentos; ii) aumenta o poder de coação
+do portador de armas, encorajando respostas violentas à solução de conflitos; e iii) faci-
+lita o acesso e diminui o custo de aquisição da arma pelo criminoso, seja pelo aumento
+da oferta no mercado secundário, seja pelo aumento do volume de armas roubadas.
+Por outro lado, o aumento da demanda de armas pela população pode gerar um efeito
+externalidade no sentido da diminuição de crimes, uma vez que a percepção do crimi-
+noso de uma maior probabilidade de se deparar com uma vítima armada aumentaria
+o custo esperado do crime, gerando um efeito dissuasão.8 Desse modo, a relação de
+causalidade entre armas e crimes só pode ser evidenciada empiricamente. Contudo,
+várias dificuldades metodológicas têm de ser superadas para se identificar corretamente
+o efeito causal.
+2.2.1 Proxies utilizadas
+Em primeiro lugar, tendo em vista a natureza local dos eventos criminais, que decorre
+de restrições e oportunidades presentes no ambiente dos indivíduos, seria recomendável
+utilizar unidades de análises menos agregadas que o nível nacional, como informações
+por cidades ou distritos.9 Todavia, mesmo nos EUA, ou em outros países desenvolvidos,
+8. Nos EUA, boa parte da discussão na literatura gira em torno do efeito dissuasão e da estimação do volume de armas
+para uso defensivo pela população .
+9. Quanto maior a unidade espacial de análise, maior a possibilidade de haver o conhecido erro da falácia ecológica, que
+decorre de um erro de interpretação dos dados estatísticos: a inferência que se procura fazer, relacionada ao comportamen-
+to individual, é baseada em informações estatísticas agregadas, supondo-se que cada indivíduo possui as características,
+oportunidades e restrições médias presentes na população e no ambiente local.
+11
+
+=== página 13 ===
+Brasília, março de 2012
+estas informações não estão disponíveis neste nível de agregação. Daí a necessidade de se
+obterem proxies10 razoáveis sobre a prevalência de armas de fogo nas localidades.
+A busca por proxies válidas de prevalência de armas é uma das características mais
+marcantes da literatura entre armas e crimes. Uma grande diversidade de variáveis tem
+sido utilizada para este fim, como: venda de revistas especializadas em armas de fogo
+(DUGGAN, 2001); um índice de densidade de armas de fogo, constituído pela pro-
+porção de roubos e suicídios cometidos com o uso de arma de fogo (MCDOWALL,
+1991); número de registro de armas de fogo em órgãos administrativos (CUMMINGS
+et al., 1997); estimativa de armas com base no volume de armas defasadas e mediana
+da renda familiar (KLECK, 1979); número de permissões para porte de armas e núme-
+ro de armas roubadas reportadas à polícia (STOLZENBERG e D’ALESSIO, 2000);
+proporção de suicídios por PAF (COOK e LUDWIG, 2002); e um índice composto
+por informações provenientes de uma pesquisa domiciliar (General Social Survey), e por
+dados acerca da proporção de suicídios por PAF e da venda das quatro revistas especia-
+lizadas em armas mais populares nos EUA (MOODY e MARVELL, 2002).
+Kleck (2004) investigou a validade de várias medidas de difusão de armas de fogo
+nas cidades, utilizadas largamente na literatura. Neste trabalho, foram analisadas 25 di-
+ferentes medidas de prevalência da arma de fogo nas localidades. A avaliação se deu em
+cinco níveis diferentes de agregação, envolvendo: i) as 45 maiores cidades americanas;
+ii) uma amostra de 1.078 cidades americanas; iii) dados por estados americanos; iv)
+amostra de 36 nações; e v) dados de séries temporais para os Estados Unidos, de 1972
+a 1999. A avaliação foi baseada no cálculo do coeficiente de Pearson. Cada localidade
+teve o seu peso ponderado pela população local. A medida principal, pensada como de
+maior qualidade pelo autor, a partir da qual foram feitas as comparações, foi a porcen-
+tagem de residências com armas de fogo, obtida com base na pesquisa General Social
+Survey. Segundo Kleck, os resultados indicaram que, com exceção das medidas concer-
+nentes à porcentagem de suicídios cometidos com arma de fogo, todas as medidas têm
+validade bastante questionável.
+10. Segundo Wooldridge (2002, p. 63), uma variável z é uma boa proxy para uma variável latente (não observável)
+q, caso z seja uma variável redundante na equação estrutural y = f (x,q), onde x é um vetor de covariáveis. Isto é:
+E (y | x,q,z)=E (y | x,q). Dito de outro modo, condicional a x e q, a variável z deveria ser irrelevante para explicar y. Por
+sua vez, deveria ser esperada uma forte correlação entre z e q. A questão empiricamente complicada para se avaliar
+a validade da proxy é o pesquisador conseguir justamente alguma amostra da variável q.
+12
+
+=== página 14 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Para além da dificuldade de se obterem boas proxies para a prevalência de armas,
+existem potenciais problemas de endogeneidade que tornam particularmente complexa
+a identificação do seu efeito sobre a prevalência de crimes nas localidades. Estes pro-
+blemas são de simultaneidade, de variáveis omitidas e de erros de medida, que podem
+enviesar e tornar inconsistentes as estatísticas, ou mesmo inverter o sinal correto destas.
+2.2.2 Os problemas de simultaneidade, de variáveis omitidas e de erro de medida
+Entender as causas que alimentam as dinâmicas criminais locais é sem dúvida uma ta-
+refa árdua, visto que o fenômeno é extremamente complexo e envolve, potencialmente,
+fatores como estrutura familiar; relações interpessoais (grupos de amizades, gangues
+etc.); prevalência de fatores criminogênicos (como armas, drogas e álcool); oportuni-
+dades nos mercados legais e ilegais; e forma de funcionamento do sistema de Justiça
+criminal. Portanto, tendo em vista, por um lado, a grande lista de potencias elementos
+que estariam causando o crime e, por outro lado, a não observabilidade estatística de
+muitos destes elementos, há, indubitavelmente, o problema de variáveis omitidas que,
+se não adequadamente tratado, pode levar a estimativas enviesadas e inconsistentes do
+efeito das armas sobre o crime.
+Outro problema da maior importância diz respeito à questão da simultaneida-
+de. Do ponto de vista teórico, é possível que a prevalência de armas tanto gere efeitos
+sobre o crime quanto resulte do nível de criminalidade geral. Nesse caso, a estimativa
+de um efeito positivo de armas em relação aos crimes tem pouco significado, pois pode
+decorrer de os indivíduos demandarem mais armas como consequência do aumento do
+crime, ainda que o efeito das armas tivesse sido no sentido de dissuadir os criminosos.
+Conceitualmente, a prevalência de armas deveria ser uma variável predetermina-
+da, sem o que haveria uma correlação entre armas e o erro não observável da equação de
+crime, o que levaria, novamente, a um viés na estimativa. Contudo, como as variáveis
+são geradas conjuntamente, há de se lançar mão de algum método que venha a contor-
+nar este problema de simultaneidade.
+Por fim, existe ainda o problema de erros de medida que, contudo, tem conse-
+quências menos graves no que se refere à estimação do efeito das armas sobre crimes.
+De modo geral, dois potenciais erros de medida podem ocorrer. Em primeiro lugar,
+em face do problema da subnotificação de crimes, é de se esperar que a variável
+13
+
+=== página 15 ===
+Brasília, março de 2012
+dependente seja medida com erro. Este problema não tem muita importância no
+caso de crimes letais contra a vida e no caso de roubo e furtos de automóveis, cuja
+subnotificação é residual. Em outros crimes, como furtos, lesões dolosas etc., a taxa
+de subnotificação pode chegar a 80%, conforme indicam as várias pesquisas de vi-
+timização aplicadas no Brasil. Ainda assim, havendo regularidade nesta taxa de sub-
+notificação, não haveria também maiores problemas. Ocorre que a subnotificação,
+bem como a demanda por armas, aumenta ou diminui a depender da percepção da
+população quanto à qualidade e confiabilidade da polícia, que é uma variável não ob-
+servada. Neste caso, o problema da subnotificação levaria a estimativas enviesadas e
+inconsistentes. Portanto, os problemas de variáveis omitidas e de simultaneidade têm
+grande importância na formulação de uma modelagem para se estimar o efeito causal
+das armas sobre o crime. Para que os coeficientes estimados sejam não enviesados e
+consistentes, faz-se necessário lançar mão de uma estratégia de identificação que trate
+adequadamente estes dois problemas. Em princípio, uma estratégia de identificação
+extremamente crível seria a formulação de um experimento natural, no qual, para
+duas subpopulações com características idênticas, se fizesse, em apenas uma destas
+subpopulações, uma variação exógena da política que se quer avaliar. Obviamente,
+como no caso em pauta tal experimento é fora de cogitação, restam outras aborda-
+gens alternativas que procuram, em última instância, emular os resultados que se
+teriam com o uso de um experimento natural.
+Desse modo, as estratégias de identificação do efeito causal de armas sobre o cri-
+me passam por utilizar alternativa ou conjuntamente as seguintes abordagens: i) elimi-
+nação de efeitos fixos não observados subjacentes às localidades, por meio de transfor-
+mações nos dados (painel com efeito fixo ou modelo em diferenças); ii) uso de variáveis
+proxies para controlar o efeito de variáveis omitidas que variam no tempo; e iii) uso de
+variáveis instrumentais.
+Dentro da estratégia de identificação, o uso de uma ou de várias abordagens de-
+penderá em parte da natureza da base de dados: se esta contém informações individuais
+ou agregadas por localidade; e se as informações estão disponíveis numa dimensão cross-
+section apenas ou ainda para vários períodos (painel). Na seção a seguir, passam-se em
+revista alguns dos artigos mais discutidos nessa literatura de armas e crimes, chamando
+atenção não apenas para a diversidade de estratégia de identificação empregada, mas
+ainda para a dificuldade de se conseguir identificar corretamente o efeito pretendido.
+14
+
+=== página 16 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+2.3 mAIS ARmAS CAUSAm mAIS OU mEnOS CRImES?
+A literatura em torno do efeito das armas sobre o crime se desenvolveu em sua maior
+parte nos EUA, tendo três características marcantes. Em primeiro lugar, muita discus-
+são tem sido travada em torno de medidas de proxy para armas – conforme discutido
+anteriormente – e do volume de armas em poder das famílias americanas para uso
+defensivo. Em segundo lugar, as estratégias de identificação do efeito causal adotadas
+na grande maioria dos trabalhos são bastante frágeis; muitas vezes se baseiam na análise
+dos coeficientes de dummies associados a mudanças de lei nos estados americanos quan-
+to ao porte de armas ou em análises de causalidade temporal entre armas e crimes. De
+qualquer modo, a maioria dos artigos é pouco convincente em relação ao tratamento
+adequado dos problemas de simultaneidade e de variáveis omitidas. Por fim, há uma
+ambiguidade nos resultados empíricos encontrados. Ainda que a maioria dos trabalhos
+aponte evidências no sentido de uma causalidade positiva entre armas e crime, há vários
+autores que defendem a existência de causalidade negativa, ou mesmo a inexistência de
+qualquer relação de causalidade entre armas e crimes.
+Alguns autores examinaram não a relação entre armas de fogo e crimes, mas se
+a presença da arma dentro das residências faz aumentar a probabilidade de vitimização
+dos próprios residentes. Entre estes, Kellermann et al. (1993), com base nas informa-
+ções obtidas nos registros policiais e em visitas aos domicílios, empregaram técnicas de
+matching com regressão logística condicional para concluir que a arma de fogo mantida
+em casa para a proteção, pelo contrário, é um fator de risco de homicídio no domicílio,
+independentemente de outros fatores. Nesta mesma linha de investigação, Cummings et
+al. (1997) analisaram os casos de suicídio e homicídio, com base em modelos georrefe-
+renciados, em que se consideraram as informações de registros de armas de fogo (curtas),
+de 1940 a 1993, nos EUA. A partir de regressões logísticas, os autores concluíram que
+famílias com histórico de aquisição de armas possuem um risco de algum membro se
+suicidar ou sofrer um homicídio duas vezes maior que aquelas famílias que não possuem
+armas, e que este risco persiste por mais de cinco anos após a aquisição da arma de fogo.
+Um dos trabalhos pioneiros no emprego de dados agregados e variáveis instrumen-
+tais para identificar o efeito causal de armas sobre homicídios foi McDowall (1991), que
+adotou um índice de densidade de armas de fogo, constituído pela soma da proporção
+de roubos e suicídios cometidos com o uso de arma, na cidade de Detroit, entre 1951
+e 1986. Para tratar de potenciais problemas de variáveis não omitidas e simultaneidade,
+15
+
+=== página 17 ===
+Brasília, março de 2012
+o autor utilizou como instrumento uma variável dicotômica igual à unidade a partir de
+1968, quando aconteceram episódios de grandes conflitos raciais e de violência na cida-
+de. A hipótese do uso desta dummy como instrumento é que aquele foi um momento
+marcante, que funcionou como um choque exógeno na demanda por armas doravante,
+sem efeito na taxa de homicídio futura. McDowall estimou que a elasticidade das armas
+sobre os homicídios era de 1,3. Além dos dados utilizados serem de uma única cidade,
+duas possíveis críticas adicionais ao trabalho se referem à ausência de algum indicador
+de enforcement na análise, bem como de qualquer discussão e apresentação de resultados
+relativos ao primeiro estágio das estimações.
+A partir de finais da década de 1980, como consequência do crescimento da
+criminalidade violenta nos EUA, houve algumas mudanças de legislação que possibili-
+taram a oportunidade de se identificar o efeito causal entre armas e crimes. Em 1993,
+o Congresso americano adotou o Brady Handgun Violence Prevention Act, uma lei
+que aumentou o controle sobre a aquisição da arma de fogo pelos indivíduos. Por sua
+vez, 31 estados americanos, seguindo o exemplo da Flórida, aprovaram, a partir de
+1987,11 uma mudança na legislação de modo a permitir que os cidadãos tenham licen-
+ça para circular portando armas de fogo. Com a alteração na lei, a emissão de licença
+para o porte de arma tornava-se um procedimento não discricionário (shall issue), em
+que a autoridade deveria necessariamente conceder a licença. No regime anterior (may
+issue), a concessão dependia de uma autorização discricionária do órgão competente
+no estado, que, via de regra, a restringia. Desse modo, a introdução do sistema shall
+issue poderia afetar a demanda por armas (ou a circulação de armas nas ruas) e servir
+como elemento que permitisse a identificação do efeito de armas sobre crime.
+McDowall, Loftin e Wiersema (1995) inauguraram a contenda acerca do sistema de
+shall issue. Eles avaliaram os efeitos da mudança nas leis sobre porte de armas (de may issue
+para shall issue) sobre os homicídios, em grandes cidades pertencentes a três estados ameri-
+canos (Flórida, Mississippi e Oregon). Com base nos dados mensais do National Center
+for Health Statistics (NCHS), os autores elaboraram modelos de simulação com base em
+análises de séries temporais do tipo Arima (modelo autorregressivo integrado de média
+móvel), e concluíram que: i) a mudança para o sistema shall issue não levou à diminuição
+11. Até 1986, nove estados americanos permitiam o porte de armas de fogo em vias públicas.
+16
+
+=== página 18 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+dos homicídios, ao menos nas grandes áreas urbanas; e ii) esta mudança fez aumentar
+o número assassinatos por PAF. Lott Junior e Mustard (1997) criticaram o trabalho de
+McDowall, Loftin e Wiersema (1995), porque estes autores utilizaram dados de poucas ci-
+dades, quando existiam dados disponíveis para muitas outras cidades; não escolheram um
+mesmo período temporal para análise; e não utilizaram um mesmo método para a escolha
+das cidades. McDowall, Loftin e Wiersema (1995) passaram ao largo dos problemas de
+endogeneidade presentes. Os autores não fizeram menção a qualquer estratégia de identifi-
+cação que tentasse mitigar os problemas de simultaneidade e de variáveis omitidas.
+Lott Junior e Mustard (1997) também investigaram o efeito das leis de porte
+de armas do tipo shall issue sobre os crimes violentos e contra a propriedade, num
+dos artigos mais discutidos e controvertidos nessa literatura. Em relação ao trabalho
+de McDowall, Loftin e Wiersema (1995), o estudo de Lott Junior e Mustard (1997)
+utilizou uma base de dados bem mais ampla, contendo dados longitudinais por es-
+tados e condados dos EUA, de 1977 a 1992. Houve uma preocupação dos autores
+em contornar os problemas de endogeneidade com o uso de variáveis instrumentais.
+Neste trabalho a variável de interesse (a dummy para as localidades onde leis de shall
+issue foram sancionadas) foi regredida num primeiro estágio contra: a porcentagem
+da população que é membro da National Rifle Association; a porcentagem da popu-
+lação do estado que votou no Partido Republicano; e a porcentagem da população
+negra e a da população branca. Segundo os autores, a regulação do sistema de shall
+issue fez com que os crimes violentos diminuíssem, sem que mortes acidentais por
+armas de fogo tenham aumentado. Eles encontram evidências de que os crimino-
+sos tenderiam a substituir determinados crimes contra a propriedade, nos quais a
+probabilidade de contato com a vítima é maior, por outros delitos em que a chance
+de contato é baixa. Vários autores mostraram que o trabalho de Lott Junior e Mus-
+tard possui inúmeras limitações. Merecem destaque as críticas de Duggan (2001)
+e Dezhbakhsh e Rubin (1998; 1999). Segundo Duggan (2001), os resultados en-
+contrados por Lott Junior e Mustard (1997) foram enviesados por consequência
+de problemas de quatro naturezas: i) pela especificação equivocada do erro-padrão
+entre os condados pertencentes a um mesmo estado em determinado ano, que deve-
+riam ser correlacionados, mas não foram tratados desta forma;12 ii) pela necessidade
+12. Segundo Duggan (2001, p. 1.109. Tradução livre.): “Essencialmente, Lott e Mustard supõem que existem 700 ‘experi-
+mentos naturais’ independentes, mas na verdade só há 10”.
+17
+
+=== página 19 ===
+Brasília, março de 2012
+de a dummy que capta o efeito da lei ser igual em todos os condados de um determi-
+nado estado, o que não foi feito;13 iii) pelo uso de variáveis de controle medidas com
+grande imprecisão e mecanicamente associada à variável dependente;14 e iv) por um
+problema de seleção de amostra, uma vez que está ausente uma substancial parcela
+de observações de condados em cada ano. Por sua vez, Dezhbakhsh e Rubin (1998;
+1999) criticaram o trabalho de Lott Junior e Mustard (1997) por estes restringirem
+os coeficientes comportamentais da equação estimada, de modo que fossem iguais
+para as localidades onde a lei foi ou não introduzida.
+Duggan (2001), em vez de se limitar à análise dos coeficientes das dummies,
+utilizou como proxy para a prevalência de armas de fogo nos condados a venda de
+revista especializada em armas de fogo de mão (Guns & Ammo). Para analisar a
+relação entre armas de fogo e homicídios, com base nos dados do Uniform Crime
+Reports (UCR) e do NCHS, o autor estimou um modelo com efeito fixo na locali-
+dade, em que os resultados indicaram uma elasticidade em torno de 0,2. A questão
+da causalidade reversa foi abordada pelo autor, com base na análise de regressões em
+que os homicídios e as armas eram explicadas, respectivamente, pelas armas e pelos
+homicídios defasados um e dois períodos, além de outras variáveis socioeconômicas
+de controle. Contudo, aparentemente o trabalho de Duggan possui também duas
+limitações relevantes. Em primeiro lugar, o tratamento dinâmico elaborado por este
+autor não trata o problema de simultaneidade que afeta as estimativas, apenas cons-
+titui alguma evidência de que o efeito da causalidade é mais forte no sentido de
+armas causarem crimes que o contrário. Além disso, o problema de variáveis omiti-
+das que variam no tempo e que são correlacionadas com a variável de interesse não
+foi tratado adequadamente. Não houve qualquer tratamento de controle quanto
+ao efeito do enforcement provocado pela segurança. É trivial notar que a venda de
+revista responde à renda dos consumidores e ao preço das próprias revistas, o que foi
+ignorado pelo autor. Aliás, o preço das revistas poderia ter servido como um ótimo
+instrumento, uma vez que se correlaciona com a venda de revistas, mas não com o
+erro da equação principal.
+13. A única exceção seria a Filadélfia, que foi isenta da legislação de concealed firearms da Pensilvânia.
+14. Por exemplo, o número de crimes entra no numerador da variável dependente, mas no denominador da taxa de prisões.
+18
+
+=== página 20 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Dezhbakhsh e Rubin (1998; 1999) partiram de uma formulação teórica se-
+gundo a qual o indivíduo escolhe a alocação de tempo entre as atividades legais e
+ilegais. Nesta abordagem, a lei que flexibilizou o porte de armas é introduzida ao
+afetar o custo de aquisição da arma e ao afetar o risco de enforcement privado da
+população armada, de modo que o resultado analítico é dúbio a respeito de a lei
+gerar aumento ou diminuição do crime. Esta estrutura teórica, que deixa claro que
+os indivíduos respondem comportamentalmente à lei, foi utilizada para criticar o
+trabalho de Lott Junior e Mustard (1997), no qual o efeito da lei se daria apenas
+no intercepto da equação de crime (o coeficiente da dummy), mas restringe que os
+coeficientes comportamentais da equação sejam iguais para as localidades onde a lei
+foi ou não implementada. Utilizando os mesmos dados de Lott Junior e Mustard
+(1997), os autores estimaram dois modelos separados, para as regiões onde a lei foi
+e não foi introduzida, respectivamente, quando calcularam a taxa de crime contra-
+factual que teria ocorrido nas localidades onde a lei não foi introduzida, caso ela
+tivesse sido introduzida. Para calcular este efeito contrafactual, os autores utilizaram
+os parâmetros estimados com base nas regiões onde a lei foi implementada e os
+dados das regiões onde a lei não havia sido sancionada. Os resultados encontrados
+apontaram para uma pequena queda no número de homicídios, aumento dos rou-
+bos, e ambiguidade nos demais crimes. Contudo, a metodologia desenvolvida por
+Dezhbakhsh e Rubin pressupõe, implicitamente, que a sanção da lei foi um evento
+aleatório. Porém, características não observáveis podem ter determinado que alguns
+condados tenham introduzido ou não a lei. Nesse caso, a metodologia empregada
+também não dá conta de resolver o problema de viés.
+Ludwig (1998) desenvolveu um método criativo para identificar e avaliar o
+efeito da implantação do regime de shall issue. Utilizando dados de homicídios por
+estado, provenientes do Departamento de Saúde e Serviços Humanos dos Estados
+Unidos, e ainda informações da estrutura demográfica, de 1977 a 1994, o autor
+explorou a premissa de que a mudança na legislação só deveria afetar os indivíduos
+maiores de 18 anos, elegíveis para a compra de armas. Com base neste pressuposto,
+ele utilizou a vitimização de jovens como grupo de controle e formulou um modelo
+de diferenças em diferenças em diferenças para estimar o efeito da mudança da legisla-
+ção. Basicamente o método calcula a diferença de vitimização entre adultos e jovens,
+antes e após a implantação do regime de shall issue, tomando a diferença da diferen-
+ça e, por fim, fez a diferença destes resultados para as localidades onde a lei foi ou
+19
+
+=== página 21 ===
+Brasília, março de 2012
+não implementada. Com isso, o autor acredita ter resolvido o problema de variáveis
+omitidas e de simultaneidade e chegou à conclusão de que, se a implantação da lei
+teve algum resultado, este foi no sentido de aumentar a taxa de homicídio adulto.
+O modelo formulado parece sustentar-se em duas hipóteses implícitas cruciais (não
+discutidas pelo autor): i) a vitimização de adultos se dá por adultos, assim como a
+de jovens se dá por jovens; e ii) não há alteração na demanda e no porte de armas
+por jovens. Contudo, a plausibilidade destas hipóteses é bastante discutível. Como o
+autor mesmo lembra, no período analisado há significativas alterações nas atividades
+das gangues e no consumo de crack. É razoável imaginar que estas mudanças possam
+ter gerado impacto no perfil da dinâmica dos homicídios, talvez com jovens matando
+mais adultos para roubar e poder consumir a droga, ou adultos matando mais jovens
+a fim de se defenderem. Não é claro que a segunda hipótese seja verdadeira, em face
+das questões observadas por Cook, Molliconi e Cole (1995): i) o despreparo e a ine-
+ficácia da fiscalização feita pelo Bureau of Alcohol, Tobaco and Firearms junto aos
+revendedores de armas; ii) a inexistência de controles nos mercados secundários de
+armas; e iii) a possibilidade de significativa parcela de jovens, assim como de adultos,
+portarem armas de fogo nos EUA a despeito de não possuírem licença, conforme
+assinalado por Bjerregaard e Lizotte (1995).
+Cook e Ludwig (2002) analisaram, com base em modelos de painel com vari-
+áveis instrumentais, o efeito causal das armas sobre roubos e invasões de domicílios,
+que era uma importante lacuna na literatura tendo em vista que, segundo os defenso-
+res da tese de que mais armas geram menos crimes, haveria menos chances de domicí-
+lios serem roubados naquelas regiões onde é maior a probabilidade da vítima potencial
+possuir arma de fogo. Estes autores utilizaram duas bases de dados alternativas – UCR
+e National Crime Victimization Survey (NCVS) – para obter as informações de rou-
+bos e arrombamentos de domicílios e adotaram como proxy para armas a proporção de
+suicídios cometidos com o uso de arma de fogo. No modelo desenvolvido, a propor-
+ção da população do estado que vivia em áreas rurais em 1950 serviu como instrumen-
+to para armas. Os resultados indicaram que a elasticidade das armas em relação aos
+roubos e arrombamentos de domicílios variava no intervalo entre 0,3 e 0,7. Com isso,
+Cook e Ludwig (2002) concluíram que manter armas em casa, ao contrário de gerar
+externalidades, por meio do potencial efeito dissuasão, aumenta a chance de roubo e
+invasões de domicílios, como consequência do efeito incentivo de roubar uma arma.
+20
+
+=== página 22 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Outra lacuna na literatura dizia respeito ao uso da arma de fogo legal e ilegal
+pelos jovens para a prática de crimes letais e não letais. Stolzenberg e D´Alessio
+(2000) fizeram uso de uma base de dados inédita do National Incident-Based Re-
+porting System (NIBRS), para a Carolina do Sul, entre 1991 e 1994, que permitiu
+identificar, por condado, não apenas o número de crimes violentos, mas aqueles
+que, mesmo não sendo letais, foram praticados com o uso de arma de fogo e por
+jovens. Como medida de armas de fogo ilegais foi utilizado o número de armas
+roubadas reportadas à polícia, e como medida de armas legais, o número de ar-
+mas registradas. Foram formulados quatro modelos com efeito fixo na localidade
+e no tempo, em que as variáveis dependentes foram, respectivamente: a taxa de
+crimes violentos; a taxa de crimes com armas; a taxa de crimes com armas de fogo
+praticados por jovens; e a taxa de crimes com faca. Como variáveis explicativas
+foram utilizadas as medidas de armas legais e ilegais, variáveis socioeconômicas e
+demográficas, bem como taxas de prisões. Entre as conclusões obtidas, verificou-se
+que os crimes violentos, bem como os crimes perpetrados com armas de fogo e os
+praticados com armas de fogo por jovens, são afetados positivamente pela disponi-
+bilidade de armas ilegais, mas não pela disponibilidade de armas legais. Ainda, os
+autores não encontraram evidências de haver efeito substituição da arma de fogo
+por armas brancas. Não obstante a importância do trabalho por tentar responder a
+questões até então não investigadas empiricamente, o problema da simultaneidade
+e o da presença de variáveis omitidas que variam no tempo, não tratados no artigo,
+podem estar conduzindo o resultado.
+A conclusão geral da literatura sobre armas e crimes sugere a favor de uma
+relação positiva entre estas duas variáveis, conforme apontado no quadro 1. Parece
+não haver dúvidas acerca de uma correlação positiva entre a difusão das armas de
+fogo e a prevalência de homicídios e de suicídios por PAF, no âmbito internacio-
+nal. A investigação empírica sobre a relação causal entre armas e crimes, contudo,
+é um tema ainda em aberto, em face não apenas da limitação dos dados disponí-
+veis, mas também da dificuldade metodológica para formular uma estratégia de
+identificação convincente.
+21
+
+=== página 23 ===
+Brasília, março de 2012
+Quadro 1
+Armas e crimes segundo vários autores
+Artigo Localidade Período Método Resultados em Relação às Armas
+Lester (1991) 16 nações europeias 1989 Correlação Alta correlação com homicídios por PAF
+Alta correlação com homicidios e
+Killias (1993) 14 países desenvolvidos 1989 Correlação
+suicídios com e sem o uso da arma
+Comparação de diferença Correlação com lesões dolosas por PAF
+Sloan et al (1988) Seattle e Vancouver 1980 a 1986
+de médias e com homicídios por PAF
+EUA (Tennessee, A posse da arma é um fator de risco
+Kellermann et alli (1993) 1987 a 1992 Regressão logística
+Washington e Ohio) para algum familiar sofrer um homicídio
+Kleck (1979) EUA (dados agregados) 1947 a 1973 2SLS Elasticidade relação ao homicídio = 0,4
+A arma em casa dobra a probabilidade
+EUA (dados por
+Cummings et al (1997) 1940 a 1993 Regressão logística de alguém sofrer suicídio ou homicídio
+setor censitário)
+no domicílio
+GLS com variáveis Elasticidade em relação aos
+McDowall (1991) EUA (Detroit) 1951 a 1986
+instrumentais homicídios = 1,3
+Crimes violentos, crimes praticados com
+Stolzenberg e armas e crimes com armas perpetrados
+EUA (Carolina do Sul) 1991 a 1994 OLS com efeito fixo
+D´Alessio (2000) por jovens respondem à disponibilidade de
+armas ilegais, mais não de armas legais.
+Elasticidade da arma em relação às
+Cook e Ludwig (2002) EUA (dados por cidades) 1987 a 1998 IV2SLS
+invasões a domicílios entre 0,3 e 0,7.
+Não há relação de causalidade entre
+Moody e Marvell (2002) EUA (dados por estado) 1977 a 1998 Pooled OLS
+armas e crimes
+EUA (grandes cidades
+McDowall, Loftin e Modelos de intervenção A SI não teve efeito sobre os homicídios,
+da Flórida, Mississippi e 1973 a 1982
+Wiersema (1995) baseado em ARIMA mas fez crescer os homicídios por PAF
+Oregon)
+EUA (dados por cidades e
+Lott Jr. e Mustard (1997) 1977 a 1992 Pooled OLS e IV2SLS A SI fez diminuir os crimes violentos
+estados)
+Elasticidade em relaçao aos homicí-
+EUA (dados por cidades
+Duggan (2001) 1980 a 1998 Regressão em diferenças dios = 0,2 e não houve efeito da SI
+e estados)
+sobre crimes
+Regressão (extreme A SI levou a uma diminuição
+Barteley e Cohen (1998) EUA (dados por cidades) 1977 a 1992
+bound analysis) dos crimes violentos.
+O efeito da SI ou foi nulo ou foi no
+Diferenças em diferenças
+Ludwig (1998) EUA (dados por estados) 1977 a 1994 sentido de aumentar o homicídio
+em diferenças
+de adultos
+Bronars e Lott Jr. (1998) EUA (dados por cidades) 1977 a 1992 pooled OLS e IV2SLS A SI fez diminuir os crimes violentos
+Pequena queda no número de homicí-
+Dezhbakhsh e Rubin EUA (dados por cidades
+1977 a 1992 2SLS dios, aumento dos roubos, e ambiguida-
+(1998, 1999) e estados)
+de nos demais crimes
+Elaboração dos autores.
+Nota: SI = shall issue. Mudança de Lei que flexibilizou o porte de armas nos EUA.
+Obs.: 2SLS significa método dos mínimos quadrados em dois estágios; GLS, mínimos quadrados generalizados; OLS, mínimos quadrados ordinários;
+IV-2SLS, método de variáveis instrumentais por mínimos quadrados em dois estágios; Arima, modelo autorregressivo integrado de média
+móvel. SI se refere a shall issue, mudança de lei que flexibilizou o porte de armas nos EUA.
+22
+
+=== página 24 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+3 MoDeLo TeÓrico
+A modelagem teórica formulada aqui procura explorar a ideia de que os indivíduos
+tomam duas decisões, em relação a participar do mercado criminal e em relação a
+adquirir uma arma. Desse modo, supõe-se que em cada uma das J cidades residam I
+indivíduos que, após tomadas as suas decisões, podem encontrar-se em quatro situações
+distintas (mercados), conforme sugerido na figura 1. O indivíduo pode participar do
+mercado criminal com arma (m1); participar do mercado criminal sem arma (m2); não
+participar do mercado criminal, mas possuir uma arma para a sua defesa (m3); ou não
+participar do mercado criminal e não possuir uma arma (m4).
+FIGura 1
+Modelo de escolha de compra de arma de fogo
+Sim (m1)
+Sim Compra uma arma?
+Não(m2)
+Entra no mercado
+de crime?
+Sim (m3)
+Não Compra uma arma?
+Não (m4)
+Elaboração dos autores.
+3.1 UTIlIDADE DOS InDIvíDUOS
+A utilidade do indivíduo é descrita por:
+(1)
+onde
+23
+
+=== página 25 ===
+Brasília, março de 2012
+= parâmetro que indica a produtividade marginal do crime;
+= valor monetário esperado das perdas com a punição;
+= custo da arma no mercado legal;
+= sobrepreço da arma no mercado ilegal;
+= rendimento obtido no mercado de trabalho;
+= equivalente monetário de a vítima possuir arma.
+Suponha-se que o rendimento do indivíduo no mercado legal de trabalho depen-
+da da renda per capita da cidade, conforme:
+(2)
+onde é um componente idiossincrático não observável.
+O valor monetário esperado das perdas com a punição, conforme descrito na
+equação (3), é uma função de três componentes: i) do custo esperado com o aprisio-
+namento, o qual depende do custo de oportunidade de ser preso e da esperança
+de ser preso, que se supõe ser uma função direta da taxa de aprisionamento na cidade;
+ii) do custo associado ao enforcement privado, o qual depende do custo esperado as-
+sociado a uma resposta armada pela vítima e da probabilidade de esta resposta
+ocorrer, que se supõe ser uma função direta da prevalência de armas na cidade; e iii)
+de um termo não observável, o qual depende das especificidades associadas à interação
+mercado–cidade .
+(3)
+O sobrepreço cobrado no mercado ilegal de armas, por sua vez, também é uma
+função negativa da prevalência de armas na cidade e do conhecimento do indivíduo
+nesta cidade, que é um componente não observável, conforme apontado na equação (4).
+24
+
+=== página 26 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+(4)
+Com as especificações descritas pelas equações de (1) a (4), a utilidade de um
+indivíduo i em uma cidade j, para cada uma das quatro opções, é descrita por:
+(5)
+(6)
+(7)
+(8)
+Nota-se que não há, a priori, motivos para acreditar que os componentes não
+observados dentro de cada equação sejam correlacionados, motivo pelo qual agregam-
+se todos estes componentes não observáveis no termo de erro .
+3.2 PRObAbIlIDADE ASSOCIADAS àS ESCOlhAS
+Com base nas equações de (5) a (8), pode-se calcular a probabilidade de um indivíduo
+escolher cada uma das quatro opções: mercado criminal com armas; mercado criminal
+sem armas; vítima potencial armada; e vítima potencial desarmada.
+25
+
+=== página 27 ===
+Brasília, março de 2012
+Ou seja,
+(9)
+Suponha-se que a distribuição dos erros seja extreme value type I e que os mes-
+mos sejam i.i.d. Neste caso, a equação (9) pode ser expressa por:
+(10)
+Onde:
+O mesmo procedimento se aplica para calcular Prob(m=2), Prob(m=3) e
+Prob(m=4).
+3.3 ESTáTICA COmPARATIvA
+A partir da equação (10), que descreve a probabilidade de o indivíduo vir a ser um
+criminoso armado, pode-se observar que a prevalência do crime economicamente mo-
+tivado, praticado com o uso de armas de fogo aumenta com:
+1) o aumento da produtividade marginal obtida no segmento de atividade ilegal ;
+2) o aumento de , que pode ser interpretado como a fluidez do mercado legal para o
+mercado secundário de armas e que sintetiza o efeito preço das armas sobre o crime;
+3) a diminuição do custo de oportunidade com o aprisionamento ;
+4) a diminuição do custo esperado do criminoso ao se deparar com uma vítima ar-
+mada (aqui chamado de efeito dissuasão das armas); e
+5) a diminuição na taxa de aprisionamento.
+26
+
+=== página 28 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Porém, deve-se notar que o efeito parcial da prevalência de armas sobre a taxa
+de crimes econômicos praticados com arma de fogo é dúbio.15 O resultado dependerá
+do sinal de . Caso o efeito preço seja maior que o efeito dissuasão ,
+o aumento da prevalência das armas fará aumentar a taxa de crimes praticados com ar-
+mas de fogo nas cidades.
+É interessante analisar as implicações dos efeitos parciais descritos de (1) a (5)
+sobre as políticas públicas. Os itens (3) e (5), que têm sido largamente discutidos na li-
+teratura desde Becker (1968), captam, respectivamente, o efeito do tamanho das penas
+e a probabilidade de aprisionamento para dissuadir crimes.
+O item (1) indica que a taxa de crimes com armas de fogo depende positiva-
+mente da produtividade nesse setor criminal. Esta produtividade, por sua vez, depende
+fundamentalmente de conhecimento e de outros bens de capital utilizados comple-
+mentarmente (junto com a arma) pelos criminosos. Isto sugere que medidas que vi-
+sem à diminuição de furtos e roubos de veículos geram efeitos sobre a taxa de crimes
+violentos. Por sua vez, políticas de execução penal que segreguem os criminosos por
+histórico criminal e grau de periculosidade também levam à diminuição da taxa de
+crimes violentos.
+Por fim, o item (2) sintetiza a importância do controle e da responsabilização
+quanto à posse da arma de fogo, que fazem diminuir o , implicando que o efeito do
+aumento da prevalência de armas gera menor queda no preço das armas ilegais.
+Além desses efeitos mencionados, é interessante fazer uma observação em re-
+lação aos vários mercados criminais armados. No modelo, não se fez distinção em
+relação a mercados mais ou menos especializados, mesmo porque a inexistência de
+qualquer base de dados inviabilizaria o esforço deste Texto para Discussão, do ponto
+15. Com base na equação (10), calculando-se a elasticidade da taxa de crimes com armas de fogo em relação à prevalência
+de armas, tem-se que:
+elasticidade = arma .
+O terceiro termo é sempre positivo. Caso , a soma dos dois primeiros termos também resulte em um valor positivo,
+implicando que mais armas geram mais crimes. Contudo, observa-se que, ainda que se tenha , o resultado depen-
+derá da magnitude do último termo.
+27
+
+=== página 29 ===
+Brasília, março de 2012
+de vista empírico. Contudo, é razoável imaginar que os criminosos inseridos nos mer-
+cados criminais mais especializados e organizados se distingam dos outros participan-
+tes mercados menos especializados, pelo menos de três formas:
+• no acesso a mercados mais rentáveis – no modelo, isto se daria na equação (1) por
+;
+• na obtenção de armas no mercado ilegal a preços menores – no modelo, isto se
+daria na equação (4) por ; e
+• por um menor efeito da dissuasão ao crime, na medida em que há nesse segmento
+uma melhor organização e planejamento das ações – no modelo, isto se daria na
+equação (5) por .
+A soma dos dois primeiros efeitos leva a acreditar que o criminoso que atua nos
+segmentos mais especializados de crime (roubo de veículos, tráfico de drogas, roubo a
+bancos etc.) possui mais baixa elasticidade da demanda por armas de fogo. Portanto,
+não se deveria, a priori, acreditar que uma política de desarmamento voluntária ou
+involuntária da população gere algum efeito para reduzir tais crimes.
+4 aBorDaGeM eMPÍrica
+O objetivo aqui é identificar o efeito das armas sobre vários tipos de crimes. Em
+primeiro lugar, quer-se testar se os dados comportam a hipótese geralmente levan-
+tada na literatura de que a difusão das armas de fogo na população faz aumentar os
+crimes violentos contra a pessoa, na medida em que: i) encoraja respostas violentas
+para a solução de conflitos; e ii) possibilita que o possuidor de armas fique com
+poder para coagir.
+Em segundo lugar, o efeito teórico da difusão das armas de fogo na população
+sobre os crimes contra o patrimônio é dúbio. Por um lado, a maior disponibilidade
+de armas nas localidades facilita a obtenção e faz diminuir o custo da arma para o po-
+tencial criminoso (efeito preço). Por outro lado, há um aumento no custo esperado da
+ação criminosa, tendo em vista a maior probabilidade de um criminoso deparar-se com
+uma vítima armada (efeito dissuasão). O resultado líquido – mais armas causarem mais
+ou menos crimes contra o patrimônio – dependerá da valoração relativa do criminoso
+28
+
+=== página 30 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+quanto a estas duas forças. Se o criminoso for inelástico à demanda por armas e con-
+siderar relevante o efeito dissuasão, a difusão das armas na população faz diminuir os
+crimes contra o patrimônio.
+Uma maneira de aferir a relevância desses dois efeitos, portanto, pode dar-se
+de forma indireta, a partir da análise empírica do efeito da política de desarmamento
+ocorrida no estado de São Paulo sobre os vários tipos de crime contra o patrimônio. Os
+possíveis resultados do efeito do desarmamento estão mapeados na quadro 2. Se o efei-
+to dissuasão é baixo ou irrelevante, deveria esperar-se que a política de desarmamento
+levasse a uma diminuição nos crimes contra o patrimônio, caso os criminosos tivessem
+alta elasticidade da demanda; ou que esta política apresentasse efeitos nulos ou incon-
+clusivos, caso a elasticidade fosse baixa.
+Quadro 2
+Efeito esperado do desarmamento
+Efeito Dissuasão
+Efeito do Desarmamento Sobre:
+Baixo Alto
+Baixa Elasticidade ? +
+Efeito Preço
+Alta Elasticidade - ?
+Elaboração dos autores.
+Obs.: Aumento é representado por +; diminuição, por -; efeito incerto, por ?.
+4.1 O CASO DO ESTADO DE SÃO PAUlO
+O gráfico 1 aponta a queda consistente da taxa de homicídio, de tentativa de
+homicídio e de latrocínio,16 entre 2001 e a 2005, no estado de São Paulo. É inte-
+ressante notar que os indicadores selecionados apresentam dois padrões de evolução
+bastante perceptíveis nos dois anos que precederam à sanção do ED (que ocorreu
+em dezembro de 2003) em relação aos dois anos subsequentes. Enquanto no primei-
+ro período as taxas de homicídio, de tentativa de homicídio e de latrocínio diminu-
+íram 15,0%, 4,1% e 8,4%, no segundo período estes decréscimos foram de 38,4%,
+20,3% e 43,2%, respectivamente.
+16. As variáveis apresentadas no gráfico 1 se referem à média móvel de 12 meses das taxas por 100 mil habitantes.
+29
+
+=== página 31 ===
+Brasília, março de 2012
+GrÁFICo 1
+Taxa de homicídios e latrocínios no estado de São Paulo (2002-2006)
+30
+axif
+esaB
+021
+001
+08
+06
+04
+01 jan 02 01 jan 03 01 jan 04 01 jan 05 01 jan 06
+H omicídio Tentativa de homic ídio Latrocín io
+Média móvel
+Fonte: SIM/MS.
+Elaboração dos autores.
+Obs.: 1. Média móvel dos últimos 12 meses.
+2. Base fixa: dezembro de 2001 = 100.
+Contudo, os dados revelam que não houve uma queda generalizada para todos
+os tipos de crimes no estado de São Paulo no período observado. Conforme o gráfico 2
+descreve, houve um aumento na taxa de crimes contra a pessoa e, em particular, da taxa
+de lesão corporal dolosa.17
+GrÁFICo 2
+Crime contra pessoas e lesão corporal dolosa no estado de São Paulo (2001-2007)
+axif
+esaB
+511
+011
+501
+001
+01 jul 01 01 jan 03 01 jul 04 01 jan 06 01 jul 07
+Crime contra a pessoa Lesão corporal dolosa
+Média móvel
+Fonte: Brasil/MS/SIM.
+Elaboração do autor.
+Obs.: 1. Média móvel dos últimos 12 meses.
+17. Excetuando-se os crimes de homicídios e de roubo de veículos, a dinâmica dos demais delitos reportados pode em parte
+ter sido conduzida por mudanças na taxa de subnotificação, ainda que não haja evidências de que isto tenha ocorrido no
+estado de São Paulo, entre 2001 e 2007.
+
+=== página 32 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+2. Base fixa: dezembro de 2001 = 100.
+Nos crimes economicamente motivados, enquanto houve uma virtual estabilida-
+de na taxa de crimes contra o patrimônio, houve aumento nos furtos em geral e queda
+vigorosa dos roubos e furtos de veículos, conforme apontado no gráfico 3.
+GrÁFICo 3
+Taxa de crimes economicamente motivados no estado de São Paulo (2001-2007)
+31
+axif
+esaB
+021
+001
+08
+06
+01 jul 01 01 jan 03 01 jul 04 01 jan 06 01 jul 07
+Crime patrimônio Furtos
+Roubo de veículo Furto de veículo
+Média móvel
+Fonte: Brasil/MS/SIM.
+Elaboração do autor
+Obs.: 1. Média móvel dos últimos 12 meses.
+2. Base fixa: dezembro de 2001 = 100.
+Existem várias explicações, não necessariamente concorrentes, para a diminuição
+na taxa de crimes violentos no estado de São Paulo, entre 2001 e 2001. Um argu-
+mento muito utilizado relaciona-se ao aperfeiçoamento dos mecanismos na gestão da
+segurança pública no estado. Foram feitas inúmeras inovações na gestão da segurança
+pública naquele estado, entre as quais: i) racionalização e compatibilização das áreas de
+policiamento das polícias civil e militar; ii) aprimoramento da gestão da informação,
+por meio da implantação do Sistema de Informações Criminais (Infocrim), com dados
+georreferenciados; iii) estabelecimento de metas quanto à atuação policial; iv) implan-
+tação do policiamento comunitário em várias localidades; v) enfoque na melhoria da
+formação e valoração do policial; vi) ampliação dos meios de controle interno e externo
+das polícias; e vii) criação de espaços institucionais que ampliam o acesso à Justiça para
+a resolução de conflitos.
+Neste texto, não se pretende explicar as razões que levaram à queda substancial dos
+crimes violentos no estado de São Paulo, mas, especificamente, quer-se investigar o papel
+
+=== página 33 ===
+Brasília, março de 2012
+que o virtual controle das armas de fogo pode ter exercido para impactar a evolução dos
+vários tipos de delitos violentos contra a pessoa e dos crimes economicamente motivados.
+Os dados agregados para o estado de São Paulo, entre 2001 e 2007, mostram
+uma forte correlação entre prevalência de armas de fogo (medida pela proporção entre
+os suicídios por PAF e o total de suicídios) e homicídios, conforme apontado no gráfi-
+co 4. Pergunta-se se existe uma relação causal entre estas duas variáveis, e se há relação
+entre armas e crimes economicamente motivados.
+GrÁFICo 4
+Taxa de homicídios e proporção de suicídio por PAF no estado de São Paulo (2001-2007)
+01 jul 01 01 jan 03 01 jul 04 01 jan 06 01 jul 07
+Taxa de Homicídio Proporção de Suicídio PAF
+Média móvel dos últimos 12 meses. Base fixa: dezembro de 2001 = 100
+32
+oidícimoh
+axaT
+001
+08
+06
+04
+011
+001
+09
+08
+07
+FAP
+oidícius
+.porp
+:axif
+esaB
+Fonte: Brasil/MS/SIM.
+Elaboração dos autores.
+Obs.: 1. Média móvel dos últimos 12 meses.
+2. Base fixa: dezembro de 2001 = 100.
+4.2 mEDIDA DE ARmAS DE FOgO UTIlIzADA
+Conforme já apresentado no gráfico 4, utiliza-se como medida da prevalência da
+arma de fogo nos municípios a proporção dos suicídios cometidos por PAF. Se-
+gundo inúmeras evidências internacionais, esta variável é altamente correlacionada
+com a disponibilidade de armas na localidade, não importando tratar-se de arma
+legal ou ilegal.
+Vários autores utilizaram essa variável (KLECK, 1979; MOODY e MARVELL,
+2002). A validade desta proxy vem do fato principal de que a proporção de suicídios
+por PAF tem estreita relação com o estoque de armas de fogo nas cidades. Entretan-
+to, a dinâmica dos suicídios é distinta da dinâmica dos crimes. Segundo Potash et al.
+
+=== página 34 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+(2000), a probabilidade de um indivíduo se suicidar está relacionada a características
+psicossociais, à síndrome bipolar e a um histórico de dependência química e de alco-
+olismo.18 Desse modo, há elementos para acreditar que tal variável seria redundante,
+se incluída numa equação estrutural entre crime e a verdadeira medida de arma de
+fogo, o que constitui um atributo desejável para uma boa proxy.
+Conforme já assinalado na seção 2.2.1, Kleck (2004), ao investigar a validade
+de 25 diferentes proxies utilizadas na literatura para a prevalência de armas de fogo
+nas localidades, concluiu que a única proxy válida seria exatamente a proporção dos
+suicídios por PAF.
+4.3 bASE DE DADOS
+A base de dados empregada conjuga dados de várias fontes para os 645 municípios
+paulistas. Os dados de crimes reportados à polícia (homicídios dolosos, latrocínios,
+lesão corporal dolosa, roubo de veículos, crimes associados a drogas ilícitas), bem
+como as informações de prisões, foram obtidos da Secretaria de Segurança Pública
+do Estado de São Paulo, com base nos registros policiais e administrativos.19 A par-
+tir do Sistema de Informações sobre Mortalidade (SIM),20 do Ministério da Saúde
+(MS), obtiveram-se os dados de homicídios, suicídios, suicídios perpetrado por PAF
+e projeções populacionais.21
+A base do SIM, considerada de alta qualidade, segue a classificação inter-
+nacional de doenças da OMS. Seus dados são coletados em todo o Brasil desde
+1979 pelo sistema público de saúde. As informações relativas a mortes não naturais
+18. Seria razoável supor que a dependência química e o alcoolismo pudessem condicionar os suicídios, e também homi-
+cídios e outros crimes. Contudo, não há como relacionar o uso de drogas psicoativas (incluindo o álcool) à proporção de
+suicídios por PAF em relação ao total de suicídios. Sendo esta a medida de armas utilizada, o potencial efeito das drogas
+sobre a equação de crimes (no caso de ser uma variável não observada) seria no sentido de aumentar o erro, redundando
+no clássico viés de atenuação.
+19. Os autores agradecem a Túlio Kahn por gentilmente lhes dar acesso a esta base de dados.
+20. Essa base de dados segue a Classificação Internacional de Doenças (CID-10), da OMS.
+21. Os dados foram obtidos a partir da seguinte classificação: homicídios (subcategorias do CID-10 de X850 a Y059);
+homicídios causados por PAF (X930 a X959); homicídios causados por PAF dentro das residências (X930, X940 e X950);
+suicídios (X700 a X849); suicídios causados por PAF (X720 a X749); suicídios causados por PAF dentro das residências
+(X720, X730 e X740).
+33
+
+=== página 35 ===
+Brasília, março de 2012
+sofrem um processo de investigação para garantir a exatidão do fato que levou à
+morte. Com relação a dados de incidentes criminais reportados à polícia, São Pau-
+lo é um dos poucos estados brasileiros que possuem uma base de dados confiável
+e de conhecimento público. Contudo, como é comum neste tipo de informação,
+há uma grande heterogeneidade nas taxas de notificação por tipo de delito. Assim,
+enquanto nos homicídios e roubo de veículos a subnotificação é residual, em cri-
+mes de menor gravidade, como furtos, esta pode chegar a 80%. Mesmo para estes
+delitos menores, desde que a subnotificação fosse estável ao longo do período ana-
+lisado, não haveria problemas relevantes para as estimativas, exceto quanto ao viés
+de atenuação. Contudo, maior preocupação haveria se a subnotificação, bem como
+a disponibilidade de armas, variasse com o enforcement policial. Entre os dados
+utilizados, os únicos delitos em que a subnotificação é potencialmente substancial
+são os crimes de lesão corporal dolosa e crimes associados a drogas ilegais. De qualquer
+modo, não há evidências de que, entre 2001 e 2007, tenha havido diminuição nas
+taxas de subnotificação.
+Conforme apresentado na seção anterior, no período analisado, segundo as
+informações agregadas dos registros policiais, observou-se uma diminuição grada-
+tiva e substancial nas taxas de homicídio, de latrocínio e de roubo de veículos, ao
+passo que houve aumento nas lesões corporais dolosas e crimes envolvendo drogas
+ilícitas.22 Segundo os dados do SIM, houve também uma diminuição gradativa
+nas taxas de homicídios, homicídios por PAF e na proporção de suicídios por
+PAF. Em relação aos dados agregados, é interessante notar a alta correlação entre
+os homicídios segundo os registros policiais e os homicídios e homicídios por
+PAF segundo os dados do SIM, ainda que as duas fontes diferentes não mensurem
+exatamente os mesmos objetos.23 O gráfico 5 mostra que as três curvas seguem
+trajetórias idênticas.
+22. Não se apresenta o gráfico da taxa de crimes associados a drogas ilícitas, que aumentou 29,5% entre 2001 e 2007.
+23. A classificação de homicídios segundo os registros policiais tem relação com a tipificação do Código Penal, ao passo que
+homicídio segundo o SIM refere-se a qualquer agressão de terceiros que resulta em morte (excluindo os acidentes de trânsito).
+34
+
+=== página 36 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+GrÁFICo 5
+Taxa de homicídios e homicídios por PAF no estado de São Paulo (2001-2007)
+35
+axif
+esaB
+001
+08
+06
+04
+01 jul 01 01 jan 03 01 jul 04 01 jan 06 01 jul 07
+Homicídio (BO) Homicídio (SIM) Homicídio PAF
+Média móvel
+Fonte: Brasil/MS/SIM.
+Elaboração dos autores.
+Obs.: 1. Média móvel dos últimos 12 meses.
+2. Base fixa: dezembro de 2001 = 100.
+As estatísticas descritivas (tabela 1) indicam que lesões corporais dolosas foi o
+delito mais prevalente nas cidades paulistas, seguido dos crimes envolvendo dro-
+gas ilícitas e roubo de veículos. Como era de se esperar, os homicídios registrados
+pelo SIM apresentam maior prevalência que aqueles registrados pela polícia, uma
+vez que muitas mortes por agressões podem não ser classificadas pela polícia como
+homicídios, como é o caso de auto de resistência24 e encontro de cadáver.25 Os
+dados revelam ainda que, no período analisado, houve uma grande variação dos
+incidentes criminais não apenas entre as cidades, mas para uma mesma cidade ao
+longo do tempo.
+24. O auto de resistência é registrado quando um policial em serviço mata um civil.
+25. Quando há o encontro de cadáver na via pública, muitas vezes, a polícia registra o ocorrido como encontro de cadáver,
+ainda que haja elementos para suspeitar ter havido um homicídio. Mesmo que futuramente se apure tratar-se de um
+homicídio, as bases de dados policiais geralmente não retroagem para corrigir a informação.
+
+=== página 37 ===
+Brasília, março de 2012
+TaBELa 1
+Estatísticas descritivas – violência e segurança pública no estado de São Paulo (2001-2007)
+Desvio Padrão
+Variável Média Total
+Entre cidades Intra cidades
+População 61.333 435.933,50 436.158,20 9.770,41
+Proporção de suicídios por PAF 0,15 0,33 0,21 0,31
+Homicídio (BO) 0,87 2,88 0,77 2,77
+Homicídio (SIM) 1,13 3,23 1,21 3,06
+Homicídio por PAF (SIM) 0,58 2,07 0,97 1,93
+Latrocínio (BO) 0,06 0,82 0,09 0,82
+Lesão corporal dolosa (BO) 48,68 34,66 17,95 29,67
+Roubo de veículos (BO) 2,85 7,62 5,84 4,78
+Crimes envolvendo drogas ilícitas (BO) 7,23 17,73 9,13 15,21
+Prisões 17,09 18,63 9,26 16,17
+Efetivo policial 184,59 469,98 465,71 65,74
+Fonte: Brasil/MS/SIM; boletins de ocorrência (BOs) da Secretaria de Segurança Pública do Estado de São Paulo.
+Elaboração dos autores.
+Obs.: Todas as variáveis, com exceção da população e da proporção de suicídios por PAF, estão expressas em taxas por 100 mil residentes.
+4.4 mODElO E ESTRATégIA DE IDEnTIFICAçÃO
+A fim de testar a relação causal entre armas e crimes, será utilizada na análise uma
+base de dados relativa a todos os municípios de São Paulo, com periodicidade mensal,
+no período compreendido entre 2001 e 2007. A equação principal do modelo é descri-
+ta em (11). Na aplicação empírica, considera-se explicitamente a possibilidade de haver
+efeitos fixos não observáveis no nível dos municípios que possuam correlação com a
+variável principal de interesse. Ainda, tendo em vista que no período analisado houve
+diversas inovações no sistema de segurança pública do estado de São Paulo, descarta-se
+toda variação puramente ao longo do tempo introduzindo controles dummies de ano.
+Isto evita que se capturem relações espúrias advindas, por exemplo, de não estaciona-
+riedades nas séries de homicídio e armas. No entanto, é possível que algumas políti-
+cas públicas tenham sido implantadas de forma diferenciada segundo o tamanho dos
+municípios. Para captar os possíveis efeitos destas políticas, introduzem-se tendências
+temporais lineares para grupos de municípios, de acordo com a população residente.
+36
+
+=== página 38 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+(11)
+onde:
+= variável não observável de cada município, constante no tempo;
+= controle do tempo
+= variável auxiliar que capta o tamanho da cidade. p = 1, ..., 5
+(pop < 50.000; 50.001 < pop < 100000; 100001 < pop < 200000; 200001 < pop < 300.000; pop > 300001)
+= erro aleatório, sendo que ;
+e
+Não obstante os controles temporais e de cidades, introduzidos na equação
+(11), persistem vários problemas potenciais relacionados às questões de simultaneidade
+e variáveis omitidas. Neste caso, a estimativa de por mínimos quadrados ordinários
+(OLS) seria inconsistente. Para contornar este problema, procura-se identificar o mo-
+delo ao explorar, com o uso de variáveis instrumentais, a variação no tempo e a variação
+cross-se c tion dos dados entre os municípios avaliados.
+Para tanto, requer-se uma variável que funcione como uma fonte de variação
+exógena na disponibilidade de armas e que não tenha correlação com o termo de erro
+no modelo (11). Afortunadamente, o ED possui estas duas características, servindo
+como instrumento para armas na cidade. Espera-se que o efeito do estatuto seja no
+sentido de diminuir a disponibilidade de armas.
+Contudo, como o ED (Lei no 10.826, de 22/12/2003) foi sancionado uniforme-
+mente em todos os municípios na mesma data, o uso deste único instrumento não permi-
+te que se explore a variação cross-section dos dados entre os municípios. Por isso, utilizam-
+se dois outros instrumentos auxiliares que, quando interados com o ED, possibilitam a
+análise destas variações. São eles: o estoque de armas em 2003 e o tamanho das cidades.
+37
+
+=== página 39 ===
+Brasília, março de 2012
+Seria de se esperar que, nos municípios onde a prevalência por armas fosse maior,
+o efeito do ED seria mais potente. É razoável imaginar que a restrição quanto à aqui-
+sição e ao porte de arma seja tanto mais ativa quanto maior for a demanda por arma
+em determinada cidade. Calcula-se a proporção de suicídios por PAF em 2003 (ar-
+mas2003) como uma medida de prevalência de armas antes da introdução do ED e
+intera-se esta variável com a dummy que capta o período de vigência desta lei, após
+2003. Segundo a hipótese deste estudo, o efeito da interação destas duas variáveis deve-
+ria ser negativo, o que indicaria que nas cidades com mais armas o efeito do ED deveria
+ser maior no sentido de fazer reduzir o estoque destas.
+Ainda, seguindo a estratégia de Levitt (1997, 2002),26 utiliza-se o tamanho das
+cidades como instrumento adicional. A razão que sustenta o uso de tamanho das cidades
+como instrumento para armas de fogo se baseia em duas hipóteses. Em primeiro lugar,
+admite-se que a utilidade do indivíduo em demandar arma de fogo, representada por
+d no modelo teórico, é uma função da percepção do crime em sua cidade. Para cidades
+com tamanhos diferentes que possuam a mesma taxa de crime, supõe-se que a percepção
+de crimes é tanto maior quanto maior for a cidade. Isto decorreria de o número absoluto
+de crimes ser maior nas cidades maiores. A fim de captar o efeito de variação do tamanho
+das cidades, categorizam-se os municípios segundo a população residente: com popu-
+lação inferior a 50 mil habitantes; entre 50 e 100 mil habitantes; entre 100 e 200 mil
+habitantes; entre 200 e 300 mil habitantes; e acima de 300 mil habitantes.
+Todavia, é bem possível que o tamanho das cidades seja uma variável para con-
+dicionar não apenas a demanda por armas, mas também, por outros canais, a própria
+taxa de crime. Com efeito, segundo Glaeser e Sacerdote (1999), a taxa de crimes (cri-
+me por população) aumenta com o tamanho das cidades. Isto ocorreria porque nas
+cidades maiores não apenas os benefícios pecuniários do crime são maiores, mas ainda
+porque as probabilidades de prisão e de reconhecimento pelas vítimas são menores.
+Neste caso, haveria uma correlação entre o tamanho das cidades e o resíduo da equa-
+ção de crime, inviabilizando o uso desta variável como instrumento. Uma forma de
+evitar esta correlação do tamanho das cidades com a equação de crime é manter como
+controle na equação principal outro tipo de crime que capte esta correlação. Nos pre-
+26. Levitt (1997) utiliza o tamanho das cidades, junto com ciclos eleitorais, como instrumento para polícia em suas equa-
+ções de crime.
+38
+
+=== página 40 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+sentes exercícios, utiliza-se como controle a taxa de roubo de veículos, que passa a ser
+incluída na equação (11).27
+Ou seja, a estratégia de identificação é baseada em três hipóteses: i) a prevalên-
+cia de armas diminuiu após o ED; ii) o efeito do ED foi mais forte nas cidades onde
+a prevalência de armas era maior antes da sanção da lei; e iii) a prevalência de armas
+varia conforme o tamanho das cidades. Das três variáveis utilizadas, enquanto ED e
+armas2003 são constantes em alguma dimensão, a variável tamanho de cidades apresen-
+tou certa variação, tendo cerca de 5% das cidades mudado de faixa. Assim, utilizam-se
+como instrumentos as três variáveis interadas, além do tamanho das cidades, que pode
+captar possíveis efeitos de variação no tamanho dos municípios, conforme apontado na
+equação do primeiro estágio descrita pela equação (12):
+(12)
+Onde:
+A taxa de armas se refere à proporção de suicídio por PAF, em relação ao total
+de suicídios
+= Dummy Estatuto do Desarmamento;
+= Dummies que captam o tamanho da cidade. p = 1, ..., 5;
+= vetor de variáveis exógenas incluídas nas equações (11);
+= vetor de coeficientes
+= Dummies município que captam o efeito fixo de cidade;
+= Dummies de ano que captam o efeito fixo temporal;
+= erro aleatório, sendo que .
+Conforme salientado anteriormente, espera-se que e que e , tendo
+em vista que a categoria de cidade omitida foi a com menos de 50 mil habitantes.
+27. Nas equações de roubo de veículos, o controle utilizado foi a taxa de homicídio.
+39
+
+=== página 41 ===
+Brasília, março de 2012
+Os modelos descritos pelas equações (11) e (12) serão estimados via método
+de variáveis instrumentais por mínimos quadrados em dois estágios (IV-2SLS),28 com
+erro-padrão cluster-robusto. Será permitido que haja autocorrelação e heterocedasti-
+cidade dos resíduos para cada município, mantendo-se a independência dos resíduos
+entre os municípios.
+4.5 O PRImEIRO ESTágIO DE ARmAS – PROPORçÃO DE SUICíDIOS POR PAF
+Na tabela 2 são apresentados os resultados das regressões em OLS para o primeiro
+estágio de suicídio por PAF. Nas cinco regressões, o coeficiente associado ao principal
+instrumento (a interação entre a dummy do ED e a prevalência de armas nos municí-
+pios em 2003) resultou em negativo e significativo, conforme o esperado, indicando
+que o efeito do desarmamento foi maior nas cidades onde havia maior prevalência de
+armas anteriormente. Quando esta variável foi interada com o tamanho das cidades, a
+maioria dos coeficientes estimados foi também significativa, evidenciando que o efeito
+do desarmamento se deu de forma diferenciada não apenas em relação à prevalência
+por armas anteriormente, mas em relação ao tamanho das cidades. Na primeira coluna
+não foram considerados os efeitos fixos de municípios nem os efeitos temporais. Nas
+regressões seguintes incluem-se, paulatinamente: efeito fixo de cidades; de tempo; con-
+trole para taxa de prisões em t-1 e taxa de roubo de veículos; e tendências temporais
+lineares por tamanho de cidades. Observa-se que, à medida que controles foram sendo
+introduzidos, de modo geral, os valores em módulo dos coeficientes das cinco primei-
+ras variáveis aumentaram. Na última regressão, entre estas variáveis de maior interesse,
+quatro destes coeficientes foram significativos, com exceção da interação tripla relativa
+a municípios com população entre 200 e 300 mil habitantes. Ainda, cabe observar a
+rejeição da hipótese nula, sob a qual os coeficientes estimados são conjuntamente iguais
+a zero, conforme a estatística F aponta. Por fim, é oportuno salientar o R2 ajustado das
+regressões, que girou em torno de 0,57.
+28. O programa utilizado foi o Stata e o comando foi o xtivreg2.
+40
+
+=== página 42 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+TaBELa 2
+Regressões em OlS para o primeiro estágio de suicídio por PAF no estado de São Paulo
+(2001-2007)
+1º Estágio: Armas
+Variável Dependente: ln ( armas )
+(1) (2) (3) (4) (5)
+-0,4222 -0,5233 -0,7093 -0,7563 -0,8073
+(0,178) (0,171) (0,189) (0,247) (0,211)
+0,332 0,341 0,5391 0,6401 0,6301
+(0,238) (0,255) (0,273) (0,366) (0,333)
+0,6803 0,4001 0,6463 0,7182 0,7163
+(0,253) (0,215) (0,215) (0,280) (0,261)
+0,421 0,0960 0,415 0,516 0,916
+(0,669) (0,644) (0,649) (0,700) (0,784)
+0,237 0,143 0,6181 0,7321 0,7702
+(0,430) (0,196) (0,315) (0,378) (0,367)
+-0,0158 0,000 0,1492 0,0916 1,375
+(0,0664) (0,000) -0,067 (0,107) (1,990)
+-0,2543 -0,0243 0,167 0,0735 1,444
+(0,0841) (0,136) (0,162) (0,170) (1,913)
+-0,3913 0,5773 0,8843 0,8093 3,222
+(0,116) (0,208) (0,250) (0,274) (2,068)
+-1,5953 0,4872 0,8373 0,7233 2,398
+(0,179) (0,210) (0,247) (0,256) (1,648)
+ln (taxa de prisões ) -0,0738 -0,0695
+t-1
+(0,116) (0,115)
+ln (taxa de roubo de veículos) 0,102 0,0882
+Efeito fixo de cidade NÃO SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO NÃO SIM
+Prob > F 0,5921 0,0005 0,0000 0,0000 0,0000
+R2 ajustado 0,176 0,560 0,570 0,570 0,567
+Número de observações 818 818 818 818 818
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. *ln*(armas ) = Estatuto do Desarmamento*média das armas do ano de 2003.
+ED 2003
+3. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+4. § : inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes. A categoria excluída, quanto ao tamanho das cidades, foi a das cidades com
+menos de 50 mil habitantes.
+5. Erro-padrão cluster-robusto entre parênteses.
+41
+
+=== página 43 ===
+Brasília, março de 2012
+4.6 RESUlTADOS
+Nesta seção será analisado o efeito das armas de fogo sobre vários tipos de crimes violen-
+tos contra a pessoa e contra o patrimônio. Para cada delito, calcula-se a taxa por 100 mil
+habitantes. Consideram-se variáveis dependentes: taxa de homicídios dolosos (segundo
+os registros policiais); taxa de homicídios (segundo o SIM/MS); taxa de homicídios por
+PAF (SIM/MS); taxa de homicídios por PAF dentro das residências (SIM/MS); lesões
+corporais dolosas (registros policiais); taxa de roubos de veículos (registros policiais); taxa
+de latrocínios (registros policiais); e taxa de crimes associados a drogas (registros policiais).
+A tabela 3 descreve os resultados associados às taxas de homicídios dolosos, segundo
+constam nos registros policiais. Nota-se, em primeiro lugar, que o coeficiente de armas na
+regressão estimada por OLS, quando nenhum controle é introduzido (coluna 1), é negativo
+e significativo ao nível de 10%. Quando o efeito fixo de cidade é considerado (coluna 2),
+o coeficiente das armas passa a ser positivo e significativo ao nível de 1%. Porém, quando
+se consideram, adicionalmente, controles temporais com base em dummies anuais (coluna
+3), o coeficiente passa a ser não significativo novamente. Na regressão (4) outros controles
+foram introduzidos, mas o coeficiente das armas permaneceu sem significância.
+A análise dessas quatro regressões sugere, portanto, haver na equação de homicídios
+efeitos fixos por localidade e variáveis omitidas que variam no tempo, indicando a necessidade
+do uso de variáveis instrumentais, para contornar o problema de endogeneidade. As colunas
+de (5) a (8) descrevem os resultados de regressões estimadas pelo método de IV-2SLS, em que
+o conjunto dos instrumentos excluídos, conforme visto anteriormente, conta com o efeito do
+ED interado com a média da prevalência de armas em 2003. Neste conjunto foi ainda con-
+siderado o efeito da interação do ED, como o tamanho das cidades e a prevalência de armas
+antes da implantação do ED. Como se observa, as quatro regressões apresentaram coeficientes
+positivos e significativos para a variável de interesse. Na quinta regressão, que considera apenas
+o efeito fixo por localidade, o coeficiente de armas parece claramente exagerado. Quando
+introduzidos controles de tempo (coluna 6) e a taxa de aprisionamento defasada um período,
+junto com a taxa de roubo de veículo29 (coluna 7), a elasticidade das armas passa para 1,09.
+Uma possível crítica aos resultados destas duas últimas regressões poderia se referir à possibili-
+dade de haver ainda algum efeito não observado que variou ao longo do tempo precisamente
+29. O objetivo é que a taxa de roubo de veículo sirva de controle para possíveis correlações entre o instrumento (tamanho
+das cidades) e o erro da equação principal.
+42
+
+=== página 44 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+nas maiores cidades. Para levar em conta esta possibilidade, na coluna 8, introduz-se uma
+tendência temporal linear por tamanho de cidade. Nesta regressão, a elasticidade das armas
+aumenta para 2,98. Por fim, deve-se observar, nestas quatro regressões, que a hipótese nula do
+teste da estatística J de Hansen não pode ser rejeitada, o que implica dizer que não há evidência
+de os instrumentos adotados estarem correlacionados com o resíduo da equação principal,
+indicando tratar-se de instrumentos válidos. É importante ainda destacar que, segundo o teste
+F, os coeficientes das últimas quatro regressões são, conjuntamente, significativos.
+TaBELa 3
+homicídios dolosos no estado de São Paulo, segundo registros policiais (2001-2007)
+Variável Dependente: ln (taxa de homicídio por 100 mil habitantes )
+OLS IV2SLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln ( armas ) -0,1241 0,1233 -0,008 -0,014 10,0923 1,0933 1,0913 2,9872
+(0,071) (0,024) (0,014) (0,013) (1,795) (0,201) (0,177) (1,210)
+ln ( taxa de prisões ) -0,043 0,028 0,183
+t-1
+(0,084) (0,171) (0,347)
+ln ( taxa de roubo de veículos ) 0,073 0,008 -0,250
+(0,075) (0,103) (0,438)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,0837 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Hansen J statistic – p-valor - - - - 0,458 0,117 0,117 0,745
+Número de observações 695 695 695 695 695 695 695 695
+Número de grupos 85 85 85 85 85 85 85 85
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. § : inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade(p)* λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+A natureza da classificação dos homicídios dolosos nos registros policiais segue, ainda
+que não estritamente, o que é previsto no Artigo 121 do Código Penal. Há, contudo, cer-
+tas diferenças de taxonomia que remetem a peculiaridades relativas ao trabalho de polícia.30
+30. Por exemplo, quando um corpo é encontrado numa via pública com sinais de violência, muitas vezes o evento é clas-
+sificado como morte suspeita ou encontro de cadáver. Nota-se que a diferença persistirá, ainda que futuramente se apure
+tratar-se de um caso de homicídio, tendo em vista que a série estatística dos registros policiais não costuma sofrer revisões.
+43
+
+=== página 45 ===
+Brasília, março de 2012
+É interessante avaliar o homicídio não apenas sob o enfoque da constatação do dolo ou
+não,31 mas levando-se em consideração as agressões de terceiros que geram vítimas letais,
+o uso de arma de fogo nestas agressões, a ocorrência de incidentes dentro das residências.
+Por estes motivos, alternativamente aos dados dos registros policiais, utilizam-se os dados
+de homicídios provenientes do SIM/MS,32 cujos resultados estão descritos na tabela 4.
+Do ponto de vista qualitativo, os resultados replicam aqueles descritos na tabela 3, o que
+corrobora a evidência de que mais armas geram mais homicídios. Nesta tabela, também se
+obtêm coeficientes significativos, em que os instrumentos não são rejeitados como válidos.
+A diferença entre os resultados das tabelas 5 e 6 reside basicamente na magnitude dos coe-
+ficientes, o que seria de certa forma esperado, tendo em vista que as variáveis dependentes
+captam dois fenômenos em certa medida distintos, conforme discutido anteriormente.
+TaBELa 4
+homicídios dolosos no estado de São Paulo, segundo registros do SIm/mS (2001-2007)
+Variável Dependente: ln (taxa de homicídio por 100 mil habitantes )
+OLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln ( armas ) -0,100 0,1113 -0,013 -0,019 8,7413 0,6993 0,6443 3,3993
+(0,062) (0,023) (0,013) (0,013) (2,218) (0,261) (0,242) (1,282)
+ln ( taxa de prisões ) -0,042 -0,011 0,182
+t-1
+(0,055) (0,107) (0,369)
+ln ( taxa de roubo de veículos ) 0,085 0,071 -0,271
+(0,053) (0,054) (0,470)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,1108 0,000 0,000 0,000 0,0004 0,000 0,000 0,000
+Hansen J statistic – p-valor - - - 0,378 0,0954 0,102 0,801
+Número de observações 719 719 719 719 719 719 719 719
+Número de grupos 90 90 90 90 90 90 90 90
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. § : inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade(p)*λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+31. Em particular, um ponto interessante para análise na relação entre armas e vítimas fatais se relaciona ao poder de polícia
+e ao gradiente da força. É possível que mais armas gerem reações mais violentas por parte da polícia, resultando em confron-
+tos com vítimas fatais, que não são categorizados como homicídios nos registros policiais, mas como autos de resistência.
+32. Segundo a CID-10, os acidentes (de trânsito ou não) são categorizados de forma diferente das agressões.
+44
+
+=== página 46 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Se o desarmamento foi importante para fazer diminuir os homicídios no es-
+tado São Paulo, deveriam ser observados resultados qualitativamente idênticos ao se
+fazerem as mesmas regressões para homicídios causados por PAF, que estão apon-
+tados na tabela 5. Com efeito, verifica-se que as observações já feitas para as duas
+tabelas anteriores se repetem.
+TaBELa 5
+homicídios causados por PAF no estado de São Paulo (2001-2007)
+Variável Dependente: ln(taxa de homicídio por PAF, por 100 mil habitantes )
+OLS IV2SLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln ( armas ) -0,090 0,0843 -0,0272 -0,0343 10,0873 0,9311 0,8882 3,1622
+(0,063) (0,024) (0,013) (0,013) (1,315) (0,495) (0,412) (1,431)
+ln (taxa de prisões ) -0,128 -0,065 0,132
+t-1
+(0,093) (0,172) (0,380)
+ln ( taxa de roubo de veículos) 0,1262 0,088 -0,215
+(0,062) (0,077) (0,460)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,1564 0,0010 0,000 0,000 0,0000 0,000 0,000 0,000
+Hansen J statistic – p-valor - - - - 0,727 0,383 0,330 0,744
+Número de observações 649 649 649 649 649 649 649 649
+Número de grupos 75 75 75 75 75 75 75 75
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. § : inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade(p)*λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+Lesão corporal dolosa33 é um crime que resulta de um conflito interpessoal,
+em que a solução proposta pelos contendores se dá por meios violentos. Geral-
+mente estes incidentes não envolvem o uso da arma de fogo, pois, neste caso, a
+polícia judiciária tenderia a classificar o delito como tentativa de homicídio, ou
+homicídio, tendo em vista o alto poder de letalidade da arma de fogo. Na tabela 6,
+apresentam-se os resultados relativos a este delito. É interessante notar que os si-
+33. A lesão corporal dolosa é tipificada no Artigo 129 do Código Penal brasileiro como um crime contra a pessoa que
+consiste em ofender a integridade corporal ou a saúde de outrem.
+45
+
+=== página 47 ===
+Brasília, março de 2012
+nais dos coeficientes listados são exatamente o contrário das regressões anteriores.
+Os dados podem estar captando uma substituição quanto aos meios para a resolu-
+ção de conflitos interpessoais violentos. Ou seja, tendo em vista a distribuição da
+prevalência de incidentes interpessoais violentos, a diminuição do acesso à arma
+de fogo faz com que os indivíduos envolvidos utilizem instrumentos menos letais,
+como o próprio corpo, para resolver a contenda. Novamente, nesta tabela se pode
+observar a significância estatística dos coeficientes associados às armas de fogo nas
+regressões de (5) a (7).
+TaBELa 6
+lesões corporais dolosas no estado de São Paulo, segundo registros policiais (2001-2007)
+Variável Dependente: ln( lesão corporal dolosa por 100 mil habitantes )
+OLS IV2SLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln (armas) 0,1063 -0,014 0,011 0,011 -1,9003 -0,2703 -0,2131 -0,782
+(0,034) (0,010) (0,014) (0,013) (0,533) (0,096) (0,112) (0,547)
+ln (taxa de prisões ) -0,058 -0,074 -0,115
+t-1
+(0,098) (0,078) (0,094)
+ln (taxa de roubo de veículos) 0,017 0,033 0,095
+(0,038) (0,035) (0,115)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,0025 0,1610 0,000 0,000 0,0006 0,000 0,000 0,000
+Hansen J statistic – p-valor - - - - 0,441 0,246 0,203 0,0845
+Número de observações 818 818 818 818 818 818 818 818
+Número de grupos 111 111 111 111 111 111 111 111
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1.A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. §: inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade (p)*λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+46
+
+=== página 48 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Analisando-se a relação entre armas e crimes violentos contra a pessoa, com base
+nos resultados descritos nas tabelas 3, 4 e 5, conclui-se que menos armas geram menos
+homicídios (sejam ou não por dolo e com o uso da arma de fogo). Verifica-se que a
+elasticidade entre estas duas variáveis se inseria num domínio entre 0,6 e 3,4. Por sua
+vez, quanto às lesões corporais dolosas, o inverso parece ocorrer.
+Quanto aos crimes com motivação econômica, conforme discutido anteriormen-
+te, principalmente nos delitos em que há um contato direto entre perpetrador e vítima,
+teoricamente poderia haver um efeito dissuasão pela vítima armada. Neste caso, su-
+pondo ser o comportamento do criminoso relativamente inelástico quanto à demanda
+por armas – o que parece ser bastante razoável, tendo em vista que a arma de fogo é o
+capital fixo mais importante para o criminoso –, e considerando ser relevante o efeito
+“dissuasão pela vítima armada”, seria esperado que o desarmamento da população fizes-
+se aumentar este tipo de crime.
+Para investigar a validade empírica do efeito dissuasão pela vítima armada,
+analisam-se, em primeiro lugar, os incidentes envolvendo latrocínio,34 um tipo de
+crime contra o patrimônio em que, como efeito colateral, o perpetrador mata a
+vítima. Geralmente é um tipo de delito cometido com o uso da arma de fogo e em
+aglomerações urbanas.
+Os resultados expressos na tabela 7 indicam não haver relação estatistica-
+mente significativa entre a difusão de armas nas cidades e os latrocínios. Como
+parece razoável que o criminoso profissional seja relativamente inelástico à de-
+manda por armas, que constitui o seu principal capital fixo, os resultados expres-
+sos nesta tabela sugerem não haver evidência acerca de um virtual efeito dissuasão
+pela população armada.
+34. Latrocínio é o roubo seguido de morte, caracterizado no Artigo 157, parágrafo 3o, do Código Penal.
+47
+
+=== página 49 ===
+Brasília, março de 2012
+TaBELa 7
+latrocínios no estado de São Paulo, segundo registros policiais (2001-2007)
+Variável Dependente: ln ( latrocínio por 100 mil habitantes )
+OLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln (armas) 0,3542 0,0773 -0,1092 -0,1182 21,9863 -3,317 -1,936 -0,608
+(0,138) (0,012) (0,041) (0,046) (5,954) (5,186) (3,675) (0,567)
+ln (taxa de prisões ) 0,338 0,477 0,380
+t-1
+(0,211) (0,452) (0,233)
+ln (taxa de roubo de veículos) 0,184 0,962 0,332
+(0,212) (1,121) (0,322)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM NÃO SIM SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,0181 0,000 0,000 0,000 0,0017 0,000 0,000 0,000
+Hansen J statistic – p-valor - - - - 0,527 0,563 0,445 0,523
+Número de observações 206 206 206 206 206 206 206 206
+Número de grupos 22 22 22 22 22 22 22 22
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. § : inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade (p)*λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+Na classe dos crimes contra o patrimônio, analisa-se também o roubo de veí-
+culos, que é um tipo de delito que se presta a vários fins: o comércio de peças e do
+próprio veículo; o transporte de ilícitos e dos próprios criminosos para a prática
+de outros crimes; e a “desova” de cadáveres. Levando-se em conta a importância,
+a especialização do tipo criminal e os valores envolvidos nos roubos de veículos,
+seria esperada uma baixa elasticidade-preço da demanda de armas para tais crimi-
+nosos. Neste contexto, caso o efeito dissuasão pela vítima armada fosse relevante,
+a política de desarmamento deveria levar ao aumento deste tipo de delito (coeteris
+paribus), conforme discussão teórica (quadro 2). Com efeito, os resultados lista-
+dos na tabela 8 indicam que ou não há relação estatisticamente significante entre
+armas e roubo de veículos ou há uma relação positiva. Enquanto o coeficiente das
+armas nas regressões (6) e (7) foi não significativo, o coeficiente apresentado na
+coluna (9) foi positivo e significativo. Tendo em vista que o roubo de automóveis
+48
+
+=== página 50 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+envolve geralmente o uso da arma de fogo, é possível que a última regressão esteja
+captando o aumento do custo esperado para o perpetrador andar armado na via
+pública após o ED, o que poderia redundar em sua prisão. De qualquer modo,
+a análise das regressões de (6) a (9) não evidencia uma relação causal inequívoca
+entre armas e roubo de veículos.
+TaBELa 8
+Roubos de veículos no estado de São Paulo, segundo registros policiais (2001-2007)
+Variável Dependente: ln ( Roubo de Veículo por 100 mil habitantes )
+OLS IV2SLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln ( armas ) -0,4593 0,0633 0,0202 0,0181 2,3583 0,250 0,204 1,1472
+(0,155) (0,013) (0,010) (0,010) (0,531) (0,361) (0,352) (0,512)
+ln (taxa de prisões ) -0,030 -0,027 0,062
+t-1
+(0,053) (0,056) (0,121)
+ln (taxa de homicídio) 0,038 0,076 0,087
+(0,038) (0,047) (0,077)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM SIM NÃO SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,0039 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000 0,0000
+Hansen J statistic – p-valor - - - - 0,451 0,450 0,443 0,538
+Número de observações 695 695 695 695 695 695 695 695
+Número de grupos 85 85 85 85 85 85 85 85
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. §: inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade (p)*λ *ln(armas ); e tamanho de cidade (p).
+ED 2003 ED 2003
+A priori, não se deveria esperar que a política de desarmamento tivesse efeitos
+significativos sobre o consumo e o tráfico de drogas ilícitas. Como um teste de false-
+amento do método, fizeram-se regressões também para os crimes envolvendo drogas
+ilícitas, que se relacionam aos incidentes envolvendo uso, apreensão e tráfico de drogas,
+cujos resultados foram expressos na tabela 9. Conforme se pode observar nesta tabela,
+o coeficiente das armas é insignificante estatisticamente.
+49
+
+=== página 51 ===
+Brasília, março de 2012
+TaBELa 9
+Crimes envolvendo drogas ilícitas no estado de São Paulo, segundo registros policiais
+(2001-2007)
+Variável Dependente: ln( crimes envolvendo drogas por 100 mil habitantes )
+OLS IV2SLS
+(1) (2) (3) (4) (5) (6) (7) (8)
+ln (armas) 0,1973 -0,004 0,013 0,013 -1,1162 0,116 0,110 -0,494
+(0,072) (0,008) (0,008) (0,009) (0,450) (0,394) (0,369) (0,750)
+ln (taxa de prisões ) 0,080 0,091 0,042
+t-1
+(0,069) (0,066) (0,088)
+ln (taxa de roubo de veículos) 0,040 0,024 0,090
+(0,085) (0,071) (0,177)
+Efeito fixo de cidade NÃO SIM SIM SIM SIM SIM SIM SIM
+Efeito fixo de tempo NÃO NÃO SIM SIM SIM NÃO SIM SIM
+Tendência por tamanho de cidade§ NÃO NÃO NÃO SIM NÃO NÃO NÃO SIM
+Prob > F 0,0069 0,6740 0,0000 0,0000 0,0279 0,0000 0,0000 0,0000
+Hansen J statistic – p-valor - - - - 0,329 0,470 0,420 0,385
+Número de observações 797 797 797 797 797 797 797 797
+Número de grupos 106 106 106 106 106 106 106 106
+Fonte: Brasil/MS/SIM; São Paulo/Secretaria Estadual de Segurança Pública.
+Notas: 1. p<0,1.
+2. p<0,05.
+3. p<0,01.
+Obs.: 1. A medida de armas utilizada foi a proporção de suicídios por PAF em relação ao total dos suicídios.
+2. As taxas de prisões e de roubo de veículos estão expressas por 100 mil habitantes.
+3. Erro-padrão cluster-robusto entre parênteses.
+4. Efeito fixo de tempo se refere a dummies anuais.
+5. §: inclui uma tendência temporal linear para cada grupo de cidades: entre 50 e 100 mil habitantes; entre 100 e 200 mil habitantes; entre
+200 e 300 mil habitantes; e mais de 300 mil habitantes.
+6. Os instrumentos incluídos foram: λ *ln*(armas ); tamanho de cidade(p)*λ *ln(armas ); e tamanho de cidade(p).
+ED 2003 ED 2003
+5 concLUsÃo
+Menos armas, menos crimes? Nas duas últimas décadas, vários estudiosos de diver-
+sas áreas do conhecimento se debruçaram sobre esta questão. Não obstante a escassez
+de dados sobre a prevalência de armas e as dificuldades metodológicas subjacentes, a
+resposta parece ser positiva. Neste Texto para Discussão, inicialmente, discutiram-se
+as estratégias de identificação empregadas em alguns dos trabalhos mais citados na li-
+teratura, bem como suas potenciais fragilidades. Apresentou-se um modelo teórico de
+demanda por armas e crimes, no qual foi analisado o dilema entre a prevalência de ar-
+mas na cidade, o custo de obtenção da arma no mercado ilegal e o efeito dissuasão pela
+vítima armada. O resultado teórico inconclusivo sobre o papel das armas para causar
+crimes indicou que esta relação causal só poderia ser evidenciada no plano empírico.
+50
+
+=== página 52 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+Uma oportunidade de avaliar essa questão ocorreu no Brasil, por conta da intro-
+dução do ED, que fez aumentar substantivamente o custo de obter uma arma de fogo
+e circular com ela, o que serviu como uma fonte de variação exógena para identificar
+corretamente o efeito. Em particular, analisaram-se as dinâmicas dos crimes apenas nos
+municípios do estado de São Paulo, em face da disponibilidade de dados confiáveis.
+De 2001 a 2007, o número de homicídios diminuiu 60,1% em todo o estado,
+colocando São Paulo como um dos casos internacionais mais emblemáticos, junto a
+Nova Iorque e Bogotá. Os dados sobre as várias dinâmicas criminais indicaram, entre-
+tanto, que não houve uma queda generalizada da criminalidade no estado de São Paulo.
+Ao contrário, os crimes contra a pessoa e contra o patrimônio aumentaram cerca de
+20%. Com efeito, os crimes que tiveram uma maior queda foram aqueles geralmente
+praticados com o uso da arma de fogo. Mais interessante ainda, esta diminuição ocor-
+reu de forma mais acentuada exatamente após a entrada em vigor do ED.
+A fim de se estimar o efeito causal de armas sobre crimes, formulou-se um mo-
+delo empírico, em que se utilizou a proporção de suicídios por PAF como medida de
+prevalência de armas nos municípios paulistas. Como estratégia de identificação, para
+solucionar os problemas de simultaneidade e de variáveis omitidas, explorou-se a va-
+riação temporal e a variação cross-section dos dados. Para tanto, estimou-se um modelo
+com base no método IV2SLS, em que se utilizou como instrumento a interação de
+uma dummy associada ao período de vigência do ED com a proporção de suicídios
+antes da sanção do ED, sob a hipótese de que a introdução da lei teria efeitos maiores
+justamente nas localidades onde a difusão de armas era maior antes da imposição do
+ED. Esta variável foi ainda interada com o tamanho das cidades. Analisou-se o impacto
+das armas sobre vários tipos de crimes violentos contra a pessoa e contra o patrimônio.
+A análise do primeiro estágio indicou ser válido o conjunto de instrumentos utilizados.
+Na análise do segundo estágio, os resultados indicaram que a elasticidade das
+armas em relação aos homicídios estaria num domínio entre 0,6 e 3,1, sendo 2,0 a
+elasticidade média obtida entre as várias especificações analisadas. Além dos dados pro-
+venientes dos registros policiais utilizaram-se, alternativamente, os microdados prove-
+nientes do SIM/MS, com informações não apenas de homicídios, mas de homicídios
+perpetrados com o uso da arma de fogo. Os resultados se mantiveram estatisticamente
+significativos, ratificando a ideia de “menos armas, menos homicídios”.
+51
+
+=== página 53 ===
+Brasília, março de 2012
+Curiosamente, o efeito da diminuição na prevalência de armas foi no sentido de
+aumentar as lesões corporais dolosas. Aparentemente, estes resultados revelam um efei-
+to substituição quanto aos meios para a resolução de conflitos interpessoais violentos
+– a diminuição do acesso à arma de fogo fez com que os indivíduos envolvidos utili-
+zassem instrumentos menos letais, como o próprio corpo, para a solução da contenda.
+Em relação aos crimes contra o patrimônio (em particular, analisam-se os crimes
+de latrocínio e de roubo de veículos), os resultados indicaram que a difusão de armas nas
+cidades não possui efeitos estatisticamente significativos sobre tais crimes. Estes resultados
+se encaixam perfeitamente na predição do modelo teórico discutido na seção 3, para o caso
+em que o efeito de dissuasão ao crime pela vítima potencialmente armada é irrelevante.
+Com isso, os resultados deste estudo sugerem, ainda que de forma indireta, que
+ao contrário do que é defendido por Lott Junior e Mustard (1997) e Kleck (1979),
+pelo menos no estado de São Paulo, o criminoso profissional não se abstém de cometer
+crimes em razão de a população se armar para a autodefesa. Porém, a difusão das armas
+de fogo nas cidades é um importante elemento criminógeno para fazer aumentar os
+crimes letais contra a pessoa.
+REFERÊnCIAS
+BARTLEY, W. A.; COHEN, M. A. The effect of concealed weapons laws: an extreme bound
+analysis. Economic Inquiry, v. 36, n. 2, 1998.
+BECKER, G. Crime and punishment: an economic approach. Journal of Political Economy,
+v. 76, p. 169-217, 1968,
+BJERREGAARD, B.; LIZOTTE, A. Gun ownership and gang membership. The Journal of
+Criminal Law & Criminology, v. 86, n. 1, 1995.
+BRASIL. Ministério da Saúde. Sistema de Informações sobre Mortalidade (SIM). Disponí-
+vel em: <http://portal.saude.gov.br/portal/saude/visualizar_texto.cfm?idtxt=21377>.
+BRONARS, S. G.; LOTT JUNIOR, J. R. Criminal deterrence, geographic spillovers, and the
+right to carry concealed handguns. American Economic Review, May 1998.
+COOK, P. J.; LUDWIG, J. Defensive gun uses: new evidence from a national survey. Journal
+of Quantitative Criminology, v. 14, n. 2, 1998.
+52
+
+=== página 54 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+______. The effects of gun prevalence on burglary: deterrence vs inducement. 2002.
+(Working Paper, n. 8.926).
+COOK, P. J.; MOLLICONI, S.; COLE, T. B. Regulating gun markets. The Journal of
+Criminal Law & Criminology, v. 86, n. 1, 1995.
+CUMMINGS, P. et al. The association between the purchase of a handgun and homicide or
+suicide. American Journal of Public Health, v. 87, n. 6, June 1997.
+DEZHBAKHSH, H.; RUBIN, P. Lives saved or lives lost? The effects of concealed-handgun
+laws on crime. American Economic Review, May 1998.
+______. The effect of concealed handgun laws on crime: beyond the dummy variables.
+1999. (Mimeographed).
+DUGGAN, M. More guns, more crime. Journal of Political Economy, v. 109, n. 5, 2001.
+GLAESER, E. L.; SACERDOTE, B. Why is there more crime in cities? Journal of Political
+Economy, v. 107, p. 225-258, 1999.
+KELLERMANN, A. L. et al. Gun ownership as a risk factor for homicide in the home. The
+New England Journal of Medicine, v. 329, n. 15, p. 1.084-1.091, 1993.
+KILLIAS, M. International correlations between gun ownership and rates of homicide and
+suicide. Canadian Medical Association Journal, v. 148, n. 10, May 1993.
+KLECK, G. Capital punishment, gun ownership, and homicide. The American Journal of
+Sociology, v. 84, n. 4, p. 882-910, Jan. 1979.
+______. Measures of gun ownership levels for macro level crime and violence research. Journal
+of Research in Crime and Delinquency, v. 41, n. 1, p. 3-36, Feb. 2004.
+LESTER, D. Crime as opportunity: a test of the hypothesis with European homicide rates.
+British Journal of Criminology, v. 31, p. 186-188, 1991.
+LEVITT, S. D. Using electoral cycles in police hiring to estimate the effect of police on crime.
+American Economic Review, v. 87, n. 3, p. 270-290, June 1997.
+______. Using electoral cycles in police hiring to estimate the effect of police on crime: reply.
+American Economic Review, v. 92, n. 4, p. 1.244-1.250, Sep. 2002.
+LOTT JUNIOR, J. R.; MUSTARD, D. B. Crime, deterrence, and right-to-carry concealed
+handguns. Journal of Legal Studies, v. 26, Jan. 1997.
+LUDWIG, J. Concealed-gun-carrying laws and violent crime: evidence from state panel data.
+International Review of Law and Economics, v. 18, p. 239-254, 1998.
+53
+
+=== página 55 ===
+Brasília, março de 2012
+MCDOWALL, D. Firearm availability and homicide rates in Detroit, 1951-1986. Social
+Forces, v. 69, n. 4, p. 1.085-1.101, June 1991.
+MCDOWALL, D.; LOFTIN, C.; WIERSEMA, B. Easing concealed firearms laws: effects on
+homicide in three states. The Journal of Criminal Law & Criminology, v. 86, n. 1, 1995.
+MOODY, C. E.; MARVELL, T. B. Guns and crime. Southern Economic Journal, v. 71, n.
+4, p. 720-736, 2002.
+NEWTON, G. D.; ZIMRING, F. Firearms and violence in American life: a staff report to
+the national commission on the causes and prevention of violence. Washington: Government
+Printing Office, 1969.
+POTASH, J. B. et al. Attempted suicide and alcoholism in bipolar disorder: clinical and famil-
+ial relationships. The American Journal of Psychiatry, v. 157, p. 2.048-2.050, Dec. 2000.
+SHERMAN, L. W.; SHAW, J. W.; ROGAN, D. P. The Kansas city gun experiment. National
+Institute of Justice: research in brief, Jan. 1995.
+SLOAN, J. H. et al. Handgun regulations, crime, assaults, and homicide: a tale of two cities.
+New England Journal of Medical, v. 319, p. 1.256-1.262, 1988.
+STOLZENBERG, L.; D´ALESSIO, S. J. Gun availability and violent crime: new evidence
+from the national incident-based reporting system. Social Forces, v. 78, n. 4, p. 1.461-1.482,
+June 2000.
+WOOLDRIDGE, J. M. Econometric analysis of cross section and panel data. 2nd ed.
+Cambridge: The MIT Press, 2002.
+bIblIOgRAFIA COmPlEmEnTAR
+KLECK, G. Targeting guns, firearms and their control. New York: Walter de Gruyter, Inc., 1997.
+GLAESER, E.; GLENDON, S. Who owns guns? Criminals, victims, and the culture of vio-
+lence. American Economic Review, v. 88, n. 2, 1998.
+54
+
+=== página 56 ===
+Texto para
+Discussão
+1 7 2 1 Menos Armas, Menos Crimes
+APÊnDICE
+GrÁFICo a1
+homicídios por PAF dentro das residências e suicídio por PAF no estado de São Paulo
+(2001-2007)
+01 jul 01 01 jan 03 01 jul 04 01 jan 06 01 jul 07
+Taxa de homicídio por PAF nas residências Taxa de suicídio PAF
+Média móvel
+55
+axif
+esaB
+021
+001
+08
+06
+Fonte: Brasil/MS/SIM.
+Elaboração dos autores.
+Obs.: 1. Média móvel dos últimos 12 meses.
+2. Base fixa: dezembro de 2001 = 100.
+
+=== página 57 ===
+© Instituto de Pesquisa Econômica aplicada – ipea 2012
+eDiToriaL
+Coordenação
+Cláudio Passos de Oliveira
+Supervisão
+Everson da Silva Moura
+Marco Aurélio Dias Pires
+Revisão
+Andressa Vieira Bueno
+Laeticia Jensen Eble
+Luciana Dias Jabbour
+Mariana Carvalho
+Olavo Mesquita de Carvalho
+Reginaldo da Silva Domingos
+Celma Tavares de Oliveira (estagiária)
+Patrícia Firmina de Oliveira Figueiredo (estagiária)
+Editoração eletrônica
+Aline Rodrigues Lima
+Andrey Tomimatsu
+Danilo Leite de Macedo Tavares
+Jeovah Herculano Szervinsk Junior
+Daniella Silva Nogueira (estagiária)
+Leonardo Hideki Higa (estagiário)
+Capa
+Luís Cláudio Cardoso da Silva
+Projeto gráfico
+Renato Rodrigues Bueno
+livraria do Ipea
+SBS – Quadra 1 - Bloco J - Ed. BNDES, Térreo.
+70076-900 – Brasília – DF
+Fone: (61) 3315-5336
+Correio eletrônico: livraria@ipea.gov.br
+Tiragem: 500 exemplares
+Logotipo/slogan de governo removido em observancia ao disposto no art. 40 da Lei n 9.504/1997
+
+=== página 58 ===
+Capa_TD_1721.pdf 1 05/03/2012 10:48:52
+1721
+MENOS ARMAS, MENOS CRIMES
+C
+M
+Y
+CM
+MY Daniel Ricardo de Castro Cerqueira
+CY João Manoel Pinho de Mello
+CMY
+K
+ISSN 1415-4765
+9 771415 476001
+47

@@ -1,0 +1,74 @@
+# fonte: https://repositorio.ufc.br/handle/riufc/67270
+# capturado em: 2026-10-20
+
+Repositório Institucional UFC: O papel do controle de armas de fogo sobre os homicídios
+Skip navigation
+Portal do Governo Brasileiro
+Atualize sua Barra de Governo
+Página inicial
+Navegar
+Comunidades e coleções
+Navegar nos Itens por:
+Data do documento
+Autores
+Título
+Assunto
+Tipo do Documento
+Áreas de Conhecimento - CNPq
+Tipo de Acesso
+Documentos
+Tutorial para depósito de TCC, dissertação e tese no repositório
+Tutorial para depósito de outros tipos de documentos no repositório
+Termo de Autorização para Disponibilizar Documentos Digitais
+Formulário de Solicitação de Substituição, Embargo ou Exclusão de Arquivo no RI
+Política de Informação Técnico-Científica do RI da UFC
+Contato
+Idioma
+español
+English
+português
+Entrar em:
+Meu espaço
+Receber atualizações
+por e-mail
+Editar perfil
+Repositório Institucional UFC
+FEAAC - Faculdade de Economia, Administração, Atuária e Contabilidade
+CAEN - Pós-Graduação em Economia
+CAEN - Teses defendidas na UFC
+Use este identificador para citar ou linkar para este item:
+http://repositorio.ufc.br/handle/riufc/67270
+Tipo:
+Tese
+Título:
+O papel do controle de armas de fogo sobre os homicídios
+Autor(es):
+Siqueira, Rogério Moreira de
+Orientador:
+Jorge Neto, Paulo de Melo
+Palavras-chave:
+Controle de Armas;Homicídios;Bem-Estar;Painel dinâmico;GMM em sistema
+Data do documento:
+2022
+Citação:
+SIQUEIRA, Rogério Moreira de. O papel do controle de armas de fogo sobre os homicídios. 2022. 146f. Tese (Doutorado) - Faculdade de Economia, Administração, Atuária e Contabilidade - FEAAC, Programa de Pós-Graduação em Economia - CAEN, Universidade Federal do Ceará - UFC, Fortaleza (CE), 2022.
+Resumo:
+Existem fortes controvérsias sobre os efeitos prevalência de armas de fogo em relação a uma série de variáveis criminais. Essas controvérsias são diretamente proporcionais aos diversos desafios metodológicos que os pesquisadores precisam contornar para não comprometer os seus resultados. No Brasil, a política de controle de armas evoluiu de uma quase total ausência de mecanismos de controle para um modelo centralizado e bastante restritivo, todavia os indicadores de mortes violentas com a utilização de armas de fogo não responderam da mesma forma. É proposta uma extensão do modelo de Becker (1968) para levar em conta a influência dos efeitos disponibilidade e dissuasão das armas que foram obtidas legalmente com própósitos de autodefesa sobre a decisão de delinquir. Dada a ambiguidade teórica desses efeitos, o principal objetivo deste estudo consiste em verificar empiricamente a influência das armas de fogo que entraram legalmente em circulação bem como da entrada em vigor do Estatuto do Desarmamento sobre a violência armada letal. Para tanto, são usados dados de homicídios por armas de fogo da população total e de jovens negros oriundos do SIM/DATASUS e de armas obtidos junto ao SINARM/PF na forma de um painel de estados do Brasil no período de 1997 a 2015. Dada heterogeneidade da dinâmica dos homicídios entre os estados são utilizados como controles alguns indicadores que a literatura especializada destaca como determinantes da criminalidade cujas fontes são provenientes do IBGE, IPEA, SICONFI/STN, INEP/MEC. A estrutura dos modelos empíricos propostos forma um painel dinâmico e são estimados pelo método do GMM em sistema proposto por Arellano e Bover (1995) e Blundell e Bond (1998). Os resultados encontrados fornecem evidências de que o Estatuto do Desarmamento diminuiu os homicídios totais por armas de fogo entre 0,07% a 0,11% no curto prazo e 0,403% e 0,916% num período mediano de 4 a 5 anos, mas em contrapartida há indícios de que aumentou entre os jovens negros. Por outro lado, as armas que entraram legalmente em circulação não contribuíram de forma significante com o aumento dos homicídios cometidos com esse instrumento. Estes resultados reforçam a importância da política de controle de armas e de sua constante reavaliação, mas, em contrapartida, contraria as evidências da literatura de que o efeito disponibilidade das armas supera o efeito dissuasão.
+Abstract:
+There are strong controversies about the effects of firearms availability in relation to a number of criminal variables. These controversies are directly proportional to the various methodological challenges that researchers need to overcome in order not to resolve their results. In Brazil, a gun control policy evolves from an almost total absence of control mechanisms to a centralized and quite restrictive model, however, the indicators of violent deaths with the use of firearms do not respond in the same way. An extension of Becker (19) is proposed to take and deter the limits of the model8 legally composite availability of available weapons over self-defense and deterrence of available weapons. Given the theoretical ambiguity of these effects, the main objective is to empirically verify the influence of firearms that legally entered into circulation as well as the entry into force of the Disarmament Statute on lethal armed violence. For this purpose, data on firearm homicides of the total population and of young blacks from SIM/DATASUS and weapons obtained from SINARM/PF for a sample of Brazilian states from 1997 to 2015 are used. The dynamics of homicides between states are used as controls that the specialized literature highlights as determinants of crime whose sources come from IBGE, IPEA, SICONFI/STN, INEP/MEC. The data form an exclusive panel and are estimated by the GMM method in a system based on the contributions of Arellano eBover (1995) and Blundell and Bond (1998). The results of the fireworks project, however, increased among blacks. On the other hand, those that legally entered into circulation on the side not protected by significant weapons with this instrument.
+URI:
+http://www.repositorio.ufc.br/handle/riufc/67270
+Aparece nas coleções:
+CAEN - Teses defendidas na UFC
+Arquivos associados a este item:
+Arquivo
+Descrição
+Tamanho
+Formato
+2022_tese_rmsiqueira.pdf
+3,48 MB
+Adobe PDF
+Visualizar/Abrir
+Mostrar registro completo do item
+Visualizar estatísticas
+Os itens no repositório estão protegidos por copyright, com todos os direitos reservados, salvo quando é indicado o contrário.

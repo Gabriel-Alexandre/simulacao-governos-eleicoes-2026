@@ -35,7 +35,17 @@ CABECALHOS = {
 def texto_de_html(conteudo: bytes) -> str:
     from bs4 import BeautifulSoup
 
-    sopa = BeautifulSoup(conteudo, "lxml")
+    m = re.search(rb"charset=[\"']?([A-Za-z0-9_-]+)", conteudo[:4000])
+    cod = m.group(1).decode() if m else None
+    if cod and cod.lower() in ("iso-8859-1", "latin-1", "latin1"):
+        cod = "windows-1252"
+    if cod is None:
+        try:
+            conteudo.decode("utf-8")
+            cod = "utf-8"
+        except UnicodeDecodeError:
+            cod = "windows-1252"
+    sopa = BeautifulSoup(conteudo, "lxml", from_encoding=cod)
     for marca in sopa(["script", "style", "noscript", "svg", "iframe"]):
         marca.decompose()
     texto = sopa.get_text("\n")
