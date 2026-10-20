@@ -1,6 +1,6 @@
 # Simulação: como tendem a andar seis temas no Brasil de 2027 a 2030, com Lula ou com Flávio Bolsonaro
 
-**Rodada 2, gerada em 2026-10-20.** Análise feita pelo **Claude**, modelo de IA da Anthropic, posto pelo autor para analisar com regras escritas antes: pré-registro `1e73d27` e regras da rodada 2 `902202a` (emendas 6 a 11, publicadas antes destas notas, a pedido do autor depois de ver a rodada 1). A rodada 1 está guardada em `resultados/rodada1/`. Em uma página: [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Auditoria: [`docs/AUDITORIA_RODADA_2.md`](docs/AUDITORIA_RODADA_2.md).
+**Rodada 2, gerada em 2026-10-20.** Análise feita pelo **Claude**, modelo de IA da Anthropic, posto pelo autor para analisar com regras escritas antes: pré-registro `1e73d27` e regras da rodada 2 `902202a` (emendas 6 a 11, publicadas antes destas notas, a pedido do autor depois de ver a rodada 1). A rodada 1 está guardada em `resultados/rodada1/`. Em uma página: [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Auditoria: [`docs/AUDITORIA_RODADA_2.md`](docs/AUDITORIA_RODADA_2.md). História: [`docs/HISTORIA_DO_PROJETO.md`](docs/HISTORIA_DO_PROJETO.md).
 
 ## O que este projeto não consegue dizer
 
@@ -269,4 +269,4 @@ Pelo g1, com a mesma metodologia: Lula cumpriu 26 de 36 promessas de 2022 até j
 
 ## 9. Fontes, revisão e como refazer
 
-Emendas: [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) §12. Teste das duas pontas: [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md). Revisão da rodada 1: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Fontes: [`docs/FONTES.md`](docs/FONTES.md). Refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
+Emendas: [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) §12. Teste das duas pontas: [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md). Revisão das duas rodadas: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). A história do projeto, na ordem: [`docs/HISTORIA_DO_PROJETO.md`](docs/HISTORIA_DO_PROJETO.md). A origem de cada método: [`docs/METODO.md`](docs/METODO.md). Fontes: [`docs/FONTES.md`](docs/FONTES.md). Refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).

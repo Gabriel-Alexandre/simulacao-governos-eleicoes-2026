@@ -39,5 +39,5 @@ python -m pytest -q
 
 ## 4. Mudar um peso ou uma nota
 
-- Pesos e régua: `ferramentas/calcular.py` (`PESOS`) segue `docs/PRE_REGISTRO.md` §5. Quem quiser outro peso muda ali e roda de novo; o veredito oficial é o dos pesos escritos antes.
-- Nota de uma proposta: `dados/evidencias/NOTAS_PROPOSTAS.csv`, com o motivo e a evidência. Toda evidência nova entra em `dados/evidencias/EVIDENCIAS.csv` com o trecho literal, e `conferir-trechos.py` precisa passar.
+- Pesos e régua: `ferramentas/calcular-rodada2.py` (`PESOS`, rodada 2 vigente) segue `docs/PRE_REGISTRO.md` §5 e as emendas 6 e 12; `ferramentas/calcular.py` guarda a rodada 1. Quem quiser outro peso muda ali e roda de novo; o veredito oficial é o dos pesos escritos antes.
+- Nota de uma proposta: `dados/evidencias/NOTAS_RODADA2.csv` (rodada 2: base comum ou mudança) e `dados/evidencias/NOTAS_PROPOSTAS.csv` (rodada 1), com o motivo e a evidência. Toda evidência nova entra em `dados/evidencias/EVIDENCIAS.csv` com o trecho literal, e `conferir-trechos.py` precisa passar.

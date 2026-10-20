@@ -4,7 +4,7 @@ import sys
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parents[1]
-ARQUIVOS = ["README.md", "RELATORIO.md", "RESUMO_SIMPLES.md", "docs/LEITURA_DA_IA.md", "docs/REVISAO_ADVERSARIAL.md", "docs/TESTE_DAS_DUAS_PONTAS.md", "docs/LIMITE_ELEITORAL.md"]
+ARQUIVOS = ["README.md", "RELATORIO.md", "RESUMO_SIMPLES.md", "docs/LEITURA_DA_IA.md", "docs/REVISAO_ADVERSARIAL.md", "docs/TESTE_DAS_DUAS_PONTAS.md", "docs/LIMITE_ELEITORAL.md", "docs/HISTORIA_DO_PROJETO.md", "docs/METODO.md", "docs/AUDITORIA_RODADA_2.md"]
 PROIBIDAS = [r"\bfraude\b(?! eletrônica| em benefício)", r"\bmentiu\b", r"\bmentira\b", r"\bcorrupto\b", r"\bculpado\b", r"\bgolpe\b", r"\bdesastre\b", r"\bcatástrofe\b",
              r"\bmassacre\b", r"\bgenocida\b", r"\bladrão\b", r"\bcomunista\b", r"\bfascista\b", r"venceu o debate", r"ganhou a eleição", r"melhor candidato"]
 SOMA = [r"\b\d+ (de|dos) (6|seis) temas\b", r"\bem (cinco|5|quatro|4) (dos|de) (seis|6)\b", r"placar geral (é|de)"]

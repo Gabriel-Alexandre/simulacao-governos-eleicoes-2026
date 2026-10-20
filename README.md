@@ -12,6 +12,8 @@ Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a
 | tudo, com tabelas, fontes e limites | [`RELATORIO.md`](RELATORIO.md) |
 | a opinião da IA, tema por tema | [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md) |
 | as regras escritas antes e as emendas | [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) |
+| 🆕 a história do projeto, na ordem, e quem fez o quê | [`docs/HISTORIA_DO_PROJETO.md`](docs/HISTORIA_DO_PROJETO.md) |
+| o método e de onde veio cada parte | [`docs/METODO.md`](docs/METODO.md) |
 | o que mudou da rodada 1 para a 2, e o que ainda é frágil | [`docs/AUDITORIA_RODADA_2.md`](docs/AUDITORIA_RODADA_2.md) |
 | as objeções de cada lado e o que mudou por causa delas | [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md) |
 | se a esquerda e a direita contam os mesmos fatos | [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md) |
@@ -19,14 +21,16 @@ Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a
 | refazer tudo | [`docs/REPLICAR.md`](docs/REPLICAR.md) |
 | os gráficos (1920x1080) | [`resultados/figuras/`](resultados/figuras/) |
 
-## O método em seis linhas
+## O método em seis linhas ([`docs/METODO.md`](docs/METODO.md) traz a origem de cada parte)
 
 1. **Temas** escolhidos pelas pesquisas de "principal problema do país" de 2026: segurança, saúde, economia, corrupção, educação e pobreza, fome e desigualdade.
 2. **Quatro subtemas fixos por tema**, iguais para os dois lados, e a primeira ação concreta de cada plano registrado no TSE em cada subtema (46 propostas, trecho literal conferido no PDF).
 3. **Critérios da rodada 2:** histórico por ano de mandato (14 crimes, Ideb sem os anos de pandemia, desemprego contra a América Latina, saúde e pobreza do Banco Mundial), caminho de execução e maturidade **só do que muda** (programa que os dois mantêm é base comum e fica fora; mesmo programa, mesma nota), dinheiro, obras paralisadas do TCU e, na economia, o que o mercado precificou. Promessa e entrega do g1 virou informativo, porque é o mesmo número em todos os temas.
 4. **Veredito por tema** com diferença de 5 pontos ou mais, refeito com quatro pesos; abaixo disso, empate.
 5. **Simulação:** a dívida bruta até 2030 pela equação da dívida, sobre a base da Instituição Fiscal Independente, com o prêmio de juros medido no mercado e o superávit prometido; nos outros temas, o que tem caminho provável e com que faixa de incerteza.
-6. **Validação:** todo trecho conferido na página capturada, toda série com hash, revisão em três passadas e teste das duas pontas.
+6. **Validação:** todo trecho conferido na página capturada, toda série com hash, revisão em três passadas nas duas rodadas e teste das duas pontas.
+
+**Firme ou depende do peso:** cada veredito foi refeito com 4 jeitos de pesar os critérios (os escritos antes, todos iguais, histórico pesando mais e execução pesando mais). *Firme* é quando dá o mesmo nos 4.
 
 ## Estrutura
 

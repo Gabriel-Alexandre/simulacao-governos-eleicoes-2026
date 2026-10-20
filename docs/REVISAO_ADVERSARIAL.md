@@ -1,6 +1,8 @@
-# Revisão adversarial (três passadas)
+# Revisão adversarial (três passadas, nas duas rodadas)
 
-**Feita pelo Claude em 20/out/2026, depois das notas e antes do texto final, como manda `PRE_REGISTRO.md` §9.** Cada achado diz o que foi feito por causa dele. Os números citados estão em `resultados/RESUMO.json`.
+**Feita pelo Claude em 20/out/2026, depois das notas e antes do texto final, como manda `PRE_REGISTRO.md` §9.** Cada achado diz o que foi feito por causa dele. As três primeiras passadas são da **rodada 1** (números em `resultados/rodada1/RESUMO.json`); a revisão da **rodada 2** está no fim, com os números de `resultados/RESUMO.json`. A ordem dos fatos: [`HISTORIA_DO_PROJETO.md`](HISTORIA_DO_PROJETO.md).
+
+# Rodada 1
 
 ## Passada 1 · o leitor que mais desconfiaria de uma conclusão favorável a Lula
 
@@ -38,3 +40,32 @@
 ## O que esta revisão não fez
 
 Não houve leitura humana independente nem as "cinco leituras" separadas (cientista político, economista, estatístico, um leitor de cada lado). Se o autor pedir, o mesmo `RESUMO.json` pode ser lido assim.
+
+# Rodada 2
+
+A rodada 1 passou nas três passadas e mesmo assim o autor achou o resultado suspeito, com razão: a continuidade contava em quatro critérios ([`HISTORIA_DO_PROJETO.md`](HISTORIA_DO_PROJETO.md) §3). A lição para a revisão é que as três passadas olharam frase e fonte, e não a estrutura dos pesos. Na rodada 2, a primeira passada abriu a nota de cada tema critério por critério.
+
+## Passada 1 · o leitor que mais desconfiaria de uma conclusão favorável a Lula
+
+| Objeção | Procede? | O que foi feito |
+|---|---|---|
+| A maturidade (C4) ainda dá 65 a programa que funciona e 35 a proposta nova, e quem governa tem mais programa funcionando | Procede em parte: é a distinção que o autor pediu (*"aquilo que é extremamente novo ainda é uma possibilidade"*) | Ela conta uma vez só, e só para o que muda; o mesmo programa tem a mesma nota dos dois lados (emenda 7) |
+| A queda dos roubos é nacional, começou antes de 2023 e não prova ação do governo federal | Procede | O relatório não atribui causa; a régua é *coincide com*. Os 14 crimes entram a favor e contra os dois |
+| A pobreza do período atual herda o benefício ampliado em 2022 (o mesmo ponto da passada 2 da rodada 1) | Procede como contexto | A janela de Bolsonaro termina em 2022 e já contém a ampliação; a régua não atribui causa |
+
+## Passada 2 · o leitor que mais desconfiaria de uma conclusão favorável a Flávio
+
+| Objeção | Procede? | O que foi feito |
+|---|---|---|
+| O critério de obras (C7) é um número só, igual em quatro temas, como era o C2 que saiu | Procede | Dito no topo do resumo, no relatório e na leitura da IA, com o resultado sem ele (saúde, educação e pobreza vão para Lula, economia empata). O veredito oficial fica, porque a regra foi escrita antes da nota |
+| A base de 2018 do C7 é o diagnóstico do TCU (contratos), não o painel | Procede | Escrito junto do número; o ponto de 2026 ficou fora porque o TCU trocou a carteira |
+| A base comum supõe que Flávio mantém Pé-de-Meia, Farmácia Popular, controle de armas e o aumento real do salário mínimo, que não estão no plano dele | Procede | Escrito como fragilidade; nenhum dos planos propõe acabar com eles |
+| O mercado (C6) mede expectativa de investidor | Procede, como na rodada 1 | Sem o C6, a economia vai para Lula (57,6 × 47,6), escrito no relatório |
+
+## Passada 3 · o auditor de método e linguagem
+
+| Teste | Resultado |
+|---|---|
+| Erro de conta | 0,3 menos 0,2 dava 0,0999 e virava empate no Ideb; corrigido antes de publicar |
+| Os pesos alternativos | escritos no código junto do cálculo, não no commit das regras; declarado na emenda 12 |
+| Espelho, recorte, palavras proibidas, travessão, trechos | `conferir-linguagem.py` e `conferir-trechos.py` sem falha; nenhuma frase soma temas |

@@ -4,4 +4,6 @@
 
 **Resultado da rodada 2 (cada tema fecha sozinho):** ver `RESUMO_SIMPLES.md`. Os vereditos de saúde, educação e pobreza dependem do critério de obras, que é um número só e igual em quatro temas (`docs/AUDITORIA_RODADA_2.md`).
 
-**Próximo passo, se o autor pedir:** decidir se o critério de obras fica geral ou passa a ser por área (o TCU publica a fatia parada de saúde e educação), e se os programas que não aparecem no plano de Flávio contam como base comum.
+**Documentação fechada (20/out):** a história do projeto em `docs/HISTORIA_DO_PROJETO.md`, a origem de cada método em `docs/METODO.md`, a revisão adversarial da rodada 2 em `docs/REVISAO_ADVERSARIAL.md` e a emenda 12 (os pesos alternativos da rodada 2, escritos junto do cálculo). O autor deu a rodada 2 como resultado final do projeto; o roteiro do vídeo longo 13 mora no repositório de documentação dele.
+
+**Se o autor pedir outra rodada:** decidir se o critério de obras fica geral ou passa a ser por área (o TCU publica a fatia parada de saúde e educação), e se os programas que não aparecem no plano de Flávio contam como base comum.

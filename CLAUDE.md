@@ -9,6 +9,7 @@ As regras moram em `.cursor/rules/simulacao-fundamentos.mdc`, que o Cursor carre
 | 3 | `docs/PRE_REGISTRO.md` | temas, critérios, pesos, régua e emendas; critério novo só pela §12 |
 | 4 | `docs/LIMITE_ELEITORAL.md` | ⛔ a IA não soma temas nem diz quem é melhor |
 | 5 | `RELATORIO.md` e `docs/LEITURA_DA_IA.md` | o resultado |
+| 6 | `docs/HISTORIA_DO_PROJETO.md` e `docs/METODO.md` | a ordem dos fatos, quem fez o quê, os erros, e a origem de cada método |
 
 ## O que nunca fazer
 
