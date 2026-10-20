@@ -59,5 +59,26 @@ def test_simulacao_reproduz_a_base_da_ifi():
 
 
 def test_c2_pela_regra():
-    assert abs(R["c2"]["lula"] - (26 + 2) / 36 * 100) < 0.01
-    assert abs(R["c2"]["flavio"] - (19 + 5) / 58 * 100) < 0.01
+    assert abs(R["c2_informativo"]["lula"] - (26 + 2) / 36 * 100) < 0.01
+    assert abs(R["c2_informativo"]["flavio"] - (19 + 5) / 58 * 100) < 0.01
+
+
+def test_rodada2_c2_fora_e_base_comum_fora_da_media():
+    for t, v in R["temas"].items():
+        assert "C2" not in v["criterios"]["lula"]
+    notas = {l["id"]: l for l in csv.DictReader((RAIZ / "dados/evidencias/NOTAS_RODADA2.csv").open(encoding="utf-8"))}
+    assert len(notas) == 46
+    for i, n in notas.items():
+        if n["tipo"] == "base":
+            assert n["c3_nota"] == "" and n["c4_nota"] == ""
+        else:
+            assert float(n["c3_nota"]) in (100, 80, 60, 35, 25, 10, 0)
+
+
+def test_rodada2_mesmo_programa_mesma_nota():
+    notas = {l["id"]: l for l in csv.DictReader((RAIZ / "dados/evidencias/NOTAS_RODADA2.csv").open(encoding="utf-8"))}
+    assert notas["L-H-c"]["c3_nota"] == notas["F-H-c"]["c3_nota"] and notas["L-H-c"]["c4_nota"] == notas["F-H-c"]["c4_nota"]
+
+
+def test_rodada2_segurança_tem_14_crimes():
+    assert sum(1 for l in R["c1_indicadores"] if l["tema"] == "seguranca") == 14

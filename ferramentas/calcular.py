@@ -1,4 +1,4 @@
-"""Calcula todas as notas do pré-registro e grava resultados/RESUMO.json.
+"""Rodada 1: calcula as notas com as regras até a emenda 5 e grava resultados/rodada1/RESUMO.json.
 
 C1 (histórico) sai das séries em dados/series/ e dos valores conferidos em
 dados/evidencias/VALORES_DOCUMENTOS.csv; C2 do balanço do g1; C3, C4 e C5 de
@@ -82,8 +82,8 @@ def cagr(ini, fim, anos):
 
 def comparar(b, l, melhor, dmin):
     """Devolve (pontos_lula, pontos_flavio) de 0 a 2."""
-    dif = l - b
-    if abs(dif) < dmin:
+    dif = round(l - b, 9)  # arredonda para a diferença exata não virar 0,0999... por conta de casas decimais
+    if abs(dif) < dmin - 1e-9:
         return 1, 1
     lula_melhor = dif > 0 if melhor == "maior" else dif < 0
     return (2, 0) if lula_melhor else (0, 2)
@@ -389,8 +389,9 @@ def main():
             "senado_2027": {"direita": 48, "centro": 17, "esquerda": 15},
         },
     }
-    SAIDA.mkdir(exist_ok=True)
-    (SAIDA / "RESUMO.json").write_text(json.dumps(resumo, ensure_ascii=False, indent=1), encoding="utf-8")
+    destino = SAIDA / "rodada1"  # rodada 1 (pesos e regras até a emenda 5); a rodada 2 está em calcular-rodada2.py
+    destino.mkdir(parents=True, exist_ok=True)
+    (destino / "RESUMO.json").write_text(json.dumps(resumo, ensure_ascii=False, indent=1), encoding="utf-8")
     for t in TEMAS:
         v = temas[t]
         print(f"{v['nome']:<30} Lula {v['pesos']['principal']['lula']:5.1f} | Flávio {v['pesos']['principal']['flavio']:5.1f} -> {v['veredito']} ({v['robustez']})")

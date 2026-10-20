@@ -27,7 +27,8 @@ Páginas mudam com o tempo; o texto que foi usado está em `dados/capturas/<id>.
 ```bash
 python ferramentas/montar-propostas.py
 python ferramentas/conferir-trechos.py
-python ferramentas/calcular.py
+python ferramentas/calcular.py            # rodada 1 (resultados/rodada1/)
+python ferramentas/calcular-rodada2.py    # rodada 2 (resultados/RESUMO.json)
 python ferramentas/simular.py
 python ferramentas/graficos.py
 python ferramentas/gerar-relatorio.py

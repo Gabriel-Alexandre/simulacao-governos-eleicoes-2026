@@ -2,7 +2,7 @@
 
 Gerado por `ferramentas/listar-fontes.py` a partir de `dados/MANIFESTO.csv` (url, data, tamanho e sha256 de cada arquivo baixado). O texto extraído de cada página está em `dados/capturas/<id>.txt`; HTML e PDF brutos ficam fora do git e se baixam de novo pelo `docs/REPLICAR.md`.
 
-**171 fontes.** A linha editorial só é marcada para o teste das duas pontas (`docs/TESTE_DAS_DUAS_PONTAS.md`).
+**189 fontes.** A linha editorial só é marcada para o teste das duas pontas (`docs/TESTE_DAS_DUAS_PONTAS.md`).
 
 | id | tipo | linha editorial | capturado em | url |
 |---|---|---|---|---|
@@ -93,6 +93,19 @@ Gerado por `ferramentas/listar-fontes.py` a partir de `dados/MANIFESTO.csv` (url
 | `M04-noticiasdoplanalto-juros` | imprensa | geral | 2026-10-20 | https://noticiasdoplanalto.com.br/juros-caem-forte-com-flavio-liderando-o-1o-turno/ |
 | `M05-bpmoney-renda-fixa-cenarios` | imprensa | geral | 2026-10-20 | https://bpmoney.com.br/mercado/renda-fixa/renda-fixa-apos-1-turno-cenarios-2-turno-o-que-fazer/ |
 | `M06-spacemoney-segundo-turno-juros` | imprensa | geral | 2026-10-20 | https://www.spacemoney.com.br/investimentos/renda-fixa/renda-fixa-cenarios-segundo-turno-juros |
+| `O01-tcu-lista-alto-risco-obras` | oficial |  | 2026-10-20 | https://sites.tcu.gov.br/listadealtorisco/gestao_das_obras_paralisadas.html |
+| `O02-tcu-relatorio-obras-2024` | imprensa | geral | 2026-10-20 | https://static.poder360.com.br/2024/12/relatorio-obras-paralisadas-brasil-tcu-4dez2024.pdf |
+| `O03-gazeta-obras-paradas-32` | imprensa | direita (declarada ou por cobertura) | 2026-10-20 | https://www.gazetadopovo.com.br/eleicoes/2026/lula-repete-discurso-culpa-antecessores-obras-paradas-aumentam/ |
+| `O04-tcu-metade-obras-paradas-2025` | oficial |  | 2026-10-20 | https://portal.tcu.gov.br/imprensa/noticias/metade-das-obras-financiadas-com-recursos-federais-estao-paradas |
+| `O05-dgabc-tcu-11mil-2025` | imprensa | geral | 2026-10-20 | https://www.dgabc.com.br/Noticia/4248633/tcu-brasil-tem-11-5-mil-obras-publicas-paradas-e-se-mantem-em-patamar-preocupante |
+| `O06-tcu-julga-obras-paralisadas` | oficial |  | 2026-10-20 | https://portal.tcu.gov.br/imprensa/noticias/tcu-julga-processo-sobre-gestao-de-obras-paralisadas |
+| `O07-folhape-pacto-obras-20` | imprensa | geral | 2026-10-20 | https://www.folhape.com.br/politica/pacto-de-lula-3-para-retomar-obras-na-educacao-so-concluiu-20-das/482874/ |
+| `O08-wikipedia-transposicao` | imprensa | geral | 2026-10-20 | https://pt.wikipedia.org/wiki/Transposi%C3%A7%C3%A3o_do_rio_S%C3%A3o_Francisco |
+| `O09-gazeta-transposicao-reta-final` | imprensa | direita (declarada ou por cobertura) | 2026-10-20 | https://www.gazetadopovo.com.br/republica/transposicao-rio-sao-francisco-obras-reta-final/ |
+| `O10-diariodonordeste-transnordestina-20anos` | imprensa | geral | 2026-10-20 | https://diariodonordeste.verdesmares.com.br/negocios/com-20-anos-de-obras-o-que-falta-para-a-conclusao-da-transnordestina-1.3754117 |
+| `O11-cnn-transnordestina-2026` | imprensa | geral | 2026-10-20 | https://www.cnnbrasil.com.br/economia/macroeconomia/transnordestina-sera-entregue-em-2026-diz-governo/ |
+| `O12-eixos-abreu-e-lima-trem2` | imprensa | geral | 2026-10-20 | https://eixos.com.br/combustiveis-e-bioenergia/petrobras-vai-retomar-obras-do-trem-2-da-refinaria-abreu-e-lima/ |
+| `O13-camara-transposicao-problemas` | oficial |  | 2026-10-20 | https://www.camara.leg.br/noticias/969600-deputados-governo-e-tcu-apontam-problemas-de-gestao-e-manutencao-na-transposicao-do-sao-francisco/ |
 | `P01-datafolha-problemas-terra` | imprensa | geral | 2026-10-20 | https://www.terra.com.br/noticias/brasil/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude,c3ac9745ab9f948194ed19e48f5b52cepknqx89b.html |
 | `P02-datafolha-problemas-oliberal` | imprensa | geral | 2026-10-20 | https://www.oliberal.com/politica/datafolha-20-apontam-violencia-como-principal-problema-do-pais-18-dizem-que-e-a-saude-1.1183063 |
 | `P03-datafolha-problemas-cn1` | imprensa | geral | 2026-10-20 | https://www.cn1.com.br/noticias/1/140674,saude-e-seguranca-lideram-lista-de-principais-problemas-do-pais-aponta-datafolha |
@@ -154,6 +167,7 @@ Gerado por `ferramentas/listar-fontes.py` a partir de `dados/MANIFESTO.csv` (url
 | `serie-bcb-divida-bruta` | oficial |  | 2026-10-20 | https://api.bcb.gov.br/dados/serie/bcdata.sgs.13762/dados?formato=json&dataInicial=01/01/2006&dataFinal=31/12/2026 |
 | `serie-bcb-dolar-ptax` | oficial |  | 2026-10-20 | https://api.bcb.gov.br/dados/serie/bcdata.sgs.1/dados?formato=json&dataInicial=01/07/2025&dataFinal=20/10/2026 |
 | `serie-bcb-ipca-mensal` | oficial |  | 2026-10-20 | https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=01/01/2002&dataFinal=31/12/2026 |
+| `serie-bcb-selic-meta` | oficial |  | 2026-10-20 | https://api.bcb.gov.br/dados/serie/bcdata.sgs.432/dados?formato=json&dataInicial=01/12/2018&dataFinal=19/10/2026 |
 | `serie-ibge-desocupacao` | oficial |  | 2026-10-20 | https://apisidra.ibge.gov.br/values/t/6381/n1/all/v/4099/p/all |
 | `serie-ibge-gini` | oficial |  | 2026-10-20 | https://apisidra.ibge.gov.br/values/t/7435/n1/all/v/10681/p/all |
 | `serie-ibge-pib-anual` | oficial |  | 2026-10-20 | https://apisidra.ibge.gov.br/values/t/6784/n1/all/v/9810/p/all |
@@ -169,11 +183,15 @@ Gerado por `ferramentas/listar-fontes.py` a partir de `dados/MANIFESTO.csv` (url
 | `serie-mkt-usdmxn` | dado de mercado |  | 2026-10-20 | https://query1.finance.yahoo.com/v8/finance/chart/MXN%3DX?period1=1751338800&period2=1792551600&interval=1d |
 | `serie-mkt-usdzar` | dado de mercado |  | 2026-10-20 | https://query1.finance.yahoo.com/v8/finance/chart/ZAR%3DX?period1=1751338800&period2=1792551600&interval=1d |
 | `serie-wb-controle-corrupcao-percentil` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/CC.PER.RNK?format=json&date=1995:2026&per_page=500 |
+| `serie-wb-desemprego-oit` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SL.UEM.TOTL.ZS?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-esperanca-vida` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SP.DYN.LE00.IN?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-gini` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SI.POV.GINI?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-mortalidade-infantil` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SP.DYN.IMRT.IN?format=json&date=1995:2026&per_page=500 |
+| `serie-wb-mortalidade-materna` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SH.STA.MMRT?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-pib-crescimento` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-pobreza-3dolares` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SI.POV.DDAY?format=json&date=1995:2026&per_page=500 |
+| `serie-wb-pobreza-8dolares` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SI.POV.UMIC?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-subalimentacao` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SN.ITK.DEFC.ZS?format=json&date=1995:2026&per_page=500 |
+| `serie-wb-vacina-dtp3` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SH.IMM.IDPT?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-vacina-sarampo` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/SH.IMM.MEAS?format=json&date=1995:2026&per_page=500 |
 | `serie-wb-wgi-controle-corrupcao` | organismo técnico ou internacional |  | 2026-10-20 | https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/GOV_WGI_CC.SC?source=3&format=json&date=1996:2026&per_page=500 |

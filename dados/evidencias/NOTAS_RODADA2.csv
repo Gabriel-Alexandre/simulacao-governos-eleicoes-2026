@@ -1,0 +1,47 @@
+id,tipo,c3_nota,c4_nota,c5_nota,motivo_rodada2
+L-S-a,base,,,,"Manter a asfixia financeira e a Lei Antifacção: lei em vigor, continua com qualquer um (emenda 7)"
+L-S-b,mudanca,80,35,0,Igual à rodada 1
+L-S-c,base,,,,"Manter o decreto de armas: em vigor (emenda 7)"
+L-S-d,mudanca,25,35,0,Igual à rodada 1
+F-S-a,mudanca,60,35,50,Igual à rodada 1
+F-S-b,mudanca,25,35,0,Igual à rodada 1
+F-S-c,mudanca,80,35,0,Igual à rodada 1 (sistema novo sobre autorização da LC 97)
+F-S-d,mudanca,100,65,0,"Mesmo degrau para o mesmo instrumento: o repasse do Fundo Nacional de Segurança Pública já existe (emenda 7)"
+L-H-a,base,,,,"Manter o apoio à Saúde da Família: em execução (emenda 7)"
+L-H-b,mudanca,100,65,50,Igual à rodada 1 (ampliar programa em lei)
+L-H-c,mudanca,100,65,0,Igual à rodada 1 (acelerar sistema que já existe)
+L-H-d,base,,,,"Manter o Farmácia Popular: em execução (emenda 7)"
+F-H-a,mudanca,100,100,0,"Mesmo degrau e mesma evidência do mesmo programa (Saúde da Família), como no lado de Lula na rodada 1"
+F-H-b,mudanca,100,35,0,"Mesmo degrau: a lei do reajuste existe e a correção é ato do Ministério (emenda 7)"
+F-H-c,mudanca,100,65,0,"Mesmo degrau do mesmo sistema (Rede Nacional de Dados em Saúde) que o lado de Lula"
+F-H-d,base,,,,"Manter a vacinação: em execução (emenda 7)"
+L-E-a,base,,,,"Manter o arcabouço fiscal: lei em vigor (emenda 7)"
+L-E-b,base,,,,"Consolidar a reforma tributária: lei em vigor e em transição (emenda 7)"
+L-E-c,mudanca,80,35,50,Igual à rodada 1
+L-E-d,mudanca,100,65,0,Igual à rodada 1 (fortalecer sistema que já existe)
+F-E-a,mudanca,60,35,100,Igual à rodada 1
+F-E-b,mudanca,60,35,0,Igual à rodada 1
+F-E-c,mudanca,60,35,0,Igual à rodada 1
+F-E-d,mudanca,60,35,0,Igual à rodada 1
+L-Ed-a,base,,,,"Seguir o Compromisso Criança Alfabetizada: decreto em vigor (emenda 7)"
+L-Ed-b,base,,,,"Continuar o Pé-de-Meia: lei em vigor (emenda 7)"
+L-Ed-c,mudanca,100,65,50,Igual à rodada 1 (ampliar fomento existente)
+L-Ed-d,base,,,,"Continuar o Pé-de-Meia Licenciatura: em execução (emenda 7)"
+F-Ed-a,mudanca,80,65,50,Igual à rodada 1 (decreto novo)
+F-Ed-b,mudanca,100,35,50,"Mesmo degrau: ampliar o ensino técnico usa lei e programas que já existem (emenda 7)"
+F-Ed-c,mudanca,80,35,0,Igual à rodada 1 (voucher é novo)
+F-Ed-d,mudanca,100,35,0,"Mesmo degrau: formação de professores usa programas que já existem (emenda 7)"
+L-Cr-a,mudanca,100,65,50,Igual à rodada 1 (aprofundar plano em vigor)
+L-Cr-b,mudanca,100,35,0,"Mesmo degrau: o Portal da Transparência já existe (emenda 7)"
+L-Cr-c,mudanca,35,35,50,Igual à rodada 1
+F-Cr-b,mudanca,60,35,50,Igual à rodada 1
+F-Cr-c,mudanca,35,35,50,Igual à rodada 1
+F-Cr-d,mudanca,80,35,50,Igual à rodada 1
+L-P-a,base,,,,"Manter e ampliar o Bolsa Família: os dois planos mantêm (emenda 7)"
+L-P-b,base,,,,"Continuar a valorização do salário mínimo: lei em vigor (emenda 7)"
+L-P-c,mudanca,100,65,0,Igual à rodada 1 (fomentar programa em lei)
+L-P-d,base,,,,"Manter o Minha Casa Minha Vida: lei em vigor (emenda 7)"
+F-P-a,base,,,,"Manter os programas sociais: os dois planos mantêm (emenda 7)"
+F-P-b,mudanca,80,35,0,Igual à rodada 1
+F-P-c,mudanca,100,35,0,"Mesmo degrau: seguro rural e armazenagem usam programas que já existem (emenda 7)"
+F-P-d,mudanca,100,65,0,"Mesmo degrau e mesma evidência do mesmo tipo de programa habitacional que o Minha Casa Minha Vida (avaliação mista)"

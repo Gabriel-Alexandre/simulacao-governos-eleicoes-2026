@@ -1,6 +1,6 @@
 # Simulação dos governos 2027 a 2030: Lula ou Flávio Bolsonaro
 
-Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a 2030 com cada um dos dois candidatos do 2º turno de 2026, a partir de dados, do histórico de cada grupo no governo, das propostas registradas no TSE e do Congresso que toma posse em 2027. Os critérios, os pesos e a régua de cada nota foram escritos e publicados **antes** de qualquer nota (commit `1e73d27`).
+Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a 2030 com cada um dos dois candidatos do 2º turno de 2026, a partir de dados, do histórico de cada grupo no governo, das propostas registradas no TSE e do Congresso que toma posse em 2027. Os critérios, os pesos e a régua de cada nota foram escritos e publicados **antes** de qualquer nota (commit `1e73d27`). **Vigente: rodada 2 (20/out/2026)**, com regras novas publicadas antes das notas (commit `902202a`, emendas 6 a 11); a rodada 1 fica em [`resultados/rodada1/`](resultados/rodada1/).
 
 > ⛔ **O projeto não diz quem vai ganhar, nem quem deveria ganhar.** A IA dá nota por critério e diz qual caminho fica na frente **em cada tema**; ela não soma os temas e não diz quem é melhor para o país ([`docs/LIMITE_ELEITORAL.md`](docs/LIMITE_ELEITORAL.md), Res. TSE nº 23.755/2026, art. 28, §1º-C). Flávio Bolsonaro nunca governou: o histórico usado para ele é o do governo Jair Bolsonaro, que o plano dele apresenta como referência.
 
@@ -12,6 +12,7 @@ Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a
 | tudo, com tabelas, fontes e limites | [`RELATORIO.md`](RELATORIO.md) |
 | a opinião da IA, tema por tema | [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md) |
 | as regras escritas antes e as emendas | [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) |
+| o que mudou da rodada 1 para a 2, e o que ainda é frágil | [`docs/AUDITORIA_RODADA_2.md`](docs/AUDITORIA_RODADA_2.md) |
 | as objeções de cada lado e o que mudou por causa delas | [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md) |
 | se a esquerda e a direita contam os mesmos fatos | [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md) |
 | de onde veio cada número | [`docs/FONTES.md`](docs/FONTES.md), [`dados/evidencias/`](dados/evidencias/), [`resultados/TRECHOS_CONFERIDOS.csv`](resultados/TRECHOS_CONFERIDOS.csv) |
@@ -22,7 +23,7 @@ Projeto aberto que simula como tendem a andar **seis temas** no Brasil de 2027 a
 
 1. **Temas** escolhidos pelas pesquisas de "principal problema do país" de 2026: segurança, saúde, economia, corrupção, educação e pobreza, fome e desigualdade.
 2. **Quatro subtemas fixos por tema**, iguais para os dois lados, e a primeira ação concreta de cada plano registrado no TSE em cada subtema (46 propostas, trecho literal conferido no PDF).
-3. **Seis critérios:** histórico (indicadores do mandato, descontado o mundo quando há série), promessa e entrega (g1, mesma metodologia), caminho de execução (o instrumento que a proposta exige e o Congresso de 2027), maturidade e evidência, dinheiro e, na economia, o que o mercado precificou.
+3. **Critérios da rodada 2:** histórico por ano de mandato (14 crimes, Ideb sem os anos de pandemia, desemprego contra a América Latina, saúde e pobreza do Banco Mundial), caminho de execução e maturidade **só do que muda** (programa que os dois mantêm é base comum e fica fora; mesmo programa, mesma nota), dinheiro, obras paralisadas do TCU e, na economia, o que o mercado precificou. Promessa e entrega do g1 virou informativo, porque é o mesmo número em todos os temas.
 4. **Veredito por tema** com diferença de 5 pontos ou mais, refeito com quatro pesos; abaixo disso, empate.
 5. **Simulação:** a dívida bruta até 2030 pela equação da dívida, sobre a base da Instituição Fiscal Independente, com o prêmio de juros medido no mercado e o superávit prometido; nos outros temas, o que tem caminho provável e com que faixa de incerteza.
 6. **Validação:** todo trecho conferido na página capturada, toda série com hash, revisão em três passadas e teste das duas pontas.

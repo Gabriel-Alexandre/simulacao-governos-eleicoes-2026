@@ -1,6 +1,8 @@
-"""Gera RELATORIO.md, RESUMO_SIMPLES.md e docs/LEITURA_DA_IA.md a partir de resultados/*.json.
+"""Gera RELATORIO.md, RESUMO_SIMPLES.md, docs/LEITURA_DA_IA.md e docs/AUDITORIA_RODADA_2.md da rodada 2.
 
-Nenhum número é digitado no texto: todos saem do RESUMO.json e do SIMULACAO_DIVIDA.json.
+Nenhum número é digitado no texto: todos saem do RESUMO.json (rodada 2), que traz a comparação com a
+rodada 1 (resultados/rodada1/), e do SIMULACAO_DIVIDA.json. O gerador da rodada 1 está guardado em
+resultados/rodada1/gerar-relatorio-rodada1.py.
 """
 from __future__ import annotations
 
@@ -12,11 +14,10 @@ R = json.loads((RAIZ / "resultados" / "RESUMO.json").read_text(encoding="utf-8")
 S = json.loads((RAIZ / "resultados" / "SIMULACAO_DIVIDA.json").read_text(encoding="utf-8"))
 T = R["temas"]
 ORDEM = ["seguranca", "saude", "economia", "corrupcao", "educacao", "pobreza"]
-NOME_CRIT = {"C1": "histórico", "C2": "promessa e entrega", "C3": "caminho de execução", "C4": "maturidade e evidência",
-             "C5": "dinheiro", "C6": "mercado"}
-PESO = {"geral": {"C1": 25, "C2": 15, "C3": 30, "C4": 20, "C5": 10, "C6": 0},
-        "economia": {"C1": 20, "C2": 10, "C3": 25, "C4": 20, "C5": 10, "C6": 15}}
+NOME_CRIT = {"C1": "histórico", "C3": "caminho de execução", "C4": "maturidade e evidência", "C5": "dinheiro", "C6": "mercado", "C7": "obras paralisadas"}
+ROT_PESO = {"iguais": "pesos iguais", "historico_pesa_mais": "histórico pesa mais", "execucao_pesa_mais": "execução pesa mais"}
 PRE_REGISTRO = "1e73d27"
+REGRAS_R2 = "902202a"
 
 
 def br(x, nd=1, sinal=False):
@@ -24,170 +25,143 @@ def br(x, nd=1, sinal=False):
     return t.replace(".", ",")
 
 
-def lado_nome(l):
+def mil(n):
+    return f"{int(n):,}".replace(",", ".")
+
+
+def nome(l):
     return "Lula" if l == "lula" else "Flávio"
 
 
-def decisivos(t):
-    pw = PESO["economia" if t == "economia" else "geral"]
-    c = T[t]["criterios"]
-    contrib = {k: pw[k] * (c["lula"][k] - c["flavio"][k]) / 100 for k in pw if pw[k]}
-    return sorted(contrib.items(), key=lambda kv: -abs(kv[1]))
+def quem(l):
+    return "empate" if l["pontos_lula"] == 1 else ("Lula" if l["pontos_lula"] == 2 else "Bolsonaro")
 
 
-def frase_decisivos(t):
-    partes = []
-    for k, v in decisivos(t)[:3]:
-        if abs(v) < 0.05:
-            continue
-        partes.append(f"{NOME_CRIT[k]} ({'a favor de Lula' if v > 0 else 'a favor de Flávio'}, {br(abs(v))} ponto{'s' if abs(v) >= 2 else ''} na nota)")
-    return "; ".join(partes)
+def ind(prefixo):
+    return next(l for l in R["c1_indicadores"] if l["indicador"].startswith(prefixo))
 
 
-def props(t, lado):
-    return [p for p in R["propostas"] if p["tema"] == t and p["lado"] == lado]
+def decisivos(t, n=3):
+    c = T[t]["pesos"]["principal"]["contribuicoes"]
+    partes = [f"{NOME_CRIT[k]} ({'a favor de Lula' if v > 0 else 'a favor de Flávio'}, {br(abs(v))})"
+              for k, v in sorted(c.items(), key=lambda kv: -abs(kv[1])) if abs(v) >= 0.05]
+    return "; ".join(partes[:n])
 
 
-def tabela_propostas(t):
-    linhas = ["| Lado | Subtema | Proposta (página do plano) | Caminho (C3) | Maturidade (C4) | Dinheiro (C5) |", "|---|---|---|---:|---:|---:|"]
-    for lado in ("lula", "flavio"):
-        for p in props(t, lado):
-            if p["sem_proposta"]:
-                linhas.append(f"| {lado_nome(lado)} | {p['subtema']} | *sem proposta no plano*: {p['trecho_do_plano']} | fora da média | fora da média | fora da média |")
-            else:
-                linhas.append(f"| {lado_nome(lado)} | {p['subtema']} | {p['proposta']} (p. {p['pagina_plano']}) | {int(p['c3_nota'])} | {int(p['c4_nota'])} | {int(p['c5_nota'])} |")
+def tabela_resultado():
+    r1 = R["rodada1_vereditos"]
+    linhas = ["| Tema | Rodada 1 | Rodada 2: Lula | Rodada 2: Flávio | Veredito da rodada 2 | Robustez (4 pesos) | O que mais pesou (pontos na diferença) |",
+              "|---|---|---:|---:|---|---|---|"]
+    for t in ORDEM:
+        p = T[t]["pesos"]["principal"]
+        linhas.append(f"| {T[t]['nome']} | {r1[t]['veredito']} ({br(r1[t]['lula'])} × {br(r1[t]['flavio'])}) | {br(p['lula'])} | {br(p['flavio'])} | **{T[t]['veredito']}** | {T[t]['robustez']} | {decisivos(t)} |")
     return "\n".join(linhas)
 
 
 def tabela_c1(t):
-    linhas = ["| Indicador | Bolsonaro (2019 a 2022) | Lula (2023 até o dado mais recente) | Quem fica na frente | Fonte |", "|---|---:|---:|---|---|"]
-    for l in R["c1_indicadores"]:
-        if l["tema"] != t:
-            continue
-        quem = "empate (diferença menor que a mínima)" if l["pontos_lula"] == 1 else ("Lula" if l["pontos_lula"] == 2 else "Bolsonaro")
-        nd = 3 if "Gini" in l["indicador"] else 2
-        linhas.append(f"| {l['indicador']} | {br(l['bolsonaro_2019_2022'], nd)} | {br(l['lula_2023_atual'], nd)} | {quem} | {l['fonte']} |")
-    return "\n".join(linhas)
+    nd = lambda l: 3 if "Gini" in l["indicador"] else 2
+    linhas = ["| Indicador | Bolsonaro (2019 a 2022) | Lula (2023 até o dado mais recente) | Quem fica na frente |", "|---|---:|---:|---|"]
+    ls = [l for l in R["c1_indicadores"] if l["tema"] == t]
+    for l in ls:
+        linhas.append(f"| {l['indicador']} | {br(l['bolsonaro_2019_2022'], nd(l))} | {br(l['lula_2023_atual'], nd(l))} | {quem(l)} |")
+    cont = {k: sum(1 for l in ls if quem(l) == k) for k in ("Lula", "Bolsonaro", "empate")}
+    return "\n".join(linhas) + f"\n\nPlacar dos indicadores: Lula {cont['Lula']}, Bolsonaro {cont['Bolsonaro']}, empate {cont['empate']}."
 
 
-def minuscula(txt):
-    return txt[0].lower() + txt[1:] if txt[:2] != txt[:2].upper() else txt
-
-
-def cenario(t):
-    """Simulação qualitativa de cada tema: o que tem caminho provável (C3 >= 60) e com que faixa (C4)."""
-    txt = []
+def tabela_propostas(t):
+    linhas = ["| Lado | O que muda (página do plano) | Caminho (C3) | Maturidade (C4) | Dinheiro (C5) |", "|---|---|---:|---:|---:|"]
+    base = []
     for lado in ("lula", "flavio"):
-        ps = [p for p in props(t, lado) if not p["sem_proposta"]]
-        provaveis = [p for p in ps if p["c3_nota"] >= 60]
-        dependem = [p for p in ps if p["c3_nota"] < 60]
-        estreita = [p for p in provaveis if p["c4_nota"] >= 65]
-        larga = [p for p in provaveis if p["c4_nota"] < 65]
-        s = f"**Caminho de {lado_nome(lado)}.** "
-        if estreita:
-            s += "Com caminho provável e faixa estreita (já funciona ou tem evidência de efeito): " + "; ".join(minuscula(p["proposta"]) for p in estreita) + ". "
-        if larga:
-            s += "Com caminho provável e faixa larga (efeito pouco conhecido, pode dar muito certo ou muito errado): " + "; ".join(minuscula(p["proposta"]) for p in larga) + ". "
-        if dependem:
-            s += "Dependem do Congresso, com caminho mais difícil: " + "; ".join(minuscula(p["proposta"]) for p in dependem) + "."
-        txt.append(s.strip())
-    return "\n\n".join(txt)
+        for p in R["propostas"]:
+            if p["tema"] != t or p["lado"] != lado:
+                continue
+            if p["tipo"] == "mudanca":
+                linhas.append(f"| {nome(lado)} | {p['proposta']} (p. {p['pagina_plano']}) | {int(p['c3_nota'])} | {int(p['c4_nota'])} | {int(p['c5_nota'])} |")
+            else:
+                base.append(f"{p['proposta']} ({nome(lado)}, p. {p['pagina_plano']})")
+    txt = "\n".join(linhas)
+    if base:
+        txt += "\n\n**Base comum** (continua com qualquer um dos dois, porque nenhum plano propõe encerrar; fica fora da nota): " + "; ".join(base) + "."
+    return txt
 
 
-def tabela_resultado():
-    linhas = ["| Tema | Nota de Lula | Nota de Flávio | Diferença | Veredito do tema | Robustez (4 pesos escritos antes) | O que mais pesou |", "|---|---:|---:|---:|---|---|---|"]
-    for t in ORDEM:
-        p = T[t]["pesos"]["principal"]
-        linhas.append(f"| {T[t]['nome']} | {br(p['lula'])} | {br(p['flavio'])} | {br(p['diferenca'], 1, True)} | **{T[t]['veredito']}** | {T[t]['robustez']} | {frase_decisivos(t)} |")
-    return "\n".join(linhas)
-
-
-def tabela_criterio_por_tema():
-    crits = ["C1", "C2", "C3", "C4", "C5"]
-    linhas = ["| Tema | " + " | ".join(NOME_CRIT[c].capitalize() for c in crits) + " | Mercado |", "|---|" + "---|" * (len(crits) + 1)]
-    for t in ORDEM:
-        c = T[t]["criterios"]
-        cel = []
-        for k in crits + ["C6"]:
-            if k == "C6" and t != "economia":
-                cel.append("não se aplica"); continue
-            d = c["lula"][k] - c["flavio"][k]
-            cel.append(f"{'Lula' if d > 0 else ('Flávio' if d < 0 else 'empate')} ({br(c['lula'][k], 0)} × {br(c['flavio'][k], 0)})")
-        linhas.append(f"| {T[t]['nome']} | " + " | ".join(cel) + " |")
-    return "\n".join(linhas)
-
-
-def mercado_txt():
-    c = R["c6"]
-    return (f"No pregão de {c['evento'].split(',')[0]}, o Ibovespa subiu {br(c['ibovespa_dia_pct'], 2)}% e o índice de ações de emergentes (EEM) subiu {br(c['eem_dia_pct'], 2)}%: "
-            f"a bolsa brasileira andou {br(c['bolsa_anormal_pct'], 2)} pontos acima dos emergentes, {br(c['z_bolsa'])} vezes o desvio-padrão diário dos {c['pregoes_na_base']} pregões anteriores. "
-            f"O dólar (PTAX do Banco Central) caiu {br(abs(c['ptax_dia_pct']), 2)}% em reais, contra {br(abs(c['dolar_emergentes_dia_pct']), 2)}% na média de peso mexicano, rand, peso chileno e peso colombiano: "
-            f"o real se valorizou {br(abs(c['moeda_anormal_pct']), 2)} pontos acima, {br(abs(c['z_moeda']))} vezes o desvio-padrão. "
-            f"Os dois sinais passaram de 2 desvios-padrão a favor do resultado do 1º turno, e pela régua escrita antes o critério de mercado fica com Flávio ({c['nota']['flavio']} a {c['nota']['lula']}). "
-            f"O juro futuro de janeiro de 2031 caiu de {br(c['juros_futuros']['di_jan2031_05out']['de'], 2)}% para {br(c['juros_futuros']['di_jan2031_05out']['para'], 2)}% no mesmo dia. "
-            f"Em 15/10, quando a chance de Flávio na Polymarket caiu de {c['juros_futuros']['di_jan2031_15out']['polymarket_flavio']['de']}% para {c['juros_futuros']['di_jan2031_15out']['polymarket_flavio']['para']}%, "
-            f"o mesmo juro subiu de {br(c['juros_futuros']['di_jan2031_15out']['de'], 3)}% para {br(c['juros_futuros']['di_jan2031_15out']['para'], 3)}%.")
-
-
-def simulacao_txt():
-    c = S["cenarios"]
-    return (f"A base é a projeção da IFI, a Instituição Fiscal Independente do Senado: dívida bruta de {br(c['base_ifi']['2026'])}% do PIB em 2026 para {br(c['base_ifi']['2030'])}% em 2030 se nada mudar. "
-            f"O evento de 15/10 dá o tamanho do juro que o mercado cobra a mais num governo Lula: cerca de {br(S['premio_central_pp'], 2)} pontos ao ano (faixa de {br(S['premio_faixa_pp'][0], 2)} a {br(S['premio_faixa_pp'][1], 2)}). "
-            f"Só por esse juro, a dívida de 2030 fica {br(S['diferenca_2030_so_pelo_juro'])} pontos do PIB maior com Lula ({br(c['lula_com_premio']['2030'])}%), e a faixa vai de {br(min(S['sensibilidade_juro_2030'].values()))} a {br(max(S['sensibilidade_juro_2030'].values()))} pontos conforme o tamanho do prêmio e a velocidade com que ele chega à dívida. "
-            f"Se Flávio entregar o superávit que o plano promete (aqui, a diferença entre o cenário otimista e o base da IFI), a dívida de 2030 fica {br(S['diferenca_2030_so_pelo_esforco'])} pontos abaixo da base ({br(c['flavio_promessa_cumprida']['2030'])}%). "
-            f"Se ele não entregar, o juro a mais tende a voltar e a trajetória encosta na de Lula ({br(c['flavio_promessa_nao_cumprida_com_premio_de_volta']['2030'])}%). "
-            f"Se Lula fizesse o mesmo esforço fiscal, chegaria a {br(c['lula_se_fizesse_o_mesmo_esforco']['2030'])}%.")
-
-
-def secao_tema(t):
-    v = T[t]
-    p = v["pesos"]["principal"]
-    rot = {"iguais": "pesos iguais", "historico_pesa_mais": "histórico pesa mais", "execucao_pesa_mais": "execução pesa mais"}
-    alt = "; ".join(f"{rot[k]}: {x['veredito']} ({br(x['lula'])} × {br(x['flavio'])})" for k, x in v["pesos"].items() if k != "principal")
+def secao(t):
+    v = T[t]; p = v["pesos"]["principal"]; c = v["criterios"]
+    alt = "; ".join(f"{ROT_PESO[k]}: {x['veredito']} ({br(x['lula'])} × {br(x['flavio'])})" for k, x in v["pesos"].items() if k != "principal")
+    crit = " · ".join(f"{NOME_CRIT[k]} {br(c['lula'][k], 0)} × {br(c['flavio'][k], 0)}" for k in ("C1", "C3", "C4", "C5", "C6", "C7") if c["lula"].get(k) is not None)
+    o = R["c7_obras"]
+    obras = (f"\n\n**Obras paralisadas (C7):** a fatia de obras federais paradas no painel do TCU subiu {br(o['bolsonaro_pp_ao_ano'], 2)} ponto por ano no período Bolsonaro e {br(o['lula_pp_ao_ano'], 2)} pontos por ano no atual."
+             if c["lula"].get("C7") is not None else "")
     return f"""### {v['nome']}
 
-**Veredito do tema, pelos critérios escritos antes: {v['veredito']}** (Lula {br(p['lula'])}, Flávio {br(p['flavio'])}; {v['robustez']}). O que mais pesou: {frase_decisivos(t)}. Com outros pesos: {alt}.
+**Veredito da rodada 2: {v['veredito']}** (Lula {br(p['lula'])}, Flávio {br(p['flavio'])}; {v['robustez']}). Notas por critério (Lula × Flávio): {crit}. O que mais pesou: {decisivos(t, 4)}. Com outros pesos: {alt}.
 
 **Histórico (C1).**
 
 {tabela_c1(t)}
 
-**Propostas de 2026 (C3, C4 e C5).** Promessa e entrega (C2) é a mesma em todos os temas: Lula {br(R['c2']['lula'])}, Flávio {br(R['c2']['flavio'])} (governo Jair Bolsonaro).
+**Propostas (C3, C4 e C5), só o que muda.**
 
-{tabela_propostas(t)}
-
-**Cenário 2027 a 2030.**
-
-{cenario(t)}
+{tabela_propostas(t)}{obras}
 """
 
 
+def contexto_tabela():
+    c = R["contexto"]; b, l = c["bolsonaro"], c["lula_atual"]
+    return f"""| | Bolsonaro (começo de 2019) | Lula (começo de 2023) |
+|---|---|---|
+| Selic no começo | {br(b['selic_no_inicio'], 2)}% | {br(l['selic_no_inicio'], 2)}% |
+| Desemprego no começo | {br(b['desemprego_no_inicio'])}% | {br(l['desemprego_no_inicio'])}% |
+| Dívida bruta no começo | {br(b['divida_no_inicio'], 2)}% do PIB | {br(l['divida_no_inicio'], 2)}% do PIB |
+| Inflação do ano anterior | {br(b['ipca_do_ano_anterior'], 2)}% | {br(l['ipca_do_ano_anterior'], 2)}% |
+| Crescimento médio dos emergentes no mandato | {br(b['crescimento_medio_emergentes'], 2)}% ao ano | {br(l['crescimento_medio_emergentes'], 2)}% ao ano |
+| Choques | {b['choques']} | {l['choques']} |"""
+
+
+def fragilidades():
+    sc7 = R["sensibilidade"]["sem_obras_C7"]
+    temas_c7 = [t for t in ORDEM if T[t]["criterios"]["lula"].get("C7") is not None]
+    muda = [f"{T[t]['nome']} vira {sc7[t]['veredito']} ({br(sc7[t]['lula'])} × {br(sc7[t]['flavio'])})" for t in temas_c7 if sc7[t]["veredito"] != T[t]["veredito"]]
+    sid = R["sensibilidade"]["ideb_com_a_pandemia"]["educacao"]
+    sc6 = R["sensibilidade"]["sem_mercado_C6"]["economia"]
+    return f"""- **O critério de obras (C7) é um número só, igual em quatro temas.** Ele dá a nota inteira a Flávio em saúde, educação, pobreza e economia. Sem ele: {'; '.join(muda) if muda else 'nenhum veredito muda'}. É a mesma objeção que tirou o critério de promessa da nota (não ser específico do tema), e a base de 2018 é o diagnóstico do TCU, não o painel. A regra foi escrita antes da nota (emenda 10), então o veredito oficial fica, e a fragilidade vai junto.
+- **Ideb com a pandemia na janela** (como na rodada 1): educação vira {sid['veredito']} ({br(sid['lula'])} × {br(sid['flavio'])}).
+- **Economia sem o critério de mercado:** {sc6['veredito']} ({br(sc6['lula'])} × {br(sc6['flavio'])}).
+- **A base comum supõe que os programas continuam com os dois.** Pé-de-Meia, Farmácia Popular, controle de armas e aumento real do salário mínimo não aparecem no plano de Flávio, nem para manter nem para acabar."""
+
+
+def seg_frase():
+    fem = ind("Feminicídio")
+    cel = R["informativo_seguranca"]["roubo_de_celular"]
+    return (f"O feminicídio subiu nos dois governos ({br(fem['bolsonaro_2019_2022'], 2)}% ao ano no de Bolsonaro e {br(fem['lula_2023_atual'], 2)}% ao ano no atual; diferença menor que a mínima, empate). "
+            f"O roubo de celular caiu de {mil(cel['2022'])} em 2022 para {mil(cel['2025'])} em 2025 (sem dado comparável de 2018). "
+            "Lesão corporal e tentativa de homicídio pioraram no período atual; roubo a transeunte, a residência, a comércio e de carga, e o latrocínio, caíram mais rápido no período atual.")
+
+
 def relatorio():
-    sens = R["sensibilidade_nao_preregistrada"]
-    stf = R["stf"]
-    conf = "\n".join(f"| {lado_nome(x['lado'])} | {x['afirmacao']} (p. {x['pagina']}) | {x['conferido'].replace('.', ',') if ('IPCA' in x['conferido'] or 'dez/' in x['conferido'] or 'IBGE: 20' in x['conferido']) else x['conferido']} | {x['situacao']} |" for x in R["conferencia_planos"])
-    sem_c2 = "; ".join(f"{T[t]['nome']}: {sens['sem_C2'][t]['veredito']}" for t in ORDEM)
-    so_p = "; ".join(f"{T[t]['nome']}: {sens['so_propostas_C3_C4_C5'][t]['veredito']}" for t in ORDEM)
-    longo = "\n".join(f"| {x['indicador']} | {br(x['bolsonaro'], 2)} | {br(x['lula_todos_os_mandatos'], 2)} | {br(x['dilma'], 2)} | {'empate' if x['pontos_lula'] == 1 else ('Lula' if x['pontos_lula'] == 2 else 'Bolsonaro')} |" for x in R["c1_sensibilidade_todos_os_mandatos"])
+    c7 = R["c7_obras"]
     return f"""# Simulação: como tendem a andar seis temas no Brasil de 2027 a 2030, com Lula ou com Flávio Bolsonaro
 
-**Gerado em {R['gerado_em']} a partir de `resultados/RESUMO.json` e `resultados/SIMULACAO_DIVIDA.json`.** Análise feita pelo **Claude**, modelo de IA da Anthropic, posto pelo autor para analisar com regras escritas antes ([`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md), commit `{PRE_REGISTRO}`, público antes de qualquer nota). Leitura em uma página: [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md). A opinião da IA, tema por tema: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md).
+**Rodada 2, gerada em {R['gerado_em']}.** Análise feita pelo **Claude**, modelo de IA da Anthropic, posto pelo autor para analisar com regras escritas antes: pré-registro `{PRE_REGISTRO}` e regras da rodada 2 `{REGRAS_R2}` (emendas 6 a 11, publicadas antes destas notas, a pedido do autor depois de ver a rodada 1). A rodada 1 está guardada em `resultados/rodada1/`. Em uma página: [`RESUMO_SIMPLES.md`](RESUMO_SIMPLES.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md). Auditoria: [`docs/AUDITORIA_RODADA_2.md`](docs/AUDITORIA_RODADA_2.md).
 
 ## O que este projeto não consegue dizer
 
-- **Quem vai ganhar o 2º turno de 25/10/2026, nem quem deveria ganhar.** A IA não soma os temas num placar e não diz quem é melhor para o país ([`docs/LIMITE_ELEITORAL.md`](docs/LIMITE_ELEITORAL.md), Resolução TSE nº 23.755/2026, art. 28, §1º-C). Cada tema fecha com o seu veredito.
-- **Se um governo causou a variação de um indicador.** O histórico é o que aconteceu durante o mandato, descontado o que aconteceu no resto do mundo quando há série comparável. Pandemia, guerra e preço de commodities interferem.
-- **Flávio Bolsonaro nunca governou.** O histórico usado para ele é o do governo Jair Bolsonaro (2019 a 2022), que o plano dele apresenta como referência ("Nós já mostramos que o caminho é outro", p. 29). Ele pode governar diferente.
-- **O valor de uma proposta.** O critério de caminho mede o que ela precisa para sair do papel; o de maturidade, o quanto se sabe do efeito. Uma proposta nova pode ser melhor que uma antiga, e uma emenda à Constituição pode ser melhor que um decreto.
-- **Temas fora dos seis** (meio ambiente, política externa, cultura e outros), escolhidos pela regra das pesquisas da §1 do pré-registro.
+- **Quem vai ganhar, nem quem deveria ganhar.** A IA não soma os temas e não diz quem é melhor para o país ([`docs/LIMITE_ELEITORAL.md`](docs/LIMITE_ELEITORAL.md)).
+- **Se um governo causou a variação de um indicador.** O histórico é o que aconteceu no mandato, descontado o mundo quando há série de vizinhos.
+- **Flávio Bolsonaro nunca governou.** O histórico dele é o do governo Jair Bolsonaro.
+- **O resultado muda com o desenho.** Entre a rodada 1 e a rodada 2 vários temas mudaram de lado; a seção 5 diz de que escolha cada veredito depende.
 
-## 1. A pergunta e o método, em uma tela
+## 1. O que mudou da rodada 1 para a rodada 2
 
-- **Seis temas**, pela regra escrita antes: o que pelo menos 5% dos brasileiros citam como principal problema em 3 dos 5 levantamentos de 2026 (Datafolha, Quaest/Globo, Quaest/Pax, BTG/Nexus, Paraná Pesquisas). Entraram segurança, saúde, economia, corrupção, educação e pobreza, fome e desigualdade.
-- **Quatro subtemas fixos por tema**, iguais para os dois lados, e em cada um a primeira ação concreta do plano registrado no TSE (46 propostas, 2 subtemas sem proposta, trecho literal conferido no PDF).
-- **Seis critérios**: C1 histórico, C2 promessa e entrega (g1, mesma metodologia para os dois), C3 caminho de execução (o instrumento que a proposta exige e o Congresso de 2027), C4 maturidade e evidência, C5 dinheiro e, só na economia, C6 mercado.
-- **Pesos**: C3 30, C1 25, C4 20, C2 15, C5 10 (na economia, C3 25, C1 20, C4 20, C6 15, C2 10, C5 10). Veredito do tema com diferença de 5 pontos ou mais; abaixo disso, empate. Refeito com 3 pesos alternativos.
-- **Fontes**: toda evidência tem o trecho conferido letra por letra na página capturada ({R.get('trechos_conferidos', 'ver')} em `resultados/TRECHOS_CONFERIDOS.csv`); séries oficiais com hash em `dados/MANIFESTO.csv`.
+| Mudança | Por quê |
+|---|---|
+| Promessa e entrega (C2) saiu da nota do tema | O balanço do g1 não separa tema e dava a mesma vantagem em todos |
+| Propostas: só o que muda conta; manter o que já existe é base comum; mesmo programa, mesma nota | Na rodada 1 a continuidade contava quatro vezes, e o mesmo programa tinha nota diferente conforme o verbo |
+| Segurança com 14 crimes do Anuário (antes 3) | Faltavam feminicídio, roubos e crimes contra a pessoa |
+| Ideb na janela sem pandemia; desemprego contra a América Latina; mais duas medidas de saúde e a pobreza a US$ 8,30 | A pandemia e o ponto de partida pesavam diferente para cada governo |
+| Critério novo: obras federais paralisadas (TCU) | Obras inacabadas e prazos |
+| Tabela de contexto de cada mandato | Dificuldades e privilégios de cada governo |
+| Correção de um erro de casas decimais na comparação | 0,3 menos 0,2 dava 0,0999 e virava empate |
 
 ## 2. Resultado por tema
 
@@ -195,165 +169,167 @@ def relatorio():
 
 ![Notas por tema](resultados/figuras/01_notas_por_tema.png)
 
-**Quem fica na frente em cada critério, tema a tema** (nota de Lula × nota de Flávio):
-
-{tabela_criterio_por_tema()}
-
-![Robustez](resultados/figuras/07_robustez.png)
+![Segurança](resultados/figuras/08_seguranca_14_crimes.png)
 
 ## 3. Tema a tema
 
-{''.join(secao_tema(t) + chr(10) for t in ORDEM)}
-## 4. Mercado e simulação da dívida
+{''.join(secao(t) + chr(10) for t in ORDEM)}
+## 4. Contexto de cada mandato (herança e choques)
 
-{mercado_txt()}
+{contexto_tabela()}
+
+Na régua: os choques do mundo (pandemia, guerra) são descontados nos indicadores comparados com os vizinhos (PIB, inflação, desemprego, saúde), e a variação por ano ajusta o tempo de mandato. Lula começou com juro alto e desemprego baixo; Bolsonaro, com juro baixo e desemprego alto.
+
+**Segurança:** {seg_frase()}
+
+**Grandes obras com atraso** (casos, sem nota): a transposição do São Francisco começou em 2007, tinha conclusão prevista para 2012 e foi dada como concluída em fevereiro de 2022 (captura O08); a Transnordestina começou em 2006 e segue sem conclusão em 2026 (O10, O11); o segundo trem da refinaria Abreu e Lima parou em 2015 e foi retomado em 2025, com previsão para 2029 (O12). Painel do TCU: {br(c7['pct']['2018'])}% das obras paradas no diagnóstico de 2018, {br(c7['pct']['2022'])}% em ago/2022 e {br(c7['pct']['2025'])}% em abr/2025; em abr/2026 o painel mostra {br(c7['pct']['2026'])}%, mas o TCU trocou a carteira e avisa que não se compara com 2025 (O03).
+
+![Obras](resultados/figuras/09_obras_paralisadas.png)
+
+## 5. De que escolha cada veredito depende
+
+{fragilidades()}
+
+![Robustez](resultados/figuras/07_robustez.png)
+
+## 6. Mercado, dívida e Supremo
+
+Iguais à rodada 1: o mercado reagiu a favor de Flávio no 1º turno (bolsa {br(R['c6']['bolsa_anormal_pct'], 2)} pontos acima dos emergentes, real {br(abs(R['c6']['moeda_anormal_pct']), 2)} pontos acima das outras moedas); a simulação dá dívida de {br(S['cenarios']['lula_com_premio']['2030'])}% do PIB em 2030 com Lula e o juro que o mercado cobra, contra {br(S['cenarios']['flavio_promessa_cumprida']['2030'])}% com Flávio entregando o superávit prometido (base da IFI: {br(S['cenarios']['base_ifi']['2030'])}%); e o próximo governo deve preencher de 3 a 4 vagas no STF, com o Senado de 2027 mais à direita.
 
 ![Mercado](resultados/figuras/03_mercado_1turno.png)
+![Dívida](resultados/figuras/04_simulacao_divida.png)
 
-{simulacao_txt()}
+## 7. Promessa e entrega, como informação geral
 
-![Simulação da dívida](resultados/figuras/04_simulacao_divida.png)
+Pelo g1, com a mesma metodologia: Lula cumpriu 26 de 36 promessas de 2022 até junho de 2026 (4 em parte); o governo Bolsonaro cumpriu 19 de 58 de 2018 (17% em parte). Fora da nota do tema desde a rodada 2.
 
-**Limite:** o prêmio de juros é o que investidores esperam; ele já mudou de tamanho em poucos dias (EV081, EV083) e pode mudar de novo com as primeiras decisões do eleito. O repasse para o juro médio da dívida é hipótese do modelo, declarada em `ferramentas/simular.py`, com a sensibilidade acima.
+## 8. Números dos planos, conferidos
 
-## 5. Congresso e Supremo
-
-O Congresso que toma posse em fevereiro de 2027 tem, pela regra de três grupos do autor (projeto `congresso-e-governos-eleicoes-2026`), direita 265, centro 124 e esquerda 124 na Câmara, e direita 48, centro 17 e esquerda 15 no Senado. É isso que dá a Flávio o degrau mais alto nas propostas que precisam de lei (C3).
-
-O próximo governo deve indicar ministros para estas vagas do STF (a de Barroso, se não for preenchida antes de 2027): {'; '.join(stf['vagas_no_mandato_2027_2030'])}. Cada indicado precisa de {stf['aprovacao_no_senado']} no Senado. Em abril de 2026 o Senado atual rejeitou o indicado de Lula, a primeira rejeição desde a Primeira República (EV070), e o Senado de 2027 tem mais senadores da direita. Isso não entra na nota (a régua da §3 diz que o Supremo entra na leitura, não muda nota sozinho), mas pesa na simulação: com Flávio, as indicações tendem a passar; com Lula, o histórico recente mostra rejeição.
-
-![STF](resultados/figuras/06_stf_vagas.png)
-
-## 6. Sensibilidades
-
-- **Sem 2020 e 2021** (pandemia) nas médias de PIB e inflação: os vereditos ficam iguais ({', '.join(f"{T[t]['nome']}: {v}" for t, v in R['vereditos_sem_2020_2021'].items())}).
-- **Todos os mandatos de Lula (2003 a 2010 e 2023 em diante), com os governos Dilma ao lado**, onde há série internacional:
-
-| Indicador | Bolsonaro | Lula, todos os mandatos | Dilma | Quem fica na frente (Lula × Bolsonaro) |
-|---|---:|---:|---:|---|
-{longo}
-
-- **Fora do pré-registro, pedidas pela revisão adversarial** (não mudam o veredito oficial):
-  - sem o critério de promessa e entrega (C2): {sem_c2};
-  - só as propostas (C3, C4 e C5): {so_p};
-  - segurança sem o indicador de estelionato (o registro mudou com a lei de fraude eletrônica de 2021): {sens['seguranca_sem_estelionato']['veredito']} ({br(sens['seguranca_sem_estelionato']['lula'])} × {br(sens['seguranca_sem_estelionato']['flavio'])});
-  - economia sem o critério de mercado (C6): {sens['economia_sem_C6']['veredito']} ({br(sens['economia_sem_C6']['lula'])} × {br(sens['economia_sem_C6']['flavio'])}).
-
-**O que isso mostra:** o veredito da economia depende do critério de promessa e entrega; sem ele, empata. O de corrupção vai para Flávio quando o histórico pesa mais ou quando a promessa sai. Os outros quatro temas ficam com Lula em todas as combinações testadas.
-
-## 7. Números dos planos, conferidos
-
-| Plano | Afirmação | Conferido nas séries oficiais | Situação |
+| Plano | Afirmação | Conferido | Situação |
 |---|---|---|---|
-{conf}
+""" + "\n".join(f"| {nome(x['lado'])} | {x['afirmacao']} (p. {x['pagina']}) | {x['conferido'].replace('.', ',')} | {x['situacao']} |" for x in R["conferencia_planos"]) + """
 
-## 8. Teste das duas pontas e revisão
+## 9. Fontes, revisão e como refazer
 
-O fato central de cada tema foi procurado em veículos de linha editorial declarada à esquerda e à direita: [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md). As três passadas de revisão adversarial, com o que mudou por causa delas: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md).
-
-## 9. Emendas, fontes e como refazer
-
-Cinco emendas ao pré-registro, cada uma dizendo se veio antes ou depois de ver dado: [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) §12. Fontes: [`docs/FONTES.md`](docs/FONTES.md). Refazer do zero: [`docs/REPLICAR.md`](docs/REPLICAR.md).
+Emendas: [`docs/PRE_REGISTRO.md`](docs/PRE_REGISTRO.md) §12. Teste das duas pontas: [`docs/TESTE_DAS_DUAS_PONTAS.md`](docs/TESTE_DAS_DUAS_PONTAS.md). Revisão da rodada 1: [`docs/REVISAO_ADVERSARIAL.md`](docs/REVISAO_ADVERSARIAL.md). Fontes: [`docs/FONTES.md`](docs/FONTES.md). Refazer: [`docs/REPLICAR.md`](docs/REPLICAR.md).
 """
 
 
 def resumo_simples():
     linhas = []
     for t in ORDEM:
-        v = T[t]
-        p = v["pesos"]["principal"]
-        linhas.append(f"- **{v['nome']}: {v['veredito']}** ({br(p['lula'])} × {br(p['flavio'])}, {v['robustez']}). Pesou mais: {frase_decisivos(t)}.")
-    c = S["cenarios"]
-    sens = R["sensibilidade_nao_preregistrada"]
-    return f"""# Resumo simples
+        v = T[t]; p = v["pesos"]["principal"]; r1 = R["rodada1_vereditos"][t]
+        linhas.append(f"- **{v['nome']}: {v['veredito']}** ({br(p['lula'])} × {br(p['flavio'])}, {v['robustez']}; na rodada 1, {r1['veredito']}). Pesou mais: {decisivos(t)}.")
+    return f"""# Resumo simples (rodada 2)
 
-**Gerado em {R['gerado_em']} a partir de `resultados/RESUMO.json`.** O relatório completo é o [`RELATORIO.md`](RELATORIO.md) e a opinião da IA está em [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md).
+**Gerado em {R['gerado_em']}.** Completo: [`RELATORIO.md`](RELATORIO.md). Opinião da IA: [`docs/LEITURA_DA_IA.md`](docs/LEITURA_DA_IA.md).
 
-> **O que este projeto não diz.** Quem vai ganhar, nem quem deveria ganhar. A IA não soma os temas (regra do TSE, `docs/LIMITE_ELEITORAL.md`). Flávio nunca governou: o histórico dele é o do governo Jair Bolsonaro. O projeto mede o caminho e a evidência de cada proposta, não o mérito.
+> **O que este projeto não diz.** Quem vai ganhar, nem quem deveria ganhar; a IA não soma os temas (regra do TSE). Flávio nunca governou: o histórico dele é o do governo Jair Bolsonaro.
 
-## Como foi feito
+## O que mudou na rodada 2
 
-Seis temas escolhidos pelas pesquisas de "principal problema do país". Em cada tema, 4 subtemas iguais para os dois lados e a primeira proposta concreta de cada plano registrado no TSE. Seis critérios com pesos escritos e publicados antes de qualquer nota: histórico, promessa e entrega, caminho de execução (com o Congresso de 2027), maturidade e evidência, dinheiro e, na economia, mercado.
+A promessa saiu da nota; manter o que já existe deixou de contar ponto (vale para os dois); a segurança passou a ter 14 crimes; a pandemia e o ponto de partida entraram na comparação; e entrou um critério de obras paralisadas do TCU.
 
 ## Veredito de cada tema
 
 {chr(10).join(linhas)}
 
-## O que mais muda o resultado
+## O que você precisa saber antes de usar
 
-- **Continuidade.** Quase tudo o que Lula propõe já funciona (está em lei ou em execução), e várias propostas têm avaliação publicada. Quase tudo o que Flávio propõe é novo: com o Congresso de 2027 a favor, o caminho dele para leis é mais curto, mas o efeito é menos conhecido.
-- **Promessa e entrega.** Pelo g1, Lula cumpriu 26 de 36 promessas de 2022 até junho de 2026; o governo Bolsonaro cumpriu 19 de 58 de 2018. Sem esse critério, a economia empata ({br(sens['sem_C2']['economia']['lula'])} × {br(sens['sem_C2']['economia']['flavio'])}) e a corrupção vai para Flávio.
-- **Mercado.** No dia seguinte ao 1º turno, a bolsa subiu {br(R['c6']['bolsa_anormal_pct'], 2)} pontos acima dos emergentes e o real se valorizou {br(abs(R['c6']['moeda_anormal_pct']), 2)} pontos acima das outras moedas. Esse critério é de Flávio.
-
-## A simulação da dívida até 2030
-
-Base da IFI: {br(c['base_ifi']['2030'])}% do PIB em 2030. Com o juro a mais que o mercado cobra num governo Lula: {br(c['lula_com_premio']['2030'])}%. Com Flávio entregando o superávit prometido: {br(c['flavio_promessa_cumprida']['2030'])}%. Se ele não entregar, o juro a mais tende a voltar.
-
-## Supremo
-
-O próximo governo deve indicar {len(R['stf']['vagas_no_mandato_2027_2030']) - 1} ministros do STF até abril de 2029 (se a vaga de Barroso não for preenchida antes de 2027) e mais um no fim de 2030, e o Senado de 2027 tem {R['stf']['senado_2027']['direita']} senadores da direita. Em abril de 2026, o Senado rejeitou o indicado de Lula para a vaga de Barroso.
+{fragilidades()}
 """
 
 
-def leitura_da_ia():
-    sens = R["sensibilidade_nao_preregistrada"]
-    c = R["c6"]
+def leitura():
     def v(t): return T[t]
     def p(t): return T[t]["pesos"]["principal"]
-    return f"""# Leitura da IA, tema por tema
+    sc7 = R["sensibilidade"]["sem_obras_C7"]
+    return f"""# Leitura da IA, tema por tema (rodada 2)
 
-**Escrita pelo Claude (modelo de IA da Anthropic) em {R['gerado_em']}, depois das notas, com as regras de `docs/PRE_REGISTRO.md` §7.** Toda frase de opinião vem marcada com "na leitura da IA" e com o grau de confiança. Números do `resultados/RESUMO.json`. ⛔ A IA não soma os temas e não diz quem é melhor para o país (`docs/LIMITE_ELEITORAL.md`).
+**Escrita pelo Claude (modelo de IA da Anthropic) em {R['gerado_em']}, depois das notas da rodada 2.** Opinião marcada, com confiança. ⛔ A IA não soma temas nem diz quem é melhor para o país.
 
-## Segurança · veredito: {v('seguranca')['veredito']} ({br(p('seguranca')['lula'])} × {br(p('seguranca')['flavio'])})
+## Segurança · {v('seguranca')['veredito']} ({br(p('seguranca')['lula'])} × {br(p('seguranca')['flavio'])})
 
-As mortes violentas caíram nos dois governos quase no mesmo ritmo, e o roubo de veículo também: no histórico, empate nos dois. O que separa é o estelionato, que cresceu muito mais de 2018 a 2022 do que depois; mesmo tirando esse indicador, o caminho de Lula fica na frente ({br(sens['seguranca_sem_estelionato']['lula'])} × {br(sens['seguranca_sem_estelionato']['flavio'])}). Do lado das propostas, Lula aposta no que já está em lei (Lei Antifacção, controle de armas) e numa emenda à Constituição que passou na Câmara e travou no Senado; Flávio aposta em medidas novas, das quais a de fronteira depende só dele e as de facção como terrorismo e maioridade penal dependem do Congresso, a segunda com 3/5.
+Com os 14 crimes, o histórico fica dividido. {seg_frase()} Nas propostas, as de Flávio têm caminho melhor (Forças Armadas na fronteira e repasse a estados dependem só do Executivo), e as duas de Lula que mudam algo dependem de emenda à Constituição ou de um pacto novo.
 
-**Na leitura da IA (confiança média):** o caminho de Lula fica na frente porque o que ele propõe já anda; o de Flávio tem mais medidas que a população pede nas pesquisas e o Congresso de 2027 a favor, mas o efeito delas no crime é pouco conhecido e a evidência sobre maioridade penal é mista. **O que mudaria:** se a PEC da Segurança for aprovada antes de 2027, a proposta central de Lula sobe para o degrau mais alto; se o projeto de facções como terrorismo passar numa das casas, a de Flávio sobe.
+**Na leitura da IA (confiança média):** empate é a leitura certa. Os dois períodos tiveram queda forte da violência letal; o que separa é o tipo de crime, e o caminho das propostas favorece Flávio.
 
-## Saúde · veredito: {v('saude')['veredito']} ({br(p('saude')['lula'])} × {br(p('saude')['flavio'])})
+## Saúde · {v('saude')['veredito']} ({br(p('saude')['lula'])} × {br(p('saude')['flavio'])})
 
-Esperança de vida e mortalidade infantil, descontada a América Latina, empatam. A vacina de sarampo separa: a cobertura caiu no governo Bolsonaro e se recuperou depois, e o país voltou a ser certificado livre de sarampo em 2024. As propostas dos dois se parecem (Saúde da Família, prontuário único, vacinação), e as de Lula estão em execução.
+Comparados com a América Latina, os resultados de saúde ficaram melhores no período atual: as duas vacinas e a mortalidade materna. As propostas de mudança dos dois têm caminho parecido. Quem equilibra é o critério de obras: as obras de saúde estão entre as mais paradas do país, e a fatia de obras paradas subiu no período atual.
 
-**Na leitura da IA (confiança alta):** é o tema em que os dois caminhos mais se parecem no conteúdo; a diferença está em quem já executa e no histórico da vacinação. **O que mudaria:** uma avaliação de impacto do Agora Tem Especialistas, para o bem ou para o mal.
+**Na leitura da IA (confiança baixa):** sem o critério de obras, o tema volta para Lula ({br(sc7['saude']['lula'])} × {br(sc7['saude']['flavio'])}); com ele, empata.
 
-## Economia · veredito: {v('economia')['veredito']} ({br(p('economia')['lula'])} × {br(p('economia')['flavio'])})
+## Economia · {v('economia')['veredito']} ({br(p('economia')['lula'])} × {br(p('economia')['flavio'])})
 
-Cada lado leva um pedaço. No histórico, com Lula o PIB cresceu mais perto dos emergentes, a inflação ficou mais abaixo deles e a renda do trabalho subiu; com Bolsonaro, o desemprego caiu mais rápido e a dívida caiu, enquanto com Lula ela sobe. O mercado precificou Flávio com {br(c['z_bolsa'])} e {br(abs(c['z_moeda']))} desvios-padrão na bolsa e no câmbio. As propostas de Lula são continuidade (o arcabouço, a reforma tributária); as de Flávio exigem lei, que o Congresso de 2027 favorece.
+No histórico, o período atual fica na frente em PIB, inflação e renda, e o de Bolsonaro na dívida; o desemprego empata contra a América Latina. Mercado e obras pesam a favor de Flávio; as propostas de Lula que mudam algo estão mais perto de sair do papel que as de Flávio, que exigem lei.
 
-**Na leitura da IA (confiança baixa):** o veredito de economia é o mais frágil dos seis. Sem o critério de promessa e entrega ele empata, e a simulação da dívida aponta na direção contrária da nota: só pelo juro que o mercado já cobra, a dívida de 2030 fica {br(S['diferenca_2030_so_pelo_juro'])} pontos do PIB maior com Lula. **O que mudaria:** uma meta fiscal com número, de qualquer dos dois; o plano de Flávio promete superávit sem dizer quanto, e o de Lula mantém uma regra com a qual a IFI projeta dívida subindo até 2036.
+**Na leitura da IA (confiança média):** o que decide é a expectativa de ajuste fiscal com Flávio, que o mercado já precifica e a simulação da dívida reflete. Se o ajuste não vier, essa vantagem some.
 
-## Corrupção · veredito: {v('corrupcao')['veredito']} ({br(p('corrupcao')['lula'])} × {br(p('corrupcao')['flavio'])})
+## Corrupção · {v('corrupcao')['veredito']} ({br(p('corrupcao')['lula'])} × {br(p('corrupcao')['flavio'])})
 
-O índice da Transparência Internacional ficou melhor em 2020 a 2022 do que depois, e o do Banco Mundial empata. Lula aprofunda um plano anticorrupção que já existe e quer barrar candidaturas ligadas ao crime organizado; Flávio quer mudar regras do STF (partes já aprovadas no Senado) e profissionalizar estatais. Cada um deixa um subtema sem proposta: Lula não fala de estatais nem de fraude em benefício; Flávio não fala de órgãos de controle e investigação.
+O índice de percepção da Transparência Internacional ficou melhor de 2018 a 2022 do que depois; o do Banco Mundial empata. As propostas de Lula que mudam algo têm caminho mais fácil; a reforma do STF de Flávio depende de emenda à Constituição.
 
-**Na leitura da IA (confiança baixa):** empate é a conclusão honesta. Os dois índices medem percepção e governança, não casos; os escândalos que cada lado cita contra o outro na campanha ficaram fora da nota, porque a régua não conta caso sem condenação. **O que mudaria:** com o histórico pesando mais, ou sem o critério de promessa, fica Flávio.
+**Na leitura da IA (confiança baixa):** os dois índices medem percepção, não casos; os escândalos que cada lado cita contra o outro ficaram fora da nota.
 
-## Educação · veredito: {v('educacao')['veredito']} ({br(p('educacao')['lula'])} × {br(p('educacao')['flavio'])})
+## Educação · {v('educacao')['veredito']} ({br(p('educacao')['lula'])} × {br(p('educacao')['flavio'])})
 
-O Ideb dos anos iniciais ficou parado de 2017 a 2021 e subiu até 2025; o do ensino médio subiu nos dois períodos. Lula continua quatro programas que já funcionam (alfabetização, Pé-de-Meia, creches, Pé-de-Meia Licenciatura); Flávio propõe o método fônico, que tem evidência a favor, ensino técnico, voucher-creche e formação de professores.
+Na janela sem pandemia, o Ideb dos anos iniciais e dos anos finais melhorou mais no período atual, e o do ensino médio melhorou mais de 2017 a 2019. As propostas de Flávio têm caminho perto do de Lula; o critério de obras pesa contra o período atual (creches e escolas paradas).
 
-**Na leitura da IA (confiança média):** a vantagem é de continuidade. O Pé-de-Meia ainda não tem avaliação de impacto observada: a estimativa é ex-ante, e a Gazeta do Povo questiona o efeito na evasão. A proposta de Flávio com melhor evidência é o método fônico. **O que mudaria:** a primeira avaliação de impacto do Pé-de-Meia.
+**Na leitura da IA (confiança baixa):** sem o critério de obras, Lula ({br(sc7['educacao']['lula'])} × {br(sc7['educacao']['flavio'])}); com ele, empate. A proposta de Flávio com melhor evidência é o método fônico.
 
-## Pobreza, fome e desigualdade · veredito: {v('pobreza')['veredito']} ({br(p('pobreza')['lula'])} × {br(p('pobreza')['flavio'])})
+## Pobreza, fome e desigualdade · {v('pobreza')['veredito']} ({br(p('pobreza')['lula'])} × {br(p('pobreza')['flavio'])})
 
-Extrema pobreza e fome caíram mais depois de 2022. O Gini caiu mais de 2018 a 2022 e voltou a subir em 2025; em 2022, pelo IBGE, sem os benefícios dos programas sociais a extrema pobreza teria sido 10,6% em vez de 5,9% (captura X06). Os dois prometem manter o Bolsa Família. Lula soma a valorização do salário mínimo, que tem avaliação publicada; Flávio soma uma porta de saída do programa, que é nova.
+Extrema pobreza, pobreza e fome caíram mais no período atual; o Gini caiu mais no de Bolsonaro. Os dois mantêm o Bolsa Família. O critério de obras pesa contra o período atual.
 
-**Na leitura da IA (confiança média):** a diferença vem de o salário mínimo e os programas de Lula já estarem em lei e avaliados. Manter o Bolsa Família é compromisso dos dois. **O que mudaria:** uma regra de reajuste do salário mínimo no plano de Flávio, ou uma avaliação da porta de saída.
+**Na leitura da IA (confiança média):** o histórico favorece Lula com folga; o empate vem do critério de obras (sem ele, {br(sc7['pobreza']['lula'])} × {br(sc7['pobreza']['flavio'])}).
 
-## A leitura geral do método, sem somar temas
+## A leitura geral, sem somar temas
 
-O desenho escolhido pelo autor dá peso ao que já está em andamento, e quem governa tem mais coisa em andamento. O Congresso de 2027 e o Supremo favorecem Flávio onde a proposta precisa de lei ou de indicação, e o mercado aposta nele. Os dois planos quase não dizem quanto custa o que prometem.
+O resultado depende muito do desenho, e as duas rodadas mostram isso. O que se repete nas duas: o mercado e a dívida apontam para Flávio; a percepção de corrupção foi melhor no período Bolsonaro; vacinas, mortalidade materna e pobreza melhoraram mais no período atual; a violência letal caiu nos dois; e as obras federais paradas aumentaram no período atual.
 """
+
+
+def auditoria():
+    r1 = R["rodada1_vereditos"]
+    fem = ind("Feminicídio"); c7 = R["c7_obras"]
+    return f"""# Auditoria da rodada 2
+
+**{R['gerado_em']}.** Pedido do autor depois da rodada 1: mais crítica, considerando o tempo de cada governo, as dificuldades, as obras e mais dados. As regras foram escritas e publicadas antes das notas (commit `{REGRAS_R2}`).
+
+## O que o autor apontou, e o que os dados mostraram
+
+| Ponto do autor | O que os dados mostraram | O que mudou |
+|---|---|---|
+| "O roubo cresceu de 2022 para cá" | Os roubos **caíram** no período atual, e mais rápido que antes (transeunte, residência, comércio, carga); o roubo de celular também caiu de 2022 para 2025 | Os 14 crimes entraram na régua |
+| "O feminicídio cresceu" | Cresceu no período atual ({br(fem['lula_2023_atual'], 2)}% ao ano) e no de Bolsonaro ({br(fem['bolsonaro_2019_2022'], 2)}% ao ano) | Entrou; empate pela diferença mínima |
+| Promessa é igual em todos os temas | Procede | Saiu da nota do tema |
+| O caminho de execução favorecia quem já governa | Procede: manter o que existe valia 100, e o mesmo programa tinha nota diferente | Só conta o que muda; mesmo programa, mesma nota |
+| A pandemia deve equilibrar | Procede para o Ideb (a rodada 1 media a recuperação contra a queda) | Ideb sem pandemia; desemprego contra a América Latina |
+| Obras inacabadas e prazos | Procede: a fatia de obras federais paradas foi de {br(c7['pct']['2022'])}% para {br(c7['pct']['2025'])}% de ago/2022 a abr/2025 | Critério C7 |
+| Mais tempo de governo deveria render mais | A régua usa variação por ano, que já ajusta o tempo; os mandatos antigos do PT entram como sensibilidade e nos casos de obras | Casos de obras no relatório |
+
+## Erro encontrado na própria rodada 2
+
+- **Casas decimais:** a diferença de 0,1 no Ideb dos anos finais virava 0,0999 e empate. Corrigido antes de publicar; muda a educação de Flávio para empate.
+
+## Fragilidades que ficam
+
+{fragilidades()}
+
+## Comparação das rodadas
+
+| Tema | Rodada 1 | Rodada 2 |
+|---|---|---|
+""" + "\n".join(f"| {T[t]['nome']} | {r1[t]['veredito']} | {T[t]['veredito']} |" for t in ORDEM) + "\n"
 
 
 def main():
-    import csv
-    n = sum(1 for _ in csv.DictReader((RAIZ / "resultados" / "TRECHOS_CONFERIDOS.csv").open(encoding="utf-8")))
-    R["trechos_conferidos"] = f"{n} trechos"
     (RAIZ / "RELATORIO.md").write_text(relatorio(), encoding="utf-8")
     (RAIZ / "RESUMO_SIMPLES.md").write_text(resumo_simples(), encoding="utf-8")
-    (RAIZ / "docs" / "LEITURA_DA_IA.md").write_text(leitura_da_ia(), encoding="utf-8")
-    print("RELATORIO.md, RESUMO_SIMPLES.md e docs/LEITURA_DA_IA.md gerados")
+    (RAIZ / "docs" / "LEITURA_DA_IA.md").write_text(leitura(), encoding="utf-8")
+    (RAIZ / "docs" / "AUDITORIA_RODADA_2.md").write_text(auditoria(), encoding="utf-8")
+    print("relatórios da rodada 2 gerados")
 
 
 if __name__ == "__main__":

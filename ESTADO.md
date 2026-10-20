@@ -1,9 +1,7 @@
 # Estado do projeto
 
-**20/out/2026 · primeira execução completa e publicada.** Pré-registro público antes de qualquer nota (`1e73d27`), cinco emendas registradas, 46 propostas com nota, 181 trechos conferidos letra por letra, séries com hash, simulação da dívida, revisão adversarial em três passadas, teste das duas pontas e relatório gerado por script.
+**20/out/2026 · rodada 2 publicada.** A pedido do autor depois da rodada 1, as regras da rodada 2 foram escritas e publicadas antes das notas (commit `902202a`, emendas 6 a 11): promessa fora da nota do tema, propostas medidas só pelo que muda (mesmo programa, mesma nota), 14 crimes do Anuário, Ideb sem pandemia, desemprego contra a América Latina, mais saúde e pobreza, critério de obras paralisadas do TCU e tabela de contexto. A rodada 1 está em `resultados/rodada1/`.
 
-**Resultado pelos critérios escritos antes (cada tema fecha sozinho):** segurança, saúde, economia, educação e pobreza com o caminho de Lula na frente; corrupção empata (com o histórico pesando mais, vai para Flávio). O veredito da economia depende do critério de promessa e entrega: sem ele, empata. O mercado e a simulação da dívida apontam a favor de Flávio. Ver `RELATORIO.md` §2 e §6.
+**Resultado da rodada 2 (cada tema fecha sozinho):** ver `RESUMO_SIMPLES.md`. Os vereditos de saúde, educação e pobreza dependem do critério de obras, que é um número só e igual em quatro temas (`docs/AUDITORIA_RODADA_2.md`).
 
-**Limites que ficam:** histórico de Flávio é o do governo Jair Bolsonaro; promessa e entrega usa a taxa geral do g1 (a lista por tema não pôde ser baixada); taxa de abandono e a série de extrema pobreza do IBGE de 2018 ficaram fora por falta de dado capturado; a PEC da Segurança e a vaga de Barroso no STF podem mudar antes de 2027.
-
-**Próximo passo, se o autor pedir:** o roteiro do vídeo longo 13 mora no repositório de documentação; as cinco leituras separadas (`docs/REVISAO_ADVERSARIAL.md`) podem rodar sobre o mesmo `RESUMO.json`.
+**Próximo passo, se o autor pedir:** decidir se o critério de obras fica geral ou passa a ser por área (o TCU publica a fatia parada de saúde e educação), e se os programas que não aparecem no plano de Flávio contam como base comum.

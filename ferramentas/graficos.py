@@ -55,7 +55,7 @@ def notas_por_tema():
     ax.set_yticks(list(y)); ax.set_yticklabels(nomes)
     ax.invert_yaxis(); ax.set_xlim(0, 118)
     ax.set_xlabel("Nota do tema (0 a 100), pesos escritos antes")
-    ax.set_title("Nota de cada caminho, tema por tema")
+    ax.set_title("Nota de cada caminho, tema por tema (rodada 2)")
     ax.legend(loc="upper center", bbox_to_anchor=(0.45, -0.1), ncol=2, frameon=False)
     ax.set_xlabel("")
     fig.text(0.01, 0.055, "Nota de 0 a 100 com os pesos escritos antes. Cada tema fecha sozinho. A IA não soma temas (Res. TSE 23.755/2026, art. 28, §1º-C).", fontsize=12, color="#333333")
@@ -66,15 +66,15 @@ def notas_por_tema():
 def criterios():
     fig, axes = plt.subplots(1, 2, figsize=(12, 6.75), sharey=True)
     temas = list(R["temas"].keys())
-    crits = ["C1", "C2", "C3", "C4", "C5", "C6"]
-    rot = ["Histórico", "Promessa", "Caminho", "Maturidade", "Dinheiro", "Mercado"]
+    crits = ["C1", "C3", "C4", "C5", "C6", "C7"]
+    rot = ["Histórico", "Caminho", "Maturidade", "Dinheiro", "Mercado", "Obras"]
     for ax, lado, titulo in zip(axes, ("lula", "flavio"), ("Lula", "Flávio")):
-        m = [[R["temas"][t]["criterios"][lado][c] for c in crits] for t in temas]
-        ax.imshow(m, cmap="Greys", vmin=0, vmax=130, aspect="auto")
+        m = [[(R["temas"][t]["criterios"][lado].get(c) if R["temas"][t]["criterios"][lado].get(c) is not None else -1) for c in crits] for t in temas]
+        ax.imshow([[max(x, 0) for x in linha] for linha in m], cmap="Greys", vmin=0, vmax=130, aspect="auto")
         for i in range(len(temas)):
             for j in range(len(crits)):
                 val = m[i][j]
-                txt = "-" if (crits[j] == "C6" and temas[i] != "economia") else f"{val:.0f}"
+                txt = "-" if val < 0 else f"{val:.0f}"
                 ax.text(j, i, txt, ha="center", va="center", fontsize=13, color="white" if val > 65 else "black")
         ax.set_xticks(range(len(crits))); ax.set_xticklabels(rot, rotation=30, ha="right", fontsize=12)
         ax.set_title(titulo, color=COR[lado])
@@ -221,10 +221,10 @@ def robustez():
     fig, ax = novo()
     temas = list(R["temas"].keys())
     cen = ["principal", "iguais", "historico_pesa_mais", "execucao_pesa_mais"]
-    rot = ["Pesos\nescritos antes", "Todos\niguais", "Histórico\npesa mais", "Execução\npesa mais", "Sem promessa\n(fora do\npré-registro)"]
+    rot = ["Pesos\nescritos antes", "Todos\niguais", "Histórico\npesa mais", "Execução\npesa mais", "Sem o critério\nde obras"]
     cores = {"Lula": COR["lula"], "Flávio": COR["flavio"], "empate": "#BBBBBB"}
     for i, t in enumerate(temas):
-        vs = [R["temas"][t]["pesos"][c]["veredito"] for c in cen] + [R["sensibilidade_nao_preregistrada"]["sem_C2"][t]["veredito"]]
+        vs = [R["temas"][t]["pesos"][c]["veredito"] for c in cen] + [R["sensibilidade"]["sem_obras_C7"][t]["veredito"]]
         for j, v in enumerate(vs):
             ax.add_patch(plt.Rectangle((j, i), 0.95, 0.9, color=cores[v]))
             ax.text(j + 0.47, i + 0.45, v, ha="center", va="center", color="white" if v != "empate" else "black", fontsize=13)
@@ -232,11 +232,43 @@ def robustez():
     ax.set_xticks([j + 0.47 for j in range(5)]); ax.set_xticklabels(rot, fontsize=12)
     ax.set_yticks([i + 0.45 for i in range(len(temas))]); ax.set_yticklabels([R["temas"][t]["nome"] for t in temas])
     ax.spines[:].set_visible(False); ax.tick_params(length=0)
-    ax.set_title("O veredito muda com o peso?")
+    ax.set_title("O veredito muda com o peso? (rodada 2)")
     fig.tight_layout(rect=(0, 0.04, 1, 1))
     salvar(fig, "07_robustez.png", "resultados/RESUMO.json")
 
 
+def crimes():
+    ls = [l for l in R["c1_indicadores"] if l["tema"] == "seguranca"]
+    fig, ax = plt.subplots(figsize=(12, 6.75))
+    y = range(len(ls))
+    b = [l["bolsonaro_2019_2022"] for l in ls]; lv = [l["lula_2023_atual"] for l in ls]
+    ax.barh([i - 0.2 for i in y], b, height=0.38, color=COR["flavio"], label="Bolsonaro (2018 a 2022)")
+    ax.barh([i + 0.2 for i in y], lv, height=0.38, color=COR["lula"], label="Lula (2022 a 2025)")
+    ax.axvline(0, color="black", lw=0.8)
+    ax.set_yticks(list(y)); ax.set_yticklabels([l["indicador"].split(",")[0] for l in ls], fontsize=11)
+    ax.invert_yaxis(); ax.set_xlabel("Variação ao ano dos casos (%); à esquerda de zero, caiu")
+    ax.set_title("Segurança: 14 crimes do Anuário")
+    ax.legend(frameon=False, loc="upper right", fontsize=12)
+    fig.tight_layout(rect=(0, 0.04, 1, 1))
+    salvar(fig, "08_seguranca_14_crimes.png", "Anuário Brasileiro de Segurança Pública 2019, 2023 e 2026")
+
+
+def obras():
+    o = R["c7_obras"]["pct"]
+    fig, ax = novo()
+    xs = ["Diagnóstico\n2018", "ago/2022", "abr/2025", "abr/2026\n(carteira nova)"]
+    vs = [o["2018"], o["2022"], o["2025"], o["2026"]]
+    cores = [COR["base"], COR["flavio"], COR["lula"], "#CCCCCC"]
+    ax.bar(xs, vs, color=cores)
+    for i, v in enumerate(vs):
+        ax.text(i, v + 1, br(v) + "%", ha="center", fontweight="bold")
+    ax.set_ylim(0, 60); ax.set_ylabel("Obras federais paralisadas (% do total)")
+    ax.set_title("Obras federais paralisadas (TCU)")
+    fig.text(0.01, 0.055, "Em 2026 o TCU trocou a carteira (entraram e saíram milhares de obras); não se compara com 2025.", fontsize=12, color="#333333")
+    fig.tight_layout(rect=(0, 0.07, 1, 1))
+    salvar(fig, "09_obras_paralisadas.png", "TCU (diagnóstico de 2018 e Painel de Obras Paralisadas), Gazeta do Povo")
+
+
 if __name__ == "__main__":
-    notas_por_tema(); criterios(); mercado(); divida(); historicos(); stf(); robustez()
+    notas_por_tema(); criterios(); mercado(); divida(); historicos(); stf(); robustez(); crimes(); obras()
     print(sorted(p.name for p in FIG.glob("*.png")))

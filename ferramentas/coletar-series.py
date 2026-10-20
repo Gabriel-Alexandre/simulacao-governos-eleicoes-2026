@@ -43,11 +43,16 @@ FONTES: dict[str, str] = {
     "wb-pobreza-3dolares": WB.format(ind="SI.POV.DDAY"),
     "wb-subalimentacao": WB.format(ind="SN.ITK.DEFC.ZS"),
     "wb-pib-crescimento": WB.format(ind="NY.GDP.MKTP.KD.ZG"),
+    "wb-vacina-dtp3": WB.format(ind="SH.IMM.IDPT"),
+    "wb-mortalidade-materna": WB.format(ind="SH.STA.MMRT"),
+    "wb-desemprego-oit": WB.format(ind="SL.UEM.TOTL.ZS"),
+    "wb-pobreza-8dolares": WB.format(ind="SI.POV.UMIC"),
     "wb-wgi-controle-corrupcao": "https://api.worldbank.org/v2/country/BRA;LCN;WLD/indicator/GOV_WGI_CC.SC?source=3&format=json&date=1996:2026&per_page=500",
     # Banco Central (SGS)
     "bcb-divida-bruta": BCB.format(n=13762, ini="01/01/2006", fim="31/12/2026"),
     "bcb-ipca-mensal": BCB.format(n=433, ini="01/01/2002", fim="31/12/2026"),
     "bcb-desemprego-pnad": BCB.format(n=24369, ini="01/01/2012", fim="31/12/2026"),
+    "bcb-selic-meta": BCB.format(n=432, ini="01/12/2018", fim="19/10/2026"),
     "bcb-dolar-ptax": BCB.format(n=1, ini="01/07/2025", fim="20/10/2026"),
     # IBGE (SIDRA)
     "ibge-desocupacao": SIDRA.format(caminho="t/6381/n1/all/v/4099/p/all"),
