@@ -182,7 +182,7 @@ Na régua: os choques do mundo (pandemia, guerra) são descontados nos indicador
 
 **Segurança:** {seg_frase()}
 
-**Grandes obras com atraso** (casos, sem nota): a transposição do São Francisco começou em 2007, tinha conclusão prevista para 2012 e foi dada como concluída em fevereiro de 2022 (captura O08); a Transnordestina começou em 2006 e segue sem conclusão em 2026 (O10, O11); o segundo trem da refinaria Abreu e Lima parou em 2015 e foi retomado em 2025, com previsão para 2029 (O12). Painel do TCU: {br(c7['pct']['2018'])}% das obras paradas no diagnóstico de 2018, {br(c7['pct']['2022'])}% em ago/2022 e {br(c7['pct']['2025'])}% em abr/2025; em abr/2026 o painel mostra {br(c7['pct']['2026'])}%, mas o TCU trocou a carteira e avisa que não se compara com 2025 (O03).
+**Grandes obras com atraso** (casos, sem nota): a transposição do São Francisco começou em 2007, no governo Lula, tinha conclusão prevista para 2012, passou pelos governos Dilma e Temer, e os eixos Norte e Leste foram dados como concluídos em fevereiro de 2022, no governo Bolsonaro, com partes que já estavam 92,5% prontas desde anos anteriores (captura O08); a Transnordestina começou em 2006 e segue sem conclusão em 2026 (O10, O11); o segundo trem da refinaria Abreu e Lima parou em 2015, e a Petrobras decidiu retomar a obra em 2023, com operação prevista na época para 2027 (O12). Painel do TCU: {br(c7['pct']['2018'])}% das obras paradas no diagnóstico de 2018, {br(c7['pct']['2022'])}% em ago/2022 e {br(c7['pct']['2025'])}% em abr/2025; em abr/2026 o painel mostra {br(c7['pct']['2026'])}%, mas o TCU trocou a carteira e avisa que não se compara com 2025 (O03).
 
 ![Obras](resultados/figuras/09_obras_paralisadas.png)
 

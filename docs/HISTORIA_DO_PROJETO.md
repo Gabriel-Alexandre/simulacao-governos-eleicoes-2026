@@ -79,7 +79,7 @@ As 6 emendas foram escritas e publicadas às 11:02, antes de qualquer nota da ro
 | o feminicídio cresceu | **cresceu nos dois governos**: 4,48% ao ano no de Bolsonaro e 3,02% ao ano no atual | Anuário FBSP 2019, 2023 e 2026 |
 | (não citado) | **pioraram no período atual:** lesão corporal dolosa (+6,1% ao ano) e tentativa de homicídio (+1,6%) | idem |
 | as obras inacabadas | a fatia de obras federais paradas foi de 38,5% (ago/2022) para 50,7% (abr/2025) | painel do TCU |
-| a transposição do São Francisco | começou em 2007, tinha conclusão prevista para 2012 e foi dada como concluída em fevereiro de 2022 | captura O08 |
+| a transposição do São Francisco | começou em 2007, no governo Lula, tinha conclusão prevista para 2012, passou por Dilma e Temer, e os eixos Norte e Leste foram dados como concluídos em fevereiro de 2022, no governo Bolsonaro, com partes que já estavam 92,5% prontas desde anos anteriores | capturas O08 e O09 |
 
 ---
 
@@ -93,6 +93,7 @@ As 6 emendas foram escritas e publicadas às 11:02, antes de qualquer nota da ro
 | Páginas do Planalto saíam com acento quebrado | a IA | detecção da codificação da página |
 | As datas das moedas de fora no Yahoo vinham desalinhadas | a IA, no estudo de evento | o real pela PTAX do Banco Central e as outras moedas pela última cotação |
 | Na rodada 2, 0,3 menos 0,2 dava 0,0999 e virava empate no Ideb dos anos finais | a IA, conferindo a tabela antes de publicar | arredondamento na comparação; a educação foi de Flávio para empate |
+| O relatório dizia que o 2º trem da refinaria Abreu e Lima foi retomado em 2025 com previsão para 2029; a captura O12 diz que a Petrobras decidiu retomar em 2023, com operação prevista na época para 2027 | a IA, relendo as capturas para o roteiro do vídeo, depois da rodada 2 | frase corrigida no gerador do relatório; o caso não tinha nota |
 
 ---
 
